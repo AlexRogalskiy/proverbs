@@ -1,34 +1,11 @@
+import * as flexsearch from 'flexsearch'
 import FlexSearch from 'flexsearch'
 
-export const test = (): void => {
-    FlexSearch.create()
-}
+import { proverbs } from './proverbs'
 
-// import { readFileSync, writeFileSync } from 'fs'
-// import { join } from 'path'
-// import boxen from 'boxen'
-// import cron from 'node-cron'
-//
-// import { data } from './proverbs'
-//
-// import { CategoryPattern } from '../typings/types'
+import { CategoryPattern, ProverbData } from '../typings/types'
 // import { ensureDirExists, tempDir } from './commons'
-// import { profile } from './env'
-//
-// const task = cron.schedule('0 * * * *', () => {
-//     console.log(
-//         boxen('Running task every 60 minutes on index search', {
-//             padding: 1,
-//             margin: 1,
-//             borderStyle: 'single',
-//             borderColor: 'yellow',
-//         })
-//     )
-//
-//     storeIndex()
-// })
-//
-// task.start()
+import { profile } from './env'
 //
 // const filePath: string = join(tempDir, `${profile.indexOptions.path}`)
 //
@@ -94,21 +71,58 @@ export const test = (): void => {
 //         throw e
 //     }
 // }
-//
-// const createIndex = (): lunr.Index => {
-//     return lunr(function () {
-//         this.field('proverb')
-//         this.field('author')
-//
-//         for (const category of Object.values(CategoryPattern)) {
-//             for (const [index, value] of proverbs[category].entries()) {
-//                 value.id = `${category}${profile.indexOptions.delimiter}${index}`
-//                 this.add(value)
-//             }
-//         }
-//     })
-// }
-//
+
+export const createIndex = (): flexsearch.Index<ProverbData> => {
+    const searchIndex: flexsearch.Index<ProverbData> = FlexSearch.create({
+        tokenize: 'forward',
+        encode: 'icase',
+        async: true,
+        worker: false,
+        doc: {
+            id: 'id',
+            field: {
+                proverb: {
+                    encode: 'extra',
+                    tokenize: 'strict',
+                    threshold: 7,
+                },
+                description: {
+                    encode: false,
+                },
+            },
+        },
+    })
+
+    for (const category of Object.values(CategoryPattern)) {
+        for (const [index, value] of proverbs[category].entries()) {
+            value.id = `${category}${profile.indexOptions.delimiter}${index}`
+            searchIndex.add(value)
+        }
+    }
+
+    return searchIndex
+}
+
+export const searchTitleQuery = async (
+    index: flexsearch.Index<ProverbData>,
+    query: string,
+    options: flexsearch.SearchOptions
+): Promise<ProverbData[]> => {
+    return await index.search({
+        field: 'proverb',
+        query,
+        ...options,
+    })
+}
+
+export const searchQuery = async (
+    index: flexsearch.Index<ProverbData>,
+    query: string,
+    options?: number | flexsearch.SearchOptions
+): Promise<ProverbData[]> => {
+    return await index.search(query, options)
+}
+
 // export const idx = (): lunr.Index => {
 //     try {
 //         return restoreIndex()
