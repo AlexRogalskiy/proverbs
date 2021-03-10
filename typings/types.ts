@@ -91,14 +91,47 @@ export enum HeroPattern {
 export enum LanguagePattern {
     english = 'english',
     spanish = 'spanish',
+    danish = 'danish',
     russian = 'russian',
     arabic = 'arabic',
     french = 'french',
+    kenyan = 'kenyan',
+    latin = 'latin',
+    moorish = 'moorish',
+    swiss = 'swiss',
+    turkish = 'turkish',
+    ethiopian = 'ethiopian',
+    german = 'german',
+    afghan = 'afghan',
+    icelandic = 'icelandic',
+    italian = 'italian',
+    egyptian = 'egyptian',
+    armenian = 'armenian',
+    yiddish = 'yiddish',
+    thai = 'thai',
+    burmese = 'burmese',
+    greek = 'greek',
     african = 'african',
+    new_zelander = 'new-zelander',
+    cuban = 'cuban',
+    welsh = 'welsh',
+    zulu = 'zulu',
+    bantu = 'bantu',
+    jamaican = 'jamaican',
+    sudanese = 'sudanese',
+    moroccan = 'moroccan',
+    indian = 'indian',
+    chinese = 'chinese',
+    portuguese = 'portuguese',
     swedish = 'swedish',
     irish = 'irish',
     japanese = 'japanese',
     gaelic = 'gaelic',
+    bulgarian = 'bulgarian',
+    slovenian = 'slovenian',
+    luxembourgish = 'luxembourgish',
+    hungarian = 'hungarian',
+    macedonian = 'macedonian',
 }
 
 export type ProverbData = {
@@ -109,7 +142,7 @@ export type ProverbData = {
     /**
      * Proverb text
      */
-    proverb: string
+    text: string
     /**
      * Proverb category
      */

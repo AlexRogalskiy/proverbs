@@ -1,758 +1,1933 @@
 {
     "english": [
         {
-            "proverb": "A bad workman always blames his tools.",
+            "proverb": "\"Beauty lies in the eye of the beholder.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A goose quill is more dangerous than a lion’s claw.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"What will be, will be.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"If you don’t have anything nice to say, don’t say anything at all.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Many hands make light work.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Well begun is half done.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"It is ill prizing of green barley.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Let every man praise the bridge he goes over.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t judge a man until you have walked a mile in his shoes.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A full cup must be carried steadily.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"There’s no place like home.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Strike while the iron is hot.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Absence is a shrew.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A ragged colt may make a good horse.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Make not your sail too big for your ballast.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Death always comes too early or too late.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"He laughs best who laughs last.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"An ounce of prevention is worth a pound of cure.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Big thunder, little rain.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Anger is often more hurtful than the injury that caused it.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A proverb is the child of experience.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Confession is the first step to repentance.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Learning makes a man fit company for himself as well as for others.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t look a gift horse in the mouth.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"If wishes were horses, beggars would ride.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Conscience cannot be compelled.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"It is better to begin in the evening than not at all.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"God gives the milk but not the pail.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A fool may ask more questions in an hour than a wise man can answer in seven years.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Never put off to tomorrow what you can do today.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"For whom does the blind man’s wife paint herself?\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"You can’t teach an old dog new tricks.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A cold April the barn will fill.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Better late than never.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Crooked logs make straight fires.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Cats hide their claws.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t count your chickens before they hatch.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"He who killed the lion when absent feared a mouse when present.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"It is an equal failing to trust everybody, and to trust nobody.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"He that will steal an egg will steal an ox.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Time heals all wounds.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"All work and no play makes Jack a dull boy.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Rome wasn’t built in a day.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A black plum is as sweet as a white.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Power corrupts, and absolute power corrupts absolutely.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"If at first you don’t succeed, try, try again.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"All for one and one for all.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"The grass is always greener on the other side.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Knowledge is power.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"The bigger they are the harder they fall.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"He that would the daughter win must with the mother first begin.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Beware of a man of one book.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Advice is least heeded when most needed.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Custom is the guide of the ignorant.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Gray hairs are death’s blossoms.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"He that bulls the cow must keep the calf.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A shady lane breeds mud.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t halt before you are lame.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"An hour may destroy what an age was building.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Lightning never strikes twice in the same place.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"The leopard cannot change its spots.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"All clever men are birds of prey.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Ale in, wit out.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Foul water will quench fire.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"It’s money that begets money.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"First deserve, and then desire.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A quiet conscience sleeps in thunder.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A friend to all is a friend to none.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A fair booty makes a fair thief.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"You reap what you sow.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Children suck the mother when they are young and the father when they are old.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"There’s no such thing as bad publicity.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Laugh, and the world laughs with you; weep, and you weep alone.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"As you make your bed, so you must lie in it.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Misery loves company.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Once bitten, twice shy.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Age and wedlock tame man and beast.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"The road to hell is paved with good intentions.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Blest is the bride the sun shines on.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t judge a book by its cover.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"April showers bring May flowers.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"An idle brain is the devil’s workshop.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A stumble may prevent a fall.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"There’s more than one way to skin a cat.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Still waters run deep.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"What’s good for the goose is good for the gander.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"It is folly to sing twice to a deaf man.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Age and wedlock bring a man to his nightcap.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"The devil dances in empty pockets.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Adversity flatters no man.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t throw out the baby with the bath water.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Be not deceived with the first appearance of things, for show is not substance.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"He is a fool that kissed the maid when he may kiss the mistress.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Everyone must row with the oars he has.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Cheat me in the price, but not in the goods.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"What goes around comes around.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"The proof of the pudding is in the eating.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A degenerate nobleman is like a turnip. There is nothing good of him but that which is underground.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Do unto others as you would have them do unto you.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Live and let live.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"All is fair in love and war.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t drown the man who taught you to swim.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Envy shoots at others and wounds itself.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"It’s never too late to mend.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A rolling stone gathers no moss.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Friends are like fiddle strings; they must not be screwed too tight.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Character is easier kept than recovered.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Do not fall before you are pushed.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Beware of Greeks bearing gifts.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t lock the stable door after the horse is stolen.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"When it rains, it pours.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t do all you can, spend all you have, believe all you hear, or tell all you know.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"You can’t have your cake and eat it too.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Slow and steady wins the race.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Give a man a fish, he eats for a day. Teach a man how to fish, he eats for a lifetime.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Innocent actions carry their warrant with them.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Half a loaf is better than none.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"All temptations are found in either hope or fear.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"All are not merry that dance lightly.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"The apple doesn’t fall far from the tree.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A hungry man is an angry man.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t fall before you’re pushed.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Great minds think alike.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"You get what you pay for.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Look before you leap.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A place for everything and everything in its place.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Hindsight is 20/20\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Few are fit to be entrusted with themselves.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"The show must go on.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A little bit of knowledge is a dangerous thing.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Much ado and little help.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A blind man will not thank you for a looking-glass.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Time is money.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A guilty conscience needs no accuser.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Two is company, three is a crowd.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"You have to break a few eggs to make an omelet.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Accusing the times is but excusing ourselves.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"An apple never falls far from the tree.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Fools build houses, and wise men buy them.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"You can catch more flies with honey than with vinegar.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"The best laid plans of mice and men often go awry.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"In the morning be first up, and in the evening last to go to bed, for they that sleep catch no fish.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A burnt child dreads the fire.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Beauty is only skin deep.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Many a true word is spoken in jest.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"All are not thieves that dogs bark at.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Two wrongs don’t make a right.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Whom we love best, to them we can say least.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"In times of prosperity friends will be plenty, in times of adversity not one in twenty.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A good beginning makes a good ending.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Alms never make poor.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Death is a shadow that always follows the body.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t cry over spilt milk.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Appearances can be deceiving.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"One picture is worth a thousand words.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Silence is golden.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Keep counsel of thyself first.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"If you snooze, you lose.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Ask God for what man can give, and you may get it.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"You can lead a horse to water, but you can’t make him drink.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Lie down with dogs, wake up with fleas.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"The best way to a man’s heart is through his stomach.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Good words cool more than cold water.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A poor beauty finds more lovers than husbands.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"If it’s not one thing it’s another.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Jack of all trades, master of none.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Each cross has its own inscription.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"He that hath no children doth bring them up well.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Death keeps no calendar.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"He who pays the piper may call the tune.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A small family is soon provided for.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"An empty barrel makes the most noise.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A smooth sea never made a skillful mariner.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"When in Rome, do as the Romans do.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"He that seeks trouble never misses.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Little strokes fell great oaks.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"If wishes were horses then beggars would ride.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A puff of wind and popular praise weigh the same.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A joy that’s shared is a joy made double.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Education begins a gentleman, conversation completes him.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"An enterprising fool needs little wit.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"If you want a thing done, go. If not, send. The shortest answer is doing.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A man’s first care should be to avoid the reproaches of his own heart, his next to escape the censures of the world.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A maid who laughs is half taken.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Far fowls have fair feathers.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Better a snotty child than his nose wiped off.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Actions speak louder than words.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Spread the table and contention will cease.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Necessity is the mother of invention.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Let him make use of instinct who cannot make use of reason.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Money is the root of all evil.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Measure twice, cut once.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"It’s not over ’till the fat lady sings.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t talk the talk if you can’t walk the walk.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"One rotten apple spoils the whole barrel.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Better safe than sorry.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"It takes all sorts to make a world.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A young man idle, an old man needy.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"It’s no use crying over spilled milk.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t put the cart before the horse.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"What goes up must come down.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Absence sharpens love; presence strengthens it.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"An abundance of money ruins youth.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A journey of a thousand miles begins with a single step.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A black hen lays a white egg.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"If you’re not part of the solution, you’re part of the problem.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"If at first you don’t succeed, try again.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Don’t dig your grave with your own knife and fork.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"If you want to be happy for a year, plant a garden; if you want to be happy for life, plant a tree.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A friend in need is a friend indeed.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Do not triumph before the victory.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Do not be in a hurry to tie what you cannot untie.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Never fall out with your bread and butter.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A hero is a man who is afraid to run away.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A dog is a man’s best friend.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Early to bed and early to rise makes a man healthy, wealthy and wise.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Absence makes the heart grow fonder.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A lie has short legs.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Haste makes waste.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Make not the sauce till you have caught the fish.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Chains of gold are stronger than chains of iron.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Choose a wife rather by your ear than by your eye.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Make yourself all honey and the flies will devour you.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A broken clock is right twice a day.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Love your neighbor, yet pull not down your hedge.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Leave a great talker in the middle of the street.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"He that does amiss may do well.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"He that’s a wise man by day is no fool by night.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Every cloud has a silver lining.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"You have to take the good with the bad.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"It is ill fishing before the net.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Dead news, like dead love, has no phoenix in its ashes.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Better the devil you know than the one you don’t.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Give neither advice nor salt, until you are asked for it.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"Hope for the best, but prepare for the worst.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "proverb": "\"A bad workman always blames his tools.\"",
             "category": "english",
             "description": "This proverb is used when someone blames the quality of their equipment or other external factors when they perform a task poorly."
         },
         {
             "category": "english",
-            "proverb": "A bird in hand is worth two in the bush.",
+            "proverb": "\"A bird in hand is worth two in the bush.\"",
             "description": "Things we already have are more valuable than what we hope to get."
         },
         {
             "category": "english",
-            "proverb": "Absence makes the heart grow fonder.",
+            "proverb": "\"Absence makes the heart grow fonder.\"",
             "description": "When people we love are not with us, we love them even more."
         },
         {
             "category": "english",
-            "proverb": "A cat has nine lives.",
+            "proverb": "\"A cat has nine lives.\"",
             "description": "Cat can survive seemingly fatal events."
         },
         {
             "category": "english",
-            "proverb": "A chain is only as strong as its weakest link.",
+            "proverb": "\"A chain is only as strong as its weakest link.\"",
             "description": "One weak part will render the whole weak."
         },
         {
             "category": "english",
-            "proverb": "Actions speak louder than words.",
+            "proverb": "\"Actions speak louder than words.\"",
             "description": "Actions are a better reflection of one’s character because it’s easy to say things, but difficult to act on them and follow through."
         },
         {
             "category": "english",
-            "proverb": "A drowning man will clutch at a straw.",
+            "proverb": "\"A drowning man will clutch at a straw.\"",
             "description": "When someone is in a difficult situation, s/he will take any available opportunity to improve it."
         },
         {
             "category": "english",
-            "proverb": "Adversity and loss make a man wise.",
+            "proverb": "\"Adversity and loss make a man wise.\"",
             "description": "We gain wisdom faster in difficult times than in prosperous times."
         },
         {
             "category": "english",
-            "proverb": "A fool and his money are soon parted.",
+            "proverb": "\"A fool and his money are soon parted.\"",
             "description": "Foolish people do not know how to hold on to their money."
         },
         {
             "category": "english",
-            "proverb": "A journey of thousand miles begins with a single step.",
+            "proverb": "\"A journey of thousand miles begins with a single step.\"",
             "description": "Howsoever big a task is, it starts with a small step."
         },
         {
             "category": "english",
-            "proverb": "A leopard can’t/ doesn’t change its spots.",
+            "proverb": "\"A leopard can’t/ doesn’t change its spots.\"",
             "description": "A person can’t change its innate character, especially bad."
         },
         {
             "category": "english",
-            "proverb": "All good things come to an end.",
+            "proverb": "\"All good things come to an end.\"",
             "description": "Good experiences eventually come to an end."
         },
         {
             "category": "english",
-            "proverb": "All’s well that ends well.",
+            "proverb": "\"All’s well that ends well.\"",
             "description": "As long as the outcome is good, problems on the way don’t matter."
         },
         {
             "category": "english",
-            "proverb": "All that glitters is not gold.",
+            "proverb": "\"All that glitters is not gold.\"",
             "description": "Things that look good outwardly may not be as valuable or good."
         },
         {
             "category": "english",
-            "proverb": "All’s fair in love and war.",
+            "proverb": "\"All’s fair in love and war.\"",
             "description": "One can break the rules of fair play under extenuating circumstances."
         },
         {
             "category": "english",
-            "proverb": "Always put your best foot forward.",
+            "proverb": "\"Always put your best foot forward.\"",
             "description": "Try as hard as you can or give your best."
         },
         {
             "category": "english",
-            "proverb": "Among the blind the one-eyed man is king.",
+            "proverb": "\"Among the blind the one-eyed man is king.\"",
             "description": "An incapable person can gain powerful position if others in the fray are even more incapable."
         },
         {
             "category": "english",
-            "proverb": "An apple a day keeps the doctor away.",
+            "proverb": "\"An apple a day keeps the doctor away.\"",
             "description": "Eating an apple a day will keep you healthy."
         },
         {
             "category": "english",
-            "proverb": "An empty vessel makes much noise.",
+            "proverb": "\"An empty vessel makes much noise.\"",
             "description": "Foolish or stupid people are the most talkative."
         },
         {
             "category": "english",
-            "proverb": "An idle brain is the devil’s workshop.",
+            "proverb": "\"An idle brain is the devil’s workshop.\"",
             "description": "If you’ve nothing to do, you’ll likely think of mischief."
         },
         {
             "category": "english",
-            "proverb": "An ounce of protection is worth a pound of cure.",
+            "proverb": "\"An ounce of protection is worth a pound of cure.\"",
             "description": "A little precaution before a crisis hits is better than lot of firefighting afterwards."
         },
         {
             "category": "english",
-            "proverb": "A picture is worth a thousand words.",
+            "proverb": "\"A picture is worth a thousand words.\"",
             "description": "It is easier to show or explain something through a picture than through words."
         },
         {
             "category": "english",
-            "proverb": "Appearances can be deceptive.",
+            "proverb": "\"Appearances can be deceptive.\"",
             "description": "Outward appearance may not be what you believe them to be."
         },
         {
             "category": "english",
-            "proverb": "A rolling stone gathers no moss.",
+            "proverb": "\"A rolling stone gathers no moss.\"",
             "description": "A person who is always changing jobs and places has the advantage of less responsibilities, but also the disadvantage of no fixed place to live."
         },
         {
             "category": "english",
-            "proverb": "A ship in the harbor is safe, but that is not what a ship is for.",
+            "proverb": "\"A ship in the harbor is safe, but that is not what a ship is for.\"",
             "description": "Get out of your comfort zone to grow and fulfill your potential."
         },
         {
             "category": "english",
-            "proverb": "A stitch in time saves nine.",
+            "proverb": "\"A stitch in time saves nine.\"",
             "description": "It’s better to deal with problems immediately rather than wait by when they worsen and become much bigger."
         },
         {
             "category": "english",
-            "proverb": "As you sow, so you shall reap.",
+            "proverb": "\"As you sow, so you shall reap.\"",
             "description": "Your actions – good or bad – determine what you get."
         },
         {
             "category": "english",
-            "proverb": "A thing begun is half done.",
+            "proverb": "\"A thing begun is half done.\"",
             "description": "A good beginning makes it easier to accomplish the rest of the project."
         },
         {
             "category": "english",
-            "proverb": "Barking dogs seldom bite.",
+            "proverb": "\"Barking dogs seldom bite.\"",
             "description": "People who appear threatening rarely do harm."
         },
         {
             "category": "english",
-            "proverb": "Be slow in choosing, but slower in changing.",
+            "proverb": "\"Be slow in choosing, but slower in changing.\"",
             "description": "Choose things or people after proper diligence, but once you choose, stick for long."
         },
         {
             "category": "english",
-            "proverb": "Beauty is in the eye of the beholder.",
+            "proverb": "\"Beauty is in the eye of the beholder.\"",
             "description": "What may seem beautiful to one person may not seem to another."
         },
         {
             "category": "english",
-            "proverb": "Beauty is only skin deep.",
+            "proverb": "\"Beauty is only skin deep.\"",
             "description": "A person’s character, intellect, and other inner qualities are more important than his/ her physical beauty."
         },
         {
             "category": "english",
-            "proverb": "Beggars can’t be choosers.",
+            "proverb": "\"Beggars can’t be choosers.\"",
             "description": "People who depend on the generosity of others can’t pick & choose things as per their liking. They’ve to accept what is given to them."
         },
         {
             "category": "english",
-            "proverb": "Best things in life are free.",
+            "proverb": "\"Best things in life are free.\"",
             "description": "The most valuable things are often free."
         },
         {
             "category": "english",
-            "proverb": "Better late than never.",
+            "proverb": "\"Better late than never.\"",
             "description": "It is better to get something (you desire) late than get it never."
         },
         {
             "category": "english",
-            "proverb": "A cat in gloves catches no mice.",
+            "proverb": "\"A cat in gloves catches no mice.\"",
             "description": ""
         },
         {
             "category": "english",
-            "proverb": "Better to be poor and healthy rather than rich and sick.",
+            "proverb": "\"Better to be poor and healthy rather than rich and sick.\"",
             "description": "Good health is more important than money."
         },
         {
             "category": "english",
-            "proverb": "Better to wear out than to rust out.",
+            "proverb": "\"Better to wear out than to rust out.\"",
             "description": "It is better to remain active than to be idle (used mainly for old people)"
         },
         {
             "category": "english",
-            "proverb": "Blood is thicker than water.",
+            "proverb": "\"Blood is thicker than water.\"",
             "description": "Relationships with family (or blood relatives) is stronger than other relationships."
         },
         {
             "category": "english",
-            "proverb": "Cleanliness is next to Godliness.",
+            "proverb": "\"Cleanliness is next to Godliness.\"",
             "description": "Cleanliness is a sign of goodness, a great virtue."
         },
         {
             "category": "english",
-            "proverb": "Clothes do not make the man.",
+            "proverb": "\"Clothes do not make the man.\"",
             "description": "A person’s character can’t be judged by his/ her clothing and outward appearance."
         },
         {
             "category": "english",
-            "proverb": "Cowards die many times before their deaths.",
+            "proverb": "\"Cowards die many times before their deaths.\"",
             "description": "Cowards suffer the feared effects of death many times over in their lives."
         },
         {
             "category": "english",
-            "proverb": "Cross the stream where it is shallowest.",
+            "proverb": "\"Cross the stream where it is shallowest.\"",
             "description": "To do things in the easiest possible way."
         },
         {
             "category": "english",
-            "proverb": "Curiosity killed the cat.",
+            "proverb": "\"Curiosity killed the cat.\"",
             "description": "Enquiring into others’ work can be dangerous. One should mind own business."
         },
         {
             "category": "english",
-            "proverb": "East or West, home is best.",
+            "proverb": "\"East or West, home is best.\"",
             "description": ""
         },
         {
             "category": "english",
-            "proverb": "Curses, like chickens, come home to roost.",
+            "proverb": "\"Curses, like chickens, come home to roost.\"",
             "description": "The consequences of doing wrong always catch up with the wrongdoer."
         },
         {
             "category": "english",
-            "proverb": "Discretion is the better part of valor.",
+            "proverb": "\"Discretion is the better part of valor.\"",
             "description": "It is wise to be careful and not show unnecessary bravery."
         },
         {
             "category": "english",
-            "proverb": "Don’t bite off more than you can chew.",
+            "proverb": "\"Don’t bite off more than you can chew.\"",
             "description": "Don’t take more responsibility than you can handle."
         },
         {
             "category": "english",
-            "proverb": "Don’t bite the hand that feeds you.",
+            "proverb": "\"Don’t bite the hand that feeds you.\"",
             "description": "Don’t act badly toward the person who has helped you or from whom you derive some benefits, for you may lose those benefits in future."
         },
         {
             "category": "english",
-            "proverb": "Don’t blow your own trumpet.",
+            "proverb": "\"Don’t blow your own trumpet.\"",
             "description": "You should avoid proudly talking of your achievements and success in front of others."
         },
         {
             "category": "english",
-            "proverb": "Don’t cast pearls before swine.",
+            "proverb": "\"Don’t cast pearls before swine.\"",
             "description": "Don’t offer something valuable to someone who doesn’t value it."
         },
         {
             "category": "english",
-            "proverb": "Don’t count your chickens before they hatch.",
+            "proverb": "\"Don’t count your chickens before they hatch.\"",
             "description": "Don’t make plans based on future events that may not happen at all."
         },
         {
             "category": "english",
-            "proverb": "Don’t cross a bridge until you come to it.",
+            "proverb": "\"Don’t cross a bridge until you come to it.\"",
             "description": "Deal with a situation when it happens and not unnecessarily worry about it in advance."
         },
         {
             "category": "english",
-            "proverb": "Don’t judge a book by its cover.",
+            "proverb": "\"Don’t judge a book by its cover.\"",
             "description": "Just like you can’t form an opinion of a book just by looking at its cover, you can’t form an opinion about someone (or something) from their outward appearance."
         },
         {
             "category": "english",
-            "proverb": "Don’t kill the goose that lays the golden eggs.",
+            "proverb": "\"Don’t kill the goose that lays the golden eggs.\"",
             "description": "If you kill a goose that lays golden eggs, you destroy something that makes lot of money for you."
         },
         {
             "category": "english",
-            "proverb": "Don’t put all your eggs in one basket.",
+            "proverb": "\"Don’t put all your eggs in one basket.\"",
             "description": "Don’t put all your effort into a single course of action, venture, investment, goal, or the like, because if it doesn’t work, you lose everything."
         },
         {
             "category": "english",
-            "proverb": "Don’t put the cart before the horse.",
+            "proverb": "\"Don’t put the cart before the horse.\"",
             "description": "Do things in proper order. ‘Horse before the cart’ is the proper order, and not ‘cart before the horse’."
         },
         {
             "category": "english",
-            "proverb": "Don’t throw the baby with the bathwater.",
+            "proverb": "\"Don’t throw the baby with the bathwater.\"",
             "description": "Don’t discard something valuable while getting rid of something worthless."
         },
         {
             "category": "english",
-            "proverb": "Early bird catches the worm.",
+            "proverb": "\"Early bird catches the worm.\"",
             "description": "One who starts early on the work has higher chance of success."
         },
         {
             "category": "english",
-            "proverb": "Easy come, easy go.",
+            "proverb": "\"Easy come, easy go.\"",
             "description": "You say this when you get something easily and then lose it as easily."
         },
         {
             "category": "english",
-            "proverb": "Empty bags cannot stand upright.",
+            "proverb": "\"Empty bags cannot stand upright.\"",
             "description": "A poor or hungry person cannot discharge his duties well."
         },
         {
             "category": "english",
-            "proverb": "Every dog has his day.",
+            "proverb": "\"Every dog has his day.\"",
             "description": "Even the unluckiest or the most unfortunate will taste success at some point."
         },
         {
             "category": "english",
-            "proverb": "Every man is the architect of his destiny.",
+            "proverb": "\"Every man is the architect of his destiny.\"",
             "description": "Your own actions and decisions decide what you achieve (or don’t) in life."
         },
         {
             "category": "english",
-            "proverb": "Every man has his price.",
+            "proverb": "\"Every man has his price.\"",
             "description": "Anyone can be swayed to do something. It’s just that some may demand high price, some low. This proverb is also used in the sense of bribing people."
         },
         {
             "category": "english",
-            "proverb": "Fall seven times. Stand up eight.",
+            "proverb": "\"Fall seven times. Stand up eight.\"",
             "description": "Be resilient and try despite failures. That’s how you succeed."
         },
         {
             "category": "english",
-            "proverb": "Familiarity breeds contempt.",
+            "proverb": "\"Familiarity breeds contempt.\"",
             "description": "If you know a situation, person, or thing well, you stop respecting them and become careless."
         },
         {
             "category": "english",
-            "proverb": "Fools rush in where angels fear to tread.",
+            "proverb": "\"Fools rush in where angels fear to tread.\"",
             "description": "Fools or inexperienced persons get involved in situations or pursue goals without much thought. In contrast, wise are thoughtful about such situations or goals."
         },
         {
             "category": "english",
-            "proverb": "Fortune favors the brave.",
+            "proverb": "\"Fortune favors the brave.\"",
             "description": "If you carry out your plans boldly, the luck is more likely to favor you."
         },
         {
             "category": "english",
-            "proverb": "Get out while the going (getting) is good.",
+            "proverb": "\"Get out while the going (getting) is good.\"",
             "description": "To leave a place or situation before conditions worsen and it becomes difficult to leave."
         },
         {
             "category": "english",
-            "proverb": "Give them an inch and they’ll take a mile.",
+            "proverb": "\"Give them an inch and they’ll take a mile.\"",
             "description": "If you give someone a small amount of power or freedom to do something, they may try to get a lot more."
         },
         {
             "category": "english",
-            "proverb": "God helps those who help themselves.",
+            "proverb": "\"God helps those who help themselves.\"",
             "description": "God doesn’t help those who don’t try. You’ve to make effort if you want to succeed."
         },
         {
             "category": "english",
-            "proverb": "Good things come to those who wait.",
+            "proverb": "\"Good things come to those who wait.\"",
             "description": "Patience is often rewarded."
         },
         {
             "category": "english",
-            "proverb": "Grief divided is made lighter.",
+            "proverb": "\"Grief divided is made lighter.\"",
             "description": "If you share your grief, it’ll get easier to bear."
         },
         {
             "category": "english",
-            "proverb": "Half a loaf is better than none.",
+            "proverb": "\"Half a loaf is better than none.\"",
             "description": "Getting less than what one wants is better than not getting anything."
         },
         {
             "category": "english",
-            "proverb": "Honesty is the best policy.",
+            "proverb": "\"Honesty is the best policy.\"",
             "description": "It’s always better to be truthful and honest, even if the opposite may get you the benefits."
         },
         {
             "category": "english",
-            "proverb": "Hope for the best, prepare for the worst.",
+            "proverb": "\"Hope for the best, prepare for the worst.\"",
             "description": "Be optimistic, but be prepared for a scenario where things can go wrong."
         },
         {
             "category": "english",
-            "proverb": "If it ain’t broke, don’t fix it.",
+            "proverb": "\"If it ain’t broke, don’t fix it.\"",
             "description": "If something is working fine, don’t change it unnecessarily."
         },
         {
             "category": "english",
-            "proverb": "If the mountain won’t come to Muhammad, Muhammad must go to the mountain.",
+            "proverb": "\"If the mountain won’t come to Muhammad, Muhammad must go to the mountain.\"",
             "description": "If things don’t turn the way you want them to, then adjust your way to suit those things."
         },
         {
             "category": "english",
-            "proverb": "If wishes were horses, beggars would ride.",
+            "proverb": "\"If wishes were horses, beggars would ride.\"",
             "description": "If things were to happen by just wishing them, even the poorest will have everything they want."
         },
         {
             "category": "english",
-            "proverb": "If you can’t beat them, join them.",
+            "proverb": "\"If you can’t beat them, join them.\"",
             "description": "If you can’t beat your opponent, then work alongside them for mutual benefit."
         },
         {
             "category": "english",
-            "proverb": "If you play with fire, you’ll get burned.",
+            "proverb": "\"If you play with fire, you’ll get burned.\"",
             "description": "If you do something dangerous or adventurous, you may get harmed."
         },
         {
             "category": "english",
-            "proverb": "Ignorance is bliss.",
+            "proverb": "\"Ignorance is bliss.\"",
             "description": "If you don’t know about something, you don’t need to bother about it. In other words, if you’re unaware of something, it won’t cause you stress. This proverb, however, is often used in negative way – ignorance is not bliss."
         },
         {
             "category": "english",
-            "proverb": "It’s better to be safe than sorry.",
+            "proverb": "\"It’s better to be safe than sorry.\"",
             "description": "It’s better to be cautious than regret later."
         },
         {
             "category": "english",
-            "proverb": "It’s easy to be wise after the event.",
+            "proverb": "\"It’s easy to be wise after the event.\"",
             "description": "It is easy to understand what you could have done to prevent something bad from happening after it has happened."
         },
         {
             "category": "english",
-            "proverb": "It’s never too late to mend.",
+            "proverb": "\"It’s never too late to mend.\"",
             "description": "It’s never too late to change your wrong ways or habits."
         },
         {
             "category": "english",
-            "proverb": "It’s not over till it’s over.",
+            "proverb": "\"It’s not over till it’s over.\"",
             "description": "Till the event has completely played, you’re still in with a chance to succeed."
         },
         {
             "category": "english",
-            "proverb": "It’s no use crying over spilt milk.",
+            "proverb": "\"It’s no use crying over spilt milk.\"",
             "description": "There is no point in staying upset over a mistake because you can’t undo what has happened."
         },
         {
             "category": "english",
-            "proverb": "It takes two to make a quarrel.",
+            "proverb": "\"It takes two to make a quarrel.\"",
             "description": "An argument of quarrel is not one person’s fault."
         },
         {
             "category": "english",
-            "proverb": "It takes two to tango.",
+            "proverb": "\"It takes two to tango.\"",
             "description": "Where two parties are involved in a situation, fault usually lies with both if things go wrong. Rarely can one party be blamed entirely."
         },
         {
             "category": "english",
-            "proverb": "Keep your mouth shut and your eyes open.",
+            "proverb": "\"Keep your mouth shut and your eyes open.\"",
             "description": "Speak only when necessary and remain alert and observant at all times."
         },
         {
             "category": "english",
-            "proverb": "Laughter is the best medicine.",
+            "proverb": "\"Laughter is the best medicine.\"",
             "description": "Thinking positively and laughing will help you to feel better."
         },
         {
             "category": "english",
-            "proverb": "Learn to walk before you run.",
+            "proverb": "\"Learn to walk before you run.\"",
             "description": "Learn basic skills first before venturing into complex things."
         },
         {
             "category": "english",
-            "proverb": "Let sleeping dogs lie.",
+            "proverb": "\"Let sleeping dogs lie.\"",
             "description": "Don’t talk about a bad situation people have forgotten and that could unnecessarily create problem in the present."
         },
         {
             "category": "english",
-            "proverb": "Life begins at forty.",
+            "proverb": "\"Life begins at forty.\"",
             "description": "A person truly starts enjoying life after forty as a result of accumulated skills and wisdom."
         },
         {
             "category": "english",
-            "proverb": "Lightning never strikes twice in the same place.",
+            "proverb": "\"Lightning never strikes twice in the same place.\"",
             "description": "Misfortune does not occur twice in the same way to the same person."
         },
         {
             "category": "english",
-            "proverb": "Look before you leap.",
+            "proverb": "\"Look before you leap.\"",
             "description": "Consider all consequences before taking an action, especially when you can’t retract."
         },
         {
             "category": "english",
-            "proverb": "Make hay while the sun shines.",
+            "proverb": "\"Make hay while the sun shines.\"",
             "description": "Make the most of favorable conditions till they last."
         },
         {
             "category": "english",
-            "proverb": "Money doesn’t grow on trees.",
+            "proverb": "\"Money doesn’t grow on trees.\"",
             "description": "Spend money carefully because it’s limited. You can’t grow it on trees and replenish."
         },
         {
             "category": "english",
-            "proverb": "Money talks.",
+            "proverb": "\"Money talks.\"",
             "description": "Money gives one power and influence."
         },
         {
             "category": "english",
-            "proverb": "Necessity is the mother of invention.",
+            "proverb": "\"Necessity is the mother of invention.\"",
             "description": "A need or problem forces people to come up with innovative solutions."
         },
         {
             "category": "english",
-            "proverb": "Never put off until tomorrow what you can do today.",
+            "proverb": "\"Never put off until tomorrow what you can do today.\"",
             "description": "Don’t delay doing something if you can do it immediately."
         },
         {
             "category": "english",
-            "proverb": "Never test the depth of water with both feet.",
+            "proverb": "\"Never test the depth of water with both feet.\"",
             "description": "If you’re in water with both feet down, you risk being swept away by the currents. The message is: don’t put all your eggs in the same basket. Think twice before placing all your bets and investments on one thing."
         },
         {
             "category": "english",
-            "proverb": "No gain without pain.",
+            "proverb": "\"No gain without pain.\"",
             "description": "It is necessary to suffer or work hard in order to succeed or make progress."
         },
         {
             "category": "english",
-            "proverb": "No news is good news.",
+            "proverb": "\"No news is good news.\"",
             "description": "If you don’t receive any news about someone or something, it means that everything is fine and going normally."
         },
         {
             "category": "english",
-            "proverb": "Once bitten twice shy.",
+            "proverb": "\"Once bitten twice shy.\"",
             "description": "You say this proverb when someone won’t do something a second time because they had bad experience the first time."
         },
         {
             "category": "english",
-            "proverb": "One man’s junk is another man’s treasure.",
+            "proverb": "\"One man’s junk is another man’s treasure.\"",
             "description": "What may seem to be junk to one person maybe valuable to another."
         },
         {
             "category": "english",
-            "proverb": "One shouldn’t miss forest for the trees.",
+            "proverb": "\"One shouldn’t miss forest for the trees.\"",
             "description": "Sometimes you get so focused on small details that you may miss the larger context."
         },
         {
             "category": "english",
-            "proverb": "Out of sight, out of mind.",
+            "proverb": "\"Out of sight, out of mind.\"",
             "description": "If someone or something is not seen for a long time, it’ll be forgotten."
         },
         {
             "category": "english",
-            "proverb": "Pen is mightier than sword.",
+            "proverb": "\"Pen is mightier than sword.\"",
             "description": "Thinking and writing have more influence on people and events than use of force."
         },
         {
             "category": "english",
-            "proverb": "People who live in glass houses shouldn’t throw stones at others.",
+            "proverb": "\"People who live in glass houses shouldn’t throw stones at others.\"",
             "description": "People who have faults should not criticize other people for having the same faults."
         },
         {
             "category": "english",
-            "proverb": "Persuasion is better than force.",
+            "proverb": "\"Persuasion is better than force.\"",
             "description": "You can achieve better results through persuasion than through coercion."
         },
         {
             "category": "english",
-            "proverb": "Practice makes perfect.",
+            "proverb": "\"Practice makes perfect.\"",
             "description": "Doing something over and over makes one better at it."
         },
         {
             "category": "english",
-            "proverb": "Practice what you preach.",
+            "proverb": "\"Practice what you preach.\"",
             "description": "Behave the way you encourage other people to behave."
         },
         {
             "category": "english",
-            "proverb": "Rome wasn’t built in a day.",
+            "proverb": "\"Rome wasn’t built in a day.\"",
             "description": "Important work takes time to complete."
         },
         {
             "category": "english",
-            "proverb": "Silence is half consent.",
+            "proverb": "\"Silence is half consent.\"",
             "description": "If you don’t object to what someone says or does, you may be assumed to agree to some extent."
         },
         {
             "category": "english",
-            "proverb": "Still waters run deep.",
+            "proverb": "\"Still waters run deep.\"",
             "description": "If a person doesn’t speak much, it doesn’t mean they lack depth or are uninteresting."
         },
         {
             "category": "english",
-            "proverb": "Strike while the iron is hot.",
+            "proverb": "\"Strike while the iron is hot.\"",
             "description": "Take advantage of an opportunity as soon as it comes along."
         },
         {
             "category": "english",
-            "proverb": "The best-laid plans go astray.",
+            "proverb": "\"The best-laid plans go astray.\"",
             "description": "Despite best preparations, things may not go your way."
         },
         {
             "category": "english",
-            "proverb": "The end justifies the means.",
+            "proverb": "\"The end justifies the means.\"",
             "description": "A desired result is so important that any method, even a morally bad one, may be used to achieve it."
         },
         {
             "category": "english",
-            "proverb": "The harder you work, the luckier you get.",
+            "proverb": "\"The harder you work, the luckier you get.\"",
             "description": "The harder you work, the more good ideas and chances you may make for yourself."
         },
         {
             "category": "english",
-            "proverb": "The grass is greener on the other side of the fence.",
+            "proverb": "\"The grass is greener on the other side of the fence.\"",
             "description": "People are never satisfied with their own situation; they always think others have it better."
         },
         {
             "category": "english",
-            "proverb": "The proof of the pudding is in the eating.",
+            "proverb": "\"The proof of the pudding is in the eating.\"",
             "description": "You can only judge the quality of something after you have tried, used, or experienced it."
         },
         {
             "category": "english",
-            "proverb": "There are more ways than one to skin a cat.",
+            "proverb": "\"There are more ways than one to skin a cat.\"",
             "description": "There is more than one way to reach the same goal."
         },
         {
             "category": "english",
-            "proverb": "There is no time like the present.",
+            "proverb": "\"There is no time like the present.\"",
             "description": "The best time to do something is right now. So, act now."
         },
         {
             "category": "english",
-            "proverb": "There is safety in numbers.",
+            "proverb": "\"There is safety in numbers.\"",
             "description": "A group offers more protection than when you are on your own."
         },
         {
             "category": "english",
-            "proverb": "The road to hell is paved with good intentions.",
+            "proverb": "\"The road to hell is paved with good intentions.\"",
             "description": "Good intentions do not matter if a person’s actions lead to bad outcomes."
         },
         {
             "category": "english",
-            "proverb": "The show must go on.",
+            "proverb": "\"The show must go on.\"",
             "description": "A performance, event, etc., must continue even though there are problems."
         },
         {
             "category": "english",
-            "proverb": "The squeaky wheel gets the grease.",
+            "proverb": "\"The squeaky wheel gets the grease.\"",
             "description": "People who complain the most are the ones who get attention or what they want."
         },
         {
             "category": "english",
-            "proverb": "Time and tide wait for no man.",
+            "proverb": "\"Time and tide wait for no man.\"",
             "description": "You’ve no control over passage of time; it’ll keep slipping. So don’t procrastinate, don’t delay things."
         },
         {
             "category": "english",
-            "proverb": "Too many cooks spoil the broth.",
+            "proverb": "\"Too many cooks spoil the broth.\"",
             "description": "When too many people work together on a project, the result is inferior."
         },
         {
             "category": "english",
-            "proverb": "Two heads are better than one.",
+            "proverb": "\"Two heads are better than one.\"",
             "description": "Two persons have a better chance to solve a problem than one. When two people cooperate with each other, they come up with better ideas."
         },
         {
             "category": "english",
-            "proverb": "Two wrongs don’t make a right.",
+            "proverb": "\"Two wrongs don’t make a right.\"",
             "description": "You shouldn’t harm a person who has harmed you, even if you think that person deserves it."
         },
         {
             "category": "english",
-            "proverb": "Watch the doughnut, and not the hole.",
+            "proverb": "\"Watch the doughnut, and not the hole.\"",
             "description": "Focus on what you have and not on what you don’t."
         },
         {
             "category": "english",
-            "proverb": "What goes around comes around.",
+            "proverb": "\"What goes around comes around.\"",
             "description": "If someone treats other people badly, he or she will eventually be treated badly by someone else."
         },
         {
             "category": "english",
-            "proverb": "When in Rome, do as the Romans do.",
+            "proverb": "\"When in Rome, do as the Romans do.\"",
             "description": "When visiting a foreign land, follow the customs of local people."
         },
         {
             "category": "english",
-            "proverb": "When the going gets tough, the tough get going.",
+            "proverb": "\"When the going gets tough, the tough get going.\"",
             "description": "When conditions become difficult, strong people take action."
         },
         {
             "category": "english",
-            "proverb": "Where there’s a will, there’s a way.",
+            "proverb": "\"Where there’s a will, there’s a way.\"",
             "description": "If you are determined enough, you can find a way to achieve what you want, even if it is difficult."
         },
         {
             "category": "english",
-            "proverb": "Where there’s smoke there’s fire.",
+            "proverb": "\"Where there’s smoke there’s fire.\"",
             "description": "If there are rumors or signs that something is true so it must be at least partly true."
         },
         {
             "category": "english",
-            "proverb": "Where one door shuts, another opens.",
+            "proverb": "\"Where one door shuts, another opens.\"",
             "description": "When you lose an opportunity to do one thing, an opportunity to do something else appears."
         },
         {
             "category": "english",
-            "proverb": "While the cat’s away, the mice will play.",
+            "proverb": "\"While the cat’s away, the mice will play.\"",
             "description": "Without supervision, people will do as they please, especially in disregarding or breaking rules."
         },
         {
             "category": "english",
-            "proverb": "You can catch more flies with honey than with vinegar.",
+            "proverb": "\"You can catch more flies with honey than with vinegar.\"",
             "description": "It’s easier to win people to your side by persuasion and politeness than by confrontation and threats."
         },
         {
             "category": "english",
-            "proverb": "You can lead a horse to water but you can’t make it drink.",
+            "proverb": "\"You can lead a horse to water but you can’t make it drink.\"",
             "description": "You can show people the way to do things, but you can’t force them to act."
         },
         {
             "category": "english",
-            "proverb": "You can’t always get what you want.",
+            "proverb": "\"You can’t always get what you want.\"",
             "description": "Sometimes you may face disappointments in your pursuits or your wishes may not be fulfilled."
         },
         {
             "category": "english",
-            "proverb": "You can’t fit a round peg in a square hole.",
+            "proverb": "\"You can’t fit a round peg in a square hole.\"",
             "description": "You can’t force someone into a role for which s/he is not suited."
         },
         {
             "category": "english",
-            "proverb": "You can’t have your cake and eat it too.",
+            "proverb": "\"You can’t have your cake and eat it too.\"",
             "description": "To have two things that one desires, but they’re normally impossible to get simultaneously."
         },
         {
             "category": "english",
-            "proverb": "You can’t make an omelette without breaking eggs.",
+            "proverb": "\"You can’t make an omelette without breaking eggs.\"",
             "description": "It is hard to achieve something important without causing unpleasant effects."
         },
         {
             "category": "english",
-            "proverb": "Soon learn, soon forgotten.",
+            "proverb": "\"Soon learn, soon forgotten.\"",
             "description": ""
         },
         {
             "category": "english",
-            "proverb": "A little learning is a dangerous thing.",
+            "proverb": "\"A little learning is a dangerous thing.\"",
             "description": ""
         },
         {
             "category": "english",
-            "proverb": "You can’t teach an old dog new tricks.",
+            "proverb": "\"You can’t teach an old dog new tricks.\"",
             "description": "People who have long been used to doing things in a particular way will not abandon their habits."
         },
         {
             "category": "english",
-            "proverb": "You can’t unscramble a scrambled egg.",
+            "proverb": "\"You can’t unscramble a scrambled egg.\"",
             "description": "Some actions are irreversible."
         },
         {
             "category": "english",
-            "proverb": "You can’t win them all.",
+            "proverb": "\"You can’t win them all.\"",
             "description": "It is not possible to succeed at everything you do."
         },
         {
@@ -1493,12 +2668,34 @@
     ],
     "spanish": [
         {
+            "proverb": "\"Whoever gossips to you will gossip about you.\"",
+            "description": "",
+            "category": "spanish"
+        },
+        {
+            "proverb": "\"Do not rejoice at my grief, for when mine is old, yours will be new.\"",
+            "description": "",
+            "category": "spanish"
+        },
+        {
             "proverb": "\"Opportunity knocks only once.\"",
             "category": "spanish",
             "description": "Always seize an opportunity when it comes your way as you may not get another chance at it."
         }
     ],
+    "danish": [
+        {
+            "proverb": "\"Don’t sail out farther than you can row back.\"",
+            "description": "",
+            "category": "danish"
+        }
+    ],
     "russian": [
+        {
+            "proverb": "\"There is no shame in not knowing; the shame lies in not finding out.\"",
+            "description": "",
+            "category": "russian"
+        },
         {
             "proverb": "\"Your elbow is close but you can’t bite it.\"",
             "category": "russian",
@@ -1507,6 +2704,16 @@
     ],
     "arabic": [
         {
+            "proverb": "\"Do good and throw it in the sea.\"",
+            "description": "",
+            "category": "arabic"
+        },
+        {
+            "proverb": "\"Examine what is said, not who speaks.\"",
+            "description": "",
+            "category": "arabic"
+        },
+        {
             "proverb": "\"To call a man a thief gives him the right to be one.\"",
             "category": "old arabic",
             "description": "Treating someone in an unfair or cruel way will ensure a similar behaviour from them in the future."
@@ -1514,44 +2721,351 @@
     ],
     "french": [
         {
+            "proverb": "\"In love, there is always one who kisses and one who offers the cheek.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "proverb": "\"Good advice is often annoying, bad advice never is.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
             "proverb": "\"A clear conscience is a soft pillow.\"",
             "category": "french",
             "description": "If a person is guilty of some wrongdoing, their guilty conscience will let them have no rest, while an innocent person will be peaceful and calm."
         }
     ],
+    "kenyan": [
+        {
+            "proverb": "\"A man who uses force is afraid of reasoning.\"",
+            "description": "",
+            "category": "kenyan"
+        }
+    ],
+    "latin": [
+        {
+            "proverb": "\"Still waters run deep.\"",
+            "description": "",
+            "category": "latin"
+        }
+    ],
+    "moorish": [
+        {
+            "proverb": "\"He who does not travel, does not know the value of men.\"",
+            "description": "",
+            "category": "moorish"
+        }
+    ],
+    "swiss": [
+        {
+            "proverb": "\"The night rinses what the day has soaped.\"",
+            "description": "",
+            "category": "swiss"
+        }
+    ],
+    "turkish": [
+        {
+            "proverb": "\"Measure a thousand times and cut once.\"",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "proverb": "\"A man does not seek his luck; luck seeks its man.\"",
+            "description": "",
+            "category": "turkish"
+        }
+    ],
+    "ethiopian": [
+        {
+            "proverb": "\"Evil enters like a needle and spreads like an oak tree.\"",
+            "description": "",
+            "category": "ethiopian"
+        }
+    ],
     "german": [
+        {
+            "proverb": "\"Who begins too much accomplishes little.\"",
+            "description": "",
+            "category": "german"
+        },
+        {
+            "proverb": "\"A teacher is better than two books.\"",
+            "description": "",
+            "category": "german"
+        },
+        {
+            "proverb": "\"He who always thinks it is too soon is sure to come too late.\"",
+            "description": "",
+            "category": "german"
+        },
         {
             "proverb": "\"The eyes believe themselves, the ears believe other people.\"",
             "category": "german",
             "description": "Do not believe everything that everyone says to you, trust your own judgement or wait to see something with your own eyes before believing someone."
         }
     ],
+    "afghan": [
+        {
+            "proverb": "\"What you see in yourself is what you see in the world.\"",
+            "description": "",
+            "category": "afghan"
+        }
+    ],
     "african": [
+        {
+            "proverb": "\"If you want to go fast, go alone. If you want to go far, go together.\"",
+            "description": "",
+            "category": "african"
+        },
+        {
+            "proverb": "\"It takes a whole village to raise a child.\"",
+            "description": "",
+            "category": "african"
+        },
         {
             "proverb": "\"An axe forgets what the tree remembers.\"",
             "category": "german",
             "description": "It is easy for someone who is hurting another person to forget the wrong and move on but the person who was hurt never forgets."
         }
     ],
+    "icelandic": [
+        {
+            "proverb": "\"Character is always corrupted by prosperity.\"",
+            "description": "",
+            "category": "icelandic"
+        }
+    ],
     "swedish": [
+        {
+            "proverb": "\"Shared joy is a double joy; shared sorrow is half a sorrow.\"",
+            "description": "",
+            "category": "swedish"
+        },
         {
             "proverb": "\"He who buys what he does not need, steals from himself.\"",
             "category": "swedish",
             "description": "A person should spend only on essential or necessary items and avoid frivolous expenses."
         }
     ],
+    "italian": [
+        {
+            "proverb": "\"If you can’t live longer, live deeper.\"",
+            "description": "",
+            "category": "italian"
+        }
+    ],
     "irish": [
+        {
+            "proverb": "\"Age is honorable and youth is noble.\"",
+            "description": "",
+            "category": "irish"
+        },
+        {
+            "proverb": "\"Three things that are never visible: the tip of the blade, wind, and love.\"",
+            "description": "",
+            "category": "irish"
+        },
+        {
+            "proverb": "\"The heart of loved ones is your strength\"",
+            "description": "",
+            "category": "irish"
+        },
+        {
+            "proverb": "\"The one who kisses in public often makes you cry in private.\"",
+            "description": "",
+            "category": "irish"
+        },
+        {
+            "proverb": "\"Open your eyes wide before marriage, close your eyes after marriage.\"",
+            "description": "",
+            "category": "irish"
+        },
+        {
+            "proverb": "\"Love should be shared with your wife and secrets with mother.\"",
+            "description": "",
+            "category": "irish"
+        },
+        {
+            "proverb": "\"Love at first sight often comes at dusk.\"",
+            "description": "",
+            "category": "irish"
+        },
+        {
+            "proverb": "\"The kiss is as pleasant as delicious food, but it lasts shorter.\"",
+            "description": "",
+            "category": "irish"
+        },
+        {
+            "proverb": "\"If whiskey cannot cure love – this love is hopeless!\"",
+            "description": "",
+            "category": "irish"
+        },
         {
             "proverb": "\"A drink precedes a story.\"",
             "category": "irish",
             "description": "When a man is inebriated, they are more likely to tell the stories or occurrences that they normally wouldn’t if they were sober."
         }
     ],
+    "egyptian": [
+        {
+            "proverb": "\"A beautiful thing is never perfect.\"",
+            "description": "",
+            "category": "egyptian"
+        }
+    ],
     "japanese": [
+        {
+            "proverb": "\"Fall seven times, stand up eight.\"",
+            "description": "",
+            "category": "japanese"
+        },
+        {
+            "proverb": "\"The reputation of a thousand years may be determined by the conduct of one hour.\"",
+            "description": "",
+            "category": "japanese"
+        },
         {
             "proverb": "\"To make the tea cloudy.\"",
             "category": "japanese",
             "description": "It means to be evasive or non-committal about something, it comes from a Japanese wedding and tea rituals."
+        }
+    ],
+    "armenian": [
+        {
+            "proverb": "\"To be willing is only half the task.\"",
+            "description": "",
+            "category": "armenian"
+        }
+    ],
+    "yiddish": [
+        {
+            "proverb": "\"Words should be weighed, not counted.\"",
+            "description": "",
+            "category": "yiddish"
+        },
+        {
+            "proverb": "\"Everyone is kneaded out of the same dough, but not baked in the same oven.\"",
+            "description": "",
+            "category": "yiddish"
+        }
+    ],
+    "thai": [
+        {
+            "proverb": "\"In a battle between elephants, the ants get squashed.\"",
+            "description": "",
+            "category": "thai"
+        }
+    ],
+    "burmese": [
+        {
+            "proverb": "\"If you take big paces, you leave big spaces.\"",
+            "description": "",
+            "category": "burmese"
+        }
+    ],
+    "greek": [
+        {
+            "proverb": "\"Before you score, you first must have a goal.\"",
+            "description": "",
+            "category": "greek"
+        },
+        {
+            "proverb": "\"The heart that loves is always young.\"",
+            "description": "",
+            "category": "greek"
+        }
+    ],
+    "new-zelander": [
+        {
+            "proverb": "\"Turn your face to the sun and the shadows will fall behind you.\"",
+            "description": "",
+            "category": "new zealander"
+        }
+    ],
+    "cuban": [
+        {
+            "proverb": "\"When the sun rises, it rises for everyone.\"",
+            "description": "",
+            "category": "cuban"
+        }
+    ],
+    "welsh": [
+        {
+            "proverb": "\"A spoon does not know the taste of soup, nor a learned fool the taste of wisdom.\"",
+            "description": "",
+            "category": "welsh"
+        }
+    ],
+    "zulu": [
+        {
+            "proverb": "\"The most beautiful fig may contain a worm.\"",
+            "description": "",
+            "category": "zulu"
+        },
+        {
+            "proverb": "\"A fault confessed is half redressed.\"",
+            "description": "",
+            "category": "zulu"
+        }
+    ],
+    "bantu": [
+        {
+            "proverb": "\"No man can paddle two canoes at the same time.\"",
+            "description": "",
+            "category": "bantu"
+        }
+    ],
+    "jamaican": [
+        {
+            "proverb": "\"If you go to a donkey’s house, don’t talk about ears.\"",
+            "description": "",
+            "category": "jamaican"
+        }
+    ],
+    "sudanese": [
+        {
+            "proverb": "\"A large chair does not make a king.\"",
+            "description": "",
+            "category": "sudanese"
+        }
+    ],
+    "moroccan": [
+        {
+            "proverb": "\"Instruction in youth is like engraving in stone.\"",
+            "description": "",
+            "category": "moroccan"
+        }
+    ],
+    "indian": [
+        {
+            "proverb": "\"Where love reigns, the impossible may be attained.\"",
+            "description": "",
+            "category": "indian"
+        }
+    ],
+    "chinese": [
+        {
+            "proverb": "\"It’s better to light a candle than curse the darkness.\"",
+            "description": "",
+            "category": "chinese"
+        },
+        {
+            "proverb": "\"Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime.\"",
+            "description": "",
+            "category": "chinese"
+        },
+        {
+            "proverb": "\"Deep doubts, deep wisdom; small doubts, small wisdom.\"",
+            "description": "",
+            "category": "chinese"
+        }
+    ],
+    "portuguese": [
+        {
+            "proverb": "\"Change yourself and fortune will change.\"",
+            "description": "",
+            "category": "portuguese"
         }
     ],
     "gaelic": [
@@ -1559,6 +3073,1596 @@
             "proverb": "\"A dimple on the chin, the devil within.\"",
             "category": "gaelic",
             "description": "A superstitious proverb based on physical appearance, where having a chin indent signifies that a person is wicked or deceitful."
+        }
+    ],
+    "bulgarian": [
+        {
+            "proverb": "\"God does not pay every Saturday.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"God gives but does not lock the gate.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"God is not without sins: He created the world.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"God promises a safe landing but not a calm passage.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"A crow will never be a dove.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"A fortress surrenders from within.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"A friend in need is a friend in deed.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"A gentle word opens an iron gate.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"A good cock can never have too many hens.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"A house without a woman is like a fire without a bucket.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Lies legs are short.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"A lion lurks in everyone’s heart; awake him not.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"A song belongs to no one.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"A tree falls the way it leans.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"A word about to be spoken is like a stone that is ready to be thrown.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Aid yourself and the lord will come.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"An axe without a shaft is no threat to the forest.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Drop by drop – a whole lake becomes.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Every frog has his own pond.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"From the promise to the deed is a day’s journey.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"From walking, something, from sitting, nothing.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Give me, mother, luck at my birth, then throw me if you will on the rubbish heap.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Grapes do not grow in a willow tree.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Hasty work – shame for the craftsman.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"He who believes in dreams feeds on wind.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"He who breaks his word shall through his word be broken.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"He who has been at the mill has flour on his hat.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"He who pulls out a knife, by knife shall die.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you call one wolf, you invite the pack.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you cannot serve, you cannot rule.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you can’t be good, then be careful.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you don’t help yourself, even God cannot help you.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you go to sleep with the blind, you’ll wake up squinting.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you have no enemies think then that your own mother might have produced one.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you let everyone walk over you, then you become a carpet.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you light one candle for God, then you must light two for the devil.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you want apples, you have to shake the trees.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you want to annoy the devil stay silent.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you want to drown yourself, don’t torture yourself with shallow water.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"If you would live long, open your heart.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"It is good fishing in water stream.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Let the man who has suffered ask it, not the man who has travelled.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Life is a ladder; some will climb up it, others down.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Man proposes, God disposes.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Many hands make light work.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Mother Nature, time and patience are the three best doctors.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Nature, time, and patience are the three great physicians.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"New day — new destiny.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"No hero without a wound.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"One does not get crucified, one crucifies oneself.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"One gentle word opens a gate of iron.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"One swallow doesn’t make a spring.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Only other people’s eggs are double-yolked.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Pretty wife, old wine, many friends.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Ravens do not peck each other’s eyes out.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Seize the opportunity by the beard, for it is bald behind.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Still waters run deep.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Take a big bite, don’t say a big word.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"The crow pecks at the ox to clean it, not to feed from it.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"The droplet is always at its largest just before it drops.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"The earth is man’s only friend.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"The eye that sees all things else, sees not itself.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"The fox falls into the trap only once.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"The hasty bitch gives birth to blind puppies.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"The neighbor’s chicken is a duck.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"The village feeds the town.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"The wife carries the husband on her face; the husband carries the wife on his clothes.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"The wolf changes only his coat , not his character.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"The wolf has a thick neck, because he does his job on his own.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"There is no smoke without fire.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Thirsty men make good prophets.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Two happy days are seldom brothers.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"When a Bulgar gets rich he builds himself another house.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"When the sea turned into honey, the poor lost his spoon.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"When the Turk becomes richer he takes another wife.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Whip the saddle and give the mule something to think about it.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Why should I shave when God doesn’t?\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"You are permitted in time of great danger to walk with the devil until you have crossed the bridge.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"You can’t make something beautiful with force.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"You will sell more sheepskins at the market than wolfskins.\"",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "proverb": "\"Тоо many midwives deliver a sickly baby.\"",
+            "description": "",
+            "category": "bulgarian"
+        }
+    ],
+    "slovenian": [
+        {
+            "proverb": "\"Bad company often leads to unpleasant consequences.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Friday, bad beginning.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"I can do nothing about governments and winter.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Man’s life is like a drop of dew on a lea£\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Good sense is better than velvet.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Don’t start anything on Friday.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"It is better to buy firewood, when cherries are ripe.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"If you promise something it is a debt that you have to repay.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"A doorstep is the highest of all mountains.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Who is forced to go to church will not pray.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"A bird in hand is worth two in the bush.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"In shaping one’s own fortune one should not rely on the help of others, as they are also concerned mainly about their own matters.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"We should not make a bad situation even worse by an improper remark.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Don’t ask the blind man for the way, nor a fool for advice.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"You can accomplish much through hard work and careful management.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Pray to God for a good harvest, but keep on hoeing.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"A promise makes a debt.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Everyone takes care of their own needs first, before turning to others.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Good housewife support three corners of the house.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Get up early and start work, and you will accomplish much.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"From bad company you often get a headache.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Own country’s soil is better than gold ore in foreign land.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"No more wine, no conversation, no more money, no friends.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Don’t count your chickens before they’re hatched.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"There is no smoke without fire.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"God knows why he has made the wings of some birds shorter.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Old love does not rust.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Honey on a tongue, ice in the heart.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"The night advises, the day shapes.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Early hour – golden hour.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"What you build easily will fall quickly.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"No work without food.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Hunger is the best spice.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Laughter is half of the health.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"The night is for thinking, the day is for acting.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Children generally follow the example of their parents, but imitate their faults more surely than their virtues.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Nothing is ever as bad as it seems.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Donkeys don’t go on the ice twice.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"What goes around, comes around.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"One today is better than two tomorrows.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Good sense is of greater value than wealth.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Strike while the iron is hot.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Youth is crazy, jumping over the ditch, where there is a bridge.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"God created his own beard first, only then for the others.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Child that has been burnt will understand the danger of fire.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Appearances can be deceptive.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"No song is so long that it wouldn’t be sung out.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"More heads know more.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Lie is quickly found out.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"It is in man’s interest to protect the neighbour’s property.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Wise master of the house protects his neighbor’s house from fire.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Feed the worker if you want him to work.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Who digs a trap for others ends up in it himself.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Whoever speaks a great deal, knows much or lies much.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Roast chickens don’t fly into mouth by themselves.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Never whisper to the deaf, or wink at the blind.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"He who flys high, falls low.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"More you know, more respect you get.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Whoever has contempt for his mother tongue, does not respect his mother.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Only a fool would make the same mistake twice.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Stone to stone – palace, grain to grain – loaf of bread.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"A word is not a horse.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Nice word finds a nice place.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"It is better to chase the day by the head than by the tail.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Better to hold it than to chase it.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Politeness costs nothing, but yields much.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"In small churches, small saints are big..\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Still waters run deep.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Slow and steady wins the race.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"It is easier to believe than to go and ask.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Speak the truth, but leave immediately after.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"All roads do not lead to Rome.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Every cloud has a silver lining.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Home sweet home.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"You can do nothing about governments and winter.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Lie has short legs.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"You meet a friend when times are tough.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"No pain, no gain.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"The one who arrives the first, grinds the first.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"Without due effort one is not entitled to the fruits of the work.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"It is too late to ring the bells after the hail.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"That which is good, praises itself.\"",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
+            "proverb": "\"You can’t keep on with the same story, or do things in the same way, since nothing lasts forever.\"",
+            "description": "",
+            "category": "slovenian"
+        }
+    ],
+    "luxembourgish": [
+        {
+            "proverb": "\"Words are but dwarfs, examples are giants.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"When girls whistle, the Holy Virgin cries.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"To the fiancé — milk; to the bride — butter; to the husband — cheese.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"Your wife and your wheelbarrow — lend them to no one.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"Truth is what women do not tell.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"In the eyes of its mother every turkey is a swan.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"A woman who likes to wash will find water.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"Keep your eye on girls that don’t tell their mothers everything.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"A man’s eyes are for seeing, a woman’s for being seen.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"The wife cries before the wedding, the husband after.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"A woman is at her strongest when she faints.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"A woman is as old as she wishes to tell you.\"",
+            "description": "",
+            "category": "luxembourgish"
+        },
+        {
+            "proverb": "\"You will catch no birds with a club.\"",
+            "description": "",
+            "category": "luxembourgish"
+        }
+    ],
+    "hungarian": [
+        {
+            "proverb": "\"Books are silent masters… A könyvek néma mesterek.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Time heals all wounds… Az idő minden sebet begyógyít.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Exception strenghtens the rule…Kivétel erősíti a szabályt.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The wife of a careless man is almost a widow.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"If women were not vain, men could teach them how to be.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Strike while the iron is hot…Addig üsd a vasat, amíg meleg.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Hunger is the best cook… Az éhség a legjobb szakács.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"It is a fine thing to die for one’s fatherland, but a still finer thing to live for it.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Unwillingness ends in groaning… Nem akarásnak nyögés a vége.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The way you sow, the way you reap…Ki mint vet, úgy arat.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"No one was ever hung for what he was thinking.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Opposites attract each other… Az ellentétek vonzzák egymást.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The horse has four legs and still stumbles…Lónak négy a lába, mégis megbotlik.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Many small things can add up a big one… Sok kicsi sokra megy\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The wall will not punch back… A fal nem üt vissza.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Even the blind chicken finds grains… Vak tyúk is talál szemet.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The early bird catches the worm…Aki korán kel, aranyat lel.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"He who dares, wins… Aki mer, az nyer.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Time is money…Az idő pénz.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Although pepper is tiny, its taste is intense.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"A man with good judgment does not make the goat his gardener.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Repetition is the mother of knowledge…Ismétlés a tudás anyja.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"A fool in the morning is fool in the afternoon… Aki délelőtt bolond, délután is az.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"He who says A, should also say B. too… Aki Á-t mond, mondjon B-t is.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Not all that glitters is gold… Nem mind arany, ami fénylik.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"One swallow doesn’t mean the summer is here… Egy fecske nem csinál nyarat.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"If the mountain will not come to Mohammed, Mohammed will go to the mountain…Ha a hegy nem megy Mohamedhez, Mohamed megy a hegyhez.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"There is no rose without thorns… Nincsen rózsa tövis nélkül\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Even the white lily casts a shadow.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Who doesn’t appreciate the litte does not deserve the big…Ki a kicsit nem becsüli, a nagyot nem érdemli.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Don’t make an elephant out of a mosquito…Ne csinálj szúnyogból elefántot.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Cheap meat produces thin broth… Olcsó húsnak híg a leve.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Try to be in good company, even when you are alone.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"He who trusts is happy; the doubter is wise.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"In the dark all cats and all girls are beautiful.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"He is worth his money… Megéri a pénzét\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"I can chew for you, my child, but you must swallow by yourself.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Just because a loan is old, that does not make it a gift.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The crowd is not led by the head but by the heart.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"What you can do today don’t put off to tomorrow…Amit ma megtehetsz, ne halaszd holnapra!\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Help yourself and God will help you also… Segíts magadon, (és) az Isten is megsegít.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"In much talk there is much irrelevancies.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Like mother, like daughter…Amilyen az anya, olyan a lánya.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"He who accepts the gift loses his liberty.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"In the long run even a dog will compromise with the cat.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Peccadilloes at home, deadly sins abroad.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The nice apples are sour…A szép almákban is vannak savanyuk.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Don’t drink ahead to the bear’s hide… Ne igyál előre a medve bőrére.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"A loan, though old, is not a gift.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"When ambition ends, happiness begins.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The forbidden fruit is the sweetest…A tiltott gyümölcs a legédesebb.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Bury the hatchet…Elássa a csatabárdot.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"A prudent man does not make the goat his gardener.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"A bashful beggar will have an empty wallet.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"He who slowly gets angry will stay angry for a long time.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Everything is possible, you just need to want it!… Mindent lehet, csupán akarni kell.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The amount of people equals the amount of opinions.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"A good priest learns till he dies… Jó pap holtig tanul.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"He is rich who owes nothing.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The best defense is a good offense…A legjobb védekezés a támadás.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Adam ate the apple, and our teeth still ache.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The liar is caught sooner than a lame dog…A hazug embert hamarabb utolérik, mint a sánta kutyát.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Birds of a feather flock together…Madarat tolláról, embert barátjáról.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Love is blind… A szerelem vak.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Shooting sparrows with a cannon… Ágyúval lő verébre.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Even the best tree sometimes has bad fruit.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Like father, like son…Amilyen az apa, olyan a fia.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Don’t cry over the spilled milk… Nem kell belesírni a kiömlött tejbe.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Children, fools and drunken men tell the truth…Gyermëk, részëg, bolond mondják az igazat.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The woman of a man without sorrows is almost a widow.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The big fish eats the little fish…A nagy hal megeszi a kis halat.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Better dry bread in peacetime than meat in wartime.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"You should not add oil to the fire… Nëm këll a tűzre olajat önteni.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Misfortune comes on horseback and goes away on foot…A nyavalya lóháton jön, gyalog megy el.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The smart one will learn from the mistakes of others…Más kárán tanul az okos.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Those who dare to lie once, don’t not deserve credit… Aki egyszer hazudni mer, több hitelt nem érdemel.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"An ox remains an ox, even if driven to Vienna.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Necessity is the greatest teacher… A szükség a legnagyobb tanítómester.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Rather today a sparrow than a bustard tomorrow…Jobb ma egy veréb, mint holnap egy túzok.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Lazyness brings struggle… Nem akarasnak nyoges a vege\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Can’t see the forest from the trees… Nem látja a fától az erdőt.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Beloved children have many names.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"There is no coat big enough to hide both poverty and drunkenness.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"He who is feared by many must be afraid of many.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Blushing is the paint of good habits.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Better to fear than to be frightened.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Everyone’s the blacksmith of their own fate…Mindenki a maga szerencséjének kovácsa.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Carrying water in the Danube… Vizet hord a Dunába.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"He who is struck by the lightning doesn’t hear the thunder.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Don’t look a gift horse in the mouth.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"An old spinster is not worth more than a un posted letter.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Fish stinks from the head…Fejétől bűzlik a hal.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Do more things by wisdom than by force.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"If it’s God’s will the broom will lose its handle.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"It’s natural to have some disagreement between husband and wife.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Other people’s eggs have two yolks.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Good wine needs no label…Jó bornak nem kell cégér.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"All miracles last 3 days… Minden csoda 3 napig tart.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Bargain like a gypsy, but pay like a gentleman.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"There is nothing more precious than time… Nincs drágább az idönél.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Lots of geese can conquer pigs… Sok lúd disznót győz\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Knowledge is power… A tudás hatalom.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The owl tells the sparrow that her head is big.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"One road leads to heaven but many lead to hell.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The apple falls close to its tree.… Nëm esik messze az alma a fájától.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Fine words are not enough for the empty stomach, it needs bread…\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Whoever digs a hole for someone else, will fall in it themselves…Aki másnak vermet ás, maga esik bele.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"What we do not know will not hurt… Amit nem tudunk az nem fáj.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Where there is no bridge the smallest plank is of great value.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Money does not buy happiness… A pénz nem boldogít.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Barking dogs seldom bite…Amelyik kutya ugat, az nem harap.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"A habit is first a wanderer, then a guest, and finally the boss.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"It is a poor mouse that has only one hole… Szëgény ëgér, melynek csak egy lyuka van.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"He who wants to go fishing must not be afraid of the water.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Look at the mother, marry the daughter.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Come a little closer when your sword is too short.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"In wine there is truth…Borban az igazság.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The fried pigeon will not fly into your mouth… Nem repül a sült galamb a szádba.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The bushes don’t rattle if there’s no wind… Nem zörög a haraszt, ha a szél nem fújja.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Sometimes a blind man could see hoofs… éha a vak is patkóra talál.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Listen too much say little…Sokat hallgass keveset szólj.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The person who trusts is happy; the person who doubts is wise.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"A new broom sweeps well… Új seprű jól seper.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"A flatterer is a secret enemy.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Man plans, God executes…Ember tervez, Isten végez.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Nobody can rest in his own shadow.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"Even walls have ears…A falnak is füle van.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"The believer is happy; the doubter is wise.\"",
+            "description": "",
+            "category": "hungarian"
+        },
+        {
+            "proverb": "\"A mug keeps going to the well until it breaks eventually… Addig jár a korsó a kútra, míg el nem törik.\"",
+            "description": "",
+            "category": "hungarian"
+        }
+    ],
+    "macedonian": [
+        {
+            "proverb": "\"Where force rules, justice does not exist.\"",
+            "description": "",
+            "category": "macedonian"
+        },
+        {
+            "proverb": "\"What one fool can ensnare, not a thousand sages can fix.\"",
+            "description": "",
+            "category": "macedonian"
+        },
+        {
+            "proverb": "\"Think twice, say once.\"",
+            "description": "",
+            "category": "macedonian"
+        },
+        {
+            "proverb": "\"The brain is not in the pocket, but in the head.\"",
+            "description": "",
+            "category": "macedonian"
+        },
+        {
+            "proverb": "\"If my neighbor is happy, my own work will go easier, too.\"",
+            "description": "",
+            "category": "macedonian"
+        },
+        {
+            "proverb": "\"Feed a dog, he stops barking at you.\"",
+            "description": "",
+            "category": "macedonian"
+        },
+        {
+            "proverb": "\"Enjoy yourself; for there is nothing in the world we can call our own.\"",
+            "description": "",
+            "category": "macedonian"
+        },
+        {
+            "proverb": "\"Brother does not feed his brother but it is hard not having one.\"",
+            "description": "",
+            "category": "macedonian"
+        },
+        {
+            "proverb": "\"A good friend is recognized in times of trouble.\"",
+            "description": "",
+            "category": "macedonian"
+        },
+        {
+            "proverb": "\"A bear that dances in your neighbor’s house might soon dance in yours.\"",
+            "description": "",
+            "category": "macedonian"
         }
     ]
 }

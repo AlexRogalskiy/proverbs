@@ -15,7 +15,7 @@ export const createIndex = (): flexsearch.Index<ProverbData> => {
         doc: {
             id: 'id',
             field: {
-                proverb: {
+                text: {
                     encode: 'extra',
                     tokenize: 'strict',
                     threshold: 7,

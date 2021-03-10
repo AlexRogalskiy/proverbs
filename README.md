@@ -79,28 +79,70 @@ For the tech stack, _**Styled proverbs**_ using Typescript and serverless functi
 It's simple, you can copy paste this markdown content, like this one:
 
 ```
-![Styled proverbs](https://styled-proverbs.vercel.app/api?backgroundColor=[value]&opacity=[value]&colorPattern=[value]&fontColor=[value]&pattern=[pattern]&category=[value]&width=[width]&height=[height]&keywords=[keywords])
+![Styled proverbs](https://styled-proverbs.vercel.app/api?backgroundColor=[value]&opacity=[value]&colorPattern=[value]&fontColor=[value]&pattern=[pattern]&language=[value]&width=[width]&height=[height]&keywords=[keywords])
 ```
 
 There are several options you can use from the list:
 
-|  **Options**           | **Description**                        |   **Type**                     | **Example**   | **Query Params**               | 
-| ---------------------- | -------------------------------------- | ------------------------------ | ------------- | ------------------------------ |
-| **[Background Color]** | Background color for the proverb image | <code>Hex color code</code>    | %23ffffff     | ```?backgroundColor=[value]``` |
-| **[Opacity Pattern]**  | Background opacity of the pattern      | <code>Float number</code>      | 0 - 1         | ```&opacity=[value]```         |
-| **[Color Pattern]**    | Color pattern for the signage          | <code>Hex color code</code>    | %231abc9c     | ```&colorPattern=[value]```    |
-| **[Font Color]**       | Font color for the proverb text        | <code>Hex color code</code>    | %23000000     | ```&fontColor=[value]```       |
-| **[Pattern]**          | Pattern for the background             | <code>String constant</code>   | plus          | ```&pattern=[value]```         |
-| **[Category]**         | Proverb category                         | <code>String constant</code>   | programming   | ```&category=[value]```        |
+|  **Options**           | **Description**                          |   **Type**                     | **Example**   | **Query Params**               | 
+| ---------------------- | ---------------------------------------- | ------------------------------ | ------------- | ------------------------------ |
+| **[Background Color]** | Background color for the proverb image   | <code>Hex color code</code>    | %23ffffff     | ```?backgroundColor=[value]``` |
+| **[Opacity Pattern]**  | Background opacity of the pattern        | <code>Float number</code>      | 0 - 1         | ```&opacity=[value]```         |
+| **[Color Pattern]**    | Color pattern for the signage            | <code>Hex color code</code>    | %231abc9c     | ```&colorPattern=[value]```    |
+| **[Font Color]**       | Font color for the proverb text          | <code>Hex color code</code>    | %23000000     | ```&fontColor=[value]```       |
+| **[Pattern]**          | Pattern for the background               | <code>String constant</code>   | plus          | ```&pattern=[value]```         |
+| **[Language]**         | Proverb language                         | <code>String constant</code>   | swedish       | ```&language=[value]```        |
 | **[Width]**            | Proverb image width                      | <code>String</code>            | 100%          | ```&width=[value]```           |
 | **[Height]**           | Proverb image height                     | <code>String</code>            | 100%          | ```&height=[value]```          |
 | **[Keywords]**         | Proverb keywords                         | <code>String/String[]</code>   | love          | ```&keywords=[value]```        |
 
-Here is a list of categories supported by Proverb API:
+Here is a list of languages supported by Proverb API:
 
 | **Name**                          | **Value**                     | 
 | --------------------------------- | ----------------------------- |
-| **General**                       | general                       |
+| **English**                       | english                       |
+| **Spanish**                       | spanish                       |
+| **Danish**                        | danish                        |
+| **Russian**                       | russian                       |
+| **Arabic**                        | arabic                        |
+| **French**                        | french                        |
+| **Kenyan**                        | kenyan                        |
+| **Latin**                         | latin                         |
+| **Moorish**                       | moorish                       |
+| **Swiss**                         | swiss                         |
+| **Turkish**                       | turkish                       |
+| **Ethiopian**                     | ethiopian                     |
+| **German**                        | german                        |
+| **Afghan**                        | afghan                        |
+| **Icelandic**                     | icelandic                     |
+| **Italian**                       | italian                       |
+| **Egyptian**                      | egyptian                      |
+| **Armenian**                      | armenian                      |
+| **Yiddish**                       | yiddish                       |
+| **Thai**                          | thai                          |
+| **Burmese**                       | burmese                       |
+| **Greek**                         | greek                         |
+| **African**                       | african                       |
+| **New Zelander**                  | new_zelander                  |
+| **Cuban**                         | cuban                         |
+| **Welsh**                         | welsh                         |
+| **Zulu**                          | zulu                          |
+| **Bantu**                         | bantu                         |
+| **Jamaican**                      | jamaican                      |
+| **Sudanese**                      | sudanese                      |
+| **Moroccan**                      | moroccan                      |
+| **Indian**                        | indian                        |
+| **Chinese**                       | chinese                       |
+| **Portuguese**                    | portuguese                    |
+| **Swedish**                       | swedish                       |
+| **Irish**                         | irish                         |
+| **Japanese**                      | japanese                      |
+| **Gaelic**                        | gaelic                        |
+| **Bulgarian**                     | bulgarian                     |
+| **Slovenian**                     | slovenian                     |
+| **Luxembourgish**                 | luxembourgish                 |
+| **Hungarian**                     | hungarian                     |
+| **Macedonian**                    | macedonian                    |
 
 Patterns in proverbs are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 

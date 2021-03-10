@@ -34,7 +34,7 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
 
     if (proverbData) {
         const category = proverbData.category ? `(${proverbData.category})` : ''
-        const title = `${proverbData.proverb} ${category}`
+        const text = `${proverbData.text} ${category}`
         const description = proverbData.description
 
         return `
@@ -46,7 +46,7 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
             <div xmlns="http://www.w3.org/1999/xhtml">
               <div class="proverb-wrapper">
                 <div class="proverb-wrapper-desc">
-                  <h3 class="font-monserrat700">${title}</h3>
+                  <h3 class="font-monserrat700">${text}</h3>
                   <div class="line"></div>
                   <p class="font-monserratRegular">${description}</p>
                   <div class="line"></div>
@@ -67,7 +67,7 @@ const getProverbByKeywords = async (keywords: string | string[]): Promise<Prover
     //const searchResults = getSearchResults(idx(), searchKeys.join(' '))
     //const searchData = randomElement(searchResults)
 
-    return { proverb: searchKeys[0], description: searchKeys[1] }
+    return { text: searchKeys[0], description: searchKeys[1] }
     //return searchData ? getProverbById(searchData.ref) : null
 }
 
