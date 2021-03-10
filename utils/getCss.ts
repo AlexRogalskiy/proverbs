@@ -24,8 +24,8 @@ export const css = (colorOptions: ColorOptions): string => {
         font-family: 'Montserrat', sans-serif;
         font-weight: bold;
         color: ${fontColor};
-        text-align: right;
-        margin: 3% 3% 0% 0%;
+        text-align: left;
+        margin: 3% 3%;
       }
       .font-monserratRegular {
         font-family: 'Montserrat', sans-serif;
@@ -41,14 +41,11 @@ export const css = (colorOptions: ColorOptions): string => {
         flex-direction: row;
         justify-content: center;
         align-items: center;
-        padding: 5% 5%;
+        padding: 2% 3% 5% 3%;
       }
-      p{
+      p {
         font-size: 1.0rem;
-        margin: 10% 5%;
-      }
-      p.site {
-        margin-top: 10px;
+        margin: 5% 5%;
       }
       .proverb-wrapper-desc {
         display: flex;
@@ -61,7 +58,7 @@ export const css = (colorOptions: ColorOptions): string => {
         max-width: 100%;
         margin: 0 auto;
         border: none;
-        border-bottom: 1px solid #666;
+        border-bottom: 2px dotted rgba(0,0,0, 0.5);
       }
     `
 }

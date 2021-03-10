@@ -88,8 +88,17 @@ export enum HeroPattern {
     wallpaper = 'wallpaper',
 }
 
-export enum CategoryPattern {
-    general = 'general',
+export enum LanguagePattern {
+    english = 'english',
+    spanish = 'spanish',
+    russian = 'russian',
+    arabic = 'arabic',
+    french = 'french',
+    african = 'african',
+    swedish = 'swedish',
+    irish = 'irish',
+    japanese = 'japanese',
+    gaelic = 'gaelic',
 }
 
 export type ProverbData = {
@@ -111,13 +120,13 @@ export type ProverbData = {
     description: string
 }
 
-export type ProverbMapper = { [K in CategoryPattern]: ProverbData[] }
+export type ProverbMapper = { [K in LanguagePattern]: ProverbData[] }
 
 export interface ParsedRequest {
     /**
-     * Proverb category
+     * Proverb origin language
      */
-    category?: CategoryPattern | undefined
+    language?: LanguagePattern | undefined
     /**
      * Proverb image background pattern
      */

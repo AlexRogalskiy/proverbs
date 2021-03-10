@@ -1,13 +1,13 @@
 import { NowRequest, NowResponse, VercelResponse } from '@vercel/node'
 
-import { CategoryPattern, HeroPattern } from '../typings/types'
+import { LanguagePattern, HeroPattern } from '../typings/types'
 import { proverbRenderer } from '../utils/proverb'
 import { toString } from '../utils/commons'
 
 export default async function render(req: NowRequest, res: NowResponse): Promise<VercelResponse> {
     try {
         const {
-            category,
+            language,
             keywords,
             pattern,
             width,
@@ -19,7 +19,7 @@ export default async function render(req: NowRequest, res: NowResponse): Promise
         } = req.query
 
         const proverb = await proverbRenderer({
-            category: CategoryPattern[toString(category)] as CategoryPattern,
+            language: LanguagePattern[toString(language)] as LanguagePattern,
             pattern: HeroPattern[toString(pattern)] as HeroPattern,
             width: toString(width),
             height: toString(height),

@@ -38,3 +38,5 @@ dist/
 .cache
 node_modules
 .vercel
+
+.vercel

@@ -13,7 +13,7 @@
         "format:check": "prettier --check **/*.ts",
         "lint": "eslint --cache --fix --quiet --format codeframe --ext js,ts .",
         "reinstall": "del-cli ./node_modules ./package-lock.json ./yarn.lock",
-        "index": "",
+        "index": "node --version",
         "postreinstall": "yarn setup",
         "postinstall": "husky install",
         "prepare": "rimraf coverage .cache",

@@ -1,4 +1,4 @@
-import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest, ProverbData } from '../typings/types'
+import { ColorOptions, ImageOptions, LanguagePattern, ParsedRequest, ProverbData } from '../typings/types'
 import gradient from 'gradient-string'
 import randomColor from 'randomcolor'
 
@@ -11,7 +11,7 @@ import { proverbs } from './proverbs'
 // import { idx } from './search'
 
 export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<string> {
-    const { category, keywords, width, height, ...rest } = parsedRequest
+    const { language, keywords, width, height, ...rest } = parsedRequest
 
     const colorOptions: ColorOptions = mergeProps(profile.colorOptions, rest)
     const imageOptions: ImageOptions = mergeProps(profile.imageOptions, { width, height })
@@ -20,7 +20,7 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
         `
         ${gradient(randomColor(), randomColor())(delim)}
         Generating proverb with parameters:
-        category=${category},
+        language=${language},
         keywords=${keywords},
         colorOptions=${toFormatString(colorOptions)}
         imageOptions=${toFormatString(imageOptions)}
@@ -30,7 +30,7 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
 
     const proverbData: ProverbData | null = keywords
         ? await getProverbByKeywords(keywords)
-        : await getProverbByCategory(category)
+        : await getProverbByLanguage(language)
 
     if (proverbData) {
         const category = proverbData.category ? `(${proverbData.category})` : ''
@@ -46,10 +46,10 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
             <div xmlns="http://www.w3.org/1999/xhtml">
               <div class="proverb-wrapper">
                 <div class="proverb-wrapper-desc">
+                  <h3 class="font-monserrat700">${title}</h3>
                   <div class="line"></div>
-                  <p class="font-monserrat700">${title}</p>
+                  <p class="font-monserratRegular">${description}</p>
                   <div class="line"></div>
-                  <h3 class="font-monserratRegular">${description}</h3>
                 </div>
               </div>
             </div>
@@ -77,8 +77,8 @@ const getProverbByKeywords = async (keywords: string | string[]): Promise<Prover
 //     return data[data[0]][data[1]]
 // }
 
-const getProverbByCategory = async (category: string | undefined): Promise<ProverbData> => {
-    const data: ProverbData[] = category ? proverbs[category] : proverbs[randomEnum(CategoryPattern)]
+const getProverbByLanguage = async (language: string | undefined): Promise<ProverbData> => {
+    const data: ProverbData[] = language ? proverbs[language] : proverbs[randomEnum(LanguagePattern)]
 
     return randomElement(data)
 }

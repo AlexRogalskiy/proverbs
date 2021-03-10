@@ -54,4 +54,4 @@ jobs:
         run: |
           curl --retry-connrefused --retry 5 http://localhost:3000/
           curl --fail http://localhost:3000/data/proverbs.json > /dev/null
-          curl --fail http://localhost:3000/api?category=&pattern=&height=100%&backgroundColor=%23FFFFFF&fontColor=%230A83DC&opacity=0.3&colorPattern=%23FFE0E9 > /dev/null
+          curl --fail http://localhost:3000/api?category=&pattern=&backgroundColor=%23FFFFFF&fontColor=%230A83DC&opacity=0.3&colorPattern=%23FFE0E9 > /dev/null
