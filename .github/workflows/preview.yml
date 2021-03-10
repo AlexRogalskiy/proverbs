@@ -1,0 +1,57 @@
+name: Preview
+
+on:
+  pull_request:
+    paths:
+      - package.json
+      - yarn.lock
+      - .github/workflows/preview.yml
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.1.4
+        with:
+          node-version: "12"
+
+      - uses: actions/cache@v2.1.4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install all node packages
+        run: |
+          npm install
+
+      - name: Run test all
+        run: |
+          npm run test:all
+
+      - name: 🔔 Notify on Slack
+        uses: 8398a7/action-slack@v3
+        if: failure() && (github.event.ref == 'refs/heads/master')
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_API }}
+        with:
+          channel: '#api'
+          status: ${{ job.status }}
+          fields: job,commit,ref,eventName,author,took
+          author_name: github@nullables.io
+
+      - name: Start development server
+        run: |
+          npm run develop &
+
+      - name: Test development server
+        run: |
+          curl --retry-connrefused --retry 5 http://localhost:3000/
+          curl --fail http://localhost:3000/data/proverbs.json > /dev/null
+          curl --fail http://localhost:3000/api?category=&pattern=&height=100%&backgroundColor=%23FFFFFF&fontColor=%230A83DC&opacity=0.3&colorPattern=%23FFE0E9 > /dev/null

@@ -1,0 +1,21 @@
+name: Verify licenses
+
+on:
+  workflow_dispatch:
+
+jobs:
+  licenses:
+    name: Verify license
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: ⬇️Fetch commits from base branch
+        run: git fetch origin ${{ github.event.before || github.base_ref || 'master' }}:${{ github.event.before || github.base_ref || 'master' }} --depth 100
+        if: github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'
+
+      - name: Check license header
+        uses: apache/skywalking-eyes@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,44 @@
+{
+    "extends": [
+        "config:base",
+        ":semanticCommits",
+        ":maintainLockFilesWeekly",
+        ":prHourlyLimitNone",
+        ":prConcurrentLimitNone",
+        ":pinAllExceptPeerDependencies"
+    ],
+    "maven": {
+        "enabled": true
+    },
+    "ignoreUnstable": false,
+    "schedule": [
+        "after 10pm every weekday",
+        "before 5am every weekday",
+        "every weekend"
+    ],
+    "automerge": true,
+    "automergeType": "branch",
+    "major": {
+        "automerge": false
+    },
+    "packageRules": [
+        {
+            "updateTypes": [
+                "minor",
+                "patch",
+                "pin",
+                "digest"
+            ],
+            "automerge": true
+        }
+    ],
+    "masterIssue": true,
+    "timezone": "Europe/Moscow",
+    "rangeStrategy": "bump",
+    "commitMessageAction": "Updates",
+    "commitMessageTopic": "{{depName}}",
+    "commitMessagePrefix": ":arrow_up:",
+    "labels": [
+        "npm dependencies"
+    ]
+}

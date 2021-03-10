@@ -1,0 +1,205 @@
+{
+    "plugins": [
+        "jest",
+        "@typescript-eslint",
+        "spellcheck"
+    ],
+    "extends": [
+        "plugin:github/recommended"
+    ],
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaVersion": 9,
+        "sourceType": "module",
+        "project": "./tsconfig.json"
+    },
+    "rules": {
+        "indent": [
+            "error",
+            4
+        ],
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "jsx-quotes": [
+            "error",
+            "prefer-double"
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "comma-dangle": [
+            "error",
+            "only-multiline"
+        ],
+        "no-case-declarations": "off",
+        "eqeqeq": "warn",
+        "quote-props": [
+            "warn",
+            "consistent-as-needed"
+        ],
+        "no-console": "off",
+        "no-shadow": "off",
+        "no-alert": "error",
+        "no-caller": "error",
+        "no-eval": "error",
+        "no-undef": "warn",
+        "no-implied-eval": "error",
+        "no-extend-native": "error",
+        "no-implicit-globals": "error",
+        "no-multi-spaces": "error",
+        "no-invalid-this": "warn",
+        "array-bracket-spacing": "error",
+        "block-spacing": "error",
+        "keyword-spacing": "error",
+        "eslint-comments/no-use": "off",
+        "import/no-namespace": "off",
+        "no-unused-vars": "off",
+        "camelcase": "off",
+        "no-angle-bracket-type-assertion": "off",
+        "spellcheck/spell-checker": [
+            "off",
+            {
+                "lang": "en_GB",
+                "skipWords": [
+                    "lunr",
+                    "val",
+                    "param",
+                    "idx",
+                    "utils",
+                    "namespace",
+                    "eslint",
+                    "latin",
+                    "str",
+                    "len",
+                    "sqrt",
+                    "wildcard",
+                    "concat",
+                    "metadata",
+                    "fn",
+                    "params",
+                    "lexeme",
+                    "lex",
+                    "pos",
+                    "typedef",
+                    "wildcards",
+                    "lexemes",
+                    "fns",
+                    "stemmer",
+                    "attrs",
+                    "tf",
+                    "idf",
+                    "lookups",
+                    "whitelist",
+                    "whitelisted",
+                    "tokenizer",
+                    "whitespace",
+                    "automata",
+                    "i",
+                    "obj",
+                    "anymore",
+                    "lexer",
+                    "var",
+                    "refs",
+                    "serializable",
+                    "tis",
+                    "twas",
+                    "int",
+                    "args",
+                    "unshift",
+                    "plugins",
+                    "upsert",
+                    "upserting",
+                    "readonly",
+                    "baz",
+                    "tokenization",
+                    "lunrjs",
+                    "com",
+                    "olivernn",
+                    "github",
+                    "js"
+                ]
+            }
+        ],
+        "no-constant-condition": [
+            "error",
+            {
+                "checkLoops": false
+            }
+        ],
+        "dot-location": [
+            "error",
+            "property"
+        ],
+        "brace-style": [
+            "error",
+            "1tbs",
+            {
+                "allowSingleLine": true
+            }
+        ],
+        "@typescript-eslint/no-unused-vars": "error",
+        "@typescript-eslint/explicit-member-accessibility": [
+            "error",
+            {
+                "accessibility": "no-public"
+            }
+        ],
+        "@typescript-eslint/no-require-imports": "error",
+        "@typescript-eslint/array-type": "error",
+        "@typescript-eslint/await-thenable": "error",
+        "@typescript-eslint/ban-ts-comment": "error",
+        "@typescript-eslint/consistent-type-assertions": "error",
+        "@typescript-eslint/explicit-function-return-type": [
+            "error",
+            {
+                "allowExpressions": true
+            }
+        ],
+        "@typescript-eslint/func-call-spacing": [
+            "error",
+            "never"
+        ],
+        "@typescript-eslint/no-array-constructor": "error",
+        "@typescript-eslint/no-empty-interface": "error",
+        "@typescript-eslint/no-explicit-any": "warn",
+        "@typescript-eslint/no-extraneous-class": "error",
+        "@typescript-eslint/no-for-in-array": "error",
+        "@typescript-eslint/no-inferrable-types": "error",
+        "@typescript-eslint/no-misused-new": "error",
+        "@typescript-eslint/no-namespace": "error",
+        "@typescript-eslint/no-non-null-assertion": "warn",
+        "@typescript-eslint/no-unnecessary-qualifier": "error",
+        "@typescript-eslint/no-unnecessary-type-assertion": "error",
+        "@typescript-eslint/no-useless-constructor": "error",
+        "@typescript-eslint/no-var-requires": "error",
+        "@typescript-eslint/prefer-for-of": "warn",
+        "@typescript-eslint/prefer-function-type": "warn",
+        "@typescript-eslint/prefer-includes": "error",
+        "@typescript-eslint/prefer-string-starts-ends-with": "error",
+        "@typescript-eslint/promise-function-async": "error",
+        "@typescript-eslint/require-array-sort-compare": "error",
+        "@typescript-eslint/restrict-plus-operands": "error",
+        "semi": "off",
+        "@typescript-eslint/semi": [
+            "error",
+            "never"
+        ],
+        "@typescript-eslint/type-annotation-spacing": "error",
+        "@typescript-eslint/unbound-method": "error",
+        "@typescript-eslint/member-ordering": "off",
+        "@typescript-eslint/no-use-before-define": "off",
+        "@typescript-eslint/no-floating-promises": "warn",
+        "@typescript-eslint/no-empty-function": "warn",
+        "@typescript-eslint/no-this-alias": "warn",
+        "@typescript-eslint/ban-types": "warn",
+        "@typescript-eslint/quotes": "off"
+    },
+    "env": {
+        "node": true,
+        "es6": true,
+        "jest/globals": true
+    }
+}

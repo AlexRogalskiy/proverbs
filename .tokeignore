@@ -1,0 +1,6 @@
+test/*
+*.md
+*.json
+tools
+docs
+types

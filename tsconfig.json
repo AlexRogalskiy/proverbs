@@ -1,0 +1,52 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "strict": false,
+        "allowJs": true,
+        "noEmit": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "skipDefaultLibCheck": true,
+        "importHelpers": true,
+        "isolatedModules": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "forceConsistentCasingInFileNames": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "removeComments": false,
+        "allowSyntheticDefaultImports": true,
+        "lib": [
+            "esnext",
+            "dom"
+        ],
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "target": "ESNext",
+        "module": "ESNext",
+        "resolveJsonModule": true,
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "declaration": true,
+        "declarationMap": true,
+        "pretty": true,
+        "inlineSourceMap": false,
+        "inlineSources": false,
+        "noImplicitAny": false,
+        "noImplicitThis": true,
+        "alwaysStrict": true,
+        "strictNullChecks": true,
+        "strictFunctionTypes": false
+    },
+    "include": [
+        "."
+    ],
+    "exclude": [
+        "tmp",
+        "node_modules",
+        "**/*.test.ts"
+    ]
+}
