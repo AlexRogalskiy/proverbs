@@ -2,403 +2,518 @@
     "general": [
         {
             "proverb": "\"A broken clock is right twice a day.\"",
+            "category": "English proverb",
             "description": "When an old clock stops working, it shows one specific time but doesn't move. So once in the day and once at night, the clock is pointing to the correct time. In the same way, even a person who's not very smart can sometimes be correct by accident."
         },
         {
             "proverb": "\"A friend in need is a friend indeed.\"",
+            "category": "English proverb",
             "description": "If someone helps you when you're in trouble, that person is a true friend."
         },
         {
             "proverb": "\"A little bit of knowledge is a dangerous thing.\"",
+            "category": "English proverb",
             "description": "Sometimes when a person knows a little bit about something, they feel like they're an expert. Because they feel like an expert, they try to do things that they shouldn't and they mess everything up."
         },
         {
             "proverb": "\"A journey of a thousand miles begins with a single step.\"",
+            "category": "English proverb",
             "description": "Some things, like learning to speak English fluently, take a really long time. It might seem like too much work. But the only way to achieve your goals is to start working now."
         },
         {
             "proverb": "\"All is fair in love and war.\"",
+            "category": "English proverb",
             "description": "In love and romance, you sometimes do things that aren't very nice. For example, you might break up with someone or steal another person's partner. This phrase means that that's OK."
         },
         {
             "proverb": "\"All work and no play makes Jack a dull boy.\"",
+            "category": "English proverb",
             "description": "You can't work all of the time. You have to relax as well."
         },
         {
             "proverb": "\"Better safe than sorry.\"",
+            "category": "English proverb",
             "description": "You should be careful, even if it seems like it's not necessary. The consequences if something goes wrong are much worse than wasting a little time and effort by being careful."
         },
         {
             "proverb": "\"Better the devil you know than the one you don't.\"",
+            "category": "English proverb",
             "description": "When you have a choice between two bad things, it's safer to pick the bad thing that you've already experienced. The other bad thing might be worse."
         },
         {
             "proverb": "\"Don't judge a man until you have walked a mile in his shoes.\"",
+            "category": "English proverb",
             "description": "Sometimes people criticize each other. But it's not fair to criticize someone else if you haven't had the same experiences."
         },
         {
             "proverb": "\"Don't put the cart before the horse.\"",
+            "category": "English proverb",
             "description": "Pay attention to what's most important. Don't let things which aren't as important take up all of your time and attention."
         },
         {
             "proverb": "\"Don't talk the talk if you can't walk the walk.\"",
+            "category": "English proverb",
             "description": "You shouldn't brag about being able to do something if you can't actually do it."
         },
         {
             "proverb": "\"Don't throw out the baby with the bath water.\"",
+            "category": "English proverb",
             "description": "When you're trying to get rid of something bad, you might accidentally get rid of the good things that are connected with it as well. Don't do that."
         },
         {
             "proverb": "\"Early to bed and early to rise makes a man healthy, wealthy and wise.\"",
+            "category": "English proverb",
             "description": "This is a quotation from the famous American inventor and diplomat Benjamin Franklin. It means it's healthy and smart to go to sleep early and wake up early."
         },
         {
             "proverb": "\"Every cloud has a silver lining.\"",
+            "category": "English proverb",
             "description": "When something bad happens to you, don't get too upset. There's usually something good associated with  any bad experience. For example, if you get fired from your job, it might push you to get a better job instead."
         },
         {
             "proverb": "\"Give a man a fish, he eats for a day. Teach a man how to fish, he eats for a lifetime.\"",
+            "category": "English proverb",
             "description": "Don't try to help people by just giving them things. The result will be temporary. If you want to help someone long-term, teach them how to do things on their own."
         },
         {
             "proverb": "\"Great minds think alike.\"",
+            "category": "English proverb",
             "description": "Smart people often have the same ideas. Say this when someone has the same smart idea that you have."
         },
         {
             "proverb": "\"Haste makes waste.\"",
+            "category": "English proverb",
             "description": "When you try to work too quickly, you make mistakes. That can waste time, money, or materials. So slow down."
         },
         {
             "proverb": "\"Hindsight is 20/20\"",
+            "category": "English proverb",
             "description": "It's easy to know what you should have done in the past, but making correct decisions is harder in the  moment. This phrase means that you shouldn't judge someone's past decisions based on the information you know now."
         },
         {
             "proverb": "\"If at first you don't succeed, try, try again.\"",
+            "category": "English proverb",
             "description": "Keep working hard and trying to succeed, even if you fail at first."
         },
         {
             "proverb": "\"If wishes were horses, beggars would ride.\"",
+            "category": "English proverb",
             "description": "Don't spend a lot of time wishing for things. Wishes are useless. Instead of wishing, you should work hard to achieve your goals."
         },
         {
             "proverb": "\"If you snooze, you lose.\"",
+            "category": "English proverb",
             "description": "You have to act quickly to get the things you want."
         },
         {
             "proverb": "\"If you don't have anything nice to say, don't say anything at all.\"",
+            "category": "English proverb",
             "description": "Don't say mean things about other people."
         },
         {
             "proverb": "\"If you're not part of the solution, you're part of the problem.\"",
+            "category": "English proverb",
             "description": "Don't just complain about problems that you see. Do something to solve the problems."
         },
         {
             "proverb": "\"It's no use crying over spilled milk.\"",
+            "category": "English proverb",
             "description": "If you break something, lose money, etc., don't get too upset about it. It's already happened, so getting upset isn't useful."
         },
         {
             "proverb": "\"It's not over 'till the fat lady sings.\"",
+            "category": "English proverb",
             "description": "Say this in a competition or game. When other people think that the result has already been decided, but you're not ready to admit that it's finished, use this phrase."
         },
         {
             "proverb": "\"Jack of all trades, master of none.\"",
+            "category": "English proverb",
             "description": "Someone who is good at a lot of different skills is usually not very good at any of them."
         },
         {
             "proverb": "\"Knowledge is power.\"",
+            "category": "English proverb",
             "description": "You should try to learn a lot. Knowing more things makes you more powerful."
         },
         {
             "proverb": "\"Lie down with dogs, wake up with fleas.\"",
+            "category": "English proverb",
             "description": "If you associate with dishonest people, bad things will happen to you."
         },
         {
             "proverb": "\"Look before you leap.\"",
+            "category": "English proverb",
             "description": "Make decisions carefully. Don't make a decision without thinking about it and researching it carefully."
         },
         {
             "proverb": "\"Measure twice, cut once.\"",
+            "category": "English proverb",
             "description": "Once you've made some decisions, it's hard to change it. Think carefully before making a decision."
         },
         {
             "proverb": "\"Misery loves company.\"",
+            "category": "English proverb",
             "description": "People who are unhappy want to make other people unhappy too."
         },
         {
             "proverb": "\"Never put off till (until) tomorrow what you can do today.\"",
+            "category": "English proverb",
             "description": "Don't be lazy. If you have some work that you need to do, do it now. Don't wait to do it later."
         },
         {
             "proverb": "\"Power corrupts, and absolute power corrupts absolutely.\"",
+            "category": "English proverb",
             "description": "When people get power, they always do mean, dishonest things. We shouldn't allow anyone to have too much power."
         },
         {
             "proverb": "\"Rome wasn't built in a day.\"",
+            "category": "English proverb",
             "description": "Doing important work takes a long time. Be patient."
         },
         {
             "proverb": "\"Slow and steady wins the race.\"",
+            "category": "English proverb",
             "description": "You shouldn't use all of your energy at the beginning of a project. Work slowly so that you won't run out of energy quickly."
         },
         {
             "proverb": "\"Still waters run deep.\"",
+            "category": "English proverb",
             "description": "People who don't talk a lot sometimes have really interesting thoughts."
         },
         {
             "proverb": "\"Strike while the iron is hot.\"",
+            "category": "English proverb",
             "description": "When you have a good opportunity, go for it. Don't wait for too long."
         },
         {
             "proverb": "\"The apple doesn't fall far from the tree.\"",
+            "category": "English proverb",
             "description": "Children are very similar to their parents."
         },
         {
             "proverb": "\"The road to hell is paved with good intentions.\"",
+            "category": "English proverb",
             "description": "What you want or intend to do doesn't matter. Your actions matter. Simply wanting to do the right thing isn't enough; you have to actually do the right thing."
         },
         {
             "proverb": "\"The best way to a man's heart is through his stomach.\"",
+            "category": "English proverb",
             "description": "Men love women who can cook well."
         },
         {
             "proverb": "\"There's no such thing as bad publicity.\"",
+            "category": "English proverb",
             "description": "When people talk about a business, it's good for the business, even if they're saying bad things about it."
         },
         {
             "proverb": "\"Time is money.\"",
+            "category": "English proverb",
             "description": "Wasting time is expensive, so hurry up!"
         },
         {
             "proverb": "\"Two is company, three is a crowd.\"",
+            "category": "English proverb",
             "description": "You say this when you want to be alone with someone (often because you are romantically interested in them) but someone else is also with you. In other words, you want the third person to go away."
         },
         {
             "proverb": "\"What goes around comes around.\"",
+            "category": "English proverb",
             "description": "If you do bad things to other people, bad things will happen to you. On the other hand, good things will happen to you if you do good things to other people."
         },
         {
             "proverb": "\"What goes up must come down.\"",
+            "category": "English proverb",
             "description": "Nothing can continue to increase forever. Everything that grows or rises will shrink or fall eventually."
         },
         {
             "proverb": "\"What's good for the goose is good for the gander.\"",
+            "category": "English proverb",
             "description": "A goose is a type of bird. A gander is the male version of that bird. So this phrase means that things which are good for women are also good for men, and vice versa."
         },
         {
             "proverb": "\"You can catch more flies with honey than with vinegar.\"",
+            "category": "English proverb",
             "description": "To get what you want, be nice to people. Don't yell at them or be mean."
         },
         {
             "proverb": "\"You can't have your cake and eat it too.\"",
+            "category": "English proverb",
             "description": "This means that you can't have everything you want. There are trade-offs in life. You may also hear people say that you can have your cake and eat it too."
         },
         {
             "proverb": "\"You can't teach an old dog new tricks.\"",
+            "category": "English proverb",
             "description": "Older people don't change their habits easily."
         },
         {
             "proverb": "\"You reap what you sow.\"",
+            "category": "English proverb",
             "description": "Your actions have consequences. When you do good things, good things happen to you. When you do bad things, bad things happen to you."
         },
         {
             "proverb": "\"Two wrongs don't make a right.\"",
+            "category": "English proverb",
             "description": "When someone has done something bad to you, trying to get revenge will only make things worse."
         },
         {
             "proverb": "\"The pen is mightier than the sword.\"",
+            "category": "English proverb",
             "description": "Trying to convince people with ideas and words is more effective than trying to force people to do what you want."
         },
         {
             "proverb": "\"When in Rome, do as the Romans.\"",
+            "category": "English proverb",
             "description": "Act the way that the people around you are acting. This phrase might come in handy when you're traveling abroad notice that people do things differently than you're used to."
         },
         {
             "proverb": "\"The squeaky wheel gets the grease.\"",
+            "category": "English proverb",
             "description": "You can get better service if you complain about something. If you wait patiently, no one's going to help you."
         },
         {
             "proverb": "\"When the going gets tough, the tough get going.\"",
+            "category": "English proverb",
             "description": "Strong people don't give up when they come across challenges. They just work harder."
         },
         {
             "proverb": "\"No man is an island.\"",
+            "category": "English proverb",
             "description": "You can't live completely independently. Everyone needs help from other people."
         },
         {
             "proverb": "\"Fortune favors the bold.\"",
+            "category": "English proverb",
             "description": "People who bravely go after what they want are more successful than people who try to live safely."
         },
         {
             "proverb": "\"People who live in glass houses should not throw stones.\"",
+            "category": "English proverb",
             "description": "Don't criticize other people if you're not perfect yourself."
         },
         {
             "proverb": "\"Hope for the best, but prepare for the worst.\"",
+            "category": "English proverb",
             "description": "Bad things might happen, so be prepared."
         },
         {
             "proverb": "\"Better late than never.\"",
+            "category": "English proverb",
             "description": "It's best to do something on time. But if you can't do it on time, do it late."
         },
         {
             "proverb": "\"Birds of a feather flock together.\"",
+            "category": "English proverb",
             "description": "People like to spend time with others who are similar to them."
         },
         {
             "proverb": "\"Keep your friends close and your enemies closer.\"",
+            "category": "English proverb",
             "description": "If you have an enemy, pretend to be friends with them instead of openly fighting with them. That way you can watch them carefully and figure out what they're planning."
         },
         {
             "proverb": "\"A picture is worth a thousand words.\"",
+            "category": "English proverb",
             "description": "Pictures convey emotions and messages better than written or spoken explanations. That's why PhraseMix has illustrations :)"
         },
         {
             "proverb": "\"There's no such thing as a free lunch.\"",
+            "category": "English proverb",
             "description": "Things that are offered for free always have a hidden cost."
         },
         {
             "proverb": "\"There's no place like home.\"",
+            "category": "English proverb",
             "description": "Your own home is the most comfortable place to be."
         },
         {
             "proverb": "\"Discretion is the greater part of valor.\"",
+            "category": "English proverb",
             "description": "Sometimes it's important to know when to give up and run away, instead of always acting brave and maybe getting hurt."
         },
         {
             "proverb": "\"The early bird catches the worm.\"",
+            "category": "English proverb",
             "description": "You should wake up and start work early if you want to succeed."
         },
         {
             "proverb": "\"Never look a gift horse in the mouth.\"",
+            "category": "English proverb",
             "description": "If someone offers you a gift, don't question it."
         },
         {
             "proverb": "\"You can't make an omelet without breaking a few eggs.\"",
+            "category": "English proverb",
             "description": "When you try to do something great, you'll probably make a few people annoyed or angry. Don't worry about those people; just focus on the good results."
         },
         {
             "proverb": "\"God helps those who help themselves.\"",
+            "category": "English proverb",
             "description": "Don't just wait for good things to happen to you. Work hard to achieve your goals."
         },
         {
             "proverb": "\"You can't always get what you want.\"",
+            "category": "English proverb",
             "description": "Don't whine and complain if you don't get what you wanted."
         },
         {
             "proverb": "\"Cleanliness is next to godliness.\"",
+            "category": "English proverb",
             "description": "Be clean. God likes that."
         },
         {
             "proverb": "\"A watched pot never boils.\"",
+            "category": "English proverb",
             "description": "If something takes time to finish, don't watch it too closely because it will seem like it's taking forever."
         },
         {
             "proverb": "\"Beggars can't be choosers.\"",
+            "category": "English proverb",
             "description": "If you're asking for a favor from someone else, you have to take whatever they give you."
         },
         {
             "proverb": "\"Actions speak louder than words.\"",
+            "category": "English proverb",
             "description": "Just saying that you'll do something doesn't mean much. Actually doing it is harder and more meaningful."
         },
         {
             "proverb": "\"If it ain't broke, don't fix it.\"",
+            "category": "English proverb",
             "description": "Don't try to improve something that already works fairly well. You'll probably end up causing new problems."
         },
         {
             "proverb": "\"Practice makes perfect.\"",
+            "category": "English proverb",
             "description": "You have to practice a skill a lot to become good at it."
         },
         {
             "proverb": "\"Too many cooks spoil the broth.\"",
+            "category": "English proverb",
             "description": "When there are too many people trying to lead and give their opinions, it's confusing and leads to bad results. Jobs and projects should have one or two strong leaders."
         },
         {
             "proverb": "\"Easy come, easy go.\"",
+            "category": "English proverb",
             "description": "When you get money quickly, like by winning it, it's easy to spend it or lose it quickly as well."
         },
         {
             "proverb": "\"Don't bite the hand that feeds you.\"",
+            "category": "English proverb",
             "description": "If someone's paying you or helping you out, you have to be careful not to make them angry or say bad things about them."
         },
         {
             "proverb": "\"All good things must come to an end.\"",
+            "category": "English proverb",
             "description": "You can't keep having good luck or fun forever; eventually it will stop."
         },
         {
             "proverb": "\"If you can't beat 'em, join 'em.\"",
+            "category": "English proverb",
             "description": "When you try to change someone's behavior and it doesn't work, you might have to change instead. For example, if you're trying to get your classmates to focus on studying but they want to party, maybe you should just party with them."
         },
         {
             "proverb": "\"One man's trash is another man's treasure.\"",
+            "category": "English proverb",
             "description": "Different people have different ideas about what's valuable."
         },
         {
             "proverb": "\"There's no time like the present.\"",
+            "category": "English proverb",
             "description": "If you need to do something, don't wait until later. Do it now."
         },
         {
             "proverb": "\"Beauty is in the eye of the beholder.\"",
+            "category": "English proverb",
             "description": "Different people have different ideas about what's beautiful."
         },
         {
             "proverb": "\"Necessity is the mother of invention.\"",
+            "category": "English proverb",
             "description": "When you're really in need, you think of creative solutions to your problems."
         },
         {
             "proverb": "\"A penny saved is a penny earned.\"",
+            "category": "English proverb",
             "description": "Save your money. Saving money is just like making money."
         },
         {
             "proverb": "\"Familiarity breeds contempt.\"",
+            "category": "English proverb",
             "description": "When you're around someone for too long, you get tired of them and annoyed by them."
         },
         {
             "proverb": "\"You can't judge a book by its cover.\"",
+            "category": "English proverb",
             "description": "Things sometimes look different than they really are. A restaurant that looks old and small might have amazing food, for example."
         },
         {
             "proverb": "\"Good things come to those who wait.\"",
+            "category": "English proverb",
             "description": "Be patient. Eventually something good will happen to you."
         },
         {
             "proverb": "\"Don't put all your eggs in one basket.\"",
+            "category": "English proverb",
             "description": "Have a backup plan. Don't risk all of your money or time in one plan."
         },
         {
             "proverb": "\"Two heads are better than one.\"",
+            "category": "English proverb",
             "description": "When two people cooperate with each other, they come up with better ideas."
         },
         {
             "proverb": "\"The grass is always greener on the other side of the hill.\"",
+            "category": "English proverb",
             "description": "People tend to want whatever they don't have."
         },
         {
             "proverb": "\"Do unto others as you would have them do unto you.\"",
+            "category": "English proverb",
             "description": "Don't do mean things to people."
         },
         {
             "proverb": "\"A chain is only as strong as its weakest link.\"",
+            "category": "English proverb",
             "description": "If one member of a team doesn't perform well, the whole team will fail."
         },
         {
             "proverb": "\"Honesty is the best policy.\"",
+            "category": "English proverb",
             "description": "Don't lie."
         },
         {
             "proverb": "\"Absence makes the heart grow fonder.\"",
+            "category": "English proverb",
             "description": "Sometimes it's good to be away from your partner, because it makes you want to see each other again."
         },
         {
             "proverb": "\"You can lead a horse to water, but you can't make him drink.\"",
+            "category": "English proverb",
             "description": "If you try to help someone, but they don't take your advice or offers, give up. You can't force someone to accept your help."
         },
         {
             "proverb": "\"Don't count your chickens before they hatch.\"",
+            "category": "English proverb",
             "description": "Your plans might not work out, so don't start thinking about what you'll do after you succeed. Wait until you've already succeeded, and then you can think about what to do next."
         },
         {
             "proverb": "\"If you want something done right, you have to do it yourself.\"",
+            "category": "English proverb",
             "description": "Don't trust other people to do important things for you. You have to do things yourself to control the quality of the results."
+        },
+        {
+            "proverb": "\"Your elbow is close but you can’t bite it.\"",
+            "category": "Russian proverb",
+            "description": "A way to express when someone is physically present but emotionally distant or when something can be seen but is just beyond your reach."
+        },
+        {
+            "proverb": "\"Opportunity knocks only once.\"",
+            "category": "Spanish proverb",
+            "description": "Always seize an opportunity when it comes your way as you may not get another chance at it."
+        },
+        {
+            "proverb": "\"To call a man a thief gives him the right to be one.\"",
+            "category": "Old Arabic proverb",
+            "description": "Treating someone in an unfair or cruel way will ensure a similar behaviour from them in the future."
         }
     ]
 }

@@ -102,6 +102,10 @@ export type ProverbData = {
      */
     proverb: string
     /**
+     * Proverb category
+     */
+    category?: string
+    /**
      * Proverb description
      */
     description: string

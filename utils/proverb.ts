@@ -7,6 +7,7 @@ import { css } from './getCss'
 import { profile } from './env'
 
 import { proverbs } from './proverbs'
+
 // import { idx } from './search'
 
 export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<string> {
@@ -31,8 +32,12 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
         ? await getProverbByKeywords(keywords)
         : await getProverbByCategory(category)
 
-    return proverbData
-        ? `
+    if (proverbData) {
+        const category = proverbData.category ? `(${proverbData.category})` : ''
+        const title = `${proverbData.proverb} ${category}`
+        const description = proverbData.description
+
+        return `
     <svg
         width="${imageOptions.width}"
         height="${imageOptions.height}"
@@ -42,9 +47,9 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
               <div class="proverb-wrapper">
                 <div class="proverb-wrapper-desc">
                   <div class="line"></div>
-                  <p class="font-monserrat700">${proverbData.proverb}</p>
+                  <p class="font-monserrat700">${title}</p>
                   <div class="line"></div>
-                  <h3 class="font-monserratRegular">${proverbData.description}</h3>
+                  <h3 class="font-monserratRegular">${description}</h3>
                 </div>
               </div>
             </div>
@@ -52,7 +57,9 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
         <style>${css(colorOptions)}</style>
       </svg>
   `
-        : ''
+    }
+
+    return ''
 }
 
 const getProverbByKeywords = async (keywords: string | string[]): Promise<ProverbData | null> => {
