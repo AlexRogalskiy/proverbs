@@ -35,6 +35,7 @@
 [![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/proverbs)](https://hitsofcode.com/github/AlexRogalskiy/proverbs/view)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][tags]
 [![GitHub Super-Linter](https://github.com/AlexRogalskiy/proverbs/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![GitHub JSON-Validator](https://github.com/AlexRogalskiy/proverbs/workflows/Validate%20JSONs/badge.svg)](https://github.com/OrRosenblatt/validate-json-action)
 
 ## _Table of contents_
 

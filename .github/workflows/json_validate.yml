@@ -9,11 +9,15 @@ on:
 jobs:
   verify-json-validation:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        schema: [ './data/schemas.json' ]
+        json: [ './data/proverbs.json' ]
     steps:
       - uses: actions/checkout@v1
 
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./data/schemas.json
-          INPUT_JSONS: ./data/proverbs.json
+          INPUT_SCHEMA: ${{ matrix.schema }}
+          INPUT_JSONS: ${{ matrix.json }}

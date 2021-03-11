@@ -1,0 +1,559 @@
+{
+    "basque": [
+        {
+            "text": "\"The hand of the stranger is heavy.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Let us have little, but let us always have enough.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Let’s agree to disagree\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Money is the best of servants, but the worst of bosses.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Not all truths are good to say.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Not having enough is like not having anything.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"A good listener needs few words.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"A promise is a debt, it’s always been said.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"By falling, one learns to walk.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Doing nothing and doing useless work are the same.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Don’t say as much as you know, and don’t eat as much as you can.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Earth belongs to the brave but heaven to those who deserve it.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Far from the eyes, far from the heart.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"For many, the truth hurts.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"God didn’t make even the fingers all the same.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"God is a busy worker but loves to be helped.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"He who doesn’t want to hear unpleasant things, shouldn’t say unpleasant things.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"If you do no wrong, you need not be afraid.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"If you have much, you will need much.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"If you hear something and you don’t object, people will assume that you agree.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"If you say anything you want, you will hear things you don’t want to.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"In an empty house, there’s nothing but anger.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"It’s better to have a good reputation, than to be rich.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"It’s better to have one than be waiting for two.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Lazy people are always busy.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Old people know much; they were taught by necessity.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"One eye is enough for the seller, but one hundred is not too many for the buyer.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"One may recover a lost sheep, but not wasted time.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"One who knows, tells everything one knows.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Talking is easy, doing is hard.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The choosy one ends up with the ordinary.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The hand of the stranger is heavy.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The lazy person has no work and has no time.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The lost sheep may be recovered, the lost time cannot.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The needle dresses people but stays naked itself.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The one who loves you will make you cry, the one who hates you will make you laugh.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The one who wants everything perfect, often gets just the opposite.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The stupid find relief in the suffering of others.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The sun shines equally on the good and the bad.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"There is never trust without loss.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"There is no bread without pain.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Those who don’t look forward, stay behind.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Time flies when you are among friends.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Well begun, is half done.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"What is in the heart, comes to the tongue.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"What is seen at home is what the child learns.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"With a good friend the hours are short.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"With the passing of time, all things are forgotten.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"You know much if you know how to live.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"You will have a sad end, bird, if you don’t make your nest while you’re still young.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"What the wolf does pleases his mate.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"When the fox is engaging you in conversation, keep an eye on your chicken.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"When there is, spend lavishly, and when there isn’t, that’s life.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Whoever crossed the river at the fordable point, knows how deep the river is.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Time goes by, and we go with it.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"To do nothing or to do useless work is the same thing.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Waiting is futile for whomever wants to kiss someone’s backside.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"There is no point in offering a helping hand to someone who wants to drown.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Those who have their tail made of straw are afraid of fire.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The thread must be longer than the needle.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The tree falls towards the side it’s leaning.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The truth is bitter and unpleasant.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The wolf and the dog agree about the goat — which together they eat.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The woman who takes a wolf for a husband is always looking into the wood.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"There is never a lack of food for the lazy person, nor of work for the industrious.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The priest’s pot is small but tasty.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The satiated cannot see the hungry.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The sickness of the body is the cure of the mind.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The small sheep, always a lamb.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The old fox sheds its old hair, but not its old habits.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The old sayings tell no lies.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The most painful insult is the one that’s true.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The one who has a lot of time to spare, is the one who always arrives late.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The closest to the church are the farthest from paradise.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The craftsman has a bad roof.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The debts made to one’s mother are never paid.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The eagle needs feathers, and the wren does too.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"The lazy person has no work, but has no time for anything else either.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Say little about what you know, and don’t say anything about what you don’t know.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Sleep with a woman and she will make sure you wake up.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Telling the truth, you may lose your friends.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"My dog slaps you with his tail and bites you with his teeth.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"My skin is closer to me than my shirt is.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Old bachelors and old maids are either too good or too bad.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Not able to take revenge on the donkey; take it out on the saddle.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"More people are threatened than are beaten up.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"In other places dogs go barefoot too.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Iron must be hammered when it’s hot.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"It is the mountains that do not move to help one another; but one man surely comes to the help of another.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"It is useless to hurry, once the water has already gone by.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"It’s not useful closing the barn door after the horse has been stolen.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Laziness leads many people astray.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Life without friends means death without neighbors.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Health is an asset without equal.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Honey is bitter for a sore mouth.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"A bleating sheep eats no grass.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"A dog which belongs to two houses dies of hunger.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"A face that never laughs betrays an evil heart.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"A father doing good things will have a similar son.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"A foreign land is a land of wolves.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"A lot of donkeys means a lot of hay.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"A silver hammer can open an iron gate.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"A thrifty father begets a squandering son.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"All things black are not coal.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"An imaginary mill produces no flour.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Another’s mother is good, but our own is much better.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Beware of women with beards and men without beards.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Empty houses are full of noises.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Eyes that don’t see don’t cry.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"God is good, but not crazy.\"",
+            "description": "",
+            "category": "basque"
+        },
+        {
+            "text": "\"Flatterers and traders are related.\"",
+            "description": "",
+            "category": "basque"
+        }
+    ]
+}
