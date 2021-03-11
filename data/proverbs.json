@@ -4752,6 +4752,575 @@
             "category": "american"
         }
     ],
+    "belgian": [
+        {
+            "text": "\"The word that is heard perishes, but the letter that is written remains.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"A tax collector is best hung on Sunday.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Even the Priest was a thief when gold was left out.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Money buys cherries.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Truth seldom finds a home.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Don’t use another person’s mouth unless it has been lent to you.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"To die in the season of plague brings no honor.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"In the end a needle weighs heavy.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Experience keeps a dear school.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"The bee, from her industry in the summer, eats honey all the winter.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"The horse must graze where it is tethered.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Who sieves too much keeps the rubbish.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Those who counsel do not pay.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"What you say when you’re drunk should have been thought about beforehand.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"One spot stains the whole dress.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Who being respected, is destitute.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Children have a hair of their father.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Life is a muddle, friendship is what sorts it out.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Proverbs are the library of history.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"He who arrives too late finds the plate turned over.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Weeds never perish.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Only the undertaker chortles in the time of plague.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Where there is accidental death, there is the devil’s own henchman at work.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"If you don’t use your head, you’ll use your pocketbook.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"A philosopher enlightens the pathway .\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Honor is better than honors.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Experience is the comb that nature gives us when we are bald.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"The beautiful is less what one sees than what one dreams.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"While the sheep bleats it loses its mouthful.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"It’s no use waiting for your ship to come in, unless you’ve sent one out.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"He who does not wish for little things does not deserve big things.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"The beggar may sing before the thief.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Happy nations have no history.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"The money lender is brother to the tax collector.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"We have quite enough to do weeding our own garden.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Love is born of faith, lives on hope and dies of charity.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Experience is the father of wisdom.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Tolerance when mocked is often transformed into anger.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"Don’t make waves.\"",
+            "description": "",
+            "category": "belgian"
+        },
+        {
+            "text": "\"God heals, but the doctor gets paid.\"",
+            "description": "",
+            "category": "belgian"
+        }
+    ],
+    "korean": [
+        {
+            "text": "\"Cross even a stone bridge after you’ve tested it.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A physician’s neighbor is never a doctor.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A sheet of paper is lighter if two of you don’t try to carry it.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"The bull that is used to the sun shivers by the light of the moon.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"One moment is worth more than a thousand gold pieces.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"If you want a well, only dig in one place.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"The frog forgets that he was once a tadpole.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Tall branches are apt to be broken.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Tap even a stone bridge before crossing.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Put something off for one day, and ten days will pass.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"There is no winter without snow, no spring without sunshine, and no happiness without companions.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A day-old pigeon cannot fly over a mountain pass.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"If a pedestrian sees a horse he will want to ride it.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Better in the grave than be a slave.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Even children of the same mother look different.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Even a monk can’t shave his own head.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"You cannot strike a face that is smiling.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"The nicest woman is your own; the nicest harvest is your neighbors.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"The bad calligrapher is choosy about his brushes.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A poor old horse will have a worn out tail.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A kitchen knife cannot carve its own handle.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Anyone who goes hungry for three days will be inclined to steal.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Give an extra piece of cake to a stepchild.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Starting is half the task.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"The bad plowman quarrels with his oxen.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"The person who has many faults is usually the first to criticize others.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A nobleman’s calf does not know how a butcher kills.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Woman was born three days earlier than the devil.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Even a sheet of paper is lighter when two people lift it.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Through old things, we learn new things.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A newborn baby has no fear of tigers.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Birds listen to day-words and rats listen to night-words.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Where there are no tigers, a wild cat is very self-important.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Power lasts ten years; influence not more than a hundred.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Wise men philosophize as the fools live on.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"After three years at a village schoolhouse, even a dog can recite a poem.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"The deeper the waters are, the more still they run.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Carve the peg by looking at the hole.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Beans come out from where beans are planted, and red beans come out from where red beans are planted.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"No sleep, no dream.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A turtle can only get on it by sticking its neck out.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"An empty cart rattles loudly.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Even honey can taste bitter if it’s used as medicine.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"In the valley where there are no tigers the hare is king.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"When you have three daughters, you sleep with the door open.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Man’s mind changes throughout the course of a day.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"The matchmaker gets three cups of wine when he succeeds and three slaps on the cheek when he fails.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"The thief hates the moon.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Don’t try to cover the whole sky with the palm of your hand.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Even if you know the way, ask one more time.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Even if the sky falls on you, there is a hole that you can escape from.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Aim high in your career but stay humble in your heart.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"If there is a rich man in the area three villages are ruined.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"If you kick a stone in anger, you’ll hurt your own foot.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Remember, even monkeys fall out of trees.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"To begin is to be half done.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Do not draw your sword to kill a fly.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Three years will eradicate even murderous thoughts.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A man’s youth will never die, unless he kills himself.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"If you starve for three days, there is no thought that does not invade your imagination.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"There is no flower that lasts ten days and no might lasts ten years.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Virginity can be lost in one night.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Even though words have no wings, they can still fly a thousand miles. Even if you encounter a stone bridge, tap it first before crossing.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"In a place where there is will, there is a road.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Butterflies come to pretty flowers.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Useful trees are cut down first.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"Words have no wings but they can fly many thousands of miles.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A fish wouldn’t get into trouble if it kept its mouth shut.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"It is a bad plowman that quarrels with his ox.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A hunter’s knife cannot carve its own handle.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"You will hate a beautiful song if you sing it often.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"A great river does not refuse any small streams.\"",
+            "description": "",
+            "category": "korean"
+        },
+        {
+            "text": "\"The person who knows himself and his opponent will be invincible. Carve a peg only after you have observed the hole.\"",
+            "description": "",
+            "category": "korean"
+        }
+    ],
     "latin_american": [
         {
             "text": "\"Listen to the silence… It speaks.\"",
@@ -8070,6 +8639,268 @@
             "text": "\"Opportunity knocks only once.\"",
             "category": "spanish",
             "description": "Always seize an opportunity when it comes your way as you may not get another chance at it."
+        }
+    ],
+    "albanian": [
+        {
+            "text": "\"The weaker the argument, the stronger the words.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"The sun at home warms better than the sun elsewhere.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"The stomach has no windows.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"The monk gets married to please his friend.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"The man who has eaten enough will never believe a hungry one.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"The fox will catch you with cunning, and the wolf with courage.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"The end of the thief is the gallows.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Stroke the dog and he will mark you with his dirty paws.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Still pursuing, still achieving.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Plough your furrows deep while sluggards sleep, and you shall have corn to sell and to keep.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Patience is the key to paradise.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Other people’s burdens killed the ass.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"One eats figs whilst the other pays.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Nobody can serve two masters.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"More lambs than sheep are slaughtered.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Love is sometimes difficult but death even more so.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"In times of need a pig is called uncle.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"In the eyes of the mouse the cat is a lion.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"If your neighbor is an early riser, you too will become one.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"If you have figs in your knapsack, everyone will want to be your friend.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"If you fear God, you won’t fear humans.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"If you are in the house of a friend, bad times are soon forgotten.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"He who leans against a big tree will always find shade.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"He who is not drunk on a Sunday is not worth a greeting on Monday.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"He who hesitates, regrets.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"He who can read and write has four eyes.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Hard heads suffer much.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Fire, water and government know nothing of mercy.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Fire is a good slave, but a bad master.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Every man is the smith of his own fortune.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Every guest hates the others, and the host hates them all.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Even the hen looks toward heaven when she drinks.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Don’t put gold buttons on a torn coat.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Brotherly love for brotherly love, but cheese for money.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"A tailless dog cannot express his joy.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"A dry bone is never licked.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"You can’t blame a dentist for looking down at the mouth.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"You cannot turn blood into water.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"You can fool an old horse once but you can’t fool him twice.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Work like a slave and eat like a gentleman.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Whoever is shy, will suffer from hunger.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Where a horse of a Turk passes the grass will not grow again.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"When you have no companion, look to your walking stick.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"When the cat is away, the mice will play.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"When in doubt, find out.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"When a hundred men call a wise man a fool, then he becomes a fool.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"When a Greek shakes your hand, count your fingers after.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"What the eye can’t see, the heart won’t crave.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"Well begun, is half done.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"To err is human; to dine, divine.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"There was anguish before there was man.\"",
+            "description": "",
+            "category": "albanian"
+        },
+        {
+            "text": "\"The wolf loves the fog.\"",
+            "description": "",
+            "category": "albanian"
         }
     ],
     "danish": [
@@ -34088,6 +34919,423 @@
             "category": "malay"
         }
     ],
+    "malawian": [
+        {
+            "text": "\"The body pays for a slip of the foot and gold pays for a slip of the tongue.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The wrong-headed fool, who refuses counsel, will come to grief.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"One muddy buffalo makes the whole herd dirty.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The lead cow gets whipped the most.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"An egg never sits on a hen.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"As if it weren’t bad enough to fall, the ladder lands on top of you.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"We are born from the womb of our mother; we are buried in the womb of the earth.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Go away and the conversation changes.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Beating a drum is not to break it.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The cradle is rocked but the baby is pinched.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"He can see a louse as far away as China but is not aware of an elephant on his nose.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Every joy will follow in grief’s footsteps.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Leave her now and then if you would really love your wife.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"A deer tethered with a golden chain can escape to the forest to eat grass.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"A piece of incense may be as large as the knee, but unless burned emits no fragrance.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Those who are at one regarding food are at one in life.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Fear to let fall a drop, will always make you spill a lot.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Every man is a prince in his own bed.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"When it’s warm the pea loses its pod.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"A diplomat should be yielding and supple as a creeper that can be bent but not broken.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The widow is just as fiery as the horse that threw her.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The smallest pepper is hottest.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The body is killed by the mouth.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Do not be like the mosquito that bites the owner of the house.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Low is the mountain, high the expectations.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The more shoots, the more leaves.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"However big the whale may be, the tiny harpoon can rob him of life.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Where there is sugar, there are mice.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Don’t buy beers to have friends\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"When a dead tree falls, the woodpeckers profit from his death.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"When the sky falls down, the earth shall melt.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Don’t dirty the place where you have eaten.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Where there is sea there will always be pirates.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The day will come when cats have horns and Dutchmen will be circumcised.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Buffaloes are held by ropes, man by his words.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The way a donkey expresses gratitude is by giving someone a bunch of kicks.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"A new broom sweeps well.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Though near shore, you’re still in the ocean.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"As a child, is a man wrapped in his mother’s womb; as an adult, in tradition; comes death, and he is wrapped in earth.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"When two elephants fight it is the grass that is in trouble.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"If you dip your arm into the pickle pot let it be up to the elbow.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Gold is a debt we can repay, but kindness not till our dying day.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The one whom God clothes will not go naked.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The most fragrant of flowers are eaten by the green-fly.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The dog has eaten the journey.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"If you have, give; if you need, seek.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"We all will die, but our tombs will differ.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"If you are going to bathe, get thoroughly wet.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"One must come out of one’s house to begin learning.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"It is the fate of the coconut husk to float, for the stone to sink.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"When the curry is tasty, the rice is hard.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The proportion of things thrills the eye.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Don’t use an axe to do embroidery.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Even the hyena has a friend, his friend is the darkness\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Don’t think there are no crocodiles just because the water’s calm.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"One day of rain far surpasses a whole year of drought.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Fish don’t get caught in deep water.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Clapping with the right hand only will not make a noise.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"When you are on the back of an elephant, do not pretend there is no dew on the grass.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"You can measure the depth of the sea but what about a man’s heart?\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"As a child you begin to hoe the garden on sandy soil.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Crabs teach their offspring to walk straight.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"One little arrow does not kill a serpent.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Don’t teach the tiger cub to eat meat.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"A single head does not carry a roof.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Wisdom is like mushrooms that come after you have finished eating – too late!\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The happier the goat the nearer the buyer\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Though a tree grows ever so high, the falling leaves return to its roots.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Crime leaves a trail like a water beetle; like a snail, it leaves its silver track; like a horse-mango, it leaves its smell.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Don’t think back on someone whose name you forgot, he is probably someone else by now.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Anything with scales counts as a fish.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"There is no difference between mother and baby snakes, they are equally poisonous.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The betrothed of good is evil; the betrothed of life is death; the betrothed of love is divorce.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The lash that drives the herd does not kill them.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Ants die in sugar.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"An upstart is a sparrow eager to marry a hornbill.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"When you are crossing over a river you might be eaten by crocodiles, but don’t let yourself get bitten by the little fish.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Kick away the ladder and your feet are left dangling.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"The teeth sometimes bite the tongue.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Just as a bamboo cane forms a round jet of water, so taking counsel together makes men of one mind.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Blow your horn in a herd of elephants; crow in the company of cockerels; bleat in a flock of goats.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"Rocks need no protection from the rain.\"",
+            "description": "",
+            "category": "malawian"
+        },
+        {
+            "text": "\"One does not make a shield in the battlefield.\"",
+            "description": "",
+            "category": "malawian"
+        }
+    ],
     "ghanaian": [
         {
             "text": "\"When a king has good counselors, his reign is peaceful.\"",
@@ -43329,6 +44577,845 @@
             "category": "mongolian"
         }
     ],
+    "ugandan": [
+        {
+            "text": "\"Caution is not cowardice; even the ants march armed.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"The hunter in pursuit of an elephant does not stop to throw stones at birds.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Only take away the wife of a strong man when he is out.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Only a fool tries to jump in the fire.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"A roaring lion kills no game.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"If he has thrown the only spear he had at you, it means that he doesn’t fear you.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"He who tells no lies will not grow up.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"When two elephants fight the grass gets trampled.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"You must judge a woman by the taste of her soup.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Death is a scar that never heals.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"It is better to be married to an old lady than to remain unmarried.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"When the master is away, the frogs hop in.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"An elephant can never fail to carry its tusks.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"A strawberry blossom will not moisten dry bread.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"The tongue of co-wives is bitter.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"In the entire world, things are two and two.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"The best part of happiness lies is in the secret heart of a lover.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Where flies are eaten, eat them.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"The peacemaker dies, while the fighters survive.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"When the moon is not full, the stars shine more brightly.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"He who has not traveled thinks that his mother is the best cook in the world.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"He who hunts two rats, catches none.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"One should never rub bottoms with a porcupine.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"What is inside a package is known only to its owner.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Water that has been begged for does not quench the thirst.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"She who keeps losing children doesn’t invent names anymore.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"With wealth one wins a woman.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"You can burn down a house, but can you hide the smoke?\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"A sheep does not lament the death of a goat’s kid.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"When throne into the sea the stone said, ‘after all, this is also a home.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Empty hands only please their owner.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"An ugly girl does not become old at home.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Polygamy makes a husband a double-tongued man.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"It is better that trials come to you in the beginning and you find peace afterwards than that they come to you at the end.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Men will love each other as long as one is richer than the other.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"The path to your heart’s desire is never overgrown.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"If a woman sees a stick for beating her rival, she will throw it away in the woods.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"He who loves, loves you with your dirt.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"If you climb up a tree, you must climb down the same tree.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Old men sit in the shade because they planted a tree many years before.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"A dog with a bone in his mouth cannot bite you.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"What is inside a package is known only to its owner. – Ugandan Proverb\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"An infertile woman gets a lot of visitors.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"‘my mother is indeed the best baby carrier,’ says the baby.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Women have no chiefs.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Sickness accompanies a waning moon; a new moon cures disease.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"In the home of the coward they laugh while in the home of the brave they cry.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"The lucky eagle kills a mouse that has eaten salt.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Familiarity is like the sea that kills the fisherman.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"He who hunts two rats, catches none.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"To heal the lovers aching heart, Give him a virgin to wed.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"The husband is always the last to know.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"The bird that pecks at a rock trusts in the strength of its beak.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"One who keeps saying ‘ I will listen and obey’ will be cooked with the corn cob.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Even the mightiest eagle comes down to the treetops to rest.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"He who is bitten by a snake fears a lizard.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"Ask help from the spirits after having used all your strength.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"If you have decided to eat a dog, eat a fat one.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"The man with one wife is the boss of all bachelors.\"",
+            "description": "",
+            "category": "ugandan"
+        },
+        {
+            "text": "\"One who sees something good must narrate it.\"",
+            "description": "",
+            "category": "ugandan"
+        }
+    ],
+    "lithuanian": [
+        {
+            "text": "\"To be without learning, is to be without eyes.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"You must get your son, your wife and your bread from your native village.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"The King searches for a crumb.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"God, take it in shirt and give me one in fur.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He is proud like a French dog.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Offer the lazy man an egg, and he’ll want you to peel it for him.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"It’s good when a dog is a friend, it’s bad when a friend is a dog.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"I can neither read, nor write, but they promise to make me a king.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He is happy like one who got a steed for present.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"From a big cloud comes little rain.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Lithuania, officially the Republic of Lithuania, is a country in Northern Europe. One of the three Baltic states, it is situated along the southeastern shore of the Baltic Sea, to the east of Sweden and Denmark. It is bordered by Latvia to the north, Belarus to the east and south, Poland to the south, and Kaliningrad Oblast (a Russian exclave) to the southwest. Lithuania has an estimated population of 2.9 million people as of 2015, and its capital and largest city is Vilnius. Lithuanians are a Baltic people. The official language, Lithuanian, along with Latvian, are the only two living languages in the Baltic branch of the Indo-European language family.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Gold glitters even in the mud.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Smoke spreads further than the fire.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Even the smallest drop is appreciated by the drunkard.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Do your best at everything you’re doing.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"One main road is better than a hundred paths.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"An old love does not rust.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Well begun is half done.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"A man without a beard is like bread without a crust.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He lives like a Swede on his seas.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"The happy do not count the hours.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"For every head a hat.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"If it weren’t for sorrow and bad times, every day would be Christmas.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"One day teaches the other.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"God gave gums, God will give granary.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Sing to the one whose cart you are riding on.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Whatever may happen the Lithuanian will not perish.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"There is no need to whip docile horses.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Without pains no gains.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"The shoemaker is always barefooted.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"As angry as a hoopoe-bird in a swamp.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"There is an herb for every kind of sickness but not for death.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"What kind of parents, such children.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He eats like a beast — without having made the sign of the cross on his muzzle.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He flings about like a fairy in a corn-kiln.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He is as sad as the one whose shot wounded a dove.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Such father, such son.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He hisses like a serpent without goat-milk.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Fear and love do not go together.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"It is easier to give orders than to work.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"To a starving man bread is sweeter than honey.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"With your head you cannot break a wall.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"To whom it itches, scratches it.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Don’t be too bold, or you will burn your eyes; but don’t be too slow, or you will lose your share.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Wherewith you coincide, such you yourself will become.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"It is good fishing in streamy water.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Words do not fill your purse.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He who drinks beer lives hundred years.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Dogs cannot make dreams come true — people must do that.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"The beauty of a housewife will not put more fat into the soup.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He is always hungry like a child of a cuckoo in another bird’s nest.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Love without envy is like a meal without salt.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"If God closes the door, He opens the window somewhere else.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He is as educated as a dog of a druggist.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Good start is a half of work\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Do what’s necessary before doing anything you want.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"There is no worse devil than a farmer who wants to be a gentleman.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Don’t laugh when your neighbor’s oven is on fire.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"You can’t blow against the wind.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Beauty will not fill your belly.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Who gives, has.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"When you are in the Devil’s wheel, you must learn how to spin.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"As fast as nine winds.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Sleep on a bed of silver and dream of gold.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"With the intellect of another you won’t get very far.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"You cannot jump higher than your navel.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"The older the goat the tighter the rope.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He who does not want to work, that cannot eat either.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He is as tenacious as a witch being drown.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He is as happy as a dove in the claws of a hawk.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"As deceptive as an April morning.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"The breath of others always stinks.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Life without wife is like a kitchen garden without fence.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"A silent pig digs the deepest root.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"A home so small it fits under a blade of grass, is still a home.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"The church is nearby, God is far away.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Don’t get happy before work is completed.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"God gave teeth; He will give bread.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Boasting pot is not greasy.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"A shoe-maker walks barefooted.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He is standing like Philip in a field of hemp.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Even the hardest of winters fears the spring.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Teeth are like doves.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"She dressed herself like an owl with the feathers of a peacock.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"If you go to bed hungry, you’ll wake up without having slept.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Without gold even the daylight is dark.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"As beautiful as a fairy-child.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"The calm water is deep.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"The calf isn’t even born yet and there he is sharpening his carving knife.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"If you run from a wolf, you may run into a bear.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"It is difficult to teach a cow to climb a tree.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He speaks like one who fell down from a tree.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Thrift is mother of wisdom.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"A widow is lying at my side like a block of ice.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Live life without rushing; death won’t be late.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"As drunk as a pig.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"It fits like a fifth foot to a dog.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He sleeps as though he were killed.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"You are learning all your life and you die stupid.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"As one devil goes out, another one comes in.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Not all that glitters is gold; not all that is sticky is tar.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"I got drunk as a bee: my legs are like quills.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Smoke in your own country is purer than fire in a foreign land.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"He is as joyful as one whose path has been crossed by a flying dove.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"Good eyes don’t fear smoke.\"",
+            "description": "",
+            "category": "lithuanian"
+        },
+        {
+            "text": "\"A slow sow digs out a deeper root.\"",
+            "description": "",
+            "category": "lithuanian"
+        }
+    ],
     "italian": [
         {
             "text": "A little man often casts a long shadow.\"",
@@ -46618,6 +48705,463 @@
             "description": "When a man is inebriated, they are more likely to tell the stories or occurrences that they normally wouldn’t if they were sober."
         }
     ],
+    "ukrainian": [
+        {
+            "text": "\"Begat a son and your name will live forever.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"A woman’s beauty cannot warm a winter’s night.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"A good, warmed vodka makes a carnation bloom inside your stomach.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The obliging fool is worse than an enemy.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"No matter how hard you try, a bull will never give milk.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Women and dogs set men together by their ears.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"A husband wants to have a healthy wife; a brother wants to have a rich sister.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The church is near, but the way is icy. The tavern is far, but I will walk carefully.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Borrowed bread lies heavy on the stomach.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The fatter the flea the leaner the dog.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"You don’t really see the world if you only look through your own window.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Flies will not land on a boiling pot.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"No man deserves punishment for his thoughts.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Luck always seems to be against the man who depends on it.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Wisdom is in the head, not in the beard.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Drunkards know no danger.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Live one century – study one century.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Keep fire away from straw.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The church is near, but the way is icy.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The earth will cover the doctor’s mistakes.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"For a job we need time. For fun we need one hour.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"An only son becomes a drunkard or a thief.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Drink a glass of wine after your soup and you will be stealing a ruble from the doctor.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Stupid as a Russian.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"He gives straw to his dog and bones to his horse.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Speak highly of the lake, but stay on the bank.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"It is light grief that can take counsel.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Work and you will be strong; sit and you will rot.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Only when you have eaten a cockroach do you appreciate soup.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"No wind is too cold for lovers.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"If the devil is powerless, send him a woman.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Love will find a way. Indifference will find an excuse.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The earth will cover the doctor’s mistakes.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Keep fire away from straw.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"A crow will never be a falcon.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The cock won’t do it, unless the hen asks for it.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Those sitting above can easily spit on those below.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The word \"enough\" does not exist for water, fire and women.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Only when you eat a lemon do you appreciate what sugar is.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"He is guilty who is not at home.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"No matter how hard you try, the bull will never give you milk.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"A friendly word is better than a heavy cake.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"When the banner is unfurled, all reason is in the trumpet.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Your head is not only for putting a hat on.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Who laughs at you also cries for you.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"To him that you tell your secret you resign your liberty.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"If you marry a young woman, make sure your friends stay outside.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"A hungry wolf is stronger than a satisfied dog.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"A woman is not a harmonica that you put aside when you have used it.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Every disadvantage has its advantage.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Fire starts with sparks.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"There are no old friendships in business.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Born quick, born blind.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"He who licks knives will soon cut his tongue.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The malicious cow disturbs the entire herd.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"If you chase 2 hares at the same time, you will catch neither of them.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Act swiftly, think slowly.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"A dream is sweeter than honey.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Love will find a way. Indifference will find an excuse.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"No cook ever died of starvation.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"A friendly word is better than a heavy cake.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Your head is not only for putting a hat on.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"With a friendly word you get farther than with a club.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"A hungry wolf is stronger than a satisfied dog.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The malicious cow disturbs the whole herd.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The lame man laughs at the blind.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"He is guilty who is not at home.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Black souls wear white shirts.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"There are many lies but barely one truth.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The devil always takes back his gifts.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The fear of death takes away the joy of living.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"A crow will never be a falcon.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Only cheese in a mousetrap can be free.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"May his memory be eternal.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The mother remembers her youth and so does not trust her daughter.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"God is looking for those who come to Him.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"An apple is never far from the apple tree.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Drunkards know no danger.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Wisdom is in the head, not in the beard.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"God sits on high and he sees far.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"If the devil is powerless, send him a woman.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"When one dog barks at nothing, a dozen will bark with him.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Fools love not the wise, drunkards love not the sober.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Love tells us many things that are not so.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"The devil likes to hide behind a cross.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Deficiencies come by the kilo and go by the gram.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Who gives in need, gives double.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"It is good fishing in streamy water.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Either dance well or start drinking.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"With patience, it is possible to dig a well with a teaspoon.\"",
+            "description": "",
+            "category": "ukrainian"
+        },
+        {
+            "text": "\"Love tells us many things that are not so.The glory and the freedom of Ukraine has not yet died) is the national anthem of Ukraine\"",
+            "description": "",
+            "category": "ukrainian"
+        }
+    ],
     "egyptian": [
         {
             "text": "\"The carpenter’s door is falling apart.\"",
@@ -48093,6 +50637,128 @@
             "text": "\"Invite people into your parlor, and they will come into your bedroom.\"",
             "description": "",
             "category": "sierra leonean"
+        }
+    ],
+    "argentinian": [
+        {
+            "text": "\"The voice of the people is the will of god.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"No woman can make a wise man out of a fool, but every woman can change a wise man into a fool.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"It’s not the heat, it’s the humidity.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"What is greatly desired is not believed when it comes.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"Abundance breeds arrogance.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"The tongue that belongs to a fake friend is sharper than a knife.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"It’s not the fault of the pig, but of the one who scratches his back.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"A dog that barks all the time gets little attention.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"Clear accounts and thick chocolate.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"A good friend is better than a near relation.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"The one who loves you will make you weep.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"It’s not the gay coat that makes the gentleman.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"Dress the monkey in silk and it is still a monkey.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"Children’s love is like water in a basket.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"A man who develops himself is born twice.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"Woman is like your shadow; follow her, she flies; fly from her, she follows.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"Three daughters and a mother are four devils for a father.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"One door is shut, but a thousand are open.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"If a man lends an ear, it’s because he, too, wants to speak.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"You praise yourself so much you’re never finished.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"If you have a tail of straw, then keep away from the fire.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"Two in harmony are in god’s company.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"The person that learns well also defends himself well.\"",
+            "description": "",
+            "category": "argentinian"
+        },
+        {
+            "text": "\"The larger the ship, the larger the storm.\"",
+            "description": "",
+            "category": "argentinian"
         }
     ],
     "japanese": [
@@ -61402,6 +64068,748 @@
             "category": "nigerien"
         }
     ],
+    "brazilian": [
+        {
+            "text": "\"You can only take out of a bag what was already in it.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Poverty is not a crime, but it’s better not to show it.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"God writes straight by broken lines.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A prevented man is worth two.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A dog bitten by a snake is afraid of sausages.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Never put off till tomorrow what you can do today.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you want it done, do it yourself. Otherwise, ask someone else to.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you have a lemon, make lemonade out of it.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who desires everything, gets nothing.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"When you get married, you need a house.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The cheapest things are the most expensive ones.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who sings throws sadness away.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Are you in a hurry? Keep walking.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The sun rises for everybody.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Every one for himself, and God for all.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Children raised, doubled work.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"No one is a prophet in his own land.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Passed waters can’t move the mills.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who keeps quiet, agrees.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Giving to poor you’re lending to God.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A bent stick will never be straight.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"For those who know how to read, a dot may be a letter.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If a counsel were a good thing, it wouldn’t be given, but sold.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"An old parrot can’t learn to talk.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"God is big, but the forest is bigger.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"From several possible events, the less worse happened.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The hand that caresses is the same that stones.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who lives, shall see.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Life begins at 40!\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"God helps those who wake up early.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A timely \"no\" beats a hasty \"yes.\"\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Hope is the last one to die.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The cake is not for its baker, but for the eater.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"When one disdains, he wants to buy.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The more one has, the more he wants.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Wish is power.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Never promise a poor person, and never owe a rich one.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Love is blind, so you have to feel your way.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Home saints can’t make miracles.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you don’t cry, you won’t suckle.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who makes a basket, makes a hundred of them.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who is alive, always drop in…\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Necessity makes the frog jump.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The one who kneeled, must pray.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The one who waits, reach.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The poor eat meat when they bite their tongues.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Friends are friends, business are business.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Never say: ‘of this water I will never drink.’\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Don’t hang your hat higher than you can reach.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who is in the rain, wants to be wet.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The owner’s eyes fatten the swine.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"It’s like exchanging six for half a dozen.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Words will not pollute the soup.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"One who does not look ahead remains behind.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Hunger is the best seasoning.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Our union makes us stronger.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who knows nothing, doubts nothing.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Like father, like son.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A bird in the hand is worth two in the bush.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"By its fruits one knows the tree.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"We are all a bit crazy, ‘and doctors’ in something.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The trees with most leaves will not necessarily produce juicy fruit.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The joy of a poor man does not last long.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"One shouldn’t look a gift horse in the mouth.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The thief who steals another one is forgiven for 100 years.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Some bad things come for good.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Nothing venture, nothing gain.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"To eat and itch, all you have to do is begin.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The one in a hurry, will have a raw meal.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"At night all cats are brown.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Walls have ears.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"What the eyes can’t see, the heart can’t feel.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"In a closed mouth the flies can’t come in.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The child of a fish is a little fish.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A sleeping fox finds no meat.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Crime doesn’t pay.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Between the beginning and the end there is always a middle.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Pepper in someone else’s eyes is refreshing.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Knowledge is power.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"One man’s happiness is another man’s sadness.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Do not put the cart before the horse.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Not even Jesus pleased everybody.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Soft water can break the hardest stone.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Beauty lies in the eyes of the beholder.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who eats the meat, faces the bones.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Hell is crowded with people of good intentions.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"In the house of a blacksmith the ornaments are made of wood.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The saint is suspicious of too many sacrifices.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who has a mouth, goes to Rome.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Don’t cry over spilt milk.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Each head, a different judgement.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Make an error is human, keep doing it is foolishness.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"It’s not worth undressing a saint to dress another one.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Don’t put the cart before the oxen.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"God writes straight even on wavy lines.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"With iron you hurt, with iron you’ll be hurt.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"One whose roof is made of glass shouldn’t shoot stones his neighbor’s.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Too much alms, the saint will be suspicious.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Money alone can’t make one happy.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The earth is not thirsty for the blood of the warriors but for the sweat of man’s labor.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"While there’s life, there’s hope.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A wise man learns at the fool’s expense.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Dirty clothes are washed at home.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"You cannot cover up the sun with a sieve.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Goodwill makes the road shorter.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who wants everything loses everything.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you’re guilt, don’t be afraid.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Where blood has been shed the tree of forgiveness cannot grow.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If it were ever to rain soup, the poor would only have forks.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Don’t carry all your eggs in one basket.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The opportunity makes the thief.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If god does not grant you glory, be content with fame.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"At home saints never perform miracles.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"There’s no good that lasts forever nor evil that never ends.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Don’t call the alligator a big-mouth till you have crossed the river.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"In a quarrel between a husband and his wife, keep away.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The worst blind is the one who doesn’t want to see.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Haste is the mother of imperfection.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"There’s always an old pair of slippers for the tired feet.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Old monkeys don’t put their hand in jars.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A scalded cat is afraid of water.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Money doesn’t sprout on trees.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who plays with pigs, will eat with them.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"An old man with a torn sleeve never dishonored anyone.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who tells a tale, tells his own version.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Habits make monks.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"As long as I am running my father will still have a son.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who warns is a true friend.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you don’t have a dog, you hunt with a cat.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"After the storm comes the easiness.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Others will measure you with the same rod you use to measure them.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"For every ailing foot, there is a slipper.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you can’t beat them, join them.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The one who left, lost his place.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Love should be paid with love.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"In the land of the blind, the one-eyed man is a king.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Never poke a jaguar with a short stick.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who knows, knows. He who doesn’t know, claps his hands.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Better droping than dry.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Appearances are deceiving.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Not only of bread will the man live.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Better preventing than fixing.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The grass is always greener on your neighbor’s yard.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Each monkey on its own branch.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"When the cucumber is small, you can warp it easier.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Much laughter, short wisdom.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A timely \"no\" beats a hasty \"yes.\"\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If marriage were a good thing, there would be no witnesses.\"",
+            "description": "",
+            "category": "brazilian"
+        }
+    ],
     "tamilan": [
         {
             "text": "\"Kind words conquer.\"",
@@ -68507,6 +71915,648 @@
             "text": "\"You can’t keep on with the same story, or do things in the same way, since nothing lasts forever.\"",
             "description": "",
             "category": "slovenian"
+        }
+    ],
+    "finnish": [
+        {
+            "text": "\"He who cannot light a fire knows nothing about love.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Not all that shines is gold, nor all that glows is silver.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Little is better than nothing.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Happiness does not come from happiness itself, but from the journey towards achieving it.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Better a bitter truth than a sweet lie.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A tree is climbed from its base.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"After the rain, fine weather.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"One’s own help [is] the best help.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"All eggs should not be put in one basket.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"War does not determine who is right, only who is remaining.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Even a small star shines in the dark.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"As we grow older our bad qualities make us younger.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"You are not a man until you have plowed a field.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A barking dog does not bite.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Who promises a lot, gives a little.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The wise man will be cheated only once.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"No one can climb a tree with no branches.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Don’t beat the man who has already been beaten.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Do it today! Tomorrow it might be forbidden.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The memories of one’s youth make for long, long thoughts.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"What is acquired easily is lost easily.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"You reap what you sow.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Love is a garden full of flowers and marriage is a field of stinging nettles.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A small candle can light up the darkest forest.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Silence is gold, talking is silver.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A child who is loved has many names.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Who stands by the door of his house is not yet gone away.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A child is like an axe; even if it hurts, you still carry them on your shoulders.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The cheese betrays the milk.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"If you borrow some chaff from the rich man you have to repay him with wheat.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"One sleeps like one makes his bed.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"One cannot ski so softly that the tracks cannot be seen.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A woman becomes her most beautiful, one hour after taking a sauna.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Geese are caught with Geese.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The lazy sweat when they eat and complain of the cold when they work.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Do not protect yourself by a stone wall, but rather by your family.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"He who shuns the millstone, shuns the meal.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A married man has many sorrows — an unmarried man has one more.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The cat would eat fish, too, but it wouldn’t jump into the ocean.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"He needs a long candle who awaits the death of another.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The wolf makes a terrible shepherd.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Such father, such son.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A spot in gold and a fault in a wise man are soon visible.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Even the crow sings with its own voice.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Praise your horse tomorrow, your son when he has a beard, your daughter when she is married and yourself never.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A fat man is a lazy man.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Don’t raise your club so high; it will only fall on your head.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The path of obligation lies down the marriage aisle.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Men seek a warm hearth as termites seek rotten wood.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Age does not give sense it only makes one go slowly.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A fool boasts of his horse, a madman of his wife, the skillfulness of his children.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The old cow forgets that she was once a calf.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A small fire in the hearth is better than fleas in the bed.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The cake is fine on top, but there are crickets inside.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Read like the devil reads the Bible.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Freedom does not lengthen life.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"No smoke without fire.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Foreigners bring fleas to the sauna.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The world is a good teacher, but it charges a huge fee.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"If tar, hard liquor and sauna do not cure; the disease is fatal.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The back has to pay for what the ears didn’t hear.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Cowardice will not prolong life.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A priest with lice in his beard brings bad luck everywhere he travels.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The lazy man is living behind God’s back.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A loaf of fresh baked bread brings happiness to even devils.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"God did not create haste.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The apple does not fall far from the tree.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Other land blueberry; own land strawberry.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"He who shares the meat is always left with the bone.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A wife who farts during the supper hour foretells a thunderstorm.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A widow, like a widower, is a house without a roof.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Better one hazel grouse in the bag, than ten on the branch.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A honey pot often contains wasps.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"One who grows up without discipline will die without glory.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A mother-in-law who farts during the supper foretells a good harvest.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The echo knows all languages.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Love blinds your eyes, marriage opens them wide.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The mouth lies, but the eyes tell the truth.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A ring round the sun for rain, a ring round the moon for fine weather.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A poke in the eye for those, who dwell on the past.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Everyone knows the bear, but the bear knows no one.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Spend, spend, spend – your children will pay the debts.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Life is uncertain so eat your desert first.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Not worth it to go further than the sea for fish.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A beloved child has many names.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A child unwilling to be taught must learn to dig trenches.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A wife who cannot cook puts the blame on the pots.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"An opportunity makes a thief.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The reins of fortune, the keys to luck, are in the hands of God and not under envy’s arm or at an evil person’s fingertips.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Big fish are worth of fishing even if you don’t catch one.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"From a word comes a word; from a spark the earth catches fire.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"If the bathroom and a brandy cannot help a man, then death is imminent.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Invite a beggar to break bread and you will be minding the silver all evening.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Judge not the dog by its hair.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Be always a little afraid so that you never will be much afraid.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"In heaven you wont hear the mosquitoes.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"If there is snow in the forest at the New Year, diseases will spread that year.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"With a walking-stick you reach many lands; you reach many more with words.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"One shouldn’t make a bull out of a fly.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Evil will get its share.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The winter does not leave without a backward glance.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The walking-stick reaches many lands, the word many more.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"If a man knew where he would fall, he would spread straw there first.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"An old dog doesn’t bark lies.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Rain in August portend crickets in the tea kettle.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Never judge a reindeer from close by when you got it from a rich man because you may find that some of the antlers are missing.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Such mother, such daughter.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The butchers children go to bed hungry.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A tiny morsel is a feast to the starving man.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A laughing ermine eats a goodly cobbler while the weasel dances to his own tune.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The forest answers in the same way one shouts at it.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The mouth brought the wolf into the trap, the tongue the ermine to the snare.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"One year ages the old, two years grow a child.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Rain does not stay in the sky.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A youth who does not work hard, will be begging will he is old.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The unhappy child cries for toasted snow.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"The woman should let the man lead the dance.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A good deal for two, is a clip on the ears of a third.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Don’t look for lice if you’re not itching.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Help a man uphill, not at the foot of the hill.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Age does not give you good sense, it only makes you go slowly.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"To an optimist every weed is a flower; to a pessimist every flower is a weed.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Winter brings want.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Big words won’t split ones mouth.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"A good bell is heard from far, a bad one still further.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Better ice that melts than fire that extinguishes.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"When you flee from a wolf, you run into a bear.\"",
+            "description": "",
+            "category": "finnish"
+        },
+        {
+            "text": "\"Those who wrestle weasels will be scratching for fleas.\"",
+            "description": "",
+            "category": "finnish"
         }
     ],
     "luxembourgish": [
