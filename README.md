@@ -326,7 +326,7 @@ This is example of using _**Styled Proverbs**_:
 Result:
 
 <div align="center" style="align-content: center">
-    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Proverbs" />
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Proverbs" />
 </div>
 
 ## _Visitor stats_

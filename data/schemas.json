@@ -1,6 +1,5 @@
 {
     "$id": "https://github.com/AlexRogalskiy/proverbs/blob/master/data/schemas.json",
-    "$schema": "http://json-schema.org/draft-04/schema",
     "description": "A representation of a proverb data object",
     "type": "object",
     "properties": {
