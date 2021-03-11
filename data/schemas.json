@@ -1,0 +1,41 @@
+{
+    "$id": "https://github.com/AlexRogalskiy/proverbs/blob/master/data/schemas.json",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "A representation of a proverb data object",
+    "type": "object",
+    "properties": {
+        "english": {
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/proverb"
+            }
+        }
+    },
+    "$defs": {
+        "proverb": {
+            "type": "object",
+            "properties": {
+                "text": {
+                    "type": "string",
+                    "description": "Proverb text"
+                },
+                "description": {
+                    "type": "string",
+                    "description": "Proverb description"
+                },
+                "category": {
+                    "type": "string",
+                    "description": "Proverb category"
+                }
+            },
+            "required": [
+                "text",
+                "description",
+                "category"
+            ]
+        }
+    },
+    "required": [
+        "english"
+    ]
+}
