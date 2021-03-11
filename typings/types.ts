@@ -95,7 +95,7 @@ export enum LanguagePattern {
     american = 'american',
     belgian = 'belgian',
     korean = 'korean',
-    latin_american = 'latin_american',
+    latin_american = 'latin-american',
     azerbaijani = 'azerbaijani',
     sanskrit = 'sanskrit',
     costa_rikan = 'costa-rikan',
