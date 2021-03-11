@@ -17,7 +17,7 @@
 [![Tokei](https://tokei.rs/b1/github/AlexRogalskiy/proverbs?category=lines)](https://github.com/XAMPPRocky/tokei)
 ![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/AlexRogalskiy/proverbs)
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
-[![DOI](https://zenodo.org/badge/334777292.svg)](https://zenodo.org/badge/latestdoi/334777292)
+[![DOI](https://zenodo.org/badge/346359381.svg)](https://zenodo.org/badge/latestdoi/346359381)
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/proverbs.svg)](https://david-dm.org/AlexRogalskiy/proverbs)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/alexrogalskiy/proverbs/master/LICENSE?token=AH44ZFH7IF2KSEDK7LSIW3C7YOFYC)
@@ -101,40 +101,93 @@ Here is a list of languages supported by Proverb API:
 | **Name**                          | **Value**                     | 
 | --------------------------------- | ----------------------------- |
 | **English**                       | english                       |
+| **Azerbaijani**                   | azerbaijani                   |
 | **Spanish**                       | spanish                       |
+| **Sanskrit**                      | sanskrit                      |
 | **Danish**                        | danish                        |
+| **Dutch**                         | dutch                         |
+| **Burundian**                     | burundian                     |
+| **Beninese**                      | beninese                      |
+| **Dominican**                     | dominican                     |
+| **Martiniquais**                  | martiniquais                  |
+| **Gypsy**                         | gypsy                         |
+| **Sri Lankan**                    | sri_lankan                    |
+| **Jordanian**                     | jordanian                     |
+| **Tibetan**                       | tibetan                       |
+| **Tanzanian**                     | tanzanian                     |
+| **Cypriot**                       | cypriot                       |
+| **Walloon**                       | walloon                       |
+| **Babylonian**                    | babylonian                    |
+| **Haitian**                       | haitian                       |
+| **Algerian**                      | algerian                      |
+| **Myanmar**                       | myanmar                       |
+| **Swahili**                       | swahili                       |
+| **Iraqi**                         | iraqi                         |
+| **Romanian**                      | romanian                      |
+| **Ivorian**                       | ivorian                       |
+| **Yemeni**                        | yemeni                        |
+| **Serbian**                       | serbian                       |
+| **Bedouin**                       | bedouin                       |
 | **Russian**                       | russian                       |
-| **Arabic**                        | arabic                        |
+| **Arabian**                       | arabian                       |
+| **Belizean**                      | belizean                      |
+| **Indonesian**                    | indonesian                    |
+| **Jewish**                        | jewish                        |
+| **Senegalese**                    | senegalese                    |
+| **Senegalese**                    | senegalese                    |
+| **Islamic**                       | islamic                       |
 | **French**                        | french                        |
+| **Fijian**                        | fijian                        |
 | **Kenyan**                        | kenyan                        |
+| **Malagasy**                      | malagasy                      |
 | **Latin**                         | latin                         |
 | **Moorish**                       | moorish                       |
 | **Swiss**                         | swiss                         |
 | **Turkish**                       | turkish                       |
 | **Ethiopian**                     | ethiopian                     |
 | **German**                        | german                        |
+| **Mexican**                       | mexican                       | 
+| **Congolese**                     | congolese                     | 
+| **Malaysian**                     | malaysian                     |
+| **Ghanaian**                      | ghanaian                      |
+| **Maltese**                       | maltese                       |
+| **Filipino**                      | filipino                      |
 | **Afghan**                        | afghan                        |
 | **Icelandic**                     | icelandic                     |
 | **Italian**                       | italian                       |
 | **Egyptian**                      | egyptian                      |
+| **Hawaiian**                      | hawaiian                      |
+| **Cambodian**                     | cambodian                     |
+| **Creole**                        | creole                        |
+| **Zen**                           | zen                           |
+| **Sierra Leonean**                | sierra_leonean                |
 | **Armenian**                      | armenian                      |
 | **Yiddish**                       | yiddish                       |
 | **Thai**                          | thai                          |
 | **Burmese**                       | burmese                       |
 | **Greek**                         | greek                         |
 | **African**                       | african                       |
+| **Cameroonian**                   | cameroonian                   |
+| **Iranian**                       | iranian                       |
 | **New Zelander**                  | new_zelander                  |
 | **Cuban**                         | cuban                         |
+| **Palestinian**                   | palestinian                   |
 | **Welsh**                         | welsh                         |
 | **Zulu**                          | zulu                          |
 | **Bantu**                         | bantu                         |
 | **Jamaican**                      | jamaican                      |
 | **Sudanese**                      | sudanese                      |
 | **Moroccan**                      | moroccan                      |
+| **Vietnamese**                    | vietnamese                    |
 | **Indian**                        | indian                        |
+| **Hebrew**                        | hebrew                        |
+| **Czech**                         | czech                         |
+| **Nigerian**                      | nigerian                      |
+| **Tamilan**                       | tamilan                       |
 | **Chinese**                       | chinese                       |
 | **Portuguese**                    | portuguese                    |
 | **Swedish**                       | swedish                       |
+| **Mongolian**                     | mongolian                     |
 | **Irish**                         | irish                         |
 | **Japanese**                      | japanese                      |
 | **Gaelic**                        | gaelic                        |
@@ -143,6 +196,7 @@ Here is a list of languages supported by Proverb API:
 | **Luxembourgish**                 | luxembourgish                 |
 | **Hungarian**                     | hungarian                     |
 | **Macedonian**                    | macedonian                    |
+| **Samoan**                        | samoan                        |
 
 Patterns in proverbs are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 

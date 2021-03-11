@@ -1,14 +1,20 @@
-import { ColorOptions, ImageOptions, LanguagePattern, ParsedRequest, ProverbData } from '../typings/types'
+import {
+    ColorOptions,
+    ImageOptions,
+    LanguagePattern,
+    Optional,
+    ParsedRequest,
+    ProverbData,
+} from '../typings/types'
 import gradient from 'gradient-string'
 import randomColor from 'randomcolor'
+import _ from 'lodash'
 
-import { delim, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
+import { delim, isBlankString, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
 import { css } from './getCss'
 import { profile } from './env'
 
 import { proverbs } from './proverbs'
-
-// import { idx } from './search'
 
 export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<string> {
     const { language, keywords, width, height, ...rest } = parsedRequest
@@ -28,17 +34,25 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
         `
     )
 
-    const proverbData: ProverbData | null = keywords
+    const proverbData: Optional<ProverbData> = keywords
         ? await getProverbByKeywords(keywords)
         : await getProverbByLanguage(language)
 
-    if (proverbData) {
-        const category = proverbData.category ? `(${proverbData.category})` : ''
-        const text = `${proverbData.text} ${category}`
-        const description = proverbData.description
+    return getImageContent(proverbData, colorOptions, imageOptions)
+}
 
-        return `
-    <svg
+const getImageContent = (
+    proverbData: Optional<ProverbData>,
+    colorOptions: ColorOptions,
+    imageOptions: ImageOptions
+): string => {
+    if (!proverbData) return ''
+
+    const text = `${proverbData.text} ${getCategory(proverbData.category)}`
+    const description = proverbData.description
+
+    return `
+      <svg
         width="${imageOptions.width}"
         height="${imageOptions.height}"
         xmlns="http://www.w3.org/2000/svg">
@@ -46,23 +60,30 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
             <div xmlns="http://www.w3.org/1999/xhtml">
               <div class="proverb-wrapper">
                 <div class="proverb-wrapper-desc">
-                  <h3 class="font-monserrat700">${text}</h3>
-                  <div class="line"></div>
-                  <p class="font-monserratRegular">${description}</p>
-                  <div class="line"></div>
+                    ${getBodyContent(text, description)}
                 </div>
               </div>
             </div>
         </foreignObject>
         <style>${css(colorOptions)}</style>
       </svg>
-  `
-    }
-
-    return ''
+      `
 }
 
-const getProverbByKeywords = async (keywords: string | string[]): Promise<ProverbData | null> => {
+const getBodyContent = (text: string, description: string): string => {
+    return isBlankString(description)
+        ? `<h3 class="font-monserrat700">${text}</h3>`
+        : `<h3 class="font-monserrat700">${text}</h3>
+            <div class="line"></div>
+            <p class="font-monserratRegular">${description}</p>
+            <div class="line"></div>`
+}
+
+const getCategory = (category?: string | string[]): string => {
+    return category ? `(${_.isArray(category) ? category.join(',') : category})` : ''
+}
+
+const getProverbByKeywords = async (keywords: string | string[]): Promise<Optional<ProverbData>> => {
     const searchKeys = typeof keywords === 'string' ? keywords.split(',') : keywords
     //const searchResults = getSearchResults(idx(), searchKeys.join(' '))
     //const searchData = randomElement(searchResults)

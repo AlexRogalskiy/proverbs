@@ -90,40 +90,89 @@ export enum HeroPattern {
 
 export enum LanguagePattern {
     english = 'english',
+    azerbaijani = 'azerbaijani',
     spanish = 'spanish',
+    sanskrit = 'sanskrit',
     danish = 'danish',
+    dutch = 'dutch',
+    burundian = 'burundian',
+    beninese = 'beninese',
+    dominican = 'dominican',
+    martiniquais = 'martiniquais',
+    gypsy = 'gypsy',
+    sri_lankan = 'sri-lankan',
+    jordanian = 'jordanian',
+    tibetan = 'tibetan',
+    tanzanian = 'tanzanian',
+    cypriot = 'cypriot',
+    walloon = 'walloon',
+    babylonian = 'babylonian',
+    algerian = 'algerian',
+    myanmar = 'myanmar',
+    swahili = 'swahili',
+    iraqi = 'iraqi',
+    romanian = 'romanian',
+    ivorian = 'ivorian',
+    yemeni = 'yemeni',
+    serbian = 'serbian',
+    bedouin = 'bedouin',
     russian = 'russian',
-    arabic = 'arabic',
+    arabian = 'arabian',
+    belizean = 'belizean',
+    indonesian = 'indonesian',
+    jewish = 'jewish',
+    senegalese = 'senegalese',
+    islamic = 'islamic',
     french = 'french',
+    fijian = 'fijian',
     kenyan = 'kenyan',
+    malagasy = 'malagasy',
     latin = 'latin',
     moorish = 'moorish',
     swiss = 'swiss',
     turkish = 'turkish',
     ethiopian = 'ethiopian',
     german = 'german',
+    mexican = 'mexican',
+    congolese = 'congolese',
+    malaysian = 'malaysian',
+    ghanaian = 'ghanaian',
+    maltese = 'maltese',
+    filipino = 'filipino',
     afghan = 'afghan',
     icelandic = 'icelandic',
     italian = 'italian',
     egyptian = 'egyptian',
+    hawaiian = 'hawaiian',
+    cambodian = 'cambodian',
+    creole = 'creole',
     armenian = 'armenian',
     yiddish = 'yiddish',
     thai = 'thai',
     burmese = 'burmese',
     greek = 'greek',
     african = 'african',
+    cameroonian = 'cameroonian',
+    iranian = 'iranian',
     new_zelander = 'new-zelander',
     cuban = 'cuban',
+    palestinian = 'palestinian',
     welsh = 'welsh',
     zulu = 'zulu',
     bantu = 'bantu',
     jamaican = 'jamaican',
     sudanese = 'sudanese',
     moroccan = 'moroccan',
+    vietnamese = 'vietnamese',
     indian = 'indian',
+    hebrew = 'hebrew',
+    czech = 'czech',
+    nigerian = 'nigerian',
+    tamilan = 'tamilan',
     chinese = 'chinese',
     portuguese = 'portuguese',
     swedish = 'swedish',
+    mongolian = 'mongolian',
     irish = 'irish',
     japanese = 'japanese',
     gaelic = 'gaelic',
@@ -132,7 +181,13 @@ export enum LanguagePattern {
     luxembourgish = 'luxembourgish',
     hungarian = 'hungarian',
     macedonian = 'macedonian',
+    samoan = 'samoan',
 }
+
+/**
+ * Optional {@link T} or null/undefined type
+ */
+export type Optional<T> = T | null | undefined
 
 export type ProverbData = {
     /**
@@ -146,14 +201,14 @@ export type ProverbData = {
     /**
      * Proverb category
      */
-    category?: string
+    category?: string | string[]
     /**
      * Proverb description
      */
     description: string
 }
 
-export type ProverbMapper = { [K in LanguagePattern]: ProverbData[] }
+export type ProverbMapper = Record<LanguagePattern, ProverbData[]>
 
 export interface ParsedRequest {
     /**
