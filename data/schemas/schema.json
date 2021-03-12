@@ -1,7 +1,7 @@
 {
     "$id": "https://github.com/AlexRogalskiy/proverbs/blob/master/data/schemas.json",
-    "description": "A representation of a proverb data object",
-    "type": "array",
+    "description": "A representation of a collection of proverb data objects",
+    "type": "object",
     "patternProperties": {
         "^.+$": {
             "type": "array",
