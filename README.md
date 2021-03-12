@@ -102,10 +102,12 @@ Here is a list of languages supported by Proverb API:
 | **Name**                          | **Value**                     | 
 | --------------------------------- | ----------------------------- |
 | **English**                       | english                       |
-| **Canadian**                      | Canadian                      |
+| **Canadian**                      | canadian                      |
+| **Catalan**                       | catalan                       |
 | **Venezuelan**                    | venezuelan                    |
 | **American**                      | american                      |
 | **Belgian**                       | belgian                       |
+| **Belize**                        | belize                        |
 | **Bambara**                       | bambara                       |
 | **Guinean**                       | guinean                       |
 | **omali**                         | somali                        |
@@ -130,6 +132,14 @@ Here is a list of languages supported by Proverb API:
 | **Trinidadian**                   | trinidadian                   |
 | **Burundian**                     | burundian                     |
 | **Beninese**                      | beninese                      |
+| **Bengali**                       | bengali                       |
+| **Colombian**                     | colombian                     |
+| **Ecuadorian**                    | ecuadorian                    |
+| **Panamanian**                    | panamanian                    |
+| **Guyanese**                      | guyanese                      |
+| **Burkinabe**                     | burkinabe                     | 
+| **Angolan**                       | angolan                       |
+| **South African**                 | south_african                 | 
 | **Basque**                        | basque                        |
 | **Dominican**                     | dominican                     |
 | **Nicaraguan**                    | nicaraguan                    |
@@ -191,8 +201,13 @@ Here is a list of languages supported by Proverb API:
 | **Egyptian**                      | egyptian                      |
 | **Hawaiian**                      | hawaiian                      |
 | **Cambodian**                     | cambodian                     |
+| **Bolivian**                      | bolivian                      |
 | **Creole**                        | creole                        |
 | **Zen**                           | zen                           |
+| **Sierra Leonean**                | sierra_leonean                |
+| **Sinhalese**                     | sinhalese                     |
+| **Yoruba**                        | yoruba                        |
+| **Kanuri**                        | kanuri                        |
 | **Argentinian**                   | argentinian                   |
 | **Japanese**                      | japanese                      |
 | **Armenian**                      | armenian                      |
@@ -236,6 +251,7 @@ Here is a list of languages supported by Proverb API:
 | **Hindu**                         | hindu                         |
 | **Malian**                        | malian                        |
 | **Vermont**                       | vermont                       |
+| **Montenegro**                    | montenegro                    |
 | **Tajikistani**                   | tajikistani                   |
 | **Mozambican**                    | mozambican                    |
 | **Mauritanian**                   | mauritanian                   |
@@ -252,6 +268,7 @@ Here is a list of languages supported by Proverb API:
 | **Norwegian**                     | norwegian                     |
 | **Liberian**                      | liberian                      |
 | **Laotian**                       | laotian                       |
+| **Sicilian**                      | sicilian                      |
 | **Hungarian**                     | hungarian                     |
 | **Macedonian**                    | macedonian                    |
 | **Lebanese**                      | lebanese                      |

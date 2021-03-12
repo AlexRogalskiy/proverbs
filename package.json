@@ -17,6 +17,7 @@
         "postreinstall": "yarn setup",
         "postinstall": "husky install",
         "prepare": "rimraf coverage .cache",
+        "postpublish": "git push && git push --tags",
         "setup": "yarn",
         "semantic-release": "semantic-release",
         "test": "env-cmd --silent -e test jest",
