@@ -9,13 +9,14 @@ on:
 jobs:
   verify-json-validation:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v1
 
       - name: Create JSONs list
         id: json_data
         run: |
-          echo "::set-output name=files::$(find -L ./data -type f | sed -e 's#$##' | head -c -1 | tr '\n' ',')"
+          echo "::set-output name=files::$(find -L ./data -type f | grep -v schemas | sed -e 's#$##' | head -c -1 | tr '\n' ',')"
 
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
