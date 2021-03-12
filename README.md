@@ -106,7 +106,11 @@ Here is a list of languages supported by Proverb API:
 | **Venezuelan**                    | venezuelan                    |
 | **American**                      | american                      |
 | **Belgian**                       | belgian                       |
+| **Bambara**                       | bambara                       |
+| **Guinean**                       | guinean                       |
+| **omali**                         | somali                        |
 | **Korean**                        | korean                        |
+| **Albanian**                      | albanian                      |
 | **Latin American**                | latin_american                |
 | **Azerbaijani**                   | azerbaijani                   |
 | **Sanskrit**                      | sanskrit                      |
@@ -118,6 +122,7 @@ Here is a list of languages supported by Proverb API:
 | **Peruvian**                      | peruvian                      |
 | **Surinamese**                    | surinamese                    |
 | **Gypsy**                         | gypsy                         |
+| **Persian**                       | persian                       |
 | **Polish**                        | polish                        |
 | **Nepalese**                      | nepalese                      |
 | **Puerto Rikan**                  | puerto_rikan                  |
@@ -203,6 +208,14 @@ Here is a list of languages supported by Proverb API:
 | **Zulu**                          | zulu                          |
 | **Bantu**                         | bantu                         |
 | **Jamaican**                      | jamaican                      |
+| **Georgian**                      | georgian                      |
+| **Tunisian**                      | tunisian                      |
+| **Slovak**                        | slovak                        |
+| **Togolese**                      | togolese                      |
+| **Breton**                        | breton                        |
+| **Estonian**                      | estonian                      |
+| **Latvian**                       | latvian                       |
+| **Gabonese**                      | gabonese                      |
 | **Sudanese**                      | sudanese                      |
 | **Moroccan**                      | moroccan                      |
 | **Vietnamese**                    | vietnamese                    |

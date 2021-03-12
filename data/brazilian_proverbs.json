@@ -1,0 +1,744 @@
+{
+    "brazilian": [
+        {
+            "text": "\"You can only take out of a bag what was already in it.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Poverty is not a crime, but it’s better not to show it.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"God writes straight by broken lines.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A prevented man is worth two.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A dog bitten by a snake is afraid of sausages.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Never put off till tomorrow what you can do today.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you want it done, do it yourself. Otherwise, ask someone else to.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you have a lemon, make lemonade out of it.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who desires everything, gets nothing.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"When you get married, you need a house.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The cheapest things are the most expensive ones.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who sings throws sadness away.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Are you in a hurry? Keep walking.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The sun rises for everybody.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Every one for himself, and God for all.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Children raised, doubled work.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"No one is a prophet in his own land.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Passed waters can’t move the mills.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who keeps quiet, agrees.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Giving to poor you’re lending to God.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A bent stick will never be straight.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"For those who know how to read, a dot may be a letter.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If a counsel were a good thing, it wouldn’t be given, but sold.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"An old parrot can’t learn to talk.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"God is big, but the forest is bigger.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"From several possible events, the less worse happened.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The hand that caresses is the same that stones.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who lives, shall see.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Life begins at 40!\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"God helps those who wake up early.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A timely \"no\" beats a hasty \"yes.\"\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Hope is the last one to die.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The cake is not for its baker, but for the eater.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"When one disdains, he wants to buy.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The more one has, the more he wants.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Wish is power.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Never promise a poor person, and never owe a rich one.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Love is blind, so you have to feel your way.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Home saints can’t make miracles.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you don’t cry, you won’t suckle.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who makes a basket, makes a hundred of them.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who is alive, always drop in…\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Necessity makes the frog jump.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The one who kneeled, must pray.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The one who waits, reach.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The poor eat meat when they bite their tongues.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Friends are friends, business are business.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Never say: ‘of this water I will never drink.’\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Don’t hang your hat higher than you can reach.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who is in the rain, wants to be wet.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The owner’s eyes fatten the swine.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"It’s like exchanging six for half a dozen.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Words will not pollute the soup.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"One who does not look ahead remains behind.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Hunger is the best seasoning.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Our union makes us stronger.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who knows nothing, doubts nothing.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Like father, like son.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A bird in the hand is worth two in the bush.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"By its fruits one knows the tree.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"We are all a bit crazy, ‘and doctors’ in something.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The trees with most leaves will not necessarily produce juicy fruit.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The joy of a poor man does not last long.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"One shouldn’t look a gift horse in the mouth.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The thief who steals another one is forgiven for 100 years.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Some bad things come for good.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Nothing venture, nothing gain.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"To eat and itch, all you have to do is begin.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The one in a hurry, will have a raw meal.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"At night all cats are brown.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Walls have ears.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"What the eyes can’t see, the heart can’t feel.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"In a closed mouth the flies can’t come in.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The child of a fish is a little fish.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A sleeping fox finds no meat.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Crime doesn’t pay.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Between the beginning and the end there is always a middle.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Pepper in someone else’s eyes is refreshing.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Knowledge is power.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"One man’s happiness is another man’s sadness.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Do not put the cart before the horse.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Not even Jesus pleased everybody.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Soft water can break the hardest stone.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Beauty lies in the eyes of the beholder.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who eats the meat, faces the bones.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Hell is crowded with people of good intentions.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"In the house of a blacksmith the ornaments are made of wood.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The saint is suspicious of too many sacrifices.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who has a mouth, goes to Rome.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Don’t cry over spilt milk.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Each head, a different judgement.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Make an error is human, keep doing it is foolishness.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"It’s not worth undressing a saint to dress another one.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Don’t put the cart before the oxen.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"God writes straight even on wavy lines.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"With iron you hurt, with iron you’ll be hurt.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"One whose roof is made of glass shouldn’t shoot stones his neighbor’s.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Too much alms, the saint will be suspicious.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Money alone can’t make one happy.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The earth is not thirsty for the blood of the warriors but for the sweat of man’s labor.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"While there’s life, there’s hope.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A wise man learns at the fool’s expense.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Dirty clothes are washed at home.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"You cannot cover up the sun with a sieve.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Goodwill makes the road shorter.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who wants everything loses everything.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you’re guilt, don’t be afraid.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Where blood has been shed the tree of forgiveness cannot grow.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If it were ever to rain soup, the poor would only have forks.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Don’t carry all your eggs in one basket.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The opportunity makes the thief.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If god does not grant you glory, be content with fame.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"At home saints never perform miracles.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"There’s no good that lasts forever nor evil that never ends.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Don’t call the alligator a big-mouth till you have crossed the river.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"In a quarrel between a husband and his wife, keep away.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The worst blind is the one who doesn’t want to see.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Haste is the mother of imperfection.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"There’s always an old pair of slippers for the tired feet.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Old monkeys don’t put their hand in jars.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A scalded cat is afraid of water.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Money doesn’t sprout on trees.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who plays with pigs, will eat with them.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"An old man with a torn sleeve never dishonored anyone.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Who tells a tale, tells his own version.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Habits make monks.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"As long as I am running my father will still have a son.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who warns is a true friend.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you don’t have a dog, you hunt with a cat.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"After the storm comes the easiness.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Others will measure you with the same rod you use to measure them.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"For every ailing foot, there is a slipper.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If you can’t beat them, join them.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The one who left, lost his place.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Love should be paid with love.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"In the land of the blind, the one-eyed man is a king.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Never poke a jaguar with a short stick.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"He who knows, knows. He who doesn’t know, claps his hands.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Better droping than dry.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Appearances are deceiving.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Not only of bread will the man live.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Better preventing than fixing.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"The grass is always greener on your neighbor’s yard.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Each monkey on its own branch.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"When the cucumber is small, you can warp it easier.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"Much laughter, short wisdom.\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"A timely \"no\" beats a hasty \"yes.\"\"",
+            "description": "",
+            "category": "brazilian"
+        },
+        {
+            "text": "\"If marriage were a good thing, there would be no witnesses.\"",
+            "description": "",
+            "category": "brazilian"
+        }
+    ]
+}

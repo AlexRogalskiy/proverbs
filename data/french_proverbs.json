@@ -1,0 +1,4379 @@
+{
+    "french": [
+        {
+            "text": "\"When he was fifteen the devil was a good looking boy.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What is learned in the cradle lasts to the grave.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It’s a big wind that blows on small doors.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Honey in the mouth, bile in the heart.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The heart sees farther than the head.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Men leap over where the hedge is lower.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who can’t pretend cannot govern.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is easier to abstain than to restrain.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A sin that is hidden is half forgiven.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Where wine appears the doctor disappears.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who does not advance goes backwards.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Repentance costs dear.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The apple does not fall far from the tree.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What goes around comes around.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nothing is such a heavy burden as a secret is.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who wants to conquer lechery must flee from it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Against change of fortune set a brave heart.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You only lend to rich people.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What is done no longer needs to be done.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The first half of life is spent in longing for the second, the second half in regretting the first.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Money is a good servant but a bad master.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Trust is the mother of exasperation.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is not enough to run; you must start on time.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Such father, such sons.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Prices are forgotten, quality remains.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who is near the Church is often far from God.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The friends of our friends are our friends.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It takes two to tango.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A woman who dances too much gets ill from little work.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A black hen lays a white egg.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Show me a liar, and I’ll show you a thief.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better finger off as ay wagging.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What was hard to endure is sweet to recall.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you live in Rome, don’t quarrel with the Pope.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A friend to my table and wine is no good neighbor.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is a double pleasure to deceive the deceiver.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Many enter the wood without an axe.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Authority has no partner.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Where the hostess is beautiful the wine is tasty.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A cow from afar gives plenty of milk.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Only the truth hurts.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is no worse water than still water.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A healthy soul cannot live in a dry body.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you want something done right, do it yourself.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Few people rise to our esteem upon closer scrutiny.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who lends to a friend loses doubly.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Ridicule kills.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You always fall down in the direction of where you bend over.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"All is well that ends well.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A girl unemployed is thinking of mischief.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A beggar on his feet is worth more than an emperor in his grave.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A dealer in onions is a good judge of scallions.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Youth lives on hope, old age on remembrance.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Glutton: one who digs his grave with his teeth.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Why kill time when one can employ it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t count your chickens before they’re hatched.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What orators lack in depth, they make up for in length.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You are never better served than by yourself.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Dogs that always fight always have bleeding ears.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No one is so generous as he who has nothing to give.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The world is the book of women.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Only he who does nothing makes a mistake.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A man without money is like a wolf without teeth.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better to hold with the hound than run with the hare.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Deal gently with the bird you mean to catch.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good armchair makes the backside soft and the heart hard.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"We never know the worth of water till the well is dry.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You often meet your destiny on the road you take to avoid it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A full belly counsels well.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is only idle people who can find time for everything.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Love teaches even asses to dance.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Quick at meat, quick at work.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A foolish judge passes brief sentence.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that makes himself an ass must not take it ill if men ride him.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fretting cares make grey hairs.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A bad workman never finds a good tool.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The bird loves her own nest.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Follow glory and it will flee, flee glory and it will follow thee.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Choosy pigs never get fat.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"None are more haughty than a common place person raised to power.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Old sins, new shame.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There are more thieves than gallows.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You recognize the saint by his miracle.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When the cage is ready the bird is flown.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What is true by lamplight is not always true by sunlight.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Wealth rarely brings happiness.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who makes excuses, himself accuses.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who falls short in the head must be long in the heels.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Between saying and doing many a pair of shoes is worn out.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t harness the donkey and the horse together.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Good riding at two anchors, men have told, for if the one fails, the other may hold.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Ill gotten goods never prosper.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"So much does one shout \"Christmas\" that at last it comes!\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Do you wish people to think well of you? Don’t speak.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You only die once.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There once was a good mother-in-law but the wolf gobbled her up.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Words are feminine, deeds masculine.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You can cage a bird but you can’t make it sing.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Everything in time comes to him who knows how to wait.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You have to be rich to be able to live like a poor man.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Discretion is the better part of valor.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Charity begins at home.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Brevity is the soul of wit.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You are either hammer or anvil.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"An ounce of prevention is worth a pound of cure.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"God who gives the wound gives the salve.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No one can be the judge in his own case.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You must not run after two hares at the same time.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"We know the worth of a thing when we have lost it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"We make big promises to avoid little presents.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Old habits die hard.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nature is beyond all teaching.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who leaves the game, loses.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Love me little, love me long.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You cannot be very smart if you have never done anything foolish.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"We are all a long time dead.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Great talker, great liar.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Never speak of a rope in the family of one who has been hanged.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Whatever measure you deal out to others will be dealt back to you.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Those who shine in the second rank, are eclipsed by the first.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A fault denied is twice committed.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Bad is the best choice.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No money, no Swiss.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nothing equals the joy of the drinker, except the joy of the wine in being drunk.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Reason does not come before years.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Unless Hell is full, no lawyer will ever be saved.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"In a good family the husband is deaf and the wife blind.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Muddied water does not reflect.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What everybody says must be true.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"To believe a thing is impossible is to make it so.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you do not have a head, you must have legs.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Wine has drowned more than the sea.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Beauty is silent eloquence.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The rich man has more relations than he knows about.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"All are not hunters who blow the horn.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who does not gain loses.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who talks too much, nobody listens to.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Deeds are fruits, words are but leaves.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Eat with pleasure; drink with measure.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The friendship of a great man is like the shadow of a bush — soon gone.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good mind possess a kingdom.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Grass will not grow on a volcano.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A day is lost if one has not laughed.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who has a wax head must not go near the fire.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The shoemaker goes barefoot.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Those who envy die, but envy stays alive.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Appearances deceives.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When we don’t have what we like, we must like what we have.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If the seawater were hotter we could catch boiled fish.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t change horses in midstream.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Words are wasted on a starving man.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is no science without patience.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When a blind man bears the standard, pity those who follow.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who marries a widow also marries her debts.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You never get clean flour from a coal sack.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Like will to like; birds of a feather flock together.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Joy shared, joy doubled: sorrow shared, sorrow halved.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who is hopeless is capable of everything.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Love subdues everything, except the felon heart.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who has a stepmother has the devil at his hearth.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that will not be counseled cannot be helped.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Love, smoke and cough are hard to hide.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One must learn to be bored.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Why hide from God what the saints already know?\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fear is a great inventor.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A fine cage won’t feed the bird.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Comparisons are odious.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Set a thief to catch a thief.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Example is the greatest of all seducers.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who is born to be hanged shall never be drowned.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Never trust a woman who mentions her virtue.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Dead lions do not roar.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is a pinch of the madman in every great man.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Men will only throw stones at trees that are laden with fruit.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"For a wise man a fool is a good advisor.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A surgeon should be young a physician old.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"That which proves too much, proves nothing.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Like master, like man.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Two sparrows on the same ear of corn are not long friends.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The best soup is made of old meat.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"An old ape never made a pretty grimace.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good lawyer is a bad neighbor.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The maxims of men disclose their hearts.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is a long day, a day without bread.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Short reckonings make long friends.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Anger is a bad adviser.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Really to stop criticism one must die.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Two times good — one time stupid.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Divide and conquer.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The ugliest tomcat always has the most beautiful mate.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The torch of love is lit in the kitchen.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There’s no accounting for tastes; Different strokes suit different folks.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A beautiful maxim in the memory is like a piece of gold in the purse.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Life is half spent before one knows what life is.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is a remedy for everything except death.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"However treacherous the sea may be, women are still more so.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"By continually scolding someone, they in time become accustomed to it and despise your reproof.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who spits in the air pollutes himself.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A bird in hand is worth two in a bush.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that does not ask will never get a bargain.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What comes from the fife goes back to the drum.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The shortest follies are the best.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Where power reigns there is no room for reason.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You know a person by his nickname.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every man thinks his own geese swans.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Do not think that one enemy is insignificant, or that a thousand friends are too many.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fashion is a tyrant from which there is no deliverance; all must conform to its whimsical.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nothing is more contagious than a bad example.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You can’t teach an old dog new tricks.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Women believe the strangest of lies as long as they are wrapped up in praise.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fish must swim three times: once in the water, a second time in the sauce, and a third time in wine in the stomach.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A cow does not know what her tail is worth until she has lost it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Do not play with edged tools.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Money knows no jurisdiction.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Save a thief from the gallows and he will cut your throat.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Deep calls to deep.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No enemies is a sign fortune forgotten you.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t put the cart before the horse.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The absent are always in the wrong.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is no lock on the purse of a gambler.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who carries nothing loses nothing.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The tiredness of the body is the health of the soul.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fear the man of one book.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"People will ignore their misfortunes and their interests when they are in competition with their pleasures.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Quick judgments are dangerous.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A fool is always beginning.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who is known as an early riser may sleep longer.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you lend something you may lose it, but not if you give it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A father is a banker provided by nature.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"To heaven for the music but to hell for a good conversation.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Good health is above wealth.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is one who kisses, and the other offers a cheek.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A friend’s meat is soon ready.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The chicken sings what the cock teaches him.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A goaded ass must trot.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You can’t get something for nothing.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better to have a friend on the road than gold and silver in your purse.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The fool’s mother is always pregnant.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"So many mates; so many enemies.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Beware of the false prophets, who come to you in sheep’s clothing, and inwardly are ravening wolves.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"In your own company no one is boss.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"I love my friends, but myself better.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When you are rich you suffer in a more comfortable way.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better safe than sorry.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who marries for love has good nights and bad days.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Put something sweet in his mouth and send good news to the heart.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who knows nothing doubts nothing.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No one gets rich quickly if he is honest.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You can’t judge a book by its cover.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The less one thinks, the more one speaks.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One man alone is prey to the wolf.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If there isn’t too much, there is too little.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Pray, pray very much; but beware of telling God what you want.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Small people always cast big shadows.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When the head is sick, the whole body is sick.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A chain is only as strong as its weakest link.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"To enjoy life is worth so much more than it costs.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A fool’s head never whitens.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When sheep get angry they are worse than wolves.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A fair promise binds a fool.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"God visits us often, but most of the time we are not home.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Love makes the world go round.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Gluttony kills more than the sword.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Religious contention is the devil’s harvest.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What the sober man thinks the drunkard tells.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"I know by my own pot how the others boil.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every one for himself and God for us all.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The attack tames the beast.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You hear little from the drummer that is paid in advance.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Small wells are better to quench your thirst.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Out of sight, out of mind.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is no pillow so soft as a clear conscience.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A fool may give a wise man counsel.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"As changeable is the moon so is the opinion of the woman.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Rats desert a sinking ship.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Everything passes, everything perishes, everything palls.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that parts with his property before his death prepares himself for much suffering.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who wishes to travel far spares his steed.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Envy takes no holiday.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Love me, love my dog.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Some fathers love another man’s daughter most.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Economy is the wealth of the poor and the wisdom of the rich.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A door must either be open or shut.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Loaning money causes loss of memory.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A clear conscience is a good pillow.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A closed mouth catches no flies.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nothing resembles an honest man more than a cheat.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who sows the seed of discord works in the devil’s barn.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The proof of the pudding is in the eating.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better ten people hurt than one dead.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Truth gives a short answer, lies go round about.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The graveyards are full of young lawyers, lost inheritance and young doctors.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Love makes time pass away and time makes love pass away.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When a man stops thinking he stops feeling.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Penny wise is often pound foolish.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Punishment is lame but it comes.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that wants to keep his house clean must not let priest or pigeon into it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When the woman wants something God quakes.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It’s good to be clever, but not to show it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There are no miracles for those that have no faith in them.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who lends to a friend loses twice.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who risks nothing, gets nothing.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is a hard winter when one wolf eats another.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Take the will for the deed.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better the second husband of a widow than the first.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A swallow doesn’t make the summer.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you would understand men, study women.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No good dog barks without reason.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t try to fly before you have wings.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Least said, soonest mended.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Lie down with dogs, wake up with fleas.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One may go a long way after one is tired.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t have too many irons in the fire.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Let sleeping dogs lie.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You cannot satisfy the whole world and your father.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When all men say you are an ass it is time to bray.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Beautiful grapes often make poor wine.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Whom God will destroy, he first make mad.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One dish does not feed two gluttons.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Give the devil his due.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that is born to be hanged shall never be drowned.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Such mother, such daughter.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The tongue goes to where the tooth aches.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Hatred watches while friendship sleeps.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A new broome sweepeth cleane.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Many a true words are spoken in jest.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every little helps.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Take a woman’s first advice and not her second.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nothing looks more like an honest man than a villain.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A coward often deals a mortal blow to the brave.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Try to reason about love, and you will lose your reason.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Mistrust is the mother of certainty.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that would eat the kernel must crack the nut.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A person is unlucky who falls on his back and breaks his nose.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that waits for a dead man’s shoes may long go barefoot.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One must bless the new moon when it is visible in the sky.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You cannot have the bacon and the pig at the same time.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Early ripe, early rotten.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Well done is better than well said.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Eavesdroppers hear no good of themselves.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No one knows where the shoe pinches, but he who wears it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every priest recommends his relics.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Vice hides under a cloak of virtue.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Barking dogs seldom bite.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The same heat that melts wax, bakes clay.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It’s a foolish sheep that makes the wolf his confessor.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Children have more need of models than critics.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Night brings counsel.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Flying birds have no master.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"In love and war don’t seek counsel.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Where love sets the table food tastes at its best.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Youth is wasted on the young.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Crooked logs make straight fires.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If youth but had the knowledge and old age the strength.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Bad news has wings.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When one door closes another opens.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You easily lend bread to the one who has flour.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A golden key opens any gate but that of heaven.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A lawyer needs three bags: one full of papers, one full of money, and one full of patience.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The city that negotiates is half conquered.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Lazy people are always eager to be doing something.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Between man and woman there is little difference, but vive la difference.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A beggar is never out of his road.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The little fish will grow big.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"In youth, one has tears without grief; in age, grief without tears.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When the kitchen maids are together the roast burns.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A woman and a melon are hard to choose.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good burgundy does a lot for women, especially when men drink it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nothing ages more than a good deed.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A mother can more easily feed seven children than seven children can feed one mother.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A stingy man is always poor.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A silent woman is a gift from God.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Even the tiniest little chapel has its saint.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The road to Hell is paved with good intentions.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Not every thunderclap is followed by lightning.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every fox carries his tail his own way.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"In love, there is always one who kisses and one who offers the cheek.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Love never dies of starvation, but often of indigestion.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Desperate maladies require desperate remedies.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The first chapter of fools is to think themselves wise.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When he was fifteen the devil was a good looking boy.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Look before you leap, for snakes among sweet flowers do creep.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There are more old drunkards than old doctors.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The best defense is a good offense.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every woman needs two men — one to be married to and the other to compare.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A living dog is better than a dead lion.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good cat deserves a good rat.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Early to bed and early to rise, makes a man healthy, wealthy and wise.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"To contradict means sometimes to knock at the door to see if anyone is at home.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Justifying a fault doubles it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who seeks evil will find it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Only a fool gets drunk from his own bottle.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A clown enriched knows neither relation nor friend.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"As you make your bed, so you must lie.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"New brooms sweep clean.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The worst jests are those which are true.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What you love is always beautiful.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Repetition is the mother of memory.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The patient one always wins.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is no such thing as an insignificant enemy.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"At night all cats are grey.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Speech is silver, Silence is golden.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If the wine bothers you while you work, stop working.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Where the woman goes the devil follows.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Second thoughts are best.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"To want to forget something is to remember it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"More haste, less speed.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Laughing is not always the proof of a mind at ease.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"In wine there is truth.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nothing speaks more eloquently than money.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t wash your dirty linen in public; It is an ill bird that fouls its own nest.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Small gifts maintain friendship, big ones maintain love.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When the blind man carries the banner, woe to those who follow.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who has no health has nothing.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Gossipers are the devil’s trumpeters.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"As you sow, so you shall reap.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"People count up the faults of those who keep them waiting.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A sin confessed is half forgiven.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Hope is the dream of a soul awake.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A glaring sunny morning, a woman that talks Latin, and a child reared on wine, never come to a good end.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you lose your wife and fifteen pennies — oh ! what a pity about the money.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Misfortunes come on horseback and depart on foot.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good cock is always slim.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Man proposes, God disposes; Everything in its season.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A smile shortens the distance.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better an egg today than a hen tomorrow.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Divorce is the sacrament of adultery.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There are none so blind as they who will not see.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t dance on a volcano.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is something in the misfortune of our best friends which does not displease us.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that flees and runs away might live to see another day.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Choose a wife rather by your ear than your eye.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There are toys for all ages.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Everything comes to the man who does not need it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No man is indispensable.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"They forgive the wine but they hang the bottle.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A full belly sets a man jigging.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Think much, say little, write less.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Everyone should sweep before his own door.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Drumming is not the way to catch a hare.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good meal ought to begin with hunger.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Half an egg is better than an empty eggcup.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Africa is a cold land where the sun is warm.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better a small fire that warms you than a big one that burns you.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One today is worth two tomorrows.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A drowning man clings to a blade of grass.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Tell a woman once she is beautiful and the devil will repeat it ten times.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Men eat fish — thanks to the sauce.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Love makes the time pass.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Poets are born, but orators are trained.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No clock is more regular than the belly.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fine feathers make fine birds.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Good swimmers are often drowned.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A friend in need is a friend indeed.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"While the grass grows the steed starves.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What you keep rots; what you give flourishes.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When a man’s friend marries, all is over between them.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Ingratitude is the mother of every vice.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better be alone than in bad company.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"All the treasures of the earth can’t bring back one lost moment.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Sickness comes in like a horse and leaves like a snail.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Widows comfort themselves when they remarry, widowers take revenge.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better foolish by all than wise by yourself.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is easy to go on foot if you are holding your horse by the rein.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A party of two is that of God; of three of the king; of four is of the devil.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is more difficult for beautiful women to stay chaste.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The art is to eat it with taste.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Marriages sealed with rings end with drawn knives.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A bad beginning makes a bad ending.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There are no beautiful prisons or ugly loved ones.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A gilt bridle for an old mule.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Patience is the virtue of the donkeys.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Might is always right.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Something that has happened once can happen again.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Faint heart never won fair lady.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who is too proud to ask is too good to receive.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A glutton is one who digs his grave with his teeth.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Do not throw pearls before swine.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Where there’s smoke, there’s fire.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The cassock does not make the monk.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Man is preceded by forest and followed by desert.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who fondles you more than usual has either deceived you or wants to.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every wise man is afraid of a fool.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is nothing new, but what has become antiquated.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Man is the only mammal that can be skinned more than once.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Great boasters, little doers.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t make a mountain out of a molehill.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Give neither salt nor counsel till you are asked for it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Diffidence is the right eye of prudence.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He had need rise early who would please everybody.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Opportunity knocks only once.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"They are not free who drag their chains behind them.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A golden bit does not make the horse any better.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you buy cheaply, you pay dearly.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Whores and thieves are always very pious.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Faith is half the battle.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who loves well, chastises well.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One is rated by others as he rates himself.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better beloved than admired.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A party of one alone is not a party.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Men are like fish, the big ones devour the small.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who rises late must trot all day.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Love is often the fruit of marriage.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No one became poor by giving alms.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When the daughter dies, the son-in-law is dead as well.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Variety is the spice of life.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is no such thing as a pretty good omelet.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who recovers but the tail of his cow does not lose all.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good fox does not eat his neighbor’s chickens.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"All that glitters is not gold.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who has two women loses his soul; he who has two houses loses his mind.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When you can’t find peace within yourself, it’s useless to seek it elsewhere.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who excuses himself accuses himself.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Appetite comes with eating; the more one has, the more one would have.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Ready money works great cures.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Practice makes perfect.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is not the hen who cackles the loudest who hatches the most eggs.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The monk responds to the abbot’s chants.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You can lead a horse to water but you can’t make it drink.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Good blood always shows itself.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A brain is worth little without a tongue.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A scalded cat fears cold water.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who expects the bowl of others makes a poor dinner.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The urine of one dog will not pollute the ocean.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It’s not what you do it’s the way that you do it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One meets his destiny often on the road he takes to avoid it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A woman’s heart dries quicker than her tears.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every art requires the whole person.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What is learned in the cradle is carried to the grave.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Old cats love young mice.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better fed than taught.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You have to give time some time.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Where there is no temptation there is no glory.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Without grace beauty is an unabated hook.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nothing dries so fast as tears.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Popularity is the small change of glory.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t look a gift horse in the mouth.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The wise do as much as they should, not as much as they can.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The man who has nothing to do is always the busiest.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Too much is never good; too little is never enough.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"With the help of an \"if’ you might put Paris into a bottle.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t slaughter more pigs than you can salt.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Preachers say: Do as I say, not as I do.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is no old bread that cannot find its cheese.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There are two great pleasures in gambling: that of winning and that of losing.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"What you lose in the fire, you will find amongst the ashes.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A man who is afraid of suffering suffers from fear itself.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There’s a pinch of the madman in every great man.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"For some of us happiness comes while we sleep.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Confidence begets confidence.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A dog may look at a bishop.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is only the first bottle that is expensive.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good name is the best of all treasures.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A big nose never spoiled a handsome face.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good bottle of wine does not need a cork.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fields have eyes and woods have ears.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"After us the deluge.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Where there’s a will there’s a way.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every doctor thinks his pills are the best.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The communal donkey gets the heaviest burden.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Even the strongest person will find his master.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No wind is of service to him that is bound for nowhere.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that spends more than he is worth spins a rope for his own neck.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The best herbs are in the smallest bags.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Deceit always returns to its master.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The while we keep a man waiting, he reflects on our shortcomings.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who teaches, learns.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is no little enemy.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Poverty is the reward of idleness.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every mother-in-law is a piece of the devil’s pants.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Rich people never know who their friends are.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Everyone according to their talent and every talent according to its work.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The cart ruins the road, the woman the man, the water the wine.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"I sing the song of the person whose bread I eat.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A saint that cannot cure anyone has few disciples.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A cheerful wife is the spice of life.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When everybody is wrong then everybody is right.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Paper is forbearing.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The love that you die from is too big.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Courage is often caused by fear.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No love without bread and wine.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One pleasure, a thousand pains.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Short prayers reach heaven.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The soup makes the soldier.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"We need to let the world go the way it is.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A fat kitchen makes a lean will.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who is waiting for someone else’s bowl often dines late.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You don’t have to kill the chicken to get eggs.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Quarrels do not last long if the wrong is only on one side.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When a man begins to reason, he ceases to feel.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every fool is pleased with his own folly.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If a job is worth doing, it’s worth doing well.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who is not with me is against me.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The more things change, the more they stay the same.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A colt is good for nothing if it does not break its halter.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Skeptics are never deceived.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There are more buyers than connoisseurs.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t put all your eggs in one basket.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Those who are absent are always wrong.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you don’t want to be deceived, then marry on February 30th.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The head and feet keep warm; the rest will take no harm.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Learning is the eye of the mind.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Mother-in-law and daughter-in-law can be cooked together but they will never be tender.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nothing is more expensive than the first beer.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Loving with the eyes only, has blinded a lot of fools.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Let us get back to our sheep.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Gratitude is the heart’s memory.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Bad merchandise is never cheap.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One bad general is better than two good ones.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A day without wine is like a day without sunshine.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It’s the exception that proves the rule.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who has much, wants more.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The ear is the road to the heart.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Men talk only to conceal the mind.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"They will be hushed by a good deed who laugh at a wise speech.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Bread and wine start a banquet.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The servant of the devil does more than is asked for.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If the fire does not burn you the smoke will blacken you.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"So long as the wolf is captured the dog will bite his leg.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who is master of his thirst is master of his health.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The beauty of a woman does not make a man richer.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fear and restlessness kill more than do illnesses.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is always the impossible that happens.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Lead by example.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A girl without a friend is like the spring without roses.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Tasty is the chicken that is fed by someone else.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"People always make the wolf more formidable than he is.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Paris is owned by the early risers.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Walls have ears.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Sometimes the cry of the animal is worse than the animal itself.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A covetous woman deserves a swindling gallant.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When a man finds no peace within himself, it is useless to look for it elsewhere.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You do not always have to believe what you see.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is more disgraceful to suspect our friends than to be deceived by them.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Money is there to be spent.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A foolish woman is known by her finery.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The longer the way, the more tired the man.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you want to keep your credit you must use it as little as possible.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who fights and runs away may live to fight another day.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is at home, not in public, that one washes his dirty linen.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Our hairs are numbered.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who has not served cannot command.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is a sorry house in which the cock is silent and the hen crows.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A crooked log makes a good fire.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The art of pleasing is the art of deceiving.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The eye of the master fattens the steed.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Let him who is cold blow the fire.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The silence of the people is a warning for the king.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A churl never liked a gentleman.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you have a good case, try to compromise; if you have a bad one, take it to court.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Love does wonders, but money makes marriages.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who believes his wife too much will regret it in the end.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Life is like an onion, which one peels crying.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"To wish to know is to wish to doubt.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Life is a dung pie from which you take a bite every day.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A fault confessed is a half redressed.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You dance better with a full belly than with a new dress.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Even the best mule still saves a kick for his master.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A bad craftsman blames his tools.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who sows everywhere harvests nowhere.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One good argument is worth more than ten better ones.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good swordsman is not given to quarrel.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Mean fathers, wasteful sons.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When you have not what you like, you must like what you have.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Honesty is the best policy.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Gambling is the son of avarice and the father of despair.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A man’s worst enemies are often those of his own house.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You cannot clear fog with a fan.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"True love never grows old.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A rolling stone gathers no moss.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When glory comes, memory departs.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One finds little ingratitude so long as one is in a position to grant favors.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Heaven helps those who help themselves.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that leaves certainty and sticks to chance,\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A good figure is better than a reference letter.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The secret of two people is God’s secret, the secret of three people is everybody’s secret.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"I cried when I was born and each day now I realize why.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Too many doctors too few medicines.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that will not endure the bitter, will not live to see the sweet.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Good advice is as good as an eye in the hand.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Buy on the cannons, sell on the trumpets.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Pride can only lose.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There are no women or horses without shortcomings.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The enemy never sleeps.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Men make laws; women make morals.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A deaf husband and a blind wife are always a happy couple.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The one with a running nose always wants to blow someone else’s.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Money makes even dogs dance.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When it rains it pours.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The chicken that crows the loudest does not always give the biggest eggs.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You do not fatten pigs with pure water.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is better to be the hammer than the anvil.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The burden tames the beast.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One nail drives out another.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Do not let grass grow on the path of friendship.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The world is a barrel, for all to draw from.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The villain that becomes rich knows neither friends nor family.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Many kiss the hand they wish cut off.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every why has a wherefore.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you are going to eat with the devil, you must have a long spoon.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If we have not the thing we love, then must we love the thing we have.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"To compare is not to prove.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He that will not when he may, when he will he may have nay.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Marriage is the sunset of love.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"His own desire leads every man.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better bread in the basket than a feather in your cap.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is not wise to open old wounds.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is no flying without wings.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Every age wants its playthings.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"They who come from afar have leave to lie.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Starlings are skinny because they fly in a group.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nothing is more elegant than ready money!\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A liar should have a good memory.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Glow worms are not lanterns.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A dead man has neither relations nor friends.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Everybody has a hump when he stoops.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who steals an egg will steal an ox.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A woman would rather swallow her teeth than her tongue.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Everybody to whom much is given, much is expected.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Build a golden bridge for the fleeing enemy.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"They who would be young when they are old must be old when they are young.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is the belief in roses that makes them flourish.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Young people tell what they are doing, old people what they have done, and fools what they wish to do.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"No river swells without getting muddy.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"For most people love of justice is no more than the fear to suffer injustice.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A cake and a bad custom ought to be broken.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When in doubt, Gallop!\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Where god has a church the devil will have his chapel.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The French work to live, but the Swiss live to work.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Snakes prefer to hide under flowers.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When the miller is also the mayor, there are two thieves in one pair of trousers.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Where there’s life, there’s hope.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The reputation of a man is like his shadow; it sometimes follows and somtimes precedes him, it is sometimes longer and sometimes shorter than his natural size.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A nice wife and a back door oft make a rich man poor.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A courtier should be without feeling and without honor.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Even the smallest little bush casts some shadow.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The ball always looks for the best player.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A bad compromise is better than a good lawsuit.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who sells the ox sets its price.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A fine girl and a tattered gown always find something to hook the them.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Everyone thinks his own burden heavy.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Big winds, small showers.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Rich people eat gold and shit lead.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A man is no happier than he thinks himself.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is no pride like that of a beggar grown rich.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"We must have reasons for speech but we need none for silence.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better bow than break.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Friendship is love without wings.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A problem shared is a problem halved.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Don’t burn the candles at both ends.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"With money you can comfort any woman.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Wait until it is night before saying it has been a fine day.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You can’t milk a bull.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A dog with a docked tail is not afraid that its backside can be seen.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If the sky falls, we shall catch larks.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Seekers of art; finders of the beggar’s bag.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Desperate times call for desperate measures\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"All roads lead to Rome.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Conceal not the truth from thy physician and lawyer.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Patience is bitter but its fruits are sweet.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Everything is worth its price.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The remedy is often worse than the disease; Burn not your house to rid it off the mouse.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The worst is not always certain but it’s very likely.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"To be willing is to be able.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Diligent youth makes easy age.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Even the king does not dine twice.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When all other sins are old, greed still stays young.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"To taste the sweet, you must taste the bitter.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The word of a woman is as a little feather on the water.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The long awaited Easter feast is over in one day.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Beauty, unaccompanied by virtue, is as a flower without perfume.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Speak little and well if you wish to be esteemed a person of merit.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"When we cannot get what we love, we must love what is within our reach.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You can catch more flies with a drop of honey than with a barrel of vinegar.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Travelers from afar can lie with impunity.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Avoid the pleasure which will bite tomorrow.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Being loved is the best way of being useful.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Small profits are good if they come often.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Do as you may, if you can’t do as you could.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fools are more useful to the wise than wise are to fools.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If life gives you lemons, make lemonade.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Self — love is the worst of all flattery.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Absent people do not inherit.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You must give credit to coincidence.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Work relieves us from three great evils, boredom, vice, and want.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Common sense is not so common.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The law says what the king pleases.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A bellyful is a bellyful.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you want to love your household as much as your bread then you will have to knead your wife like dough.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"One must step back to take a good leap.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is a wise man who lives with money in the bank, it is a fool who dies that way.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Write injuries in sand, kindnesses in marble.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is easier to climb down than up.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Silence is the soul of all things.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Time makes love pass.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Small brooks make big rivers.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Marriage teaches you to live alone.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"An ounce of patience is worth a pound of brains.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The weather, fleecy clouds, and a made up woman don’t last long.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Young saints, old devils.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The bad man thinks that everybody looks like him.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who has everything is content with nothing.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is danger in delay.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If it ain’t broke, don’t fix it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Real love is when you don’t have to tell each other.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"All good women are in the graveyard.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A woman like a horse needs spurs.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Not until the tree is felled can you see how tall it was.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It’s difficult to chain up an old dog.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Long absence changes friends.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A stitch in time saves nine.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The last will be first, and the first last.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If you give a gift to a rich man, the devil sniggers.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A blind hen can sometimes find her corn.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Nobility forces.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Who is born a chicken loves scratching.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The doctor is often more to be feared than the disease.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Everyone blames his memory, but never his judgment.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A little absence does a lot of good.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The night brings counsel.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Only great men may have great faults.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Most men employ the earlier part of their life to make the other miserable.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"To be a fool at the right time is an art.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Once a drunkard always a drunkard; Once a thief always a thief.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who dispraises a thing wants to buy it.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fortune favors the brave.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You can sell the devil if he is well cooked.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The devil sweetens another man’s wife with a spoonful of honey.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The best thing about a man is his dog.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Liberty has no crueler enemy than license.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Bad charcoal only makes smoke.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"To love is to choose.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Books know more than years.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The sin is not in the sinning, but in the being found out.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"It is good to dance on another man’s floor.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Strike while the iron is hot.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Cut off your nose to spite your face.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"After rain comes sunshine.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Good advice is often annoying — bad advice never is.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If it rains on the pastor it drops on the vicar.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"If youth knew! If age could!\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The first love letters are written with the eyes.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"True love never rusts.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Jealousy is nourished by doubt.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There are more foolish buyers than foolish sellers.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fools never get grey hair.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"An apple a day keeps the doctor away.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There is no dying by proxy.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"He who marries on a rainy day will be happy for the rest of his life.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The reputation of a man is like his shadow; it sometimes follows and sometimes precedes him, it is sometimes longer and sometimes shorter than his natural size.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Small people always cast big shadows.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A person’s reputation is like his shadow-sometimes it follows and sometimes it precedes him; and sometimes it is smaller and sometimes it is bigger than him.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Even the smallest little bush casts some shadow.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The friendship of a great man is like the shadow of a bush — soon gone.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Rich people never know who their friends are.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The secret of two people is God’s secret, the secret of three people is everybody’s secret.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Better ten people hurt than one dead.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Small people always cast big shadows.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"People count the faults of those who keep them waiting.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The silence of the people is a warning for the king.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"People will ignore their misfortunes and their interests when they are in competition with their pleasures.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Lazy people are always eager to be doing something.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Absent people do not inherit.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Young people tell what they are doing, old people what they have done, and fools what they wish to do.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Rich people eat gold and shit lead.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"You cannot be very smart if you have never done anything foolish.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Young people tell what they are doing, old people what they have done, and fools what they wish to do.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Loving with the eyes only, has blinded a lot of fools.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Fools never get grey hair.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"The fool’s mother is always pregnant.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"There are more foolish buyers than foolish sellers.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"In love, there is always one who kisses and one who offers the cheek.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"Good advice is often annoying, bad advice never is.\"",
+            "description": "",
+            "category": "french"
+        },
+        {
+            "text": "\"A clear conscience is a soft pillow.\"",
+            "category": "french",
+            "description": "If a person is guilty of some wrongdoing, their guilty conscience will let them have no rest, while an innocent person will be peaceful and calm."
+        }
+    ]
+}

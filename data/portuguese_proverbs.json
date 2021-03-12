@@ -1,0 +1,684 @@
+{
+    "portuguese": [
+        {
+            "text": "\"Meowing cats catch fewer mice.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Be sure not to owe anything to the rich, and don’t lend anything to the poor.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Don’t leave for tomorrow what you can do today.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Having need of makes the ugly beautiful.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"To change one’s habits has a smell of death.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Not much is achieved where everyone gives the orders.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Don’t change horses in midstream.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"He buys very dear who begs.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Every one to his trade.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"There are many ways to leave this world but only one way to come into it.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A girl, a vineyard and a bean field are difficult to guard.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Better to be queen for an hour than a countess for life.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"If you want good advice, consult an old man.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"The mouth that can say \"Yea,\" can say \"Nay.\"\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Do not tell all that you know, don’t believe all you hear, and don’t do all that you can.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"There’s no catching trout with dry breeches.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Where there is no might, right gets lost.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"No one is a good judge of his own case.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Pretend to be dead and the bull will leave you alone.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Love is the irresistible desire to be irresistibly desired.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Better wrong with the many than right with the few.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"There’s a long way from saying to doing.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A bad neighbor will give you a needle with no thread.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A busy mother makes slothful daughters.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Better to have friends in the marketplace than money in your coffers.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Thinking is not knowing.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"It is better to receive awards that you don’t deserve rather than deserve them and not receive them.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Love one another and you will be happy; it is as simple and as difficult as that.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Cobblers go to mass and pray that the cows may die\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Faith has no eyes; he who asks to see has no faith.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Do not think that one enemy is insignificant, or that a thousand friends are too many.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"He who has nothing is afraid of nothing.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"What is bought is cheaper than a gift.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Death makes us equal in the grave but not in eternity.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"The chicken that stays in the farmyard, will peck the crumbs.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"No one is poor but he who thinks himself so.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"It dawns no sooner for one’s early rising.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Better a red face than a black heart.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"The dog wags his tail, not for you, but for your bread.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A tongue of honey, a heart of gall.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A body that is well made needs no cloak.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"I renounce the friend who eats what is mine with me, and what is his own by himself.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Beware of the door with too many keys.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"You have to suffer a lot or die young.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Marrying sounds well, but tastes ill.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A loss not missed by your neighbor is not a real loss.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"If you have a friend who is a doctor, then send him to your enemy’s house.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Tell your friend a lie. If he keeps it secret, then tell him the truth.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Birds of prey do not flock together.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"The mistress is queen, the wife is the slave.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Visits always give pleasure — if not at the arrival, then at the departure.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Do good and care not to whom.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"If you would make an enemy, lend a man money, and ask for it back again.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Too many candles will burn down the church.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A busy mother makes slothful daughters.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A woman with two husbands cheats both.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"No one has seen to-morrow.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"The life and love we create is the life and love we live.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A contented ass enjoys a long life.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Despise your enemy and you will soon be beaten.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Children tell in the highway what they hear by the fireside.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Love is friendship set on fire.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Rosary in the hand, and the devil in the heart.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Truth should not be dressed up.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Don’t put money in your purse without checking it for holes.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"The queen bee has no sting.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Charity begins at home.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Thinking of where you are going, you forget from whence you came.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Think of many things, do only one.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Hell is paved with good intentions, roofed in with lost opportunities.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"He doubts nothing who knows nothing.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Better just repair the gutter than the whole house.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Truth and oil come to the surface.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"There is only one happiness in life, to love and be loved.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Experience is the mother of wisdom.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"God has given nuts to some who have no teeth.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A dog that barks much is never a good hunter.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"From a closed door the devil turns away.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A rich widow weeps in one eye and laughs with the other.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"An old man in love is like a flower in winter.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Love, smoke and cough are hard to hide.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Stumbling is not falling.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A good mind possesses a kingdom.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"He never was a friend who ceased to be so for a slight cause.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Every peddler praises his own needles.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"There is no remedy for love but to love more.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Under fair words have a care of fraud.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Beware of a man that does not talk and a dog that does not bark.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"If you give orders and leave, the work won’t get done.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Change yourself, and your luck will change.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Make the night night, and the day day, and you will have a pleasant time of it.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"a misfortune never comes alone.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"He who serves two masters has to lie to one.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Good management is better than good income.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Women and glasses are always in danger.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Do as you may, if you can’t do as you could.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Drink nothing without seeing it, sign nothing without reading it.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Dear is cheap, and cheap is dear.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Everything has its time.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"There is no rule without an exception.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"One good word puts out the flames better than a bucket of water.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Every wine would like to be port wine.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Women are always better the following year.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Spinner, spin softly, you disturb me. I am praying.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Give me money, not advice.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Love has no law.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"He has a head, and so has a pin.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Good is the delay that makes sure.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Keep your sickness until Friday and don’t fast.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Good men and bad make a city.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Follow the road, and you will come to an inn.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"A liar should have a good memory.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Mouth from honey, heart of gall.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Love is something eternal; the aspect may change, but not the essence.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"He brooks no advice whose mind is made up.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Hell’s roof is made from lost causes.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Let him who gives say nothing, and him who receives speak.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Every one sings as he has the gift, and marries as he has the luck.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Beware of silent dogs and still waters.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Don’t quit the highway for a short cut.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Love is composed of a single soul inhabiting two bodies.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Fit the foot to the shoe, not the shoe to the foot.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Peace with a club in hand is war.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"If a poor man gives to you, he expects more in return.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"What was hard to bear is sweet to remember.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Live to live and you will learn to live.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Sweet are the tears that are dried by your loved one.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"The gentle calf sucks all the cows.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Beauty is a good letter of introduction.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"There is a remedy for everything; it is called death.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Time, not medicine, cures the sick.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"An empty purse and a new house make a man wise, but too late.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"The accomplice is as bad as the thief.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Even the most beautiful sheets have small flaws.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Give a grateful man more than he asks for.\"",
+            "description": "",
+            "category": "portuguese"
+        },
+        {
+            "text": "\"Change yourself and fortune will change.\"",
+            "description": "",
+            "category": "portuguese"
+        }
+    ]
+}

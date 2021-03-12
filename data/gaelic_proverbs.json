@@ -1,0 +1,569 @@
+{
+    "gaelic": [
+        {
+            "text": "\"It is not with the first stroke that the tree falls.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Praise the good day at the close of it.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Self-assurance is two-thirds of success.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A man may do without a brother, but not without a neighbour.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"‘Tis hard to hold a conger by the tail.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Two should stay together when crossing a ford.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Evil thoughts often come from idleness.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Every dog sets upon the stranger dog.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A clean bird never came out of a kite’s nest.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"See that your own hearth is swept before you lift your neighbor’s ashes.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The moon is none the worse for the dogs’ barking at her.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The active mother makes the lazy daughter.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"There is no smoke in a lark’s house.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A gossip’s mouth is the devil’s postbag.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The cat wonders at its own tail.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The scraping hen will find something, but the creeping hen will find nothing.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The man who puts not a knot on his thread loses the first stitch.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Hold back your dog till the deer falls.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"It is at the year’s end that the fisher can tell his luck.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The chief’s house has a slippery doorstep.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A dimple on the chin, the devil within.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The fated thing will happen.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Better a good retreat than a bad stand.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The drunk man thinks himself the only one sober.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The learning in youth is the pretty learning.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Do not judge by appearances; a rich heart may be under a poor coat.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"No wonder the cast smells of the herrings that it holds.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The man that divides the pudding will have the thick end to himself.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The hand that gives is the hand that gets.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A ‘thank you’ doesn’t pay the fiddler.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Go courting afar, but marry next door.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Wet fuel may kindle, but a stone never will.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The strong foot will not find more than the big belly will devour.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"He who would enjoy the fruit must not spoil the blossoms.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Nothing is easy to the unwilling.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Beauty won’t boil the pot.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Nothing can get into a closed fist.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The night is long for the husband of a bad wife.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Grass does not grow on the high road.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Check your purse before you please yourself.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A feast is no use without good talk.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A wild goose never laid a tame egg.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A man’s fault will be as big as a mountain before he sees it.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"It’s no secret if three know it.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The wine is sweet, the paying bitter.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Who is born to be hanged will never be drowned.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The value of the well is not known until it goes dry.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A lazy youth will make an active old man.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Keep a thing seven years and you’ll find a use for it.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The windy day is not the day for thatch-wattles.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Honey may be sweet, but no-one licks it off a briar.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"It is easy to straighten in the oak the crook that grew in the sapling.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The bitter cup we strive to remove from us holds the medicine we are most in need of.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Two never kindled a fire but it lit between them.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A patch is better than a hole.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Common sense hides shame.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"When thieves dispute, honest men will get their own.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A little hole will sink a big ship.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"No hero is proof against injury.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Even God cannot make two mountains without a valley in between.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The smart fellow’s share is on every dish.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"What comes with the wind will go with the water.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The man who always goes out with his net will catch birds sometimes.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Go carefully with a full cup.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The tartan is all of the one stuff.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"It’s no health if the glass is not emptied.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A priest should be learned, but learning won’t make a priest.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A cat in mittens won’t catch mice.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The mouse is mistress in her own house.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The man with a big nose thinks everyone talks of it.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A dog yells not when hit with a bone.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Lofty is the deer’s head on the top of the mountain.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A king’s son is no nobler than his company.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Where the stream is shallowest, it is noisiest.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A wave will rise on quiet water.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The grass that grows in March disappears in April.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Many a thing drops from the man who often flits.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"No door ever closed, but another opened.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Men will meet, but the hills will not.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Swift is the slut’s husband over the hill, on a bleak day in Spring.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Avoid the evil, and it will avoid thee.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Sharp would the dog be that could snatch his tail from him.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Don’t give cherries to pigs or advice to fools.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Hot water will quench fire.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A covetous eye never got a good bargain.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"He who will not sow in March will not reap in autumn.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The best apple is on the highest bough.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"No man ever broke his bow but another man found a use for the string.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A son is a son until he comes of age; a daughter is a daughter all her life.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"What the little ones see, the little ones do.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Poor is the bagpipe when widowed.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A fire of broken peat, and a boy’s love, do not last.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"More than we use is more than we want.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The lion is known by the scratch of his claws.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Dig your bait while the tide is out.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Assurance is two-thirds of success.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"There is no greater fraud than a promise not kept.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A friend’s eye is a good looking-glass.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The willing horse should not be spurred.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Who God does not teach, man cannot.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Welcome the coming, speed the parting guest.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Peats don’t fall from empty creels.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The little fire that warms is better than the big fire that burns.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Marriage takes the heat out of love.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"He that will not look forward must look behind.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Some of the sweetest berries grow among the sharpest thorns.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Though you should take a wife from Hell, yet she will bring you home.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Whoever burns his backside must himself sit upon it.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"Who comes uninvited will sit down unbidden.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"If it is worth taking, it is worth asking for.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"The essence of a game is at its end.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "Do not judge by appearance; a rich heart may be under a poor coat.\"",
+            "description": "",
+            "category": "gaelic"
+        },
+        {
+            "text": "\"A dimple on the chin, the devil within.\"",
+            "category": "gaelic",
+            "description": "A superstitious proverb based on physical appearance, where having a chin indent signifies that a person is wicked or deceitful."
+        }
+    ]
+}
