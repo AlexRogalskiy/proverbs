@@ -35,8 +35,5 @@
                 "category"
             ]
         }
-    },
-    "required": [
-        "english"
-    ]
+    }
 }
