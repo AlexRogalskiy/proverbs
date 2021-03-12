@@ -1,6 +1,501 @@
 {
     "african": [
         {
+            "text": "\"In the south they don’t care how close you get, as long as you don’t get too high. In the north, they don’t care how high you get, as long as you don’t get too close.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"One monkey don’t stop no show!\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Black people must stop acting like crabs in a barrel and work together.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"A heard head makes a soft behind.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Burning the candle at both ends.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"If you can’t stand the heat, get out of the kitchen\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Count your blessings, not your problems.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Don’t beat a dead dog.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Do or die.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"God does not bless mess.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Better safe than sorry.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"If you ask a Negro where he’s been, he’ll tell you where he’s going.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Going to be a cold day in hell.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Love don’t love nobody.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"What’s good for the goose is good for the gander.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Eat drink and be merry.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Old Satan couldn’t get along without plenty of help.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"All that glitters is not gold.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Be careful what you wish for you might get it.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Life is short and full of blisters.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"A hit dog will hollow.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Knock on wood.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"A stitch in time saves nine.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Mama’s baby…Papa’s maybe.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Black sheep of the family.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Go with the flow.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"A penny saved is a penny earned.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Do as I say and not as I do.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Couldn’t hit the broad side of the barn.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Doesn’t have a leg to stand on.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"The pot can’t call the kettle black.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Eat your heart out.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Be that as it may.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Easy come easy go.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Girl, have several seats.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"A rolling stone gathers no moss.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Day late and a dollar short.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Family must look out for family.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"The fruit don’t fall too far from the tree.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"The more you cry the less you pis.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"God makes three requests of his children: Do the best you can, where you are, with what you have, now.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Tell me whom you love, and I’ll tell you who you are.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"A man who does not respect his own mother is absolutely no good.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"You’ve got to work twice as hard to get half as far as a Black person in white America.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"A wise man listens to his own conscience.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Money talks – everything else walks.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Blind in one eye and can’t see out of the other.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Can’t live with them and can’t live without them.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Blood is thicker than water.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Dead as a doornail.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"A liar will steal and a thief will kill\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Caught between a rock and a hard place.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"If you can’t beat them join them.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Go for broke.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Mothers raise their daughters and let their sons grow up.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Calm before the storm.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"If you are not part of the solution, you are part of the problem.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Can’t see the forest for the trees.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"A empty wagon makes a lot of noise.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Cold hands – warm heart.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Now, if you knew that homework like you know those song lyrics, you would get straight A’s.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Don’t beat around the bush.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Beauty is only skin deep.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Beware of burning your bridges when you cross them.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Mama don’t play!\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Doesn’t have two nickels to rub together.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Go whole hog wild.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Dig your own grave.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Clothes don’t make the man.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"If you’ll lie you’ll steal and if you’ll steal you’ll kill.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"A watched pot will never boil.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Dead men tells no tales.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"We ain’t what we want to be; we ain’t what we gonna be; but thank God, we ain’t what we was.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"God helps those who help themselves.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"I can’t make head or tails of it.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"The blacker the berry the sweet the juice.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"God moves in mysterious ways.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Experience is the best teacher.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"It takes a heap of licks to strike a nail in the dark.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Couldn’t carry a tune in a bushel basket.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"God can do anything but fail.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"If you want to keep something secret from black folks, put it between the covers of a book.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"The very time I thought I was lost, my dungeon shook and my chains fell off.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"When I get on you I am going to pay you for old and new.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"You better go on somewhere with that!\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Don’t let your right hand know what your left hand is doing.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"A little bird told me.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Don’t bite off more that you can chew.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"I have eyes in the back of my head.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"I brought you in this world and I will take you out.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Once you go Black, you never go back.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Jealous? Hate the game and not the player.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"If you can’t say anything nice don’t say anything.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"What you do in the dark, will come to the light.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"All poor people ain’t black/ and all black people ain’t poor.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Don’t bite the hand that feeds you.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Enough is enough.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Break a mirror and you will have seven years bad luck.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
+            "text": "\"Don’t burn your bridges.\"",
+            "description": "",
+            "category": "african american"
+        },
+        {
             "text": "\"When there is no enemy within, the enemies outside cannot hurt you.\"",
             "description": "",
             "category": "african"
