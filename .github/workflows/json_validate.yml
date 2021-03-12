@@ -9,15 +9,18 @@ on:
 jobs:
   verify-json-validation:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        schema: [ './data/schemas.json' ]
-        json: [ './data/proverbs.json' ]
     steps:
       - uses: actions/checkout@v1
+
+      # ls -1 -d "$PWD/data/"* | grep -v schemas | grep -v / | sed 's/$/, /g' | xargs echo | sed 's/,$//g'
+      # ls -p ./data | grep -v / | tr '\n' ','
+      # ls -1p | grep -v / | sed 's/$/, /g' | xargs echo | sed 's/,$//g'
+      - name: Create JSONs list
+        id: json_data
+        run: echo "::set-output name=content::$(ls -1 -d "$PWD/data/"* | grep -v schemas | sed 's/$/, /g' | xargs echo | sed 's/,$//g')"
 
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ${{ matrix.schema }}
-          INPUT_JSONS: ${{ matrix.json }}
+          INPUT_SCHEMA: ./data/schemas/schema.json
+          INPUT_JSONS: ${{ steps.json_data.outputs.content }}
