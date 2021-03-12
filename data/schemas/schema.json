@@ -3,8 +3,8 @@
     "description": "A representation of a proverb data object",
     "type": "object",
     "patternProperties": {
-        "^.*$": {
-            "type": "array",
+        "^.+$": {
+            "type": "object",
             "items": {
                 "$ref": "#/$defs/proverb"
             }
