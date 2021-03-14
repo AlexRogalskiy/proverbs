@@ -244,7 +244,7 @@ Here is a list of languages supported by Proverb API:
 | **Panamanian**                    | panamanian                    |
 | **Persian**                       | persian                       |
 | **Peruvian**                      | peruvian                      |
-| **Phillipine**                    | phillipine                    |
+| **Philippine**                    | philippine                    |
 | **Polish**                        | polish                        |
 | **Portuguese**                    | portuguese                    |
 | **Puerto Rikan**                  | puerto_rikan                  |

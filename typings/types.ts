@@ -268,7 +268,7 @@ export enum LanguagePattern {
     bulgarian = 'bulgarian',
     tuscarora = 'tuscarora',
     bahamian = 'bahamian',
-    phillipine = 'phillipine',
+    philippine = 'philippine',
     libyan = 'libyan',
     navajo = 'navajo',
     sardinian = 'sardinian',

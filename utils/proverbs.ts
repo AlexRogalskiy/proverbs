@@ -139,7 +139,7 @@ import * as norwegianProverbs from '../data/norwegian_proverbs.json'
 import * as palestinianProverbs from '../data/palestinian_proverbs.json'
 import * as persianProverbs from '../data/persian_proverbs.json'
 import * as peruvianProverbs from '../data/peruvian_proverbs.json'
-import * as phillipineProverbs from '../data/phillipine_proverbs.json'
+import * as philippineProverbs from '../data/philippine_proverbs.json'
 import * as polishProverbs from '../data/polish_proverbs.json'
 import * as portugueseProverbs from '../data/portuguese_proverbs.json'
 import * as puertoRikanProverbs from '../data/puerto-rikan_proverbs.json'
@@ -345,7 +345,7 @@ const getProverbs = (): ProverbMapper =>
         palestinianProverbs,
         persianProverbs,
         peruvianProverbs,
-        phillipineProverbs,
+        philippineProverbs,
         polishProverbs,
         portugueseProverbs,
         puertoRikanProverbs,
