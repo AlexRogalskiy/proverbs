@@ -3,7 +3,7 @@
     "description": "A representation of a collection of proverb data objects",
     "type": "object",
     "patternProperties": {
-        "^.+$": {
+        "^[a-zA-Z0-9-_]+$": {
             "type": "array",
             "minItems": 1,
             "uniqueItems": false,

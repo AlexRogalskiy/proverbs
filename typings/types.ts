@@ -95,7 +95,6 @@ export enum LanguagePattern {
     venezuelan = 'venezuelan',
     american = 'american',
     belgian = 'belgian',
-    belize = 'belize',
     bambara = 'bambara',
     guinean = 'guinean',
     somali = 'somali',

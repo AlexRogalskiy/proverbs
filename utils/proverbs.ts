@@ -16,7 +16,6 @@ import * as bantuProverbs from '../data/bantu_proverbs.json'
 import * as basqueProverbs from '../data/basque_proverbs.json'
 import * as bedouinProverbs from '../data/bedouin_proverbs.json'
 import * as belgianProverbs from '../data/belgian_proverbs.json'
-import * as belizeProverbs from '../data/belize_proverbs.json'
 import * as belizeanProverbs from '../data/belizean_proverbs.json'
 import * as bengaliProverbs from '../data/bengali_proverbs.json'
 import * as benineseProverbs from '../data/beninese_proverbs.json'
@@ -193,7 +192,6 @@ const getProverbs = (): ProverbMapper =>
         basqueProverbs,
         bedouinProverbs,
         belgianProverbs,
-        belizeProverbs,
         belizeanProverbs,
         bengaliProverbs,
         benineseProverbs,
