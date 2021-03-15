@@ -47,7 +47,7 @@
         "@vercel/node": "^1.9.0",
         "boxen": "^5.0.0",
         "del-cli": "^3.0.1",
-        "eslint": "^7.18.0",
+        "eslint": "^7.22.0",
         "eslint-config-prettier": "^6.15.0",
         "eslint-plugin-github": "^4.1.1",
         "eslint-plugin-import": "^2.22.1",
