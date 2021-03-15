@@ -328,11 +328,11 @@ export interface ParsedRequest {
     /**
      * Proverb origin language
      */
-    language?: LanguagePattern | undefined
+    language?: Optional<LanguagePattern>
     /**
      * Proverb image background pattern
      */
-    pattern?: HeroPattern | undefined
+    pattern?: Optional<HeroPattern>
     /**
      * Proverb image width
      */
@@ -383,7 +383,7 @@ export interface ColorOptions {
     /**
      * Image background pattern
      */
-    readonly pattern?: HeroPattern | undefined
+    readonly pattern?: Optional<HeroPattern>
 }
 
 export interface ImageOptions {

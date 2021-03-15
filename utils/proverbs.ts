@@ -60,7 +60,7 @@ import * as eastAsianProverbs from '../data/east-asian_proverbs.json'
 import * as ecuadorianProverbs from '../data/ecuadorian_proverbs.json'
 import * as egyptianProverbs from '../data/egyptian_proverbs.json'
 import * as englishProverbs from '../data/english_proverbs.json'
-import * as estonianroverbs from '../data/estonian_proverbs.json'
+import * as estonianProverbs from '../data/estonian_proverbs.json'
 import * as ethiopianProverbs from '../data/ethiopian_proverbs.json'
 import * as fijianProverbs from '../data/fijian_proverbs.json'
 import * as filipinoProverbs from '../data/filipino_proverbs.json'
@@ -272,7 +272,7 @@ const getProverbs = (): ProverbMapper =>
         ecuadorianProverbs,
         egyptianProverbs,
         englishProverbs,
-        estonianroverbs,
+        estonianProverbs,
         ethiopianProverbs,
         fijianProverbs,
         filipinoProverbs,

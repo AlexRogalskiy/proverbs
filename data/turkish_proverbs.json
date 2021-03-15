@@ -6,117 +6,42 @@
             "category": "turkish"
         },
         {
-            "text": "\"The first drink makes you a frisky gazelle, the second an impetuous zebra, the third a roaring lion, and with the fourth you become a silly donkey.\"",
+            "text": "The first drink makes you a frisky gazelle, the second an impetuous zebra, the third a roaring lion, and with the fourth you become a silly donkey.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"You don’t have to know much to read, but you do to cook.\"",
+            "text": "You don’t have to know much to read, but you do to cook.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Cocks that crow too early will quickly find themselves in the pot.\"",
+            "text": "Cocks that crow too early will quickly find themselves in the pot.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If your guest becomes a cook, your larder will soon be empty.\"",
+            "text": "If your guest becomes a cook, your larder will soon be empty.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"An ass does not appreciate fruit compote.\"",
+            "text": "An ass does not appreciate fruit compote.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The world is like that: one gives a melon, the other gets the stomach cramps.\"",
+            "text": "The world is like that: one gives a melon, the other gets the stomach cramps.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Two watermelons cannot be held under one arm.\"",
+            "text": "Two watermelons cannot be held under one arm.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"One armpit cannot hold two watermelons.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"One eats, another watches; that’s how revolutions are born.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"Wine that isn’t paid for is drunk twice.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"The eagle does not feed on flies.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"When a rich man falls they say it was an accident; when a poor man falls they say that he was drunk.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"The cheese vessel will not sail merely by words.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"Vinegar that costs nothing is sweeter than honey.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"The bear knows seven songs and they are all about honey.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"The mouth is not sweetened by saying \"Honey, honey.\" So the music, so the people.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"Honey is one thing, the price is another.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"He who steals honey, licks his fingers.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"Coffee should be black as Hell, strong as death, and sweet as love.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"Even the thinnest piece of meat will happily marry a piece of bread.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"If everything that came from your tongue were to come into your hands, then every beggar would be a pasha.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"To beg of the miser is to dig a trench in the sea.\"",
-            "description": "",
-            "category": "turkish"
-        },
-        {
-            "text": "\"He who knows much makes many mistakes. \"",
+            "text": "One armpit cannot hold two watermelons.",
             "description": "",
             "category": "turkish"
         },
@@ -126,287 +51,362 @@
             "category": "turkish"
         },
         {
-            "text": "\"One eats, another watches; that’s how revolutions are born.\"",
+            "text": "Wine that isn’t paid for is drunk twice.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The fool sings a love song to his wife, the wise man will talk about his dog.\"",
+            "text": "The eagle does not feed on flies.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"When it sees money, the flute will play itself.\"",
+            "text": "When a rich man falls they say it was an accident; when a poor man falls they say that he was drunk.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The wise man says what he knows; the fool doesn’t know what he is saying.\"",
+            "text": "The cheese vessel will not sail merely by words.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The fool sings a love song to his wife, the wise man will talk about his dog.\"",
+            "text": "Vinegar that costs nothing is sweeter than honey.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A building without foundation is soon demolished.\"",
+            "text": "The bear knows seven songs and they are all about honey.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"What flares up fast, extinguishes soon.\"",
+            "text": "The mouth is not sweetened by saying \"Honey, honey.\" So the music, so the people.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Gold that is lent goes away laughing and comes back in tears.\"",
+            "text": "Honey is one thing, the price is another.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Two watermelons cannot be held under one arm.\"",
+            "text": "He who steals honey, licks his fingers.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A heart in love with beauty never grows old.\"",
+            "text": "Coffee should be black as Hell, strong as death, and sweet as love.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He, who steals honey, licks his fingers.\"",
+            "text": "Even the thinnest piece of meat will happily marry a piece of bread.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"There isn’t a sword that would cut off a golden hand.\"",
+            "text": "If everything that came from your tongue were to come into your hands, then every beggar would be a pasha.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Who has power in his hands has no need to lie; he uses violence.\"",
+            "text": "To beg of the miser is to dig a trench in the sea.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Profit is the brother of loss.\"",
+            "text": "He who knows much makes many mistakes. ",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The wise man says what he knows; the fool doesn’t know what he is saying.\"",
+            "text": "One eats, another watches; that’s how revolutions are born.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The fool sings a love song to his wife, the wise man will talk about his dog.\"",
+            "text": "One eats, another watches; that’s how revolutions are born.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Gold that is lent goes away laughing and comes back in tears.\"",
+            "text": "The fool sings a love song to his wife, the wise man will talk about his dog.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Who has power in his hands has no need to lie; he uses violence.\"",
+            "text": "When it sees money, the flute will play itself.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A friend is one soul in two bodies.\"",
+            "text": "The wise man says what he knows; the fool doesn’t know what he is saying.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Good actions are never lost.\"",
+            "text": "The fool sings a love song to his wife, the wise man will talk about his dog.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The fool sings a love song to his wife, the wise man will talk about his dog.\"",
+            "text": "A building without foundation is soon demolished.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Silence is music to a wise man.\"",
+            "text": "What flares up fast, extinguishes soon.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The mouth is not sweetened by saying \"Honey, honey.\" So the music, so the people.\"",
+            "text": "Gold that is lent goes away laughing and comes back in tears.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He who knows much makes many mistakes.\"",
+            "text": "Two watermelons cannot be held under one arm.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Keep the tongue in your mouth a prisoner.\"",
+            "text": "A heart in love with beauty never grows old.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Satan’s friendship reaches the prison door.\"",
+            "text": "He, who steals honey, licks his fingers.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Gold that is lent goes away laughing and comes back in tears.\"",
+            "text": "There isn’t a sword that would cut off a golden hand.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Gold that is lent goes away laughing and comes back in tears.\"",
+            "text": "Who has power in his hands has no need to lie; he uses violence.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Cruelty is stupidity.\"",
+            "text": "Profit is the brother of loss.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A stupid friend is a greater plague than a wise enemy.\"",
+            "text": "The wise man says what he knows; the fool doesn’t know what he is saying.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The fool sings a love song to his wife; the wise man will talk about his dog.\"",
+            "text": "The fool sings a love song to his wife, the wise man will talk about his dog.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Do not leave to the morning the business of the evening.\"",
+            "text": "Gold that is lent goes away laughing and comes back in tears.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Profit is the brother of loss.\"",
+            "text": "Who has power in his hands has no need to lie; he uses violence.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"None is so rich as that he can throw away a friend.\"",
+            "text": "A friend is one soul in two bodies.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Happiness is like crystal — when it shines the most, it soon cracks.\"",
+            "text": "Good actions are never lost.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The luckiest dies in his cradle.\"",
+            "text": "The fool sings a love song to his wife, the wise man will talk about his dog.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"God made low branches for birds that cannot fly so well.\"",
+            "text": "Silence is music to a wise man.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If your guest becomes a cook, your larder will soon be empty.\"",
+            "text": "The mouth is not sweetened by saying \"Honey, honey.\" So the music, so the people.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Two captains sink a ship.\"",
+            "text": "He who knows much makes many mistakes.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Do not leave to the morning the business of the evening.\"",
+            "text": "Keep the tongue in your mouth a prisoner.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"One night with an ugly woman and one day in the mountains both are like an eternity.\"",
+            "text": "Satan’s friendship reaches the prison door.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"No matter how much snow falls, it won’t remain there all the way till summer.\"",
+            "text": "Gold that is lent goes away laughing and comes back in tears.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A person does not seek luck; luck seeks the person.\"",
+            "text": "Gold that is lent goes away laughing and comes back in tears.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"I know nothing about it; I haven’t seen it; that is the best answer.\"",
+            "text": "Cruelty is stupidity.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"An ass does not appreciate fruit compote.\"",
+            "text": "A stupid friend is a greater plague than a wise enemy.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Too much prudishness makes the lover sick.\"",
+            "text": "The fool sings a love song to his wife; the wise man will talk about his dog.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"One night with an ugly woman and one day in the mountains both are like an eternity.\"",
+            "text": "Do not leave to the morning the business of the evening.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"No flock without dog and shepherd.\"",
+            "text": "Profit is the brother of loss.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The fool sings a love song to his wife, the wise man will talk about his dog.\"",
+            "text": "None is so rich as that he can throw away a friend.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The dog that is going to bite does not show its teeth.\"",
+            "text": "Happiness is like crystal — when it shines the most, it soon cracks.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A hungry dog will bring a lion down.\"",
+            "text": "The luckiest dies in his cradle.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He who wants to kill a dog says that he has urinated against the mosque.\"",
+            "text": "God made low branches for birds that cannot fly so well.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The first drink makes you a frisky gazelle, the second an impetuous zebra, the third a roaring lion, and with the fourth you become a silly donkey.\"",
+            "text": "If your guest becomes a cook, your larder will soon be empty.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"I know nothing about it, i haven’t seen it; that is the best answer.\"",
+            "text": "Two captains sink a ship.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The luckiest dies in his cradle.\"",
+            "text": "Do not leave to the morning the business of the evening.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A person does not seek luck; luck seeks the person.\"",
+            "text": "One night with an ugly woman and one day in the mountains both are like an eternity.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"You don’t wash blood away with blood but with water.\"",
+            "text": "No matter how much snow falls, it won’t remain there all the way till summer.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "A person does not seek luck; luck seeks the person.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "I know nothing about it; I haven’t seen it; that is the best answer.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "An ass does not appreciate fruit compote.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "Too much prudishness makes the lover sick.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "One night with an ugly woman and one day in the mountains both are like an eternity.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "No flock without dog and shepherd.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "The fool sings a love song to his wife, the wise man will talk about his dog.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "The dog that is going to bite does not show its teeth.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "A hungry dog will bring a lion down.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "He who wants to kill a dog says that he has urinated against the mosque.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "The first drink makes you a frisky gazelle, the second an impetuous zebra, the third a roaring lion, and with the fourth you become a silly donkey.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "I know nothing about it, i haven’t seen it; that is the best answer.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "The luckiest dies in his cradle.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "A person does not seek luck; luck seeks the person.",
+            "description": "",
+            "category": "turkish"
+        },
+        {
+            "text": "You don’t wash blood away with blood but with water.",
             "description": "",
             "category": "turkish"
         },
@@ -416,972 +416,972 @@
             "category": "turkish"
         },
         {
-            "text": "\"Not knowing is not shameful, not asking is.\"",
+            "text": "Not knowing is not shameful, not asking is.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Keep the tongue in your mouth a prisoner.\"",
+            "text": "Keep the tongue in your mouth a prisoner.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If you look for a faultless woman, you will remain a bachelor.\"",
+            "text": "If you look for a faultless woman, you will remain a bachelor.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Sighs never fall on the ground.\"",
+            "text": "Sighs never fall on the ground.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A tongue has no bones but it can break.\"",
+            "text": "A tongue has no bones but it can break.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The highway is always shorter than the unknown side roads.\"",
+            "text": "The highway is always shorter than the unknown side roads.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Tell a lie on Saturday and you will be ashamed on Sunday.\"",
+            "text": "Tell a lie on Saturday and you will be ashamed on Sunday.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Such father, such son.\"",
+            "text": "Such father, such son.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"One hour of justice is worth seventy hours of prayer.\"",
+            "text": "One hour of justice is worth seventy hours of prayer.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"To live in peace one must be blind, deaf, and mute.\"",
+            "text": "To live in peace one must be blind, deaf, and mute.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The dog that barks much does not bite.\"",
+            "text": "The dog that barks much does not bite.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He, who gets up in anger, sits down with a loss.\"",
+            "text": "He, who gets up in anger, sits down with a loss.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If your beard’s on fire, others will light their pipes on it.\"",
+            "text": "If your beard’s on fire, others will light their pipes on it.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The sheep separated from the flock is eaten by the wolf.\"",
+            "text": "The sheep separated from the flock is eaten by the wolf.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A building without foundation is soon demolished.\"",
+            "text": "A building without foundation is soon demolished.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He who controls his tongue, saves his head.\"",
+            "text": "He who controls his tongue, saves his head.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A person does not seek luck; luck seeks the person.\"",
+            "text": "A person does not seek luck; luck seeks the person.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Listen with both ears, but speak with only one tongue.\"",
+            "text": "Listen with both ears, but speak with only one tongue.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"One arrow does not bring down two birds.\"",
+            "text": "One arrow does not bring down two birds.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Two captains sink a ship.\"",
+            "text": "Two captains sink a ship.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Silence is music to a wise man.\"",
+            "text": "Silence is music to a wise man.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Who has never been burned in the sun won’t know the value of shadow.\"",
+            "text": "Who has never been burned in the sun won’t know the value of shadow.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Good actions are never lost.\"",
+            "text": "Good actions are never lost.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"You cannot get into Paradise without a guide.\"",
+            "text": "You cannot get into Paradise without a guide.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"To a good rider, right or left makes no difference.\"",
+            "text": "To a good rider, right or left makes no difference.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Everything is worn out with usage … except for experience.\"",
+            "text": "Everything is worn out with usage … except for experience.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The most difficult master is the servant who became master.\"",
+            "text": "The most difficult master is the servant who became master.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A weapon is an enemy even to its owner.\"",
+            "text": "A weapon is an enemy even to its owner.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Satan’s friendship reaches the prison door.\"",
+            "text": "Satan’s friendship reaches the prison door.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"What a man is at seven is also what he is at seventy.\"",
+            "text": "What a man is at seven is also what he is at seventy.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"One eats, another watches; that’s how revolutions are born.\"",
+            "text": "One eats, another watches; that’s how revolutions are born.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"To listen to a lie is harder than to tell it.\"",
+            "text": "To listen to a lie is harder than to tell it.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"There isn’t a sword that would cut off a golden hand.\"",
+            "text": "There isn’t a sword that would cut off a golden hand.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The earth has ears, the wind has a voice.\"",
+            "text": "The earth has ears, the wind has a voice.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"To quote lies is also lying.\"",
+            "text": "To quote lies is also lying.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If a man would live in peace he should be blind, deaf, and dumb.\"",
+            "text": "If a man would live in peace he should be blind, deaf, and dumb.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"In the company of the blind, close your eyes.\"",
+            "text": "In the company of the blind, close your eyes.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The baker’s child goes hungry.\"",
+            "text": "The baker’s child goes hungry.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"You harvest what you sow.\"",
+            "text": "You harvest what you sow.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Profit is the brother of loss.\"",
+            "text": "Profit is the brother of loss.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Two heads are better than one.\"",
+            "text": "Two heads are better than one.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Measure a thousand times, cut once.\"",
+            "text": "Measure a thousand times, cut once.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Who seeks a faultless friend remains friendless.\"",
+            "text": "Who seeks a faultless friend remains friendless.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A heart in love with beauty never grows old.\"",
+            "text": "A heart in love with beauty never grows old.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The fly is small, but it is big enough to make one sick.\"",
+            "text": "The fly is small, but it is big enough to make one sick.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Wine that isn’t paid for is drunk twice.\"",
+            "text": "Wine that isn’t paid for is drunk twice.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"What a man suffers is the punishment of his tongue.\"",
+            "text": "What a man suffers is the punishment of his tongue.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He who gives little gives from his heart; he who gives much gives from his wealth.\"",
+            "text": "He who gives little gives from his heart; he who gives much gives from his wealth.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"What flares up fast, extinguishes soon.\"",
+            "text": "What flares up fast, extinguishes soon.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"\"",
+            "text": "",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Turkey, officially the Republic of Turkey, is a parliamentary republic in Eurasia, largely located in Western Asia, with the smaller portion of Eastern Thrace in Southeast Europe. Turkey is bordered by eight countries: Syria and Iraq to the south; Iran, Armenia, and the Azerbaijani exclave of Nakhchivan to the east; Georgia to the northeast; Bulgaria to the northwest; and Greece to the west. The Black Sea is to the north, the Mediterranean Sea to the south, and the Aegean Sea to the west. The Bosphorus, the Sea of Marmara, and the Dardanelles (which together form the Turkish Straits) demarcate the boundary between Thrace and Anatolia; they also separate Europe and Asia. Turkey’s location at the crossroads of Europe and Asia makes it a country of significant geostrategic importance. [Sources of information]\"",
+            "text": "Turkey, officially the Republic of Turkey, is a parliamentary republic in Eurasia, largely located in Western Asia, with the smaller portion of Eastern Thrace in Southeast Europe. Turkey is bordered by eight countries: Syria and Iraq to the south; Iran, Armenia, and the Azerbaijani exclave of Nakhchivan to the east; Georgia to the northeast; Bulgaria to the northwest; and Greece to the west. The Black Sea is to the north, the Mediterranean Sea to the south, and the Aegean Sea to the west. The Bosphorus, the Sea of Marmara, and the Dardanelles (which together form the Turkish Straits) demarcate the boundary between Thrace and Anatolia; they also separate Europe and Asia. Turkey’s location at the crossroads of Europe and Asia makes it a country of significant geostrategic importance. [Sources of information]",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The country’s official language is Turkish, a Turkic language spoken natively by approximately 85 percent of the population.\"",
+            "text": "The country’s official language is Turkish, a Turkic language spoken natively by approximately 85 percent of the population.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Ankara is the capital of the Republic of Turkey. With a population of 4,587,558 in the urban center (2014) and 5,150,072 in its province (2015),[1] it is Turkey’s second largest city behind Istanbul.\"",
+            "text": "Ankara is the capital of the Republic of Turkey. With a population of 4,587,558 in the urban center (2014) and 5,150,072 in its province (2015),[1] it is Turkey’s second largest city behind Istanbul.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The sea never buys fish.\"",
+            "text": "The sea never buys fish.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He that falls by himself never cries.\"",
+            "text": "He that falls by himself never cries.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Never become a teacher where you yourself were a pupil.\"",
+            "text": "Never become a teacher where you yourself were a pupil.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"When two jars collide, one breaks.\"",
+            "text": "When two jars collide, one breaks.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The gardener who loves roses is slave to a thousand thorns.\"",
+            "text": "The gardener who loves roses is slave to a thousand thorns.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A single advantage is worth a thousand sorceries.\"",
+            "text": "A single advantage is worth a thousand sorceries.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The sheik’s miracles are those of his own telling.\"",
+            "text": "The sheik’s miracles are those of his own telling.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A liar’s house is on fire and no one believes him.\"",
+            "text": "A liar’s house is on fire and no one believes him.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A hungry dog will bring a lion down.\"",
+            "text": "A hungry dog will bring a lion down.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Who has power in his hands has no need to lie; he uses violence.\"",
+            "text": "Who has power in his hands has no need to lie; he uses violence.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A true word needs no oath.\"",
+            "text": "A true word needs no oath.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"No fat mouse in a widow’s house.\"",
+            "text": "No fat mouse in a widow’s house.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He that speaks truth must have one foot in the stirrup.\"",
+            "text": "He that speaks truth must have one foot in the stirrup.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Coffee should be black as Hell, strong as death, and sweet as love.\"",
+            "text": "Coffee should be black as Hell, strong as death, and sweet as love.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Vinegar that costs nothing is sweeter than honey.\"",
+            "text": "Vinegar that costs nothing is sweeter than honey.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Man is harder than iron, stronger than stone and more fragile than a rose.\"",
+            "text": "Man is harder than iron, stronger than stone and more fragile than a rose.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He who steals honey, licks his fingers.\"",
+            "text": "He who steals honey, licks his fingers.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Others are always interested in us, just as we are interested in them.\"",
+            "text": "Others are always interested in us, just as we are interested in them.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He who has no children has one sorrow, he who has children has a thousand sorrows.\"",
+            "text": "He who has no children has one sorrow, he who has children has a thousand sorrows.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"When violence comes into the house, law and justice leave through the chimney.\"",
+            "text": "When violence comes into the house, law and justice leave through the chimney.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Vinegar that is too sour even taints the glass it’s kept in.\"",
+            "text": "Vinegar that is too sour even taints the glass it’s kept in.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Allah gave hunger to one and hunger to another.\"",
+            "text": "Allah gave hunger to one and hunger to another.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Things that are weak will break — as men do who think they are strong.\"",
+            "text": "Things that are weak will break — as men do who think they are strong.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If you weep for all the sorrows in this world, in the end you will have no eyes.\"",
+            "text": "If you weep for all the sorrows in this world, in the end you will have no eyes.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A defeated wrestler is not tired of wrestling.\"",
+            "text": "A defeated wrestler is not tired of wrestling.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A man will sacrifice his head to conquer a heart.\"",
+            "text": "A man will sacrifice his head to conquer a heart.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A woman has advice only for another woman.\"",
+            "text": "A woman has advice only for another woman.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"I know nothing about it, I haven’t seen it; that is the best answer.\"",
+            "text": "I know nothing about it, I haven’t seen it; that is the best answer.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The governor must fill your jars.\"",
+            "text": "The governor must fill your jars.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Don’t speak sweet words when your deeds are of stone.\"",
+            "text": "Don’t speak sweet words when your deeds are of stone.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The foot of a lamp is always the least lit.\"",
+            "text": "The foot of a lamp is always the least lit.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Good advice is given; good esteem is no given.\"",
+            "text": "Good advice is given; good esteem is no given.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Nothing works unless you would rather be doing it.\"",
+            "text": "Nothing works unless you would rather be doing it.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"None is so rich as that he can throw away a friend.\"",
+            "text": "None is so rich as that he can throw away a friend.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The dog that is going to bite does not show its teeth.\"",
+            "text": "The dog that is going to bite does not show its teeth.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Even though you know a thousand things, ask the man who knows one.\"",
+            "text": "Even though you know a thousand things, ask the man who knows one.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Cocks that crow too early will quickly find themselves in the pot.\"",
+            "text": "Cocks that crow too early will quickly find themselves in the pot.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"One night with an ugly woman and one day in the mountains both are like an eternity.\"",
+            "text": "One night with an ugly woman and one day in the mountains both are like an eternity.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If the bald man knew a remedy he would rub it on his own head.\"",
+            "text": "If the bald man knew a remedy he would rub it on his own head.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If your guest becomes a cook, your larder will soon be empty.\"",
+            "text": "If your guest becomes a cook, your larder will soon be empty.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"You don’t have to know much to read, but you do to cook.\"",
+            "text": "You don’t have to know much to read, but you do to cook.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The thief can lie, those he has stolen from cannot.\"",
+            "text": "The thief can lie, those he has stolen from cannot.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The real capital of a man is a mirror worth two cents.\"",
+            "text": "The real capital of a man is a mirror worth two cents.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The father donated a vineyard to his son, the son didn’t give a single bunch of grapes to the father.\"",
+            "text": "The father donated a vineyard to his son, the son didn’t give a single bunch of grapes to the father.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A stupid friend is a greater plague than a wise enemy.\"",
+            "text": "A stupid friend is a greater plague than a wise enemy.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Abundance is from activity.\"",
+            "text": "Abundance is from activity.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The horse can die from too much barley.\"",
+            "text": "The horse can die from too much barley.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Two watermelons cannot be held under one arm.\"",
+            "text": "Two watermelons cannot be held under one arm.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Having two ears and one tongue, we should listen twice as much as we speak.\"",
+            "text": "Having two ears and one tongue, we should listen twice as much as we speak.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The luckiest dies in his cradle.\"",
+            "text": "The luckiest dies in his cradle.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The bride who brings a golden throne will sit on it herself.\"",
+            "text": "The bride who brings a golden throne will sit on it herself.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Honey is one thing, the price is another.\"",
+            "text": "Honey is one thing, the price is another.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If you fall in a river hang on to a snake.\"",
+            "text": "If you fall in a river hang on to a snake.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"When God wants to please a poor man, He lets him lose his donkey and then helps him find it again.\"",
+            "text": "When God wants to please a poor man, He lets him lose his donkey and then helps him find it again.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The world is like that: one gives a melon, the other gets the stomach cramps.\"",
+            "text": "The world is like that: one gives a melon, the other gets the stomach cramps.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"One must ask about the delight of opium from one who smokes it.\"",
+            "text": "One must ask about the delight of opium from one who smokes it.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Out of ten men there are nine wives.\"",
+            "text": "Out of ten men there are nine wives.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"No matter how far you have gone on a wrong road, turn back.\"",
+            "text": "No matter how far you have gone on a wrong road, turn back.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"You can proclaim the truth also in a friendly way.\"",
+            "text": "You can proclaim the truth also in a friendly way.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The eagle does not feed on flies.\"",
+            "text": "The eagle does not feed on flies.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The physician prescribes the medicine, the vulture waits for the body.\"",
+            "text": "The physician prescribes the medicine, the vulture waits for the body.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Where there are no sheep, they call the goat princess.\"",
+            "text": "Where there are no sheep, they call the goat princess.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Cotton cannot play with fire.\"",
+            "text": "Cotton cannot play with fire.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Where conceit and ignorance sit, grass will not grow again.\"",
+            "text": "Where conceit and ignorance sit, grass will not grow again.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Happiness is like crystal … when it shines the most, it soon cracks.\"",
+            "text": "Happiness is like crystal … when it shines the most, it soon cracks.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A man without grief is not a man.\"",
+            "text": "A man without grief is not a man.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A prudent man will read the letter from back to front.\"",
+            "text": "A prudent man will read the letter from back to front.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Don’t be fooled by how clean the turban is, the soap was probably bought on credit.\"",
+            "text": "Don’t be fooled by how clean the turban is, the soap was probably bought on credit.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"One bad experience is worth more than a thousand threats.\"",
+            "text": "One bad experience is worth more than a thousand threats.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He who asks for alms blushes once; he who refuses, twice.\"",
+            "text": "He who asks for alms blushes once; he who refuses, twice.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Man is his own mirror.\"",
+            "text": "Man is his own mirror.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The wise man says what he knows; the fool doesn’t know what he is saying.\"",
+            "text": "The wise man says what he knows; the fool doesn’t know what he is saying.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Forced beauty won’t do.\"",
+            "text": "Forced beauty won’t do.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The raven sees its chickens as falcons.\"",
+            "text": "The raven sees its chickens as falcons.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"For those in love, Baghdad is near Istanbul.\"",
+            "text": "For those in love, Baghdad is near Istanbul.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Don’t say amen to an unacceptable prayer.\"",
+            "text": "Don’t say amen to an unacceptable prayer.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"To beg of the miser is to dig a trench in the sea.\"",
+            "text": "To beg of the miser is to dig a trench in the sea.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Idle men tempt the devil; the devil tempts all others.\"",
+            "text": "Idle men tempt the devil; the devil tempts all others.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Abundance doesn’t know contentment, but contentment is abundance.\"",
+            "text": "Abundance doesn’t know contentment, but contentment is abundance.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Who burned himself with hot milk blows on ice-cream.\"",
+            "text": "Who burned himself with hot milk blows on ice-cream.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Gold takes no rust.\"",
+            "text": "Gold takes no rust.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The devil tempts all other men, but idle men tempt the devil.\"",
+            "text": "The devil tempts all other men, but idle men tempt the devil.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He who has to be hanged, will not drown.\"",
+            "text": "He who has to be hanged, will not drown.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The bear knows seven songs and they are all about honey.\"",
+            "text": "The bear knows seven songs and they are all about honey.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The buyer of the rotten beans is the blind man.\"",
+            "text": "The buyer of the rotten beans is the blind man.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"You don’t steal a bitter eggplant.\"",
+            "text": "You don’t steal a bitter eggplant.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"\"If’ and \"when\" were planted, and \"nothing\" grew.\"",
+            "text": "\"If’ and \"when\" were planted, and \"nothing\" grew.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"When it sees money, the flute will play itself.\"",
+            "text": "When it sees money, the flute will play itself.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"God made low branches for birds that cannot fly so well.\"",
+            "text": "God made low branches for birds that cannot fly so well.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He ran away from the rain and was caught in a hailstorm.\"",
+            "text": "He ran away from the rain and was caught in a hailstorm.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Oh, misfortune, I forgive you when you come alone.\"",
+            "text": "Oh, misfortune, I forgive you when you come alone.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"You cannot forge a good sword from bad iron.\"",
+            "text": "You cannot forge a good sword from bad iron.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"When a rich man falls they say it was an accident; when a poor man falls they say that he was drunk.\"",
+            "text": "When a rich man falls they say it was an accident; when a poor man falls they say that he was drunk.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"No flock without dog and shepherd.\"",
+            "text": "No flock without dog and shepherd.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"In our eyes the neighbor’s chicken is a goose.\"",
+            "text": "In our eyes the neighbor’s chicken is a goose.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Killing two birds with one stone.\"",
+            "text": "Killing two birds with one stone.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If a stone falls on an egg, it is bad for the egg; if an egg falls onto a stone, it is still bad for the egg.\"",
+            "text": "If a stone falls on an egg, it is bad for the egg; if an egg falls onto a stone, it is still bad for the egg.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If everything that came from your tongue were to come into your hands, then every beggar would be a pasha.\"",
+            "text": "If everything that came from your tongue were to come into your hands, then every beggar would be a pasha.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Everyone admires his own character.\"",
+            "text": "Everyone admires his own character.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Do not leave to the morning the business of the evening.\"",
+            "text": "Do not leave to the morning the business of the evening.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A horse knows his rider by his spurs.\"",
+            "text": "A horse knows his rider by his spurs.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Judge the linen by the hem, the girl by the mother.\"",
+            "text": "Judge the linen by the hem, the girl by the mother.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"People who make the most or the loudest threats are the least likely to take action.\"",
+            "text": "People who make the most or the loudest threats are the least likely to take action.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Too much sympathy with the unfortunate makes you unhappy.\"",
+            "text": "Too much sympathy with the unfortunate makes you unhappy.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Better your enemy who you recognize than a dark friend.\"",
+            "text": "Better your enemy who you recognize than a dark friend.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Your five year old son is your instructor; at ten your slave; at fifteen your equal and after that either friend or foe.\"",
+            "text": "Your five year old son is your instructor; at ten your slave; at fifteen your equal and after that either friend or foe.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Don’t sell the fish that is still swimming in the ocean.\"",
+            "text": "Don’t sell the fish that is still swimming in the ocean.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"You don’t wash blood away with blood but with water.\"",
+            "text": "You don’t wash blood away with blood but with water.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Men make the earth black from green leaves.\"",
+            "text": "Men make the earth black from green leaves.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The rose comes from the thorns that were born of roses.\"",
+            "text": "The rose comes from the thorns that were born of roses.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Heaven was inspired by the first judge to take a bribe.\"",
+            "text": "Heaven was inspired by the first judge to take a bribe.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The first drink makes you a frisky gazelle, the second an impetuous zebra, the third a roaring lion, and with the fourth you become a silly donkey.\"",
+            "text": "The first drink makes you a frisky gazelle, the second an impetuous zebra, the third a roaring lion, and with the fourth you become a silly donkey.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A knife wound heals; a wound caused by words does not.\"",
+            "text": "A knife wound heals; a wound caused by words does not.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Where you were born is less important than how you live.\"",
+            "text": "Where you were born is less important than how you live.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"You may lie, but not too much.\"",
+            "text": "You may lie, but not too much.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He who knows much makes many mistakes.\"",
+            "text": "He who knows much makes many mistakes.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If a cat wants to eat her kittens, she’ll say that they look like mice.\"",
+            "text": "If a cat wants to eat her kittens, she’ll say that they look like mice.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The cheese vessel will not sail merely by words.\"",
+            "text": "The cheese vessel will not sail merely by words.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"It matters less to a person where they are born than where they can live.\"",
+            "text": "It matters less to a person where they are born than where they can live.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He who is only right hasn’t really anything.\"",
+            "text": "He who is only right hasn’t really anything.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Being overly careful invites misfortunes.\"",
+            "text": "Being overly careful invites misfortunes.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Cruelty is stupidity.\"",
+            "text": "Cruelty is stupidity.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Sorrow is to the soul what the worm is to wood.\"",
+            "text": "Sorrow is to the soul what the worm is to wood.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"There are many words that are like salted jam.\"",
+            "text": "There are many words that are like salted jam.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Care for your horse as a friend; ride it as if it were an enemy.\"",
+            "text": "Care for your horse as a friend; ride it as if it were an enemy.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The fool castrates himself in order that he could accuse his pregnant wife of adultery.\"",
+            "text": "The fool castrates himself in order that he could accuse his pregnant wife of adultery.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Do not search for a calf under an ox.\"",
+            "text": "Do not search for a calf under an ox.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"The fool sings a love song to his wife, the wise man will talk about his dog.\"",
+            "text": "The fool sings a love song to his wife, the wise man will talk about his dog.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Gold that is lent goes away laughing and comes back in tears.\"",
+            "text": "Gold that is lent goes away laughing and comes back in tears.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Death is the black camel that kneels before every door.\"",
+            "text": "Death is the black camel that kneels before every door.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Before you love, learn to run through snow without leaving footprints.\"",
+            "text": "Before you love, learn to run through snow without leaving footprints.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"One armpit cannot hold two watermelons.\"",
+            "text": "One armpit cannot hold two watermelons.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Even the thinnest piece of meat will happily marry a piece of bread.\"",
+            "text": "Even the thinnest piece of meat will happily marry a piece of bread.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Who kisses the feet of his mother, kisses the step of Paradise.\"",
+            "text": "Who kisses the feet of his mother, kisses the step of Paradise.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"God postpones, he does not overlook.\"",
+            "text": "God postpones, he does not overlook.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Too much prudishness makes the lover sick.\"",
+            "text": "Too much prudishness makes the lover sick.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A friend is one soul in two bodies.\"",
+            "text": "A friend is one soul in two bodies.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"If the lady of the house breaks something it is an unfortunate accident; if the servant does, then it is a terrible disaster.\"",
+            "text": "If the lady of the house breaks something it is an unfortunate accident; if the servant does, then it is a terrible disaster.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"He who lives on hope, dies of starvation.\"",
+            "text": "He who lives on hope, dies of starvation.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"Measure a thousand times and cut once.\"",
+            "text": "Measure a thousand times and cut once.",
             "description": "",
             "category": "turkish"
         },
         {
-            "text": "\"A man does not seek his luck; luck seeks its man.\"",
+            "text": "A man does not seek his luck; luck seeks its man.",
             "description": "",
             "category": "turkish"
         }

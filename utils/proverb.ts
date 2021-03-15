@@ -98,7 +98,7 @@ const getProverbByKeywords = async (keywords: string | string[]): Promise<Option
 //     return data[data[0]][data[1]]
 // }
 
-const getProverbByLanguage = async (language: string | undefined): Promise<ProverbData> => {
+const getProverbByLanguage = async (language: Optional<LanguagePattern>): Promise<ProverbData> => {
     const data: ProverbData[] = language ? proverbs[language] : proverbs[randomEnum(LanguagePattern)]
 
     return randomElement(data)
