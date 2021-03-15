@@ -1,7 +1,37 @@
 {
-    "slovak": [
+    "slovakian": [
         {
             "text": "\"Without caution even cleverness is futile.\"",
+            "description": "",
+            "category": "slovak"
+        },
+        {
+            "text": "\"Better to eat bread in peace, then cake amid turmoil.\"",
+            "description": "",
+            "category": "slovak"
+        },
+        {
+            "text": "\"The flour tastes bitter to the mouse who has had enough.\"",
+            "description": "",
+            "category": "slovak"
+        },
+        {
+            "text": "\"Only in water can you learn to swim.\"",
+            "description": "",
+            "category": "czechoslovakian"
+        },
+        {
+            "text": "\"Pure water is the world’s first and foremost medicine.\"",
+            "description": "",
+            "category": "slovakian"
+        },
+        {
+            "text": "\"The one who first shuts up in an argument is from a good family. \"",
+            "description": "",
+            "category": "slovak"
+        },
+        {
+            "text": "Better to eat bread in peace, then cake amid turmoil.",
             "description": "",
             "category": "slovak"
         },

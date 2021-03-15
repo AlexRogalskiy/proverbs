@@ -32,6 +32,19 @@ export const css = (colorOptions: ColorOptions): string => {
         font-style: italic;
         color: ${fontColor};
       }
+      .subhead::first-letter {
+        initial-letter: 2;
+        font-size: 35px;
+        line-height: 70px;
+        color: #903;
+        float: left;
+        font-family: Georgia;
+        font-size: 75px;
+        line-height: 60px;
+        padding-top: 4px;
+        padding-right: 8px;
+        padding-left: 3px;
+      }
       .proverb-wrapper {
         background: ${backgroundColor};
         background-image: ${backgroundPattern};

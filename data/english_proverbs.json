@@ -6,6 +6,51 @@
             "category": "english"
         },
         {
+            "text": "\"Stolen waters are sweet, and bread eaten in secret is pleasant.\"",
+            "description": "",
+            "category": "bible"
+        },
+        {
+            "text": "\"To save oneself, one must take risks and struggle.\"",
+            "description": "",
+            "category": "saying"
+        },
+        {
+            "text": "\"Don’t think problem, think opportunity.\"",
+            "description": "",
+            "category": "saying"
+        },
+        {
+            "text": "\"The problem with troubleshooting is that trouble shoots back.\"",
+            "description": "",
+            "category": "saying"
+        },
+        {
+            "text": "\"Confidence is the feeling you have before you understand the situation. \"",
+            "description": "",
+            "category": "sayings"
+        },
+        {
+            "text": "\"Put no faith in a drunkard’s prophecy, another man’s dog, or the weather at any season.\"",
+            "description": "",
+            "category": "darkovan"
+        },
+        {
+            "text": "\"Pleasant words are as an honeycomb, sweet to the soul, and health to the bones.\"",
+            "description": "",
+            "category": "bible"
+        },
+        {
+            "text": "Stolen waters are sweet, and bread eaten in secret is pleasant.",
+            "description": "",
+            "category": "bible"
+        },
+        {
+            "text": "\"Better a meal of vegetables where there is love than a fattened calf with hatred.\"",
+            "description": "",
+            "category": "bible"
+        },
+        {
             "text": "\"A man gift will make a way for him.\"",
             "description": "",
             "category": "bible"
@@ -1569,6 +1614,571 @@
             "text": "\"He that loveth silver shall not be satisfied with silver, nor he that loveth abundance with increase: this is also vanity.\"",
             "description": "",
             "category": "bible"
+        },
+        {
+            "text": "\"A hungry man is an angry man.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"A black plum is as sweet as a white.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"He that eats till he is sick must fast till he is well.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Don’t dig your grave with your knife and fork.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"A hungry stomach has no ears.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"The proof of the pudding is in the eating.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Revenge is a dish that should be eaten cold.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"One rotten apple spoils the whole barrel.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"An apple never falls far from the tree.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"When flatterers meet, the devil goes to dinner.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"When flatterers meet, the devil goes to dinner.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"When the wine is in, the wit is out.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Of wine the middle, of oil the top, and of honey the bottom is best.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Old praise dies unless you feed it.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"A man without a mustache is like a cup of tea without sugar.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Make yourself all honey and the flies will devour you.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Of wine the middle, of oil the top, and of honey the bottom is best.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"A man without a mustache is like a cup of tea without sugar.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"You can lead a horse to water, but you can’t make him drink.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Good words cool more than cold water.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"We never know the worth of water until the well is dry.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Still waters run deep.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Foul water will quench fire.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Give neither advice nor salt, until you are asked for it.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"If wishes were horses then beggars would ride.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Gray hairs are death‘s blossoms. \"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Death keeps no calendar. \"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Death is a shadow that always follows the body. \"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Death always comes too early or too late. \"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Use soft words and hard arguments. \"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"He that seeks trouble never misses. \"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Don’t dig your grave with your own knife and fork. \"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "He that eats till he is sick must fast till he is well.",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "Don’t dig your grave with your knife and fork.",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "A hungry stomach has no ears.",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "The proof of the pudding is in the eating.",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Better to go to bed hungry than to wake up in debt.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"A good drink makes the old young.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"The Irish ignore anything they can’t drink or punch.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Too many cooks spoil the broth.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Forbidden fruit is sweet.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Eat the wind and swallow bitterness.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Eat to live and not live to eat.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"The most dangerous food to eat is a wedding cake.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Eat and drink measurably, and defy the medicines.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"The apple does not fall far from the tree.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"An apple a day keeps the doctor away.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Never ask a favor of someone till they have had their dinner.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"No one knows what the dinner was after the plates have been washed.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Laugh before breakfast, you’ll cry before supper.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Never ask a favor of someone till they have had their dinner.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"No one knows what the dinner was after the plates have been washed.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Laugh before breakfast, you’ll cry before supper.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Drink wine, and have the gout; drink no wine, and have the gout too.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"The most dangerous food to eat is a wedding cake.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"First the man takes a drink, then the drink takes a drink, then the drink takes the man.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Children and drunks always speak the truth.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"He who drinks a little too much drinks much too much.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Garlic is as good as ten mothers.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"A nickel will get you on the subway, but garlic will get you a seat.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"An apple-pie without some cheese is like a kiss without a squeeze.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Do not drink poison to quench a thirst.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"One swallow will not make spring, nor one bee honey.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"No bees, no honey; no work, no money.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"A drop of honey catches more flies than a hogshead of vinegar.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Rebuke should have a grain more of salt than of sugar.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Much meat, much disease.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"One man’s meat is another man’s poison.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Rebuke should have a grain more of salt than of sugar.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Salt water and absence wash away love.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"I don’t care how many pails of milk I lose, as long as I don’t lose the cow.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Beggars can’t be choosers.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"The burden one likes is cheerfully carried.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"It is easy to bear the misfortunes of others.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"We come and cry and that is life, we cry and go and that is death. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"The one who pleased everybody died before they were born.  \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"The first breath is the beginning of death. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Nothing is certain but death and taxes. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Good men must die, but death cannot kill their names. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Fear of death is worse than death itself. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Death is the poor man’s best physician. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Death is the great leveler. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Death defies the doctor. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"A lot of good arguments are spoiled by some fool who knows what he is talking about. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"A sure way of getting the last word in an argument is to say you right. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"An argument is like a country road, you never know where it is going to lead. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"If you argue with a woman and win, you lose. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"People who know the least always argue the most. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Rebuke with soft words and hard arguments. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Soft words win hard hearts. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"There are usually two sides to every argument but no end. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"There is no point in arguing about matters of taste. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Two dogs strive for a bone and the third one runs off with it. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Don’t meet troubles half-way. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"The man who never makes a mistake always takes orders from one who does. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"The first mistake are theirs who commit them, the second are theirs that permit them. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"There will be sleeping enough in the grave. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "Eat the wind and swallow bitterness.",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "Eat to live and not live to eat.",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "The most dangerous food to eat is a wedding cake.",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "Eat and drink measurably, and defy the medicines.",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "He who eats alone chokes alone.",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Private reproof is the best grave for private faults. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"A trouble shared is a trouble halved. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"When all are wrong, everyone is right. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"When two quarrel, both are in the wrong. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"After death the doctor. \"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"Every one to his taste.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"There is no accounting for tastes.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "\"He who eats alone chokes alone.\"",
+            "description": "",
+            "category": "traditional"
+        },
+        {
+            "text": "Revenge is a dish that should be eaten cold.",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Don’t cry over spilt milk.\"",
+            "description": "",
+            "category": "english"
+        },
+        {
+            "text": "\"Don’t dig your grave with your knife and fork.\"",
+            "description": "",
+            "category": "english"
         },
         {
             "text": "\"He that despiseth his neighbor sinneth; but he that hath mercy on the poor, happy is he.\"",

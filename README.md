@@ -137,6 +137,7 @@ Here is a list of languages supported by Proverb API:
 | **Burkinabe**                     | burkinabe                     |
 | **Burmese**                       | burmese                       |
 | **Burundian**                     | burundian                     |
+| **Byzantium**                     | byzantium                     |
 | **Cambodian**                     | cambodian                     |
 | **Cameroonian**                   | cameroonian                   |
 | **Canadian**                      | canadian                      |
@@ -167,13 +168,16 @@ Here is a list of languages supported by Proverb API:
 | **Fijian**                        | fijian                        |
 | **Filipino**                      | filipino                      |
 | **Finnish**                       | finnish                       |
+| **Flemish**                       | flemish                       |
 | **French Guianese**               | french_guianese               |
 | **French**                        | french                        |
 | **Gabonese**                      | gabonese                      |
 | **Gaelic**                        | gaelic                        |
+| **Gambian**                       | gambian                       |
 | **Georgian**                      | georgian                      |
 | **German**                        | german                        |
 | **Ghanaian**                      | ghanaian                      |
+| **Goan**                          | goan                          |
 | **Greek**                         | greek                         |
 | **Guatemalan**                    | guatemalan                    |
 | **Guinean**                       | guinean                       |
@@ -202,6 +206,7 @@ Here is a list of languages supported by Proverb API:
 | **Kanuri**                        | kanuri                        | 
 | **Kashmiri**                      | kashmiri                      | 
 | **Kenyan**                        | kenyan                        |
+| **Kikuyu**                        | kikuyu                        |
 | **Korean**                        | korean                        |
 | **Kurdish**                       | kurdish                       |
 | **Kyrgyzstani**                   | kyrgyzstani                   |
@@ -218,6 +223,7 @@ Here is a list of languages supported by Proverb API:
 | **Macedonian**                    | macedonian                    |
 | **Malagasy**                      | malagasy                      |
 | **Malawian**                      | malawian                      |
+| **Malay**                         | malay                         |
 | **Malaysian**                     | malaysian                     |
 | **Malian**                        | malian                        |
 | **Maltese**                       | maltese                       |
@@ -260,7 +266,7 @@ Here is a list of languages supported by Proverb API:
 | **Sicilian**                      | sicilian                      |
 | **Sierra Leonean**                | sierra_leonean                |
 | **Sinhalese**                     | sinhalese                     |
-| **Slovak**                        | slovak                        |
+| **Slovakian**                     | slovakian                     |
 | **Slovenian**                     | slovenian                     |
 | **Solomon Islander**              | solomon_islander              |
 | **South African**                 | south_african                 |

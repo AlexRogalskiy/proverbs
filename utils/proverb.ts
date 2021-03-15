@@ -72,8 +72,8 @@ const getImageContent = (
 
 const getBodyContent = (text: string, description: string): string => {
     return isBlankString(description)
-        ? `<h3 class="font-monserrat700">${text}</h3>`
-        : `<h3 class="font-monserrat700">${text}</h3>
+        ? `<h3 class="font-monserrat700 subhead">${text}</h3>`
+        : `<h3 class="font-monserrat700 subhead">${text}</h3>
             <div class="line"></div>
             <p class="font-monserratRegular">${description}</p>
             <div class="line"></div>`
