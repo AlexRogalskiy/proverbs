@@ -23,14 +23,23 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        with:
-          ref: ${{ github.head_ref }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v1
 
+      - name: Pull changeset
+        run: |
+          git pull origin master
+
+      - id: file_changes
+        uses: trilom/file-changes-action@v1.2.3
+        with:
+          output: ','
+          fileOutput: ','
+
       - name: Process JSON file by fields
         uses: alexrogalskiy/github-action-json-fields@master
+        if: "contains(steps.file_changes.outputs.files, ${{ matrix.file }})"
         id: process_json
         env:
           target_path: ./data
