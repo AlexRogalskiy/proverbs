@@ -33,12 +33,12 @@ jobs:
           target_path: ./data
           fields: 'text'
         with:
-          jsonMode: 'unique'
+          mode: 'unique'
+          jsonPath: "${{ matrix.property }}"
+          jsonFields: "${{ env.fields }}"
           sourceFile: "${{ env.target_path }}/${{ matrix.file }}"
           targetPath: "${{ env.target_path }}"
-          destFile: "${{ matrix.file }}"
-          targetProperty: "${{ matrix.property }}"
-          fields: "${{ matrix.fields }}"
+          targetFile: "${{ matrix.file }}"
 
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
