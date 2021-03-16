@@ -3,6 +3,7 @@ name: Process JSON files by unique fields
 on:
   push:
     paths:
+      - '.github/workflows/json_unique.yml'
       - 'data/**.json'
 
 jobs:
@@ -13,11 +14,11 @@ jobs:
       matrix:
         include:
           - file: afghan_proverbs.json
-            property: afghan
+            property: '$.afghan[*]'
           - file: african_proverbs.json
-            property: african
+            property: '$.african[*]'
           - file: albanian_proverbs.json
-            property: albanian
+            property: '$.albanian[*]'
 
     steps:
       - uses: actions/checkout@v2
