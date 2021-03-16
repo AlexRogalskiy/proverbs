@@ -1,10 +1,7 @@
 name: Process JSON files by unique fields
 
 on:
-  push:
-    paths:
-      - '.github/workflows/json_unique.yml'
-      - 'data/**.json'
+  workflow_dispatch:
 
 jobs:
   process-json-unique:
@@ -449,6 +446,13 @@ jobs:
         with:
           output: ','
           fileOutput: ','
+
+      - name: Changed files
+        run: |
+          echo 'Files: ${{ steps.file_changes.outputs.files}}'
+          echo 'Files modified: ${{ steps.file_changes.outputs.files_modified}}'
+          echo 'Files added: ${{ steps.file_changes.outputs.files_added}}'
+          echo 'Files removed: ${{ steps.file_changes.outputs.files_removed}}'
 
       - name: Process JSON file by fields
         uses: alexrogalskiy/github-action-json-fields@master

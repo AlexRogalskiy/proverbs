@@ -11,6 +11,166 @@
             "category": "traditional"
         },
         {
+            "text": "Seeing is believing.",
+            "description": "People don’t often believe something, unless they see it.",
+            "category": "traditional"
+        },
+        {
+            "text": "It’s the tip of the iceberg.",
+            "description": "The bigger issue is that this particular problem isn’t the worst one you will encounter. It is highly likely that far worse issues lie ahead.",
+            "category": "traditional"
+        },
+        {
+            "text": "If you scratch my back, I’ll scratch yours.",
+            "description": "If you help me, I will return the favor and help you.",
+            "category": "traditional"
+        },
+        {
+            "text": "The forbidden fruit is always the sweetest.",
+            "description": "Doing something that you know you shouldn’t always feel good. Just thinking about the act can make you feel good.",
+            "category": "traditional"
+        },
+        {
+            "text": "You can’t make an omelet without breaking a few eggs.",
+            "description": "To achieve anything in life you will encounter a few problems, sometimes you will have to make a few sacrifices in the short term to achieve a greater long term goal.",
+            "category": "traditional"
+        },
+        {
+            "text": "There is no use in crying over spilt milk.",
+            "description": "Once a mistake has been made, there is no point in dwelling on it. Moving on is the easiest option. When something is done, it’s done. You can’t change the past.",
+            "category": "traditional"
+        },
+        {
+            "text": "Anyone inexperienced puts faith in every word, but the shrewd one considers his steps.",
+            "description": "Someone who has little experience in life may believe almost anything said to them, but a person who has experience in life doesn’t believe everything he hears. He will think before taking any action based on what was said.",
+            "category": "traditional"
+        },
+        {
+            "text": "Enjoy it while it lasts.",
+            "description": "How do you feel on the final day of your vacation? Sad and upset it has already passed? Enjoy it while it lasts, means to make sure we don’t waste our time when we are doing something enjoyable.",
+            "category": "traditional"
+        },
+        {
+            "text": "Failing to plan is planning to fail.",
+            "description": "It is a tongue twister to say out loud, but it is very clever advice. Success is often dependent on good planning. If we don’t make plans in advance, we are more likely to be unsuccessful.",
+            "category": "traditional"
+        },
+        {
+            "text": "Love of money is the root of all evil.",
+            "description": "Perhaps not a proverb as much as it is a general truth. Sadly, the love of money causes many people to lie, steal and cheat from others. Greed, the love of money is sadly the primary cause of many terrible things that happen in the world.",
+            "category": "traditional"
+        },
+        {
+            "text": "Patience is a virtue.",
+            "description": "Any virtue, is an excellent, admirable quality that we should all aspire to obtain. Patience is something many of us lack and therefore a quality which most of us find desirable and like to see in others.",
+            "category": "traditional"
+        },
+        {
+            "text": "You can take a horse to water, but you can’t make it drink.",
+            "description": "Because a horse has a mind of its own, only the horse can decide whether it wants to drink the water. The same applies to people. We can advise another person, but we can’t make them take the advice and use it, that part is up to them.",
+            "category": "traditional"
+        },
+        {
+            "text": "You cannot serve two masters.",
+            "description": "Anyone who tries to do two things at the same time will either do well at one thing and not the other or fail at both. It is impossible to do both things well at the same time.",
+            "category": "traditional"
+        },
+        {
+            "text": "Never judge a book by its cover.",
+            "description": "You should never make a judgment about something or someone simply based on first impressions. In many circumstances, you will find out that you are wrong.",
+            "category": "traditional"
+        },
+        {
+            "text": "A barking dog rarely bites.",
+            "description": "If someone looks physically aggressive either by their outward appearance or the things that they say, but when it comes to confrontation, they back away. A proverb that is linked to this one but means the same is 'his bark is worse than his bite'.",
+            "category": "traditional"
+        },
+        {
+            "text": "If it isn’t broke, don’t fix it.",
+            "description": "When someone might take situation upon themselves to try to alter something that is already working perfectly fine.",
+            "category": "traditional"
+        },
+        {
+            "text": "Give him an inch and he will take a mile.",
+            "description": "If a man were to loan his friend some money and allowed him a longer time than usual to pay it back, so the friend kept returning asking for more money and more time.",
+            "category": "traditional"
+        },
+        {
+            "text": "Beauty is skin deep.",
+            "description": "Similar to the proverb above, this one talks about a persons outward appearance not aligning with their true personality. It means a person who may appear physically beautiful on the outside but has less than desirable inner personality traits. For example, you could use this proverb when talking about a supermodel who despite being outwardly gorgeous, is rude and obnoxious to those she works with.",
+            "category": "traditional"
+        },
+        {
+            "text": "The grass isn’t always greener on the other side.",
+            "description": "Something that looks great from afar, may not be what you think once you get closer. Be happy with what you already have.",
+            "category": "traditional"
+        },
+        {
+            "text": "It is better to have loved and lost, than to never have loved at all.",
+            "description": "If you had never fallen in love you would never have had that experience or been able to learn from it, so whilst it is painful, it is also a lesson and something that you know more about now.",
+            "category": "traditional"
+        },
+        {
+            "text": "A leopard never changes its spots.",
+            "description": "The meaning here is referring to a personality trait of someone, usually not a very good one and that once someone has adopted that trait, they will never be able to change it. This proverb is often used when talking about someone who has been unfaithful in their relationship.",
+            "category": "traditional"
+        },
+        {
+            "text": "It is no use locking the stable door after the horse has bolted.",
+            "description": "If your aim was to keep your horse safely locked in its stable, it is too late to achieve this if you only lock the door after the horse has escaped.",
+            "category": "traditional"
+        },
+        {
+            "text": "Shrewd is the one that has seen the calamity and proceeds to conceal himself.",
+            "description": "A shrewd or intelligent person is someone who is smart and thinks ahead. They will take action to protect themselves from any danger that they think could happen.",
+            "category": "traditional"
+        },
+        {
+            "text": "Early in the year, early in the month, early in the week, early in the day.",
+            "description": "To stress how important our time is, we are encouraged to do things as soon as possible and not delay.",
+            "category": "traditional"
+        },
+        {
+            "text": "Don’t place all your eggs in one basket.",
+            "description": "This proverb warns us about putting all of our trust into one thing that could fail.",
+            "category": "traditional"
+        },
+        {
+            "text": "Do to others as you would have them do to you.",
+            "description": "Treat others the way you would like them to treat you.",
+            "category": "traditional"
+        },
+        {
+            "text": "An answer when mild turns away rage.",
+            "description": "Everyone has arguments and fights. During a heated fight, we might feel angry which may cause us to say unkind things about the other person. If we say something in anger, this will only make the argument worse.",
+            "category": "traditional"
+        },
+        {
+            "text": "Leave no stone unturned.",
+            "description": "To achieve your goal, you should try every possibility.",
+            "category": "traditional"
+        },
+        {
+            "text": "What’s done is done.",
+            "description": "You cannot change what has already happened.",
+            "category": "traditional"
+        },
+        {
+            "text": "It never rains, but it pours.",
+            "description": "Bad luck never comes alone. Bad things usually happen all together at once.",
+            "category": "traditional"
+        },
+        {
+            "text": "First things first.",
+            "description": "Be patient. Do the things in their correct order.",
+            "category": "traditional"
+        },
+        {
+            "text": "Measure twice, cut one.",
+            "description": "It’s hard to change a decision, once you’ve made it.",
+            "category": "traditional"
+        },
+        {
             "text": "Stolen waters are sweet, and bread eaten in secret is pleasant.",
             "description": "",
             "category": "bible"
@@ -222,7 +382,7 @@
         },
         {
             "text": "Easy come, easy go.",
-            "description": "",
+            "description": "It’s as easy to make money as to lose it",
             "category": "traditional"
         },
         {
@@ -382,7 +542,7 @@
         },
         {
             "text": "Birds of a feather flock together.",
-            "description": "",
+            "description": "People who share a common ground will usually be more drawn to one another.",
             "category": "traditional"
         },
         {
@@ -497,7 +657,7 @@
         },
         {
             "text": "Opportunity seldom knocks twice.",
-            "description": "",
+            "description": "You probably won’t get another chance, so it’s better to take one right now.",
             "category": "traditional"
         },
         {
@@ -622,7 +782,7 @@
         },
         {
             "text": "Curiosity killed the cat.",
-            "description": "",
+            "description": "A polite way of telling someone to “Mind your own business”. Pay attention to your own life, ignore things that don’t concern you.",
             "category": "traditional"
         },
         {
@@ -1222,7 +1382,7 @@
         },
         {
             "text": "Every dog has his day.",
-            "description": "",
+            "description": "When someone uses the proverb, they are talking about the fact that every person, despite their situation or how fortunate they may or may not be, will have a moment of success at some point. For example, someone who is unlucky in love and suddenly meets his soulmate, you might use this proverb in that situation.",
             "category": "traditional"
         },
         {
@@ -1502,7 +1662,7 @@
         },
         {
             "text": "Forgive and forget.",
-            "description": "",
+            "description": "Forgive and forget the bad things that have been done to you. Don’t hold the grudge.",
             "category": "traditional"
         },
         {
@@ -1727,7 +1887,7 @@
         },
         {
             "text": "Still waters run deep.",
-            "description": "",
+            "description": "It a little like “don’t judge a book by its cover”. It simply means that a person may be quiet but still are very interesting once you get to know them.",
             "category": "english"
         },
         {
@@ -1817,7 +1977,7 @@
         },
         {
             "text": "Too many cooks spoil the broth.",
-            "description": "",
+            "description": "If there are many people doing the same job, the result will come out to be bad.",
             "category": "traditional"
         },
         {
@@ -1852,7 +2012,7 @@
         },
         {
             "text": "An apple a day keeps the doctor away.",
-            "description": "",
+            "description": "You will not get sick if you eat fruit/ healthy food every day.",
             "category": "traditional"
         },
         {
@@ -1977,7 +2137,7 @@
         },
         {
             "text": "Beggars can’t be choosers.",
-            "description": "",
+            "description": "We use this common proverb when we do not have enough money to get what we want but only what we need.",
             "category": "traditional"
         },
         {
@@ -2377,7 +2537,7 @@
         },
         {
             "text": "Many hands make light work.",
-            "description": "",
+            "description": "The more help we have from others, the easier a big job becomes to complete.",
             "category": "english"
         },
         {
@@ -2742,7 +2902,7 @@
         },
         {
             "text": "Actions speak louder than words.",
-            "description": "",
+            "description": "What you do matters – not what you say.",
             "category": "english"
         },
         {
@@ -2827,7 +2987,7 @@
         },
         {
             "text": "Better safe than sorry.",
-            "description": "",
+            "description": "You should always be careful, even if you think it’s not necessary.",
             "category": "english"
         },
         {
@@ -3052,7 +3212,7 @@
         },
         {
             "text": "Out of sight, out of mind.",
-            "description": "",
+            "description": "We tend to forget about things we cannot see or hear.",
             "category": "traditional"
         },
         {
@@ -3242,7 +3402,7 @@
         },
         {
             "text": "Many hands make light work.",
-            "description": "",
+            "description": "The more help we have from others, the easier a big job becomes to complete.",
             "category": "english"
         },
         {
@@ -3277,7 +3437,7 @@
         },
         {
             "text": "Strike while the iron is hot.",
-            "description": "",
+            "description": "ake action in favorable circumstances because they can change very quickly and it might not be as achieve success.",
             "category": "english"
         },
         {
@@ -3387,7 +3547,7 @@
         },
         {
             "text": "Better late than never.",
-            "description": "",
+            "description": "It’s better if you do something later, than not do it at all.",
             "category": "english"
         },
         {
@@ -3402,7 +3562,7 @@
         },
         {
             "text": "Don’t count your chickens before they hatch.",
-            "description": "",
+            "description": "When you do something in preparation for another thing that may not even happen. For example, I am going to buy a dress, even though no one has invited me to the party.",
             "category": "english"
         },
         {
@@ -3432,7 +3592,7 @@
         },
         {
             "text": "Rome wasn’t built in a day.",
-            "description": "",
+            "description": "The most important things in life take time. Don’t be in a hurry.",
             "category": "english"
         },
         {
@@ -3567,7 +3727,7 @@
         },
         {
             "text": "You reap what you sow.",
-            "description": "",
+            "description": "If a farmer plants potatoes, he will get potatoes, not another thing like tomatoes. Therefore, if we do good things we can expect good results, however, is we do wicked things we should expect the consequences.",
             "category": "english"
         },
         {
@@ -3592,7 +3752,7 @@
         },
         {
             "text": "Misery loves company.",
-            "description": "",
+            "description": "People who are unhappy want to make others unhappy too.",
             "category": "english"
         },
         {
@@ -3617,7 +3777,7 @@
         },
         {
             "text": "Don’t judge a book by its cover.",
-            "description": "",
+            "description": "This proverb is also called a metaphor, to teach us not to judge another person by the way they look on the outside.",
             "category": "english"
         },
         {
@@ -3642,7 +3802,7 @@
         },
         {
             "text": "Still waters run deep.",
-            "description": "",
+            "description": "It a little like “don’t judge a book by its cover”. It simply means that a person may be quiet but still are very interesting once you get to know them.",
             "category": "english"
         },
         {
@@ -3742,7 +3902,7 @@
         },
         {
             "text": "A rolling stone gathers no moss.",
-            "description": "",
+            "description": "This proverb is talking about how if a person rumbles through life without ever stopping, they will gain nothing from life and no experience or benefit from it. It could be applied to a lot of areas of life such as relationships but a good example would be of somebody who constantly switched their job, moving from career to career without ever staying in one long enough to take any of the benefit from it or gain any experience in the field.",
             "category": "english"
         },
         {
@@ -3832,7 +3992,7 @@
         },
         {
             "text": "Great minds think alike.",
-            "description": "",
+            "description": "Smart people usually have the same ideas. This proverb is used when someone has the same idea as you.",
             "category": "english"
         },
         {
@@ -3842,7 +4002,7 @@
         },
         {
             "text": "Look before you leap.",
-            "description": "",
+            "description": "Make decisions carefully. Think about it first.",
             "category": "english"
         },
         {
@@ -3882,7 +4042,7 @@
         },
         {
             "text": "Time is money.",
-            "description": "",
+            "description": "The longer it takes to do something, the more costly it will be",
             "category": "english"
         },
         {
@@ -4007,7 +4167,7 @@
         },
         {
             "text": "If you snooze, you lose.",
-            "description": "",
+            "description": "You have to act fast to get what you want.",
             "category": "english"
         },
         {
@@ -4022,7 +4182,7 @@
         },
         {
             "text": "Lie down with dogs, wake up with fleas.",
-            "description": "",
+            "description": "If you associate with bad or dishonest people, bad things will happen to you.",
             "category": "english"
         },
         {
@@ -4087,7 +4247,7 @@
         },
         {
             "text": "When in Rome, do as the Romans do.",
-            "description": "",
+            "description": "When you are in another country, it’s better to behave like the citizens of this country.",
             "category": "english"
         },
         {
@@ -4152,7 +4312,7 @@
         },
         {
             "text": "Actions speak louder than words.",
-            "description": "",
+            "description": "What you do matters – not what you say.",
             "category": "english"
         },
         {
@@ -4162,7 +4322,7 @@
         },
         {
             "text": "Necessity is the mother of invention.",
-            "description": "",
+            "description": "There are situations in life when we can’t get the things we may need. It is often at these moments when we invent something to solve our problem, which is why necessity is the mother of invention.",
             "category": "english"
         },
         {
@@ -4172,7 +4332,7 @@
         },
         {
             "text": "Money is the root of all evil.",
-            "description": "",
+            "description": "Money is the cause of all problems.",
             "category": "english"
         },
         {
@@ -4187,7 +4347,7 @@
         },
         {
             "text": "Don’t talk the talk if you can’t walk the walk.",
-            "description": "",
+            "description": "Don’t brag about being able to do something, unless you actually know how to do it.",
             "category": "english"
         },
         {
@@ -4197,7 +4357,7 @@
         },
         {
             "text": "Better safe than sorry.",
-            "description": "",
+            "description": "You should always be careful, even if you think it’s not necessary.",
             "category": "english"
         },
         {
@@ -4267,7 +4427,7 @@
         },
         {
             "text": "A friend in need is a friend indeed.",
-            "description": "If someone helps you when you have problems, or you are in trouble, that person is a true friend",
+            "description": "If someone helps you when you have problems, or you are in trouble, that person is a true friend.",
             "category": "english"
         },
         {
@@ -4302,7 +4462,7 @@
         },
         {
             "text": "Absence makes the heart grow fonder.",
-            "description": "",
+            "description": "Have you ever been separated from your loved one for a long time? You probably spent more time than normal thinking about them, which made you want to see that person even more.",
             "category": "english"
         },
         {
@@ -4312,7 +4472,7 @@
         },
         {
             "text": "Haste makes waste.",
-            "description": "",
+            "description": "When you try to work too quickly, you usually make mistakes.",
             "category": "english"
         },
         {
@@ -4808,7 +4968,7 @@
         {
             "category": "english",
             "text": "It’s better to be safe than sorry.",
-            "description": "It’s better to be cautious than regret later."
+            "description": "Take your time, it’s better to get something done correctly the first time. Rather than to finish a task quickly and risk problems at a later date."
         },
         {
             "category": "english",
@@ -5168,7 +5328,7 @@
         {
             "text": "The grass is always greener on the other side of the fence.",
             "category": "english",
-            "description": ""
+            "description": "People always think other people are happier, more successful, living better lives than you. In many cases, this is not true. The lesson is to be grateful for what you have."
         },
         {
             "text": "Half a loaf is better than no bread.",
@@ -5383,7 +5543,7 @@
         {
             "text": "Curiosity killed the cat.",
             "category": "english",
-            "description": ""
+            "description": "A polite way of telling someone to “Mind your own business”. Pay attention to your own life, ignore things that don’t concern you."
         },
         {
             "text": "There is no rose without a thorn.",
@@ -5663,7 +5823,7 @@
         {
             "text": "A rolling stone gathers no moss.",
             "category": "english",
-            "description": ""
+            "description": "This proverb is talking about how if a person rumbles through life without ever stopping, they will gain nothing from life and no experience or benefit from it. It could be applied to a lot of areas of life such as relationships but a good example would be of somebody who constantly switched their job, moving from career to career without ever staying in one long enough to take any of the benefit from it or gain any experience in the field."
         },
         {
             "text": "A leopard cannot change its spots.",
@@ -5753,12 +5913,12 @@
         {
             "text": "It’s better to be safe than sorry.",
             "category": "english",
-            "description": ""
+            "description": "Take your time, it’s better to get something done correctly the first time. Rather than to finish a task quickly and risk problems at a later date."
         },
         {
             "text": "Don’t bite off more than you can chew.",
             "category": "english",
-            "description": ""
+            "description": "Be aware of your limitations, don’t try to do something you know you can’t. It’s ok to say you don’t know."
         },
         {
             "text": "Beauty is in the eye of the beholder.",
@@ -5823,7 +5983,7 @@
         {
             "text": "Honesty is the best policy.",
             "category": "english",
-            "description": "Don't lie."
+            "description": "It’s better to always tell the truth."
         },
         {
             "text": "As the fool thinks, so the bell clinks.",

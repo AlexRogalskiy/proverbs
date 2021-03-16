@@ -1,0 +1,842 @@
+[
+    {
+        "sourceFile": "./data/afghan_proverbs.json",
+        "jsonPath": "$.afghan[*]"
+    },
+    {
+        "sourceFile": "./data/african_proverbs.json",
+        "jsonPath": "$.african[*]"
+    },
+    {
+        "sourceFile": "./data/albanian_proverbs.json",
+        "jsonPath": "$.albanian[*]"
+    },
+    {
+        "sourceFile": "./data/algerian_proverbs.json",
+        "jsonPath": "$.algerian[*]"
+    },
+    {
+        "sourceFile": "./data/american_proverbs.json",
+        "jsonPath": "$.american[*]"
+    },
+    {
+        "sourceFile": "./data/andorran_proverbs.json",
+        "jsonPath": "$.andorran[*]"
+    },
+    {
+        "sourceFile": "./data/albanian_proverbs.json",
+        "jsonPath": "$.albanian[*]"
+    },
+    {
+        "sourceFile": "./data/angolan_proverbs.json",
+        "jsonPath": "$.angolan[*]"
+    },
+    {
+        "sourceFile": "./data/anii_proverbs.json",
+        "jsonPath": "$.anii[*]"
+    },
+    {
+        "sourceFile": "./data/antillean_proverbs.json",
+        "jsonPath": "$.antillean[*]"
+    },
+    {
+        "sourceFile": "./data/arabian_proverbs.json",
+        "jsonPath": "$.arabian[*]"
+    },
+    {
+        "sourceFile": "./data/argentinian_proverbs.json",
+        "jsonPath": "$.argentinian[*]"
+    },
+    {
+        "sourceFile": "./data/armenian_proverbs.json",
+        "jsonPath": "$.armenian[*]"
+    },
+    {
+        "sourceFile": "./data/australian_proverbs.json",
+        "jsonPath": "$.australian[*]"
+    },
+    {
+        "sourceFile": "./data/austrian_proverbs.json",
+        "jsonPath": "$.austrian[*]"
+    },
+    {
+        "sourceFile": "./data/azerbaijani_proverbs.json",
+        "jsonPath": "$.azerbaijani[*]"
+    },
+    {
+        "sourceFile": "./data/babylonian_proverbs.json",
+        "jsonPath": "$.babylonian[*]"
+    },
+    {
+        "sourceFile": "./data/bahamian_proverbs.json",
+        "jsonPath": "$.bahamian[*]"
+    },
+    {
+        "sourceFile": "./data/bambara_proverbs.json",
+        "jsonPath": "$.bambara[*]"
+    },
+    {
+        "sourceFile": "./data/bantu_proverbs.json",
+        "jsonPath": "$.bantu[*]"
+    },
+    {
+        "sourceFile": "./data/basotho_proverbs.json",
+        "jsonPath": "$.basotho[*]"
+    },
+    {
+        "sourceFile": "./data/basque_proverbs.json",
+        "jsonPath": "$.basque[*]"
+    },
+    {
+        "sourceFile": "./data/bedouin_proverbs.json",
+        "jsonPath": "$.bedouin[*]"
+    },
+    {
+        "sourceFile": "./data/belgian_proverbs.json",
+        "jsonPath": "$.belgian[*]"
+    },
+    {
+        "sourceFile": "./data/belizean_proverbs.json",
+        "jsonPath": "$.belizean[*]"
+    },
+    {
+        "sourceFile": "./data/bemba_proverbs.json",
+        "jsonPath": "$.bemba[*]"
+    },
+    {
+        "sourceFile": "./data/bengali_proverbs.json",
+        "jsonPath": "$.bengali[*]"
+    },
+    {
+        "sourceFile": "./data/beninese_proverbs.json",
+        "jsonPath": "$.beninese[*]"
+    },
+    {
+        "sourceFile": "./data/berber_proverbs.json",
+        "jsonPath": "$.berber[*]"
+    },
+    {
+        "sourceFile": "./data/bolivian_proverbs.json",
+        "jsonPath": "$.bolivian[*]"
+    },
+    {
+        "sourceFile": "./data/bosnian_proverbs.json",
+        "jsonPath": "$.bosnian[*]"
+    },
+    {
+        "sourceFile": "./data/brazilian_proverbs.json",
+        "jsonPath": "$.brazilian[*]"
+    },
+    {
+        "sourceFile": "./data/breton_proverbs.json",
+        "jsonPath": "$.breton[*]"
+    },
+    {
+        "sourceFile": "./data/bulgarian_proverbs.json",
+        "jsonPath": "$.bulgarian[*]"
+    },
+    {
+        "sourceFile": "./data/burkinabe_proverbs.json",
+        "jsonPath": "$.burkinabe[*]"
+    },
+    {
+        "sourceFile": "./data/burmese_proverbs.json",
+        "jsonPath": "$.burmese[*]"
+    },
+    {
+        "sourceFile": "./data/burundian_proverbs.json",
+        "jsonPath": "$.burundian[*]"
+    },
+    {
+        "sourceFile": "./data/byzantium_proverbs.json",
+        "jsonPath": "$.byzantium[*]"
+    },
+    {
+        "sourceFile": "./data/cambodian_proverbs.json",
+        "jsonPath": "$.cambodian[*]"
+    },
+    {
+        "sourceFile": "./data/cameroonian_proverbs.json",
+        "jsonPath": "$.cameroonian[*]"
+    },
+    {
+        "sourceFile": "./data/canadian_proverbs.json",
+        "jsonPath": "$.canadian[*]"
+    },
+    {
+        "sourceFile": "./data/catalan_proverbs.json",
+        "jsonPath": "$.catalan[*]"
+    },
+    {
+        "sourceFile": "./data/chadian_proverbs.json",
+        "jsonPath": "$.chadian[*]"
+    },
+    {
+        "sourceFile": "./data/chilean_proverbs.json",
+        "jsonPath": "$.chilean[*]"
+    },
+    {
+        "sourceFile": "./data/chinese_proverbs.json",
+        "jsonPath": "$.chinese[*]"
+    },
+    {
+        "sourceFile": "./data/colombian_proverbs.json",
+        "jsonPath": "$.colombian[*]"
+    },
+    {
+        "sourceFile": "./data/congolese_proverbs.json",
+        "jsonPath": "$.congolese[*]"
+    },
+    {
+        "sourceFile": "./data/corsican_proverbs.json",
+        "jsonPath": "$.corsican[*]"
+    },
+    {
+        "sourceFile": "./data/costa-rikan_proverbs.json",
+        "jsonPath": "$.costa-rikan[*]"
+    },
+    {
+        "sourceFile": "./data/creole_proverbs.json",
+        "jsonPath": "$.creole[*]"
+    },
+    {
+        "sourceFile": "./data/chilean_proverbs.json",
+        "jsonPath": "$.chilean[*]"
+    },
+    {
+        "sourceFile": "./data/croatian_proverbs.json",
+        "jsonPath": "$.croatian[*]"
+    },
+    {
+        "sourceFile": "./data/cuban_proverbs.json",
+        "jsonPath": "$.cuban[*]"
+    },
+    {
+        "sourceFile": "./data/cypriot_proverbs.json",
+        "jsonPath": "$.cypriot[*]"
+    },
+    {
+        "sourceFile": "./data/czech_proverbs.json",
+        "jsonPath": "$.czech[*]"
+    },
+    {
+        "sourceFile": "./data/czechoslovakian_proverbs.json",
+        "jsonPath": "$.czechoslovakian[*]"
+    },
+    {
+        "sourceFile": "./data/danish_proverbs.json",
+        "jsonPath": "$.danish[*]"
+    },
+    {
+        "sourceFile": "./data/dominican_proverbs.json",
+        "jsonPath": "$.dominican[*]"
+    },
+    {
+        "sourceFile": "./data/dutch_proverbs.json",
+        "jsonPath": "$.dutch[*]"
+    },
+    {
+        "sourceFile": "./data/dwarven_proverbs.json",
+        "jsonPath": "$.dwarven[*]"
+    },
+    {
+        "sourceFile": "./data/east-asian_proverbs.json",
+        "jsonPath": "$.east-asian[*]"
+    },
+    {
+        "sourceFile": "./data/ecuadorian_proverbs.json",
+        "jsonPath": "$.ecuadorian[*]"
+    },
+    {
+        "sourceFile": "./data/egyptian_proverbs.json",
+        "jsonPath": "$.egyptian[*]"
+    },
+    {
+        "sourceFile": "./data/english_proverbs.json",
+        "jsonPath": "$.english[*]"
+    },
+    {
+        "sourceFile": "./data/estonian_proverbs.json",
+        "jsonPath": "$.estonian[*]"
+    },
+    {
+        "sourceFile": "./data/ethiopian_proverbs.json",
+        "jsonPath": "$.ethiopian[*]"
+    },
+    {
+        "sourceFile": "./data/fijian_proverbs.json",
+        "jsonPath": "$.fijian[*]"
+    },
+    {
+        "sourceFile": "./data/filipino_proverbs.json",
+        "jsonPath": "$.filipino[*]"
+    },
+    {
+        "sourceFile": "./data/finnish_proverbs.json",
+        "jsonPath": "$.finnish[*]"
+    },
+    {
+        "sourceFile": "./data/flemish_proverbs.json",
+        "jsonPath": "$.flemish[*]"
+    },
+    {
+        "sourceFile": "./data/french-guianese_proverbs.json",
+        "jsonPath": "$.french-guianese[*]"
+    },
+    {
+        "sourceFile": "./data/french_proverbs.json",
+        "jsonPath": "$.french[*]"
+    },
+    {
+        "sourceFile": "./data/gabonese_proverbs.json",
+        "jsonPath": "$.gabonese[*]"
+    },
+    {
+        "sourceFile": "./data/gaelic_proverbs.json",
+        "jsonPath": "$.gaelic[*]"
+    },
+    {
+        "sourceFile": "./data/gambian_proverbs.json",
+        "jsonPath": "$.gambian[*]"
+    },
+    {
+        "sourceFile": "./data/georgian_proverbs.json",
+        "jsonPath": "$.georgian[*]"
+    },
+    {
+        "sourceFile": "./data/german_proverbs.json",
+        "jsonPath": "$.german[*]"
+    },
+    {
+        "sourceFile": "./data/ghanaian_proverbs.json",
+        "jsonPath": "$.ghanaian[*]"
+    },
+    {
+        "sourceFile": "./data/goan_proverbs.json",
+        "jsonPath": "$.goan[*]"
+    },
+    {
+        "sourceFile": "./data/greek_proverbs.json",
+        "jsonPath": "$.greek[*]"
+    },
+    {
+        "sourceFile": "./data/guatemalan_proverbs.json",
+        "jsonPath": "$.guatemalan[*]"
+    },
+    {
+        "sourceFile": "./data/guinean_proverbs.json",
+        "jsonPath": "$.guinean[*]"
+    },
+    {
+        "sourceFile": "./data/guyanese_proverbs.json",
+        "jsonPath": "$.guyanese[*]"
+    },
+    {
+        "sourceFile": "./data/gypsy_proverbs.json",
+        "jsonPath": "$.gypsy[*]"
+    },
+    {
+        "sourceFile": "./data/haitian_proverbs.json",
+        "jsonPath": "$.haitian[*]"
+    },
+    {
+        "sourceFile": "./data/hasidic_proverbs.json",
+        "jsonPath": "$.hasidic[*]"
+    },
+    {
+        "sourceFile": "./data/hawaiian_proverbs.json",
+        "jsonPath": "$.hawaiian[*]"
+    },
+    {
+        "sourceFile": "./data/hebrew_proverbs.json",
+        "jsonPath": "$.hebrew[*]"
+    },
+    {
+        "sourceFile": "./data/hindu_proverbs.json",
+        "jsonPath": "$.hindu[*]"
+    },
+    {
+        "sourceFile": "./data/hindustani_proverbs.json",
+        "jsonPath": "$.hindustani[*]"
+    },
+    {
+        "sourceFile": "./data/hungarian_proverbs.json",
+        "jsonPath": "$.hungarian[*]"
+    },
+    {
+        "sourceFile": "./data/icelandic_proverbs.json",
+        "jsonPath": "$.icelandic[*]"
+    },
+    {
+        "sourceFile": "./data/indian_proverbs.json",
+        "jsonPath": "$.indian[*]"
+    },
+    {
+        "sourceFile": "./data/indonesian_proverbs.json",
+        "jsonPath": "$.indonesian[*]"
+    },
+    {
+        "sourceFile": "./data/iranian_proverbs.json",
+        "jsonPath": "$.iranian[*]"
+    },
+    {
+        "sourceFile": "./data/iraqi_proverbs.json",
+        "jsonPath": "$.iraqi[*]"
+    },
+    {
+        "sourceFile": "./data/irish_proverbs.json",
+        "jsonPath": "$.irish[*]"
+    },
+    {
+        "sourceFile": "./data/islamic_proverbs.json",
+        "jsonPath": "$.islamic[*]"
+    },
+    {
+        "sourceFile": "./data/italian_proverbs.json",
+        "jsonPath": "$.italian[*]"
+    },
+    {
+        "sourceFile": "./data/ivorian_proverbs.json",
+        "jsonPath": "$.ivorian[*]"
+    },
+    {
+        "sourceFile": "./data/jamaican_proverbs.json",
+        "jsonPath": "$.jamaican[*]"
+    },
+    {
+        "sourceFile": "./data/japanese_proverbs.json",
+        "jsonPath": "$.japanese[*]"
+    },
+    {
+        "sourceFile": "./data/jewish_proverbs.json",
+        "jsonPath": "$.jewish[*]"
+    },
+    {
+        "sourceFile": "./data/jordanian_proverbs.json",
+        "jsonPath": "$.jordanian[*]"
+    },
+    {
+        "sourceFile": "./data/kanuri_proverbs.json",
+        "jsonPath": "$.kanuri[*]"
+    },
+    {
+        "sourceFile": "./data/kashmiri_proverbs.json",
+        "jsonPath": "$.kashmiri[*]"
+    },
+    {
+        "sourceFile": "./data/kenyan_proverbs.json",
+        "jsonPath": "$.kenyan[*]"
+    },
+    {
+        "sourceFile": "./data/kikuyu_proverbs.json",
+        "jsonPath": "$.kikuyu[*]"
+    },
+    {
+        "sourceFile": "./data/korean_proverbs.json",
+        "jsonPath": "$.korean[*]"
+    },
+    {
+        "sourceFile": "./data/kurdish_proverbs.json",
+        "jsonPath": "$.kurdish[*]"
+    },
+    {
+        "sourceFile": "./data/kyrgyzstani_proverbs.json",
+        "jsonPath": "$.kyrgyzstani[*]"
+    },
+    {
+        "sourceFile": "./data/laotian_proverbs.json",
+        "jsonPath": "$.laotian[*]"
+    },
+    {
+        "sourceFile": "./data/lash_proverbs.json",
+        "jsonPath": "$.lash[*]"
+    },
+    {
+        "sourceFile": "./data/latin-american_proverbs.json",
+        "jsonPath": "$.latin-american[*]"
+    },
+    {
+        "sourceFile": "./data/latin_proverbs.json",
+        "jsonPath": "$.latin[*]"
+    },
+    {
+        "sourceFile": "./data/latvian_proverbs.json",
+        "jsonPath": "$.latvian[*]"
+    },
+    {
+        "sourceFile": "./data/lebanese_proverbs.json",
+        "jsonPath": "$.lebanese[*]"
+    },
+    {
+        "sourceFile": "./data/liberian_proverbs.json",
+        "jsonPath": "$.liberian[*]"
+    },
+    {
+        "sourceFile": "./data/libyan_proverbs.json",
+        "jsonPath": "$.libyan[*]"
+    },
+    {
+        "sourceFile": "./data/luxembourgish_proverbs.json",
+        "jsonPath": "$.luxembourgish[*]"
+    },
+    {
+        "sourceFile": "./data/macedonian_proverbs.json",
+        "jsonPath": "$.macedonian[*]"
+    },
+    {
+        "sourceFile": "./data/malagasy_proverbs.json",
+        "jsonPath": "$.malagasy[*]"
+    },
+    {
+        "sourceFile": "./data/malawian_proverbs.json",
+        "jsonPath": "$.malawian[*]"
+    },
+    {
+        "sourceFile": "./data/malay_proverbs.json",
+        "jsonPath": "$.malay[*]"
+    },
+    {
+        "sourceFile": "./data/malaysian_proverbs.json",
+        "jsonPath": "$.malaysian[*]"
+    },
+    {
+        "sourceFile": "./data/malian_proverbs.json",
+        "jsonPath": "$.malian[*]"
+    },
+    {
+        "sourceFile": "./data/malian_proverbs.json",
+        "jsonPath": "$.malian[*]"
+    },
+    {
+        "sourceFile": "./data/maltese_proverbs.json",
+        "jsonPath": "$.maltese[*]"
+    },
+    {
+        "sourceFile": "./data/martiniquais_proverbs.json",
+        "jsonPath": "$.martiniquais[*]"
+    },
+    {
+        "sourceFile": "./data/massai_proverbs.json",
+        "jsonPath": "$.massai[*]"
+    },
+    {
+        "sourceFile": "./data/mauritanian_proverbs.json",
+        "jsonPath": "$.mauritanian[*]"
+    },
+    {
+        "sourceFile": "./data/mauritian_proverbs.json",
+        "jsonPath": "$.mauritian[*]"
+    },
+    {
+        "sourceFile": "./data/mexican_proverbs.json",
+        "jsonPath": "$.mexican[*]"
+    },
+    {
+        "sourceFile": "./data/mongolian_proverbs.json",
+        "jsonPath": "$.mongolian[*]"
+    },
+    {
+        "sourceFile": "./data/montenegro_proverbs.json",
+        "jsonPath": "$.montenegro[*]"
+    },
+    {
+        "sourceFile": "./data/moorish_proverbs.json",
+        "jsonPath": "$.moorish[*]"
+    },
+    {
+        "sourceFile": "./data/moroccan_proverbs.json",
+        "jsonPath": "$.moroccan[*]"
+    },
+    {
+        "sourceFile": "./data/mozambican_proverbs.json",
+        "jsonPath": "$.mozambican[*]"
+    },
+    {
+        "sourceFile": "./data/myanmar.json",
+        "jsonPath": "$.myanmar[*]"
+    },
+    {
+        "sourceFile": "./data/namibian_proverbs.json",
+        "jsonPath": "$.namibian[*]"
+    },
+    {
+        "sourceFile": "./data/navajo_proverbs.json",
+        "jsonPath": "$.navajo[*]"
+    },
+    {
+        "sourceFile": "./data/nepalese_proverbs.json",
+        "jsonPath": "$.nepalese[*]"
+    },
+    {
+        "sourceFile": "./data/new-zelander_proverbs.json",
+        "jsonPath": "$.new-zelander[*]"
+    },
+    {
+        "sourceFile": "./data/nicaraguan_proverbs.json",
+        "jsonPath": "$.nicaraguan[*]"
+    },
+    {
+        "sourceFile": "./data/nigerian_proverbs.json",
+        "jsonPath": "$.nigerian[*]"
+    },
+    {
+        "sourceFile": "./data/norwegian_proverbs.json",
+        "jsonPath": "$.norwegian[*]"
+    },
+    {
+        "sourceFile": "./data/palestinian_proverbs.json",
+        "jsonPath": "$.palestinian[*]"
+    },
+    {
+        "sourceFile": "./data/panamanian_proverbs.json",
+        "jsonPath": "$.panamanian[*]"
+    },
+    {
+        "sourceFile": "./data/persian_proverbs.json",
+        "jsonPath": "$.persian[*]"
+    },
+    {
+        "sourceFile": "./data/peruvian_proverbs.json",
+        "jsonPath": "$.peruvian[*]"
+    },
+    {
+        "sourceFile": "./data/philippine_proverbs.json",
+        "jsonPath": "$.philippine[*]"
+    },
+    {
+        "sourceFile": "./data/polish_proverbs.json",
+        "jsonPath": "$.polish_proverbs[*]"
+    },
+    {
+        "sourceFile": "./data/portuguese_proverbs.json",
+        "jsonPath": "$.portuguese[*]"
+    },
+    {
+        "sourceFile": "./data/puerto-rikan_proverbs.json",
+        "jsonPath": "$.puerto-rikan[*]"
+    },
+    {
+        "sourceFile": "./data/romanian_proverbs.json",
+        "jsonPath": "$.romanian_proverbs[*]"
+    },
+    {
+        "sourceFile": "./data/russian_proverbs.json",
+        "jsonPath": "$.russian[*]"
+    },
+    {
+        "sourceFile": "./data/rwandan_proverbs.json",
+        "jsonPath": "$.rwandan[*]"
+    },
+    {
+        "sourceFile": "./data/samoan_proverbs.json",
+        "jsonPath": "$.samoan[*]"
+    },
+    {
+        "sourceFile": "./data/sanskrit_proverbs.json",
+        "jsonPath": "$.sanskrit[*]"
+    },
+    {
+        "sourceFile": "./data/sardinian_proverbs.json",
+        "jsonPath": "$.sardinian[*]"
+    },
+    {
+        "sourceFile": "./data/scottish_proverbs.json",
+        "jsonPath": "$.scottish[*]"
+    },
+    {
+        "sourceFile": "./data/senegalese_proverbs.json",
+        "jsonPath": "$.senegalese[*]"
+    },
+    {
+        "sourceFile": "./data/serbian_proverbs.json",
+        "jsonPath": "$.serbian[*]"
+    },
+    {
+        "sourceFile": "./data/sicilian_proverbs.json",
+        "jsonPath": "$.sicilian[*]"
+    },
+    {
+        "sourceFile": "./data/sierra-leonean_proverbs.json",
+        "jsonPath": "$.sierra-leonean[*]"
+    },
+    {
+        "sourceFile": "./data/sinhalese_proverbs.json",
+        "jsonPath": "$.sinhalese[*]"
+    },
+    {
+        "sourceFile": "./data/slovakian_proverbs.json",
+        "jsonPath": "$.slovakian[*]"
+    },
+    {
+        "sourceFile": "./data/slovenian_proverbs.json",
+        "jsonPath": "$.slovenian[*]"
+    },
+    {
+        "sourceFile": "./data/solomon-islander_proverbs.json",
+        "jsonPath": "$.solomon-islander[*]"
+    },
+    {
+        "sourceFile": "./data/somalia_proverbs.json",
+        "jsonPath": "$.somalia[*]"
+    },
+    {
+        "sourceFile": "./data/south-african_proverbs.json",
+        "jsonPath": "$.south-african[*]"
+    },
+    {
+        "sourceFile": "./data/spanish_proverbs.json",
+        "jsonPath": "$.spanish[*]"
+    },
+    {
+        "sourceFile": "./data/sri-lankan_proverbs.json",
+        "jsonPath": "$.sri-lankan[*]"
+    },
+    {
+        "sourceFile": "./data/sudanese_proverbs.json",
+        "jsonPath": "$.sudanese[*]"
+    },
+    {
+        "sourceFile": "./data/surinamese_proverbs.json",
+        "jsonPath": "$.surinamese[*]"
+    },
+    {
+        "sourceFile": "./data/swahili_proverbs.json",
+        "jsonPath": "$.swahili[*]"
+    },
+    {
+        "sourceFile": "./data/swedish_proverbs.json",
+        "jsonPath": "$.swedish[*]"
+    },
+    {
+        "sourceFile": "./data/swiss_proverbs.json",
+        "jsonPath": "$.swiss[*]"
+    },
+    {
+        "sourceFile": "./data/syrian_proverbs.json",
+        "jsonPath": "$.syrian[*]"
+    },
+    {
+        "sourceFile": "./data/taiwanese_proverbs.json",
+        "jsonPath": "$.taiwanese[*]"
+    },
+    {
+        "sourceFile": "./data/tajikistani_proverbs.json",
+        "jsonPath": "$.tajikistani[*]"
+    },
+    {
+        "sourceFile": "./data/tamilan_proverbs.json",
+        "jsonPath": "$.tamilan[*]"
+    },
+    {
+        "sourceFile": "./data/tanzanian_proverbs.json",
+        "jsonPath": "$.tanzanian[*]"
+    },
+    {
+        "sourceFile": "./data/thai_proverbs.json",
+        "jsonPath": "$.thai[*]"
+    },
+    {
+        "sourceFile": "./data/tibetan_proverbs.json",
+        "jsonPath": "$.tibetan[*]"
+    },
+    {
+        "sourceFile": "./data/togolese_proverbs.json",
+        "jsonPath": "$.togolese[*]"
+    },
+    {
+        "sourceFile": "./data/trinidadian_proverbs.json",
+        "jsonPath": "$.trinidadian[*]"
+    },
+    {
+        "sourceFile": "./data/tuareg_proverbs.json",
+        "jsonPath": "$.tuareg[*]"
+    },
+    {
+        "sourceFile": "./data/tunisian_proverbs.json",
+        "jsonPath": "$.tunisian[*]"
+    },
+    {
+        "sourceFile": "./data/turkish_proverbs.json",
+        "jsonPath": "$.turkish[*]"
+    },
+    {
+        "sourceFile": "./data/tuscarora_proverbs.json",
+        "jsonPath": "$.tuscarora[*]"
+    },
+    {
+        "sourceFile": "./data/ugandan_proverbs.json",
+        "jsonPath": "$.ugandan[*]"
+    },
+    {
+        "sourceFile": "./data/ukrainian_proverbs.json",
+        "jsonPath": "$.ukrainian[*]"
+    },
+    {
+        "sourceFile": "./data/uruguayan_proverbs.json",
+        "jsonPath": "$.uruguayan[*]"
+    },
+    {
+        "sourceFile": "./data/venezuelan_proverbs.json",
+        "jsonPath": "$.venezuelan[*]"
+    },
+    {
+        "sourceFile": "./data/vermont_proverbs.json",
+        "jsonPath": "$.vermont[*]"
+    },
+    {
+        "sourceFile": "./data/vietnamese_proverbs.json",
+        "jsonPath": "$.vietnamese[*]"
+    },
+    {
+        "sourceFile": "./data/virgin-islander_proverbs.json",
+        "jsonPath": "$.virgin-islander[*]"
+    },
+    {
+        "sourceFile": "./data/walloon_proverbs.json",
+        "jsonPath": "$.walloon[*]"
+    },
+    {
+        "sourceFile": "./data/welsh_proverbs.json",
+        "jsonPath": "$.welsh[*]"
+    },
+    {
+        "sourceFile": "./data/west-african_proverbs.json",
+        "jsonPath": "$.west-african[*]"
+    },
+    {
+        "sourceFile": "./data/yemeni_proverbs.json",
+        "jsonPath": "$.yemeni[*]"
+    },
+    {
+        "sourceFile": "./data/yiddish_proverbs.json",
+        "jsonPath": "$.yiddish[*]"
+    },
+    {
+        "sourceFile": "./data/yoruba_proverbs.json",
+        "jsonPath": "$.yoruba[*]"
+    },
+    {
+        "sourceFile": "./data/yugoslavian_proverbs.json",
+        "jsonPath": "$.yugoslavian[*]"
+    },
+    {
+        "sourceFile": "./data/zambian_proverbs.json",
+        "jsonPath": "$.zambian[*]"
+    },
+    {
+        "sourceFile": "./data/zanzibar_proverbs.json",
+        "jsonPath": "$.zanzibar[*]"
+    },
+    {
+        "sourceFile": "./data/zen_proverbs.json",
+        "jsonPath": "$.zen[*]"
+    },
+    {
+        "sourceFile": "./data/zimbabwean_proverbs.json",
+        "jsonPath": "$.zimbabwean[*]"
+    },
+    {
+        "sourceFile": "./data/zulu_proverbs.json",
+        "jsonPath": "$.zulu[*]"
+    }
+]
