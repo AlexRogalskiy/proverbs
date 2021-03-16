@@ -1,0 +1,50 @@
+name: Process JSON files by unique fields
+
+on:
+  push:
+    paths:
+      - 'data/**.json'
+
+jobs:
+  process-json-unique:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      matrix:
+        include:
+          - file: afghan_proverbs.json
+            property: afghan
+          - file: african_proverbs.json
+            property: african
+          - file: albanian_proverbs.json
+            property: albanian
+
+    steps:
+      - uses: actions/checkout@v2
+          with:
+            ref: ${{ github.head_ref }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+
+      - name: Pull from current branch
+        run: git pull origin ${GITHUB_REF##*/}
+
+      - name: Process JSON file by fields
+        uses: alexrogalskiy/github-action-json-fields@master
+        env:
+          target_path: ./data
+          fields: 'text'
+        with:
+          jsonMode: 'unique'
+          sourceFile: "${{ env.target_path }}/${{ matrix.file }}"
+          targetPath: "${{ env.target_path }}"
+          destFile: "${{ matrix.file }}"
+          targetProperty: "${{ matrix.property }}"
+          fields: "${{ matrix.fields }}"
+
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Add images pulled from headless browser to folder
+          commit_options: '--no-verify --signoff'
