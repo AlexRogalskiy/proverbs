@@ -20,6 +20,420 @@ jobs:
             property: '$.african[*]'
           - file: albanian_proverbs.json
             property: '$.albanian[*]'
+          - file: algerian_proverbs.json
+            property: '$.algerian[*]'
+          - file: american_proverbs.json
+            property: '$.american[*]'
+          - file: andorran_proverbs.json
+            property: '$.andorran[*]'
+          - file: albanian_proverbs.json
+            property: '$.albanian[*]'
+          - file: angolan_proverbs.json
+            property: '$.angolan[*]'
+          - file: anii_proverbs.json
+            property: '$.anii[*]'
+          - file: antillean_proverbs.json
+            property: '$.antillean[*]'
+          - file: arabian_proverbs.json
+            property: '$.arabian[*]'
+          - file: argentinian_proverbs.json
+            property: '$.argentinian[*]'
+          - file: armenian_proverbs.json
+            property: '$.armenian[*]'
+          - file: australian_proverbs.json
+            property: '$.australian[*]'
+          - file: austrian_proverbs.json
+            property: '$.austrian[*]'
+          - file: azerbaijani_proverbs.json
+            property: '$.azerbaijani[*]'
+          - file: babylonian_proverbs.json
+            property: '$.babylonian[*]'
+          - file: bahamian_proverbs.json
+            property: '$.bahamian[*]'
+          - file: bambara_proverbs.json
+            property: '$.bambara[*]'
+          - file: bantu_proverbs.json
+            property: '$.bantu[*]'
+          - file: basotho_proverbs.json
+            property: '$.basotho[*]'
+          - file: basque_proverbs.json
+            property: '$.basque[*]'
+          - file: bedouin_proverbs.json
+            property: '$.bedouin[*]'
+          - file: belgian_proverbs.json
+            property: '$.belgian[*]'
+          - file: belizean_proverbs.json
+            property: '$.belizean[*]'
+          - file: bemba_proverbs.json
+            property: '$.bemba[*]'
+          - file: bengali_proverbs.json
+            property: '$.bengali[*]'
+          - file: beninese_proverbs.json
+            property: '$.beninese[*]'
+          - file: berber_proverbs.json
+            property: '$.berber[*]'
+          - file: bolivian_proverbs.json
+            property: '$.bolivian[*]'
+          - file: bosnian_proverbs.json
+            property: '$.bosnian[*]'
+          - file: brazilian_proverbs.json
+            property: '$.brazilian[*]'
+          - file: breton_proverbs.json
+            property: '$.breton[*]'
+          - file: bulgarian_proverbs.json
+            property: '$.bulgarian[*]'
+          - file: burkinabe_proverbs.json
+            property: '$.burkinabe[*]'
+          - file: burmese_proverbs.json
+            property: '$.burmese[*]'
+          - file: burundian_proverbs.json
+            property: '$.burundian[*]'
+          - file: byzantium_proverbs.json
+            property: '$.byzantium[*]'
+          - file: cambodian_proverbs.json
+            property: '$.cambodian[*]'
+          - file: cameroonian_proverbs.json
+            property: '$.cameroonian[*]'
+          - file: canadian_proverbs.json
+            property: '$.canadian[*]'
+          - file: catalan_proverbs.json
+            property: '$.catalan[*]'
+          - file: albanian_proverbs.json
+            property: '$.albanian[*]'
+          - file: chadian_proverbs.json
+            property: '$.chadian[*]'
+          - file: chilean_proverbs.json
+            property: '$.chilean[*]'
+          - file: chinese_proverbs.json
+            property: '$.chinese[*]'
+          - file: colombian_proverbs.json
+            property: '$.colombian[*]'
+          - file: congolese_proverbs.json
+            property: '$.congolese[*]'
+          - file: corsican_proverbs.json
+            property: '$.corsican[*]'
+          - file: costa-rikan_proverbs.json
+            property: '$.costa-rikan[*]'
+          - file: creole_proverbs.json
+            property: '$.creole[*]'
+          - file: chilean_proverbs.json
+            property: '$.chilean[*]'
+          - file: croatian_proverbs.json
+            property: '$.croatian[*]'
+          - file: cuban_proverbs.json
+            property: '$.cuban[*]'
+          - file: cypriot_proverbs.json
+            property: '$.cypriot[*]'
+          - file: czech_proverbs.json
+            property: '$.czech[*]'
+          - file: czechoslovakian_proverbs.json
+            property: '$.czechoslovakian[*]'
+          - file: danish_proverbs.json
+            property: '$.danish[*]'
+          - file: dominican_proverbs.json
+            property: '$.dominican[*]'
+          - file: dutch_proverbs.json
+            property: '$.dutch[*]'
+          - file: dwarven_proverbs.json
+            property: '$.dwarven[*]'
+          - file: east-asian_proverbs.json
+            property: '$.east-asian[*]'
+          - file: ecuadorian_proverbs.json
+            property: '$.ecuadorian[*]'
+          - file: egyptian_proverbs.json
+            property: '$.egyptian[*]'
+          - file: english_proverbs.json
+            property: '$.english[*]'
+          - file: estonian_proverbs.json
+            property: '$.estonian[*]'
+          - file: ethiopian_proverbs.json
+            property: '$.ethiopian[*]'
+          - file: fijian_proverbs.json
+            property: '$.fijian[*]'
+          - file: filipino_proverbs.json
+            property: '$.filipino[*]'
+          - file: finnish_proverbs.json
+            property: '$.finnish[*]'
+          - file: flemish_proverbs.json
+            property: '$.flemish[*]'
+          - file: french-guianese_proverbs.json
+            property: '$.french-guianese[*]'
+          - file: french_proverbs.json
+            property: '$.french[*]'
+          - file: gabonese_proverbs.json
+            property: '$.gabonese[*]'
+          - file: gaelic_proverbs.json
+            property: '$.gaelic[*]'
+          - file: gambian_proverbs.json
+            property: '$.gambian[*]'
+          - file: georgian_proverbs.json
+            property: '$.georgian[*]'
+          - file: german_proverbs.json
+            property: '$.german[*]'
+          - file: ghanaian_proverbs.json
+            property: '$.ghanaian[*]'
+          - file: goan_proverbs.json
+            property: '$.goan[*]'
+          - file: greek_proverbs.json
+            property: '$.greek[*]'
+          - file: guatemalan_proverbs.json
+            property: '$.guatemalan[*]'
+          - file: guinean_proverbs.json
+            property: '$.guinean[*]'
+          - file: guyanese_proverbs.json
+            property: '$.guyanese[*]'
+          - file: gypsy_proverbs.json
+            property: '$.gypsy[*]'
+          - file: haitian_proverbs.json
+            property: '$.haitian[*]'
+          - file: hasidic_proverbs.json
+            property: '$.hasidic[*]'
+          - file: hawaiian_proverbs.json
+            property: '$.hawaiian[*]'
+          - file: hebrew_proverbs.json
+            property: '$.hebrew[*]'
+          - file: hindu_proverbs.json
+            property: '$.hindu[*]'
+          - file: hindustani_proverbs.json
+            property: '$.hindustani[*]'
+          - file: hungarian_proverbs.json
+            property: '$.hungarian[*]'
+          - file: icelandic_proverbs.json
+            property: '$.icelandic[*]'
+          - file: indian_proverbs.json
+            property: '$.indian[*]'
+          - file: indonesian_proverbs.json
+            property: '$.indonesian[*]'
+          - file: iranian_proverbs.json
+            property: '$.iranian[*]'
+          - file: iraqi_proverbs.json
+            property: '$.iraqi[*]'
+          - file: irish_proverbs.json
+            property: '$.irish[*]'
+          - file: islamic_proverbs.json
+            property: '$.islamic[*]'
+          - file: italian_proverbs.json
+            property: '$.italian[*]'
+          - file: ivorian_proverbs.json
+            property: '$.ivorian[*]'
+          - file: jamaican_proverbs.json
+            property: '$.jamaican[*]'
+          - file: japanese_proverbs.json
+            property: '$.japanese[*]'
+          - file: jewish_proverbs.json
+            property: '$.jewish[*]'
+          - file: jordanian_proverbs.json
+            property: '$.jordanian[*]'
+          - file: kanuri_proverbs.json
+            property: '$.kanuri[*]'
+          - file: kashmiri_proverbs.json
+            property: '$.kashmiri[*]'
+          - file: kenyan_proverbs.json
+            property: '$.kenyan[*]'
+          - file: kikuyu_proverbs.json
+            property: '$.kikuyu[*]'
+          - file: korean_proverbs.json
+            property: '$.korean[*]'
+          - file: kurdish_proverbs.json
+            property: '$.kurdish[*]'
+          - file: kyrgyzstani_proverbs.json
+            property: '$.kyrgyzstani[*]'
+          - file: laotian_proverbs.json
+            property: '$.laotian[*]'
+          - file: lash_proverbs.json
+            property: '$.lash[*]'
+          - file: latin-american_proverbs.json
+            property: '$.latin-american[*]'
+          - file: latin_proverbs.json
+            property: '$.latin[*]'
+          - file: latvian_proverbs.json
+            property: '$.latvian[*]'
+          - file: lebanese_proverbs.json
+            property: '$.lebanese[*]'
+          - file: liberian_proverbs.json
+            property: '$.liberian[*]'
+          - file: libyan_proverbs.json
+            property: '$.libyan[*]'
+          - file: luxembourgish_proverbs.json
+            property: '$.luxembourgish[*]'
+          - file: macedonian_proverbs.json
+            property: '$.macedonian[*]'
+          - file: malagasy_proverbs.json
+            property: '$.malagasy[*]'
+          - file: malawian_proverbs.json
+            property: '$.malawian[*]'
+          - file: malay_proverbs.json
+            property: '$.malay[*]'
+          - file: malaysian_proverbs.json
+            property: '$.malaysian[*]'
+          - file: malian_proverbs.json
+            property: '$.malian[*]'
+          - file: maltese_proverbs.json
+            property: '$.maltese[*]'
+          - file: martiniquais_proverbs.json
+            property: '$.martiniquais[*]'
+          - file: massai_proverbs.json
+            property: '$.massai[*]'
+          - file: mauritanian_proverbs.json
+            property: '$.mauritanian[*]'
+          - file: mauritian_proverbs.json
+            property: '$.mauritian[*]'
+          - file: mexican_proverbs.json
+            property: '$.mexican[*]'
+          - file: mongolian_proverbs.json
+            property: '$.mongolian[*]'
+          - file: montenegro_proverbs.json
+            property: '$.montenegro[*]'
+          - file: moorish_proverbs.json
+            property: '$.moorish[*]'
+          - file: moroccan_proverbs.json
+            property: '$.moroccan[*]'
+          - file: mozambican_proverbs.json
+            property: '$.mozambican[*]'
+          - file: myanmar_proverbs.json
+            property: '$.myanmar[*]'
+          - file: namibian_proverbs.json
+            property: '$.namibian[*]'
+          - file: navajo_proverbs.json
+            property: '$.navajo[*]'
+          - file: nepalese_proverbs.json
+            property: '$.nepalese[*]'
+          - file: new-zelander_proverbs.json
+            property: '$.new-zelander[*]'
+          - file: nicaraguan_proverbs.json
+            property: '$.nicaraguan[*]'
+          - file: nigerian_proverbs.json
+            property: '$.nigerian[*]'
+          - file: norwegian_proverbs.json
+            property: '$.norwegian[*]'
+          - file: palestinian_proverbs.json
+            property: '$.palestinian[*]'
+          - file: panamanian_proverbs.json
+            property: '$.panamanian[*]'
+          - file: persian_proverbs.json
+            property: '$.persian[*]'
+          - file: peruvian_proverbs.json
+            property: '$.peruvian[*]'
+          - file: philippine_proverbs.json
+            property: '$.philippine[*]'
+          - file: polish_proverbs.json
+            property: '$.polish[*]'
+          - file: portuguese_proverbs.json
+            property: '$.portuguese[*]'
+          - file: puerto-rikan_proverbs.json
+            property: '$.puerto-rikan[*]'
+          - file: romanian_proverbs.json
+            property: '$.romanian[*]'
+          - file: russian_proverbs.json
+            property: '$.russian[*]'
+          - file: rwandan_proverbs.json
+            property: '$.rwandan[*]'
+          - file: samoan_proverbs.json
+            property: '$.samoan[*]'
+          - file: sanskrit_proverbs.json
+            property: '$.sanskrit[*]'
+          - file: sardinian_proverbs.json
+            property: '$.sardinian[*]'
+          - file: scottish_proverbs.json
+            property: '$.scottish[*]'
+          - file: senegalese_proverbs.json
+            property: '$.senegalese[*]'
+          - file: serbian_proverbs.json
+            property: '$.serbian[*]'
+          - file: sicilian_proverbs.json
+            property: '$.sicilian[*]'
+          - file: sierra-leonean_proverbs.json
+            property: '$.sierra-leonean[*]'
+          - file: sinhalese_proverbs.json
+            property: '$.sinhalese[*]'
+          - file: slovakian_proverbs.json
+            property: '$.slovakian[*]'
+          - file: slovenian_proverbs.json
+            property: '$.slovenian[*]'
+          - file: solomon-islander_proverbs.json
+            property: '$.solomon-islander[*]'
+          - file: somalia_proverbs.json
+            property: '$.somalia[*]'
+          - file: south-african_proverbs.json
+            property: '$.south-african[*]'
+          - file: spanish_proverbs.json
+            property: '$.spanish[*]'
+          - file: sri-lankan_proverbs.json
+            property: '$.sri-lankan[*]'
+          - file: sudanese_proverbs.json
+            property: '$.sudanese[*]'
+          - file: surinamese_proverbs.json
+            property: '$.surinamese[*]'
+          - file: swahili_proverbs.json
+            property: '$.swahili[*]'
+          - file: swedish_proverbs.json
+            property: '$.swedish[*]'
+          - file: swiss_proverbs.json
+            property: '$.swiss[*]'
+          - file: syrian_proverbs.json
+            property: '$.syrian[*]'
+          - file: taiwanese_proverbs.json
+            property: '$.taiwanese[*]'
+          - file: tajikistani_proverbs.json
+            property: '$.tajikistani[*]'
+          - file: tamilan_proverbs.json
+            property: '$.tamilan[*]'
+          - file: tanzanian_proverbs.json
+            property: '$.tanzanian[*]'
+          - file: thai_proverbs.json
+            property: '$.thai[*]'
+          - file: tibetan_proverbs.json
+            property: '$.tibetan[*]'
+          - file: togolese_proverbs.json
+            property: '$.togolese[*]'
+          - file: trinidadian_proverbs.json
+            property: '$.trinidadian[*]'
+          - file: tuareg_proverbs.json
+            property: '$.tuareg[*]'
+          - file: tunisian_proverbs.json
+            property: '$.tunisian[*]'
+          - file: turkish_proverbs.json
+            property: '$.turkish[*]'
+          - file: tuscarora_proverbs.json
+            property: '$.tuscarora[*]'
+          - file: ugandan_proverbs.json
+            property: '$.ugandan[*]'
+          - file: ukrainian_proverbs.json
+            property: '$.ukrainian[*]'
+          - file: uruguayan_proverbs.json
+            property: '$.uruguayan[*]'
+          - file: venezuelan_proverbs.json
+            property: '$.venezuelan[*]'
+          - file: vermont_proverbs.json
+            property: '$.vermont[*]'
+          - file: vietnamese_proverbs.json
+            property: '$.vietnamese[*]'
+          - file: virgin-islander_proverbs.json
+            property: '$.virgin-islander[*]'
+          - file: walloon_proverbs.json
+            property: '$.walloon[*]'
+          - file: welsh_proverbs.json
+            property: '$.welsh[*]'
+          - file: west-african_proverbs.json
+            property: '$.west-african[*]'
+          - file: yemeni_proverbs.json
+            property: '$.yemeni[*]'
+          - file: yiddish_proverbs.json
+            property: '$.yiddish[*]'
+          - file: yoruba_proverbs.json
+            property: '$.yoruba[*]'
+          - file: yugoslavian_proverbs.json
+            property: '$.yugoslavian[*]'
+          - file: zambian_proverbs.json
+            property: '$.zambian[*]'
+          - file: zanzibar_proverbs.json
+            property: '$.zanzibar[*]'
+          - file: zen_proverbs.json
+            property: '$.zen[*]'
+          - file: zimbabwean_proverbs.json
+            property: '$.zimbabwean[*]'
+          - file: zulu_proverbs.json
+            property: '$.zulu[*]'
 
     steps:
       - uses: actions/checkout@v2
@@ -28,8 +442,7 @@ jobs:
         uses: actions/setup-node@v1
 
       - name: Pull changeset
-        run: |
-          git pull origin master
+        run: git pull origin master
 
       - id: file_changes
         uses: trilom/file-changes-action@v1.2.3
@@ -39,7 +452,7 @@ jobs:
 
       - name: Process JSON file by fields
         uses: alexrogalskiy/github-action-json-fields@master
-        if: "contains(steps.file_changes.outputs.files, ${{ matrix.file }})"
+        if: "contains(steps.file_changes.outputs.files, matrix.file)"
         id: process_json
         env:
           target_path: ./data
