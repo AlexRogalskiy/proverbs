@@ -46,6 +46,7 @@
     ],
     "exclude": [
         "tmp",
+        "docs",
         "node_modules",
         "**/*.test.ts"
     ]

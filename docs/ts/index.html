@@ -1,0 +1,1556 @@
+<!doctype html>
+<html class="default no-js">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>styled-proverbs</title>
+	<meta name="description" content="Documentation for styled-proverbs">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="assets/css/main.css">
+	<script async src="assets/js/search.js" id="search-script"></script>
+</head>
+<body>
+<header>
+	<div class="tsd-page-toolbar">
+		<div class="container">
+			<div class="table-wrap">
+				<div class="table-cell" id="tsd-search" data-index="assets/js/search.json" data-base=".">
+					<div class="field">
+						<label for="tsd-search-field" class="tsd-widget search no-caption">Search</label>
+						<input id="tsd-search-field" type="text" />
+					</div>
+					<ul class="results">
+						<li class="state loading">Preparing search index...</li>
+						<li class="state failure">The search index is not available</li>
+					</ul>
+					<a href="index.html" class="title">styled-proverbs</a>
+				</div>
+				<div class="table-cell" id="tsd-widgets">
+					<div id="tsd-filter">
+						<a href="#" class="tsd-widget options no-caption" data-toggle="options">Options</a>
+						<div class="tsd-filter-group">
+							<div class="tsd-select" id="tsd-filter-visibility">
+								<span class="tsd-select-label">All</span>
+								<ul class="tsd-select-list">
+									<li data-value="public">Public</li>
+									<li data-value="protected">Public/Protected</li>
+									<li data-value="private" class="selected">All</li>
+								</ul>
+							</div>
+							<input type="checkbox" id="tsd-filter-inherited" checked />
+							<label class="tsd-widget" for="tsd-filter-inherited">Inherited</label>
+						</div>
+					</div>
+					<a href="#" class="tsd-widget menu no-caption" data-toggle="menu">Menu</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="tsd-page-title">
+		<div class="container">
+			<h1>styled-proverbs</h1>
+		</div>
+	</div>
+</header>
+<div class="container container-main">
+	<div class="row">
+		<div class="col-8 col-content">
+			<div class="tsd-panel tsd-typography">
+				<a href="#styled-proverbs" id="styled-proverbs" style="color: inherit; text-decoration: none;">
+					<h1><em>Styled proverbs</em></h1>
+				</a>
+				<blockquote>
+					<p>Generate SVG <a href="https://en.wikipedia.org/wiki/Proverb">styled proverbs</a></p>
+				</blockquote>
+				<p><img src="https://img.shields.io/github/v/tag/AlexRogalskiy/proverbs" alt="GitHub tag (latest by date)">
+					<img src="https://img.shields.io/github/release-date/AlexRogalskiy/proverbs" alt="GitHub Release Date">
+					<img src="https://tokei.rs/b1/github/AlexRogalskiy/proverbs?category=lines" alt="Lines of code">
+					<img src="https://img.shields.io/github/issues-closed/AlexRogalskiy/proverbs" alt="GitHub closed issues">
+					<img src="https://img.shields.io/github/issues-pr-closed/AlexRogalskiy/proverbs" alt="GitHub closed pull requests">
+					<img src="https://img.shields.io/github/repo-size/AlexRogalskiy/proverbs" alt="GitHub repo size">
+					<img src="https://img.shields.io/github/last-commit/AlexRogalskiy/proverbs" alt="GitHub last commit">
+					<img src="https://img.shields.io/github/license/AlexRogalskiy/proverbs" alt="GitHub">
+					<img src="https://img.shields.io/github/languages/count/AlexRogalskiy/proverbs" alt="GitHub language count">
+					<img src="https://img.shields.io/github/search/AlexRogalskiy/proverbs/goto" alt="GitHub search hit counter">
+					<img src="https://badgen.net/github/branches/AlexRogalskiy/proverbs" alt="GitHub Repository branches">
+					<img src="https://badgen.net/github/dependents-repo/AlexRogalskiy/proverbs" alt="GitHub Repository dependents">
+					<a href="https://github.com/XAMPPRocky/tokei"><img src="https://tokei.rs/b1/github/AlexRogalskiy/proverbs?category=lines" alt="Tokei"></a>
+					<img src="https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/AlexRogalskiy/proverbs" alt="Mergify Status">
+					<a href="https://houndci.com"><img src="https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg" alt="Reviewed by Hound"></a>
+					<a href="https://zenodo.org/badge/latestdoi/346359381"><img src="https://zenodo.org/badge/346359381.svg" alt="DOI"></a>
+				<a href="https://david-dm.org/AlexRogalskiy/proverbs"><img src="https://status.david-dm.org/gh/AlexRogalskiy/proverbs.svg" alt="dependencies Status"></a></p>
+				<p><a href="https://raw.githubusercontent.com/alexrogalskiy/proverbs/master/LICENSE?token=AH44ZFH7IF2KSEDK7LSIW3C7YOFYC"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+					<a href="https://img.shields.io/github/issues/alexrogalskiy/proverbs"><img src="https://img.shields.io/github/issues/alexrogalskiy/proverbs" alt="Issue"></a>
+					<a href="https://img.shields.io/github/forks/alexrogalskiy/proverbs"><img src="https://img.shields.io/github/forks/alexrogalskiy/proverbs" alt="Forks"></a>
+					<a href="https://img.shields.io/github/stars/alexrogalskiy/proverbs"><img src="https://img.shields.io/github/stars/alexrogalskiy/proverbs" alt="Stars"></a>
+					<img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square" alt="code style">
+					<a href="https://codeclimate.com/github/AlexRogalskiy/proverbs/maintainability"><img src="https://api.codeclimate.com/v1/badges/ed7702f8cf28917829fa/maintainability" alt="Maintainability"></a>
+					<a href="https://lgtm.com/projects/g/AlexRogalskiy/proverbs/alerts/"><img src="https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/proverbs.svg?logo=lgtm&logoWidth=18" alt="Total alerts"></a>
+				<a href="https://lgtm.com/projects/g/AlexRogalskiy/proverbs/context:javascript"><img src="https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/proverbs.svg?logo=lgtm&logoWidth=18" alt="Language grade: JavaScript"></a></p>
+				<p><a href="https://renovatebot.com/"><img src="https://badgen.net/badge/renovate/enabled/green?cache=300" alt="Renovatebot"></a>
+					<a href="https://dependabot.com/"><img src="https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square" alt="Dependabot"></a>
+					<a href="https://newreleases.io/github/AlexRogalskiy/proverbs"><img src="https://newreleases.io/badge.svg" alt="NewReleases"></a>
+					<a href="https://hitsofcode.com/github/AlexRogalskiy/proverbs/view"><img src="https://hitsofcode.com/github/AlexRogalskiy/proverbs" alt="Hits-of-Code"></a>
+					<a href="https://github.com/AlexRogalskiy/proverbs/tags"><img src="https://img.shields.io/badge/ComVer-compliant-brightgreen.svg" alt="ComVer"></a>
+					<a href="https://github.com/marketplace/actions/super-linter"><img src="https://github.com/AlexRogalskiy/proverbs/workflows/Lint%20Code%20Base/badge.svg" alt="GitHub Super-Linter"></a>
+				<a href="https://github.com/OrRosenblatt/validate-json-action"><img src="https://github.com/AlexRogalskiy/proverbs/workflows/Validate%20JSONs/badge.svg" alt="GitHub JSON-Validator"></a></p>
+				<a href="#table-of-contents" id="table-of-contents" style="color: inherit; text-decoration: none;">
+					<h2><em>Table of contents</em></h2>
+				</a>
+				<!--ts-->
+				<ul>
+					<li><a href="#styled-proverbs"><em>Styled proverbs</em></a><ul>
+							<li><a href="#table-of-contents"><em>Table of contents</em></a></li>
+							<li><a href="#description"><em>Description</em></a></li>
+							<li><a href="#how-to-use"><em>How to use</em></a></li>
+							<li><a href="#example"><em>Example</em></a></li>
+							<li><a href="#visitor-stats"><em>Visitor stats</em></a></li>
+							<li><a href="#licensing"><em>Licensing</em></a></li>
+							<li><a href="#authors"><em>Authors</em></a></li>
+							<li><a href="#versioning"><em>Versioning</em></a></li>
+							<li><a href="#contribution"><em>Contribution</em></a></li>
+							<li><a href="#acknowledgement"><em>Acknowledgement</em></a></li>
+							<li><a href="#forks"><em>Forks</em></a></li>
+							<li><a href="#development-support"><em>Development Support</em></a><!--te--></li>
+						</ul>
+					</li>
+				</ul>
+				<a href="#description" id="description" style="color: inherit; text-decoration: none;">
+					<h2><em>Description</em></h2>
+				</a>
+				<p align="center" style="text-align:center;">
+					<a href="https://www.typescriptlang.org/">
+						<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white" alt="TypeScript" />
+					</a>
+					<a href="https://www.repostatus.org/#active">
+						<img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
+					</a>
+					<a href="https://badges.pufler.dev">
+						<img src="https://badges.pufler.dev/created/AlexRogalskiy/proverbs" alt="Project created status" />
+					</a>
+					<a href="https://badges.pufler.dev">
+						<img src="https://badges.pufler.dev/updated/AlexRogalskiy/proverbs" alt="Project updated status" />
+					</a>
+				</p>
+				<p><em><strong>Styled proverbs</strong>_ is a serverless function that generates dynamically styled proverb images based on SVG (Scalable Vector Graphics).
+				For the tech stack, _<strong>Styled proverbs</strong></em> using Typescript and serverless function from Vercel stack.</p>
+				<a href="#how-to-use" id="how-to-use" style="color: inherit; text-decoration: none;">
+					<h2><em>How to use</em></h2>
+				</a>
+				<p>It&#39;s simple, you can copy paste this markdown content, like this one:</p>
+				<pre><code><span style="color: #000000">![</span><span style="color: #001080">Styled</span><span style="color: #000000"> </span><span style="color: #001080">proverbs</span><span style="color: #000000">](</span><span style="color: #001080">https</span><span style="color: #000000">:</span><span style="color: #008000">//styled-proverbs.vercel.app/api?backgroundColor=[value]&amp;opacity=[value]&amp;colorPattern=[value]&amp;fontColor=[value]&amp;pattern=[pattern]&amp;language=[value]&amp;width=[width]&amp;height=[height]&amp;keywords=[keywords])</span>
+</code></pre>
+				<p>There are several options you can use from the list:</p>
+				<table>
+					<thead>
+						<tr>
+							<th><strong>Options</strong></th>
+							<th><strong>Description</strong></th>
+							<th><strong>Type</strong></th>
+							<th><strong>Example</strong></th>
+							<th><strong>Query Params</strong></th>
+						</tr>
+					</thead>
+					<tbody><tr>
+							<td><strong>[Background Color]</strong></td>
+							<td>Background color for the proverb image</td>
+							<td><code>Hex color code</code></td>
+							<td>%23ffffff</td>
+							<td><code>?backgroundColor=[value]</code></td>
+						</tr>
+						<tr>
+							<td><strong>[Opacity Pattern]</strong></td>
+							<td>Background opacity of the pattern</td>
+							<td><code>Float number</code></td>
+							<td>0 - 1</td>
+							<td><code>&amp;opacity=[value]</code></td>
+						</tr>
+						<tr>
+							<td><strong>[Color Pattern]</strong></td>
+							<td>Color pattern for the signage</td>
+							<td><code>Hex color code</code></td>
+							<td>%231abc9c</td>
+							<td><code>&amp;colorPattern=[value]</code></td>
+						</tr>
+						<tr>
+							<td><strong>[Font Color]</strong></td>
+							<td>Font color for the proverb text</td>
+							<td><code>Hex color code</code></td>
+							<td>%23000000</td>
+							<td><code>&amp;fontColor=[value]</code></td>
+						</tr>
+						<tr>
+							<td><strong>[Pattern]</strong></td>
+							<td>Pattern for the background</td>
+							<td><code>String constant</code></td>
+							<td>plus</td>
+							<td><code>&amp;pattern=[value]</code></td>
+						</tr>
+						<tr>
+							<td><strong>[Language]</strong></td>
+							<td>Proverb language</td>
+							<td><code>String constant</code></td>
+							<td>swedish</td>
+							<td><code>&amp;language=[value]</code></td>
+						</tr>
+						<tr>
+							<td><strong>[Width]</strong></td>
+							<td>Proverb image width</td>
+							<td><code>String</code></td>
+							<td>100%</td>
+							<td><code>&amp;width=[value]</code></td>
+						</tr>
+						<tr>
+							<td><strong>[Height]</strong></td>
+							<td>Proverb image height</td>
+							<td><code>String</code></td>
+							<td>100%</td>
+							<td><code>&amp;height=[value]</code></td>
+						</tr>
+						<tr>
+							<td><strong>[Keywords]</strong></td>
+							<td>Proverb keywords</td>
+							<td><code>String/String[]</code></td>
+							<td>love</td>
+							<td><code>&amp;keywords=[value]</code></td>
+						</tr>
+				</tbody></table>
+				<p>Here is a list of languages supported by Proverb API:</p>
+				<table>
+					<thead>
+						<tr>
+							<th><strong>Name</strong></th>
+							<th><strong>Value</strong></th>
+						</tr>
+					</thead>
+					<tbody><tr>
+							<td><strong>Afghan</strong></td>
+							<td>afghan</td>
+						</tr>
+						<tr>
+							<td><strong>African</strong></td>
+							<td>african</td>
+						</tr>
+						<tr>
+							<td><strong>Albanian</strong></td>
+							<td>albanian</td>
+						</tr>
+						<tr>
+							<td><strong>Algerian</strong></td>
+							<td>algerian</td>
+						</tr>
+						<tr>
+							<td><strong>American</strong></td>
+							<td>american</td>
+						</tr>
+						<tr>
+							<td><strong>Andorran</strong></td>
+							<td>andorran</td>
+						</tr>
+						<tr>
+							<td><strong>Angolan</strong></td>
+							<td>angolan</td>
+						</tr>
+						<tr>
+							<td><strong>Anii</strong></td>
+							<td>anii</td>
+						</tr>
+						<tr>
+							<td><strong>Antillean</strong></td>
+							<td>antillean</td>
+						</tr>
+						<tr>
+							<td><strong>Arabian</strong></td>
+							<td>arabian</td>
+						</tr>
+						<tr>
+							<td><strong>Argentinian</strong></td>
+							<td>argentinian</td>
+						</tr>
+						<tr>
+							<td><strong>Armenian</strong></td>
+							<td>armenian</td>
+						</tr>
+						<tr>
+							<td><strong>Australian</strong></td>
+							<td>australian</td>
+						</tr>
+						<tr>
+							<td><strong>Austrian</strong></td>
+							<td>austrian</td>
+						</tr>
+						<tr>
+							<td><strong>Azerbaijani</strong></td>
+							<td>azerbaijani</td>
+						</tr>
+						<tr>
+							<td><strong>Babylonian</strong></td>
+							<td>babylonian</td>
+						</tr>
+						<tr>
+							<td><strong>Bahamian</strong></td>
+							<td>bahamian</td>
+						</tr>
+						<tr>
+							<td><strong>Bambara</strong></td>
+							<td>bambara</td>
+						</tr>
+						<tr>
+							<td><strong>Bantu</strong></td>
+							<td>bantu</td>
+						</tr>
+						<tr>
+							<td><strong>Basotho</strong></td>
+							<td>basotho</td>
+						</tr>
+						<tr>
+							<td><strong>Basque</strong></td>
+							<td>basque</td>
+						</tr>
+						<tr>
+							<td><strong>Bedouin</strong></td>
+							<td>bedouin</td>
+						</tr>
+						<tr>
+							<td><strong>Belgian</strong></td>
+							<td>belgian</td>
+						</tr>
+						<tr>
+							<td><strong>Belizean</strong></td>
+							<td>belizean</td>
+						</tr>
+						<tr>
+							<td><strong>Bemba</strong></td>
+							<td>bemba</td>
+						</tr>
+						<tr>
+							<td><strong>Bengali</strong></td>
+							<td>bengali</td>
+						</tr>
+						<tr>
+							<td><strong>Beninese</strong></td>
+							<td>beninese</td>
+						</tr>
+						<tr>
+							<td><strong>Berber</strong></td>
+							<td>berber</td>
+						</tr>
+						<tr>
+							<td><strong>Bolivian</strong></td>
+							<td>bolivian</td>
+						</tr>
+						<tr>
+							<td><strong>Bosnian</strong></td>
+							<td>bosnian</td>
+						</tr>
+						<tr>
+							<td><strong>Brazilian</strong></td>
+							<td>brazilian</td>
+						</tr>
+						<tr>
+							<td><strong>Breton</strong></td>
+							<td>breton</td>
+						</tr>
+						<tr>
+							<td><strong>Bulgarian</strong></td>
+							<td>bulgarian</td>
+						</tr>
+						<tr>
+							<td><strong>Burkinabe</strong></td>
+							<td>burkinabe</td>
+						</tr>
+						<tr>
+							<td><strong>Burmese</strong></td>
+							<td>burmese</td>
+						</tr>
+						<tr>
+							<td><strong>Burundian</strong></td>
+							<td>burundian</td>
+						</tr>
+						<tr>
+							<td><strong>Byzantium</strong></td>
+							<td>byzantium</td>
+						</tr>
+						<tr>
+							<td><strong>Cambodian</strong></td>
+							<td>cambodian</td>
+						</tr>
+						<tr>
+							<td><strong>Cameroonian</strong></td>
+							<td>cameroonian</td>
+						</tr>
+						<tr>
+							<td><strong>Canadian</strong></td>
+							<td>canadian</td>
+						</tr>
+						<tr>
+							<td><strong>Catalan</strong></td>
+							<td>catalan</td>
+						</tr>
+						<tr>
+							<td><strong>Chadian</strong></td>
+							<td>chadian</td>
+						</tr>
+						<tr>
+							<td><strong>Chilean</strong></td>
+							<td>chilean</td>
+						</tr>
+						<tr>
+							<td><strong>Chinese</strong></td>
+							<td>chinese</td>
+						</tr>
+						<tr>
+							<td><strong>Colombian</strong></td>
+							<td>colombian</td>
+						</tr>
+						<tr>
+							<td><strong>Congolese</strong></td>
+							<td>congolese</td>
+						</tr>
+						<tr>
+							<td><strong>Corsican</strong></td>
+							<td>corsican</td>
+						</tr>
+						<tr>
+							<td><strong>Costa Rikan</strong></td>
+							<td>costa_rikan</td>
+						</tr>
+						<tr>
+							<td><strong>Creole</strong></td>
+							<td>creole</td>
+						</tr>
+						<tr>
+							<td><strong>Croatian</strong></td>
+							<td>croatian</td>
+						</tr>
+						<tr>
+							<td><strong>Cuban</strong></td>
+							<td>cuban</td>
+						</tr>
+						<tr>
+							<td><strong>Cypriot</strong></td>
+							<td>cypriot</td>
+						</tr>
+						<tr>
+							<td><strong>Czech</strong></td>
+							<td>czech</td>
+						</tr>
+						<tr>
+							<td><strong>Czechoslovakian</strong></td>
+							<td>czechoslovakian</td>
+						</tr>
+						<tr>
+							<td><strong>Danish</strong></td>
+							<td>danish</td>
+						</tr>
+						<tr>
+							<td><strong>Dominican</strong></td>
+							<td>dominican</td>
+						</tr>
+						<tr>
+							<td><strong>Dutch</strong></td>
+							<td>dutch</td>
+						</tr>
+						<tr>
+							<td><strong>Dwarven</strong></td>
+							<td>dwarven</td>
+						</tr>
+						<tr>
+							<td><strong>East Asian</strong></td>
+							<td>east_asian</td>
+						</tr>
+						<tr>
+							<td><strong>Ecuadorian</strong></td>
+							<td>ecuadorian</td>
+						</tr>
+						<tr>
+							<td><strong>Egyptian</strong></td>
+							<td>egyptian</td>
+						</tr>
+						<tr>
+							<td><strong>English</strong></td>
+							<td>english</td>
+						</tr>
+						<tr>
+							<td><strong>Estonian</strong></td>
+							<td>estonian</td>
+						</tr>
+						<tr>
+							<td><strong>Ethiopian</strong></td>
+							<td>ethiopian</td>
+						</tr>
+						<tr>
+							<td><strong>Fijian</strong></td>
+							<td>fijian</td>
+						</tr>
+						<tr>
+							<td><strong>Filipino</strong></td>
+							<td>filipino</td>
+						</tr>
+						<tr>
+							<td><strong>Finnish</strong></td>
+							<td>finnish</td>
+						</tr>
+						<tr>
+							<td><strong>Flemish</strong></td>
+							<td>flemish</td>
+						</tr>
+						<tr>
+							<td><strong>French Guianese</strong></td>
+							<td>french_guianese</td>
+						</tr>
+						<tr>
+							<td><strong>French</strong></td>
+							<td>french</td>
+						</tr>
+						<tr>
+							<td><strong>Gabonese</strong></td>
+							<td>gabonese</td>
+						</tr>
+						<tr>
+							<td><strong>Gaelic</strong></td>
+							<td>gaelic</td>
+						</tr>
+						<tr>
+							<td><strong>Gambian</strong></td>
+							<td>gambian</td>
+						</tr>
+						<tr>
+							<td><strong>Georgian</strong></td>
+							<td>georgian</td>
+						</tr>
+						<tr>
+							<td><strong>German</strong></td>
+							<td>german</td>
+						</tr>
+						<tr>
+							<td><strong>Ghanaian</strong></td>
+							<td>ghanaian</td>
+						</tr>
+						<tr>
+							<td><strong>Goan</strong></td>
+							<td>goan</td>
+						</tr>
+						<tr>
+							<td><strong>Greek</strong></td>
+							<td>greek</td>
+						</tr>
+						<tr>
+							<td><strong>Guatemalan</strong></td>
+							<td>guatemalan</td>
+						</tr>
+						<tr>
+							<td><strong>Guinean</strong></td>
+							<td>guinean</td>
+						</tr>
+						<tr>
+							<td><strong>Guyanese</strong></td>
+							<td>guyanese</td>
+						</tr>
+						<tr>
+							<td><strong>Gypsy</strong></td>
+							<td>gypsy</td>
+						</tr>
+						<tr>
+							<td><strong>Haitian</strong></td>
+							<td>haitian</td>
+						</tr>
+						<tr>
+							<td><strong>Hasidic</strong></td>
+							<td>hasidic</td>
+						</tr>
+						<tr>
+							<td><strong>Hawaiian</strong></td>
+							<td>hawaiian</td>
+						</tr>
+						<tr>
+							<td><strong>Hebrew</strong></td>
+							<td>hebrew</td>
+						</tr>
+						<tr>
+							<td><strong>Hindu</strong></td>
+							<td>hindu</td>
+						</tr>
+						<tr>
+							<td><strong>Hindustani</strong></td>
+							<td>hindustani</td>
+						</tr>
+						<tr>
+							<td><strong>Hungarian</strong></td>
+							<td>hungarian</td>
+						</tr>
+						<tr>
+							<td><strong>Icelandic</strong></td>
+							<td>icelandic</td>
+						</tr>
+						<tr>
+							<td><strong>Indian</strong></td>
+							<td>indian</td>
+						</tr>
+						<tr>
+							<td><strong>Indonesian</strong></td>
+							<td>indonesian</td>
+						</tr>
+						<tr>
+							<td><strong>Iranian</strong></td>
+							<td>iranian</td>
+						</tr>
+						<tr>
+							<td><strong>Iraqi</strong></td>
+							<td>iraqi</td>
+						</tr>
+						<tr>
+							<td><strong>Irish</strong></td>
+							<td>irish</td>
+						</tr>
+						<tr>
+							<td><strong>Islamic</strong></td>
+							<td>islamic</td>
+						</tr>
+						<tr>
+							<td><strong>Italian</strong></td>
+							<td>italian</td>
+						</tr>
+						<tr>
+							<td><strong>Ivorian</strong></td>
+							<td>ivorian</td>
+						</tr>
+						<tr>
+							<td><strong>Jamaican</strong></td>
+							<td>jamaican</td>
+						</tr>
+						<tr>
+							<td><strong>Japanese</strong></td>
+							<td>japanese</td>
+						</tr>
+						<tr>
+							<td><strong>Jewish</strong></td>
+							<td>jewish</td>
+						</tr>
+						<tr>
+							<td><strong>Jordanian</strong></td>
+							<td>jordanian</td>
+						</tr>
+						<tr>
+							<td><strong>Kanuri</strong></td>
+							<td>kanuri</td>
+						</tr>
+						<tr>
+							<td><strong>Kashmiri</strong></td>
+							<td>kashmiri</td>
+						</tr>
+						<tr>
+							<td><strong>Kenyan</strong></td>
+							<td>kenyan</td>
+						</tr>
+						<tr>
+							<td><strong>Kikuyu</strong></td>
+							<td>kikuyu</td>
+						</tr>
+						<tr>
+							<td><strong>Korean</strong></td>
+							<td>korean</td>
+						</tr>
+						<tr>
+							<td><strong>Kurdish</strong></td>
+							<td>kurdish</td>
+						</tr>
+						<tr>
+							<td><strong>Kyrgyzstani</strong></td>
+							<td>kyrgyzstani</td>
+						</tr>
+						<tr>
+							<td><strong>Laotian</strong></td>
+							<td>laotian</td>
+						</tr>
+						<tr>
+							<td><strong>Lash</strong></td>
+							<td>lash</td>
+						</tr>
+						<tr>
+							<td><strong>Latin American</strong></td>
+							<td>latin_american</td>
+						</tr>
+						<tr>
+							<td><strong>Latin</strong></td>
+							<td>latin</td>
+						</tr>
+						<tr>
+							<td><strong>Latvian</strong></td>
+							<td>latvian</td>
+						</tr>
+						<tr>
+							<td><strong>Lebanese</strong></td>
+							<td>lebanese</td>
+						</tr>
+						<tr>
+							<td><strong>Liberian</strong></td>
+							<td>liberian</td>
+						</tr>
+						<tr>
+							<td><strong>Libyan</strong></td>
+							<td>libyan</td>
+						</tr>
+						<tr>
+							<td><strong>Lithuanian</strong></td>
+							<td>lithuanian</td>
+						</tr>
+						<tr>
+							<td><strong>Luxembourgish</strong></td>
+							<td>luxembourgish</td>
+						</tr>
+						<tr>
+							<td><strong>Macedonian</strong></td>
+							<td>macedonian</td>
+						</tr>
+						<tr>
+							<td><strong>Malagasy</strong></td>
+							<td>malagasy</td>
+						</tr>
+						<tr>
+							<td><strong>Malawian</strong></td>
+							<td>malawian</td>
+						</tr>
+						<tr>
+							<td><strong>Malay</strong></td>
+							<td>malay</td>
+						</tr>
+						<tr>
+							<td><strong>Malaysian</strong></td>
+							<td>malaysian</td>
+						</tr>
+						<tr>
+							<td><strong>Malian</strong></td>
+							<td>malian</td>
+						</tr>
+						<tr>
+							<td><strong>Maltese</strong></td>
+							<td>maltese</td>
+						</tr>
+						<tr>
+							<td><strong>Martiniquais</strong></td>
+							<td>martiniquais</td>
+						</tr>
+						<tr>
+							<td><strong>Massai</strong></td>
+							<td>massai</td>
+						</tr>
+						<tr>
+							<td><strong>Mauritanian</strong></td>
+							<td>mauritanian</td>
+						</tr>
+						<tr>
+							<td><strong>Mauritian</strong></td>
+							<td>mauritian</td>
+						</tr>
+						<tr>
+							<td><strong>Mexican</strong></td>
+							<td>mexican</td>
+						</tr>
+						<tr>
+							<td><strong>Mongolian</strong></td>
+							<td>mongolian</td>
+						</tr>
+						<tr>
+							<td><strong>Montenegro</strong></td>
+							<td>montenegro</td>
+						</tr>
+						<tr>
+							<td><strong>Moorish</strong></td>
+							<td>moorish</td>
+						</tr>
+						<tr>
+							<td><strong>Moroccan</strong></td>
+							<td>moroccan</td>
+						</tr>
+						<tr>
+							<td><strong>Mozambican</strong></td>
+							<td>mozambican</td>
+						</tr>
+						<tr>
+							<td><strong>Myanmar</strong></td>
+							<td>myanmar</td>
+						</tr>
+						<tr>
+							<td><strong>Namibian</strong></td>
+							<td>namibian</td>
+						</tr>
+						<tr>
+							<td><strong>Navajo</strong></td>
+							<td>navajo</td>
+						</tr>
+						<tr>
+							<td><strong>Nepalese</strong></td>
+							<td>nepalese</td>
+						</tr>
+						<tr>
+							<td><strong>New_zelander</strong></td>
+							<td>new_zelander</td>
+						</tr>
+						<tr>
+							<td><strong>Nicaraguan</strong></td>
+							<td>nicaraguan</td>
+						</tr>
+						<tr>
+							<td><strong>Nigerian</strong></td>
+							<td>nigerian</td>
+						</tr>
+						<tr>
+							<td><strong>Norwegian</strong></td>
+							<td>norwegian</td>
+						</tr>
+						<tr>
+							<td><strong>Somalia</strong></td>
+							<td>somalia</td>
+						</tr>
+						<tr>
+							<td><strong>Palestinian</strong></td>
+							<td>palestinian</td>
+						</tr>
+						<tr>
+							<td><strong>Panamanian</strong></td>
+							<td>panamanian</td>
+						</tr>
+						<tr>
+							<td><strong>Persian</strong></td>
+							<td>persian</td>
+						</tr>
+						<tr>
+							<td><strong>Peruvian</strong></td>
+							<td>peruvian</td>
+						</tr>
+						<tr>
+							<td><strong>Philippine</strong></td>
+							<td>philippine</td>
+						</tr>
+						<tr>
+							<td><strong>Polish</strong></td>
+							<td>polish</td>
+						</tr>
+						<tr>
+							<td><strong>Portuguese</strong></td>
+							<td>portuguese</td>
+						</tr>
+						<tr>
+							<td><strong>Puerto Rikan</strong></td>
+							<td>puerto_rikan</td>
+						</tr>
+						<tr>
+							<td><strong>Romanian</strong></td>
+							<td>romanian</td>
+						</tr>
+						<tr>
+							<td><strong>Russian</strong></td>
+							<td>russian</td>
+						</tr>
+						<tr>
+							<td><strong>Rwandan</strong></td>
+							<td>rwandan</td>
+						</tr>
+						<tr>
+							<td><strong>Samoan</strong></td>
+							<td>samoan</td>
+						</tr>
+						<tr>
+							<td><strong>Sanskrit</strong></td>
+							<td>sanskrit</td>
+						</tr>
+						<tr>
+							<td><strong>Sardinian</strong></td>
+							<td>sardinian</td>
+						</tr>
+						<tr>
+							<td><strong>Scottish</strong></td>
+							<td>scottish</td>
+						</tr>
+						<tr>
+							<td><strong>Senegalese</strong></td>
+							<td>senegalese</td>
+						</tr>
+						<tr>
+							<td><strong>Serbian</strong></td>
+							<td>serbian</td>
+						</tr>
+						<tr>
+							<td><strong>Sicilian</strong></td>
+							<td>sicilian</td>
+						</tr>
+						<tr>
+							<td><strong>Sierra Leonean</strong></td>
+							<td>sierra_leonean</td>
+						</tr>
+						<tr>
+							<td><strong>Sinhalese</strong></td>
+							<td>sinhalese</td>
+						</tr>
+						<tr>
+							<td><strong>Slovakian</strong></td>
+							<td>slovakian</td>
+						</tr>
+						<tr>
+							<td><strong>Slovenian</strong></td>
+							<td>slovenian</td>
+						</tr>
+						<tr>
+							<td><strong>Solomon Islander</strong></td>
+							<td>solomon_islander</td>
+						</tr>
+						<tr>
+							<td><strong>South African</strong></td>
+							<td>south_african</td>
+						</tr>
+						<tr>
+							<td><strong>Spanish</strong></td>
+							<td>spanish</td>
+						</tr>
+						<tr>
+							<td><strong>Sri Lankan</strong></td>
+							<td>sri_lankan</td>
+						</tr>
+						<tr>
+							<td><strong>Sudanese</strong></td>
+							<td>sudanese</td>
+						</tr>
+						<tr>
+							<td><strong>Surinamese</strong></td>
+							<td>surinamese</td>
+						</tr>
+						<tr>
+							<td><strong>Swahili</strong></td>
+							<td>swahili</td>
+						</tr>
+						<tr>
+							<td><strong>Swedish</strong></td>
+							<td>swedish</td>
+						</tr>
+						<tr>
+							<td><strong>Swiss</strong></td>
+							<td>swiss</td>
+						</tr>
+						<tr>
+							<td><strong>Syrian</strong></td>
+							<td>syrian</td>
+						</tr>
+						<tr>
+							<td><strong>Taiwanese</strong></td>
+							<td>taiwanese</td>
+						</tr>
+						<tr>
+							<td><strong>Tajikistani</strong></td>
+							<td>tajikistani</td>
+						</tr>
+						<tr>
+							<td><strong>Tamilan</strong></td>
+							<td>tamilan</td>
+						</tr>
+						<tr>
+							<td><strong>Tanzanian</strong></td>
+							<td>tanzanian</td>
+						</tr>
+						<tr>
+							<td><strong>Thai</strong></td>
+							<td>thai</td>
+						</tr>
+						<tr>
+							<td><strong>Tibetan</strong></td>
+							<td>tibetan</td>
+						</tr>
+						<tr>
+							<td><strong>Togolese</strong></td>
+							<td>togolese</td>
+						</tr>
+						<tr>
+							<td><strong>Trinidadian</strong></td>
+							<td>trinidadian</td>
+						</tr>
+						<tr>
+							<td><strong>Tuareg</strong></td>
+							<td>tuareg</td>
+						</tr>
+						<tr>
+							<td><strong>Tunisian</strong></td>
+							<td>tunisian</td>
+						</tr>
+						<tr>
+							<td><strong>Turkish</strong></td>
+							<td>turkish</td>
+						</tr>
+						<tr>
+							<td><strong>Tuscarora</strong></td>
+							<td>tuscarora</td>
+						</tr>
+						<tr>
+							<td><strong>Ugandan</strong></td>
+							<td>ugandan</td>
+						</tr>
+						<tr>
+							<td><strong>Uruguayan</strong></td>
+							<td>uruguayan</td>
+						</tr>
+						<tr>
+							<td><strong>Venezuelan</strong></td>
+							<td>venezuelan</td>
+						</tr>
+						<tr>
+							<td><strong>Vermont</strong></td>
+							<td>vermont</td>
+						</tr>
+						<tr>
+							<td><strong>Vietnamese</strong></td>
+							<td>vietnamese</td>
+						</tr>
+						<tr>
+							<td><strong>Virgin Islander</strong></td>
+							<td>virgin_islander</td>
+						</tr>
+						<tr>
+							<td><strong>Walloon</strong></td>
+							<td>walloon</td>
+						</tr>
+						<tr>
+							<td><strong>Welsh</strong></td>
+							<td>welsh</td>
+						</tr>
+						<tr>
+							<td><strong>West African</strong></td>
+							<td>west_african</td>
+						</tr>
+						<tr>
+							<td><strong>Yemeni</strong></td>
+							<td>yemeni</td>
+						</tr>
+						<tr>
+							<td><strong>Yiddish</strong></td>
+							<td>yiddish</td>
+						</tr>
+						<tr>
+							<td><strong>Yoruba</strong></td>
+							<td>yoruba</td>
+						</tr>
+						<tr>
+							<td><strong>Yugoslavian</strong></td>
+							<td>yugoslavian</td>
+						</tr>
+						<tr>
+							<td><strong>Zambian</strong></td>
+							<td>zambian</td>
+						</tr>
+						<tr>
+							<td><strong>Zanzibar</strong></td>
+							<td>zanzibar</td>
+						</tr>
+						<tr>
+							<td><strong>Zen</strong></td>
+							<td>zen</td>
+						</tr>
+						<tr>
+							<td><strong>Zimbabwean</strong></td>
+							<td>zimbabwean</td>
+						</tr>
+						<tr>
+							<td><strong>Zulu</strong></td>
+							<td>zulu</td>
+						</tr>
+				</tbody></table>
+				<p>Patterns in proverbs are provided by <a href="https://github.com/lowmess/hero-patterns">Hero Pattern</a> package which is developed by <a href="https://github.com/lowmess/">Lowmess</a>: </p>
+				<table>
+					<thead>
+						<tr>
+							<th><strong>Name</strong></th>
+							<th><strong>Value</strong></th>
+						</tr>
+					</thead>
+					<tbody><tr>
+							<td><strong>Jigsaw</strong></td>
+							<td>jigsaw</td>
+						</tr>
+						<tr>
+							<td><strong>Overcast</strong></td>
+							<td>overcast</td>
+						</tr>
+						<tr>
+							<td><strong>Formal Invitation</strong></td>
+							<td>formalInvitation</td>
+						</tr>
+						<tr>
+							<td><strong>Topography</strong></td>
+							<td>topography</td>
+						</tr>
+						<tr>
+							<td><strong>Texture</strong></td>
+							<td>texture</td>
+						</tr>
+						<tr>
+							<td><strong>Jupiter</strong></td>
+							<td>jupiter</td>
+						</tr>
+						<tr>
+							<td><strong>Architect</strong></td>
+							<td>architect</td>
+						</tr>
+						<tr>
+							<td><strong>Cutout</strong></td>
+							<td>cutout</td>
+						</tr>
+						<tr>
+							<td><strong>Hideout</strong></td>
+							<td>hideout</td>
+						</tr>
+						<tr>
+							<td><strong>Graph Paper</strong></td>
+							<td>graphPaper</td>
+						</tr>
+						<tr>
+							<td><strong>Yyy</strong></td>
+							<td>yyy</td>
+						</tr>
+						<tr>
+							<td><strong>Squares</strong></td>
+							<td>squares</td>
+						</tr>
+						<tr>
+							<td><strong>Falling Triangles</strong></td>
+							<td>fallingTriangles</td>
+						</tr>
+						<tr>
+							<td><strong>Piano Man</strong></td>
+							<td>pianoMan</td>
+						</tr>
+						<tr>
+							<td><strong>Pie Factory</strong></td>
+							<td>pieFactory</td>
+						</tr>
+						<tr>
+							<td><strong>Dominos</strong></td>
+							<td>dominos</td>
+						</tr>
+						<tr>
+							<td><strong>Hexagons</strong></td>
+							<td>hexagons</td>
+						</tr>
+						<tr>
+							<td><strong>Charlie Brown</strong></td>
+							<td>charlieBrown</td>
+						</tr>
+						<tr>
+							<td><strong>Autumn</strong></td>
+							<td>autumn</td>
+						</tr>
+						<tr>
+							<td><strong>Temple</strong></td>
+							<td>temple</td>
+						</tr>
+						<tr>
+							<td><strong>Stamp Collection</strong></td>
+							<td>stampCollection</td>
+						</tr>
+						<tr>
+							<td><strong>Death Star</strong></td>
+							<td>deathStar</td>
+						</tr>
+						<tr>
+							<td><strong>Church on Sunday</strong></td>
+							<td>churchOnSunday</td>
+						</tr>
+						<tr>
+							<td><strong>I Like Food</strong></td>
+							<td>iLikeFood</td>
+						</tr>
+						<tr>
+							<td><strong>Overlapping Hexagons</strong></td>
+							<td>overlappingHexagons</td>
+						</tr>
+						<tr>
+							<td><strong>Four Point Stars</strong></td>
+							<td>fourPointStars</td>
+						</tr>
+						<tr>
+							<td><strong>Bamboo</strong></td>
+							<td>bamboo</td>
+						</tr>
+						<tr>
+							<td><strong>Bathroom Floor</strong></td>
+							<td>bathroomFloor</td>
+						</tr>
+						<tr>
+							<td><strong>CorkScrew</strong></td>
+							<td>corkScrew</td>
+						</tr>
+						<tr>
+							<td><strong>Happy Intersection</strong></td>
+							<td>happyIntersection</td>
+						</tr>
+						<tr>
+							<td><strong>Kiwi</strong></td>
+							<td>kiwi</td>
+						</tr>
+						<tr>
+							<td><strong>Lisbon</strong></td>
+							<td>lisbon</td>
+						</tr>
+						<tr>
+							<td><strong>Random Shapes</strong></td>
+							<td>randomShapes</td>
+						</tr>
+						<tr>
+							<td><strong>Steel Beams</strong></td>
+							<td>steelBeams</td>
+						</tr>
+						<tr>
+							<td><strong>Tiny Checkers</strong></td>
+							<td>tinyCheckers</td>
+						</tr>
+						<tr>
+							<td><strong>X Equals</strong></td>
+							<td>xEquals</td>
+						</tr>
+						<tr>
+							<td><strong>Anchors Away</strong></td>
+							<td>anchorsAway</td>
+						</tr>
+						<tr>
+							<td><strong>Bevel Circle</strong></td>
+							<td>bevelCircle</td>
+						</tr>
+						<tr>
+							<td><strong>Brick Wall</strong></td>
+							<td>brickWall</td>
+						</tr>
+						<tr>
+							<td><strong>Fancy Rectangles</strong></td>
+							<td>fancyRectangles</td>
+						</tr>
+						<tr>
+							<td><strong>Heavy Rain</strong></td>
+							<td>heavyRain</td>
+						</tr>
+						<tr>
+							<td><strong>Overlapping Circles</strong></td>
+							<td>overlappingCircles</td>
+						</tr>
+						<tr>
+							<td><strong>Plus</strong></td>
+							<td>plus</td>
+						</tr>
+						<tr>
+							<td><strong>Rounded Plus Connected</strong></td>
+							<td>roundedPlusConnected</td>
+						</tr>
+						<tr>
+							<td><strong>Volcano Lamp</strong></td>
+							<td>volcanoLamp</td>
+						</tr>
+						<tr>
+							<td><strong>Wiggle</strong></td>
+							<td>wiggle</td>
+						</tr>
+						<tr>
+							<td><strong>Bubbles</strong></td>
+							<td>bubbles</td>
+						</tr>
+						<tr>
+							<td><strong>Cage</strong></td>
+							<td>cage</td>
+						</tr>
+						<tr>
+							<td><strong>Connections</strong></td>
+							<td>connections</td>
+						</tr>
+						<tr>
+							<td><strong>Current</strong></td>
+							<td>current</td>
+						</tr>
+						<tr>
+							<td><strong>Diagonal Stripes</strong></td>
+							<td>diagonalStripes</td>
+						</tr>
+						<tr>
+							<td><strong>Flipped Diamonds</strong></td>
+							<td>flippedDiamonds</td>
+						</tr>
+						<tr>
+							<td><strong>Floating Cogs</strong></td>
+							<td>floatingCogs</td>
+						</tr>
+						<tr>
+							<td><strong>Glamorous</strong></td>
+							<td>glamorous</td>
+						</tr>
+						<tr>
+							<td><strong>Hounds tooth</strong></td>
+							<td>houndstooth</td>
+						</tr>
+						<tr>
+							<td><strong>Leaf</strong></td>
+							<td>leaf</td>
+						</tr>
+						<tr>
+							<td><strong>Lines In Motion</strong></td>
+							<td>linesInMotion</td>
+						</tr>
+						<tr>
+							<td><strong>Moroccan</strong></td>
+							<td>moroccan</td>
+						</tr>
+						<tr>
+							<td><strong>Morphing Diamonds</strong></td>
+							<td>morphingDiamonds</td>
+						</tr>
+						<tr>
+							<td><strong>Rails</strong></td>
+							<td>rails</td>
+						</tr>
+						<tr>
+							<td><strong>Rain</strong></td>
+							<td>rain</td>
+						</tr>
+						<tr>
+							<td><strong>Skulls</strong></td>
+							<td>skulls</td>
+						</tr>
+						<tr>
+							<td><strong>Squares In Squares</strong></td>
+							<td>squaresInSquares</td>
+						</tr>
+						<tr>
+							<td><strong>Stripes</strong></td>
+							<td>stripes</td>
+						</tr>
+						<tr>
+							<td><strong>Tic Tac Toe</strong></td>
+							<td>ticTacToe</td>
+						</tr>
+						<tr>
+							<td><strong>ZigZag</strong></td>
+							<td>zigZag</td>
+						</tr>
+						<tr>
+							<td><strong>Aztec</strong></td>
+							<td>aztec</td>
+						</tr>
+						<tr>
+							<td><strong>BankNote</strong></td>
+							<td>bankNote</td>
+						</tr>
+						<tr>
+							<td><strong>Boxes</strong></td>
+							<td>boxes</td>
+						</tr>
+						<tr>
+							<td><strong>Circles And Squares</strong></td>
+							<td>circlesAndSquares</td>
+						</tr>
+						<tr>
+							<td><strong>CircuitBoard</strong></td>
+							<td>circuitBoard</td>
+						</tr>
+						<tr>
+							<td><strong>Curtain</strong></td>
+							<td>curtain</td>
+						</tr>
+						<tr>
+							<td><strong>Diagonal Lines</strong></td>
+							<td>diagonalLines</td>
+						</tr>
+						<tr>
+							<td><strong>Endless Clouds</strong></td>
+							<td>endlessClouds</td>
+						</tr>
+						<tr>
+							<td><strong>Eyes</strong></td>
+							<td>eyes</td>
+						</tr>
+						<tr>
+							<td><strong>Floor Tile</strong></td>
+							<td>floorTile</td>
+						</tr>
+						<tr>
+							<td><strong>Groovy</strong></td>
+							<td>groovy</td>
+						</tr>
+						<tr>
+							<td><strong>Intersecting Circles</strong></td>
+							<td>intersectingCircles</td>
+						</tr>
+						<tr>
+							<td><strong>Melt</strong></td>
+							<td>melt</td>
+						</tr>
+						<tr>
+							<td><strong>Overlapping Diamonds</strong></td>
+							<td>overlappingDiamonds</td>
+						</tr>
+						<tr>
+							<td><strong>Parkay Floor</strong></td>
+							<td>parkayFloor</td>
+						</tr>
+						<tr>
+							<td><strong>Pixel Dots</strong></td>
+							<td>pixelDots</td>
+						</tr>
+						<tr>
+							<td><strong>Polka Dots</strong></td>
+							<td>polkaDots</td>
+						</tr>
+						<tr>
+							<td><strong>Signal</strong></td>
+							<td>signal</td>
+						</tr>
+						<tr>
+							<td><strong>Slanted</strong> Stars</td>
+							<td>slantedStars</td>
+						</tr>
+						<tr>
+							<td><strong>Wallpaper</strong></td>
+							<td>wallpaper</td>
+						</tr>
+				</tbody></table>
+				<a href="#example" id="example" style="color: inherit; text-decoration: none;">
+					<h2><em>Example</em></h2>
+				</a>
+				<p>This is example of using <em><strong>Styled Proverbs</strong></em>:</p>
+				<pre><code><span style="color: #000000">![</span><span style="color: #001080">Styled</span><span style="color: #000000"> </span><span style="color: #001080">proverbs</span><span style="color: #000000">](</span><span style="color: #001080">https</span><span style="color: #000000">:</span><span style="color: #008000">//styled-proverbs.vercel.app/api?backgroundColor=%23FFFFFF&amp;opacity=0.3&amp;colorPattern=%23FFE0E9&amp;fontColor=%230A83DC)</span>
+</code></pre>
+				<p>Result:</p>
+				<div align="center" style="align-content: center">
+					<img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Proverbs" />
+				</div>
+				<a href="#visitor-stats" id="visitor-stats" style="color: inherit; text-decoration: none;">
+					<h2><em>Visitor stats</em></h2>
+				</a>
+				<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fproverbs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" alt="GitHub page hits"></a></p>
+				<p><img src="https://img.shields.io/github/stars/AlexRogalskiy/proverbs?style=social" alt="GitHub stars">
+					<img src="https://img.shields.io/github/forks/AlexRogalskiy/proverbs?style=social" alt="GitHub forks">
+				<img src="https://img.shields.io/github/watchers/AlexRogalskiy/proverbs?style=social" alt="GitHub watchers"></p>
+				<a href="#licensing" id="licensing" style="color: inherit; text-decoration: none;">
+					<h2><em>Licensing</em></h2>
+				</a>
+				<p><em><strong>Styled Proverbs</strong></em> is distributed under LGPL version 3 or later, [<a href="https://github.com/AlexRogalskiy/proverbs/blob/master/LICENSE">License</a>].
+				LGPLv3 is additional permissions on top of GPLv3.</p>
+				<p><img src="https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png" alt="license"></p>
+				<a href="#authors" id="authors" style="color: inherit; text-decoration: none;">
+					<h2><em>Authors</em></h2>
+				</a>
+				<p><em><strong>Styled Proverbs</strong></em> is maintained by the following GitHub team-members:</p>
+				<ul>
+					<li><a href="https://github.com/AlexRogalskiy"><img src="https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A" alt="Author"></a></li>
+				</ul>
+				<p>with community support please contact with us if you have some question or proposition.</p>
+				<a href="#versioning" id="versioning" style="color: inherit; text-decoration: none;">
+					<h2><em>Versioning</em></h2>
+				</a>
+				<p>The project uses <a href="http://semver.org/">SemVer</a> for versioning. For the versions available, see the <a href="https://github.com/AlexRogalskiy/proverbs/tags">tags on this repository</a>.</p>
+				<a href="#contribution" id="contribution" style="color: inherit; text-decoration: none;">
+					<h2><em>Contribution</em></h2>
+				</a>
+				<p><a href="https://badges.pufler.dev"><img src="https://badges.pufler.dev/contributors/AlexRogalskiy/proverbs?size=50&padding=5&bots=true" alt="Contributors Display"></a></p>
+				<p>Please read
+					<a href="https://github.com/AlexRogalskiy/proverbs/blob/master/.github/CONTRIBUTING.md">CONTRIBUTING.md</a>
+				for details on our code of conduct, and the process for submitting pull requests to us (<a href="https://allcontributors.org/docs/en/emoji-key">emoji key</a>).</p>
+				<p>This project follows the <a href="https://github.com/all-contributors/all-contributors">all-contributors</a> specification. Contributions of any kind are welcome!</p>
+				<p><a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+				<img src="https://img.shields.io/github/all-contributors/AlexRogalskiy/proverbs" alt="Github contributors"></p>
+				<p>See also the list of <a href="https://github.com/AlexRogalskiy/proverbs/graphs/contributors">contributors</a> who participated in this project.</p>
+				<a href="#acknowledgement" id="acknowledgement" style="color: inherit; text-decoration: none;">
+					<h2><em>Acknowledgement</em></h2>
+				</a>
+				<p><a href="https://github.com/AlexRogalskiy/proverbs/stargazers"><img src="https://reporoster.com/stars/AlexRogalskiy/proverbs" alt="Stargazers repo roster for @AlexRogalskiy/proverbs"></a></p>
+				<a href="#forks" id="forks" style="color: inherit; text-decoration: none;">
+					<h2><em>Forks</em></h2>
+				</a>
+				<p><a href="https://github.com/AlexRogalskiy/proverbs/network/members"><img src="https://reporoster.com/forks/AlexRogalskiy/proverbs" alt="Forkers repo roster for @AlexRogalskiy/proverbs"></a></p>
+				<a href="#issues" id="issues" style="color: inherit; text-decoration: none;">
+					<h2><em>Issues</em></h2>
+				</a>
+				<p><a href="https://issuehunt.io/r/AlexRogalskiy/proverbs"><img src="https://issuehunt.io/static/embed/issuehunt-button-v1.svg" alt="issuehunt-to-marktext"></a></p>
+				<a href="#development-support" id="development-support" style="color: inherit; text-decoration: none;">
+					<h2><em>Development Support</em></h2>
+				</a>
+				<p>Like <em><strong>Styled Proverbs</strong></em> ? Consider buying me a coffee :)</p>
+				<p><a href="https://www.patreon.com/alexrogalskiy"><img src="https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413" alt="Become a Patron"></a>
+					<a href="https://www.buymeacoffee.com/AlexRogalskiy"><img src="https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee" alt="Buy Me A Coffee"></a>
+				<a href="https://ko-fi.com/alexrogalskiy"><img src="https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi" alt="KoFi"></a></p>
+				<hr>
+				<p><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/made%20with-%20typescript-C1282D.svg?logo=typescript&style=for-the-badge" alt="forthebadge"></a>
+					<a href="https://vercel.com/"><img src="https://img.shields.io/badge/powered%20by-%20vercel-7116FB.svg?logo=vercel&style=for-the-badge" alt="forthebadge"></a>
+				<a href="https://forthebadge.com/"><img src="https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart&style=for-the-badge" alt="forthebadge"></a></p>
+			</div>
+		</div>
+		<div class="col-4 col-menu menu-sticky-wrap menu-highlight">
+			<nav class="tsd-navigation primary">
+				<ul>
+					<li class=" ">
+						<a href="modules.html">Modules</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/api.html">api</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/typings_hero_pattern_hero_patterns.html">typings/hero-<wbr>pattern/hero-<wbr>patterns</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/typings_types.html">typings/types</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/utils_bg_hero.html">utils/bg-<wbr>hero</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/utils_commons.html">utils/commons</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/utils_config.html">utils/config</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/utils_env.html">utils/env</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/utils_font.html">utils/font</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/utils_getcss.html">utils/get<wbr>Css</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/utils_proverb.html">utils/proverb</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/utils_proverbs.html">utils/proverbs</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/utils_search.html">utils/search</a>
+					</li>
+				</ul>
+			</nav>
+			<nav class="tsd-navigation secondary menu-sticky">
+				<ul class="before-current">
+				</ul>
+			</nav>
+		</div>
+	</div>
+</div>
+<footer class="with-border-bottom">
+	<div class="container">
+		<h2>Legend</h2>
+		<div class="tsd-legend-group">
+			<ul class="tsd-legend">
+				<li class="tsd-kind-variable"><span class="tsd-kind-icon">Variable</span></li>
+				<li class="tsd-kind-function"><span class="tsd-kind-icon">Function</span></li>
+				<li class="tsd-kind-function tsd-has-type-parameter"><span class="tsd-kind-icon">Function with type parameter</span></li>
+				<li class="tsd-kind-type-alias"><span class="tsd-kind-icon">Type alias</span></li>
+				<li class="tsd-kind-type-alias tsd-has-type-parameter"><span class="tsd-kind-icon">Type alias with type parameter</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-enum"><span class="tsd-kind-icon">Enumeration</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-interface"><span class="tsd-kind-icon">Interface</span></li>
+			</ul>
+		</div>
+	</div>
+</footer>
+<div class="container tsd-generator">
+	<p>Generated using <a href="https://typedoc.org/" target="_blank">TypeDoc</a></p>
+</div>
+<div class="overlay"></div>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
