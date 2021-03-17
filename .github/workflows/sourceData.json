@@ -540,7 +540,7 @@
         "jsonPath": "$.mozambican[*]"
     },
     {
-        "sourceFile": "./data/myanmar.json",
+        "sourceFile": "./data/myanmar_proverbs.json",
         "jsonPath": "$.myanmar[*]"
     },
     {
