@@ -24,10 +24,6 @@
         "jsonPath": "$.andorran[*]"
     },
     {
-        "sourceFile": "./data/albanian_proverbs.json",
-        "jsonPath": "$.albanian[*]"
-    },
-    {
         "sourceFile": "./data/angolan_proverbs.json",
         "jsonPath": "$.angolan[*]"
     },
