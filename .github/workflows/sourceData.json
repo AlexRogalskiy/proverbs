@@ -189,7 +189,7 @@
     },
     {
         "sourceFile": "./data/costa-rikan_proverbs.json",
-        "jsonPath": "$.costa-rikan[*]"
+        "jsonPath": "$.costa_rikan[*]"
     },
     {
         "sourceFile": "./data/creole_proverbs.json",
@@ -237,7 +237,7 @@
     },
     {
         "sourceFile": "./data/east-asian_proverbs.json",
-        "jsonPath": "$.east-asian[*]"
+        "jsonPath": "$.east_asian[*]"
     },
     {
         "sourceFile": "./data/ecuadorian_proverbs.json",
@@ -277,7 +277,7 @@
     },
     {
         "sourceFile": "./data/french-guianese_proverbs.json",
-        "jsonPath": "$.french-guianese[*]"
+        "jsonPath": "$.french_guianese[*]"
     },
     {
         "sourceFile": "./data/french_proverbs.json",
@@ -449,7 +449,7 @@
     },
     {
         "sourceFile": "./data/latin-american_proverbs.json",
-        "jsonPath": "$.latin-american[*]"
+        "jsonPath": "$.latin_american[*]"
     },
     {
         "sourceFile": "./data/latin_proverbs.json",
@@ -565,7 +565,7 @@
     },
     {
         "sourceFile": "./data/new-zelander_proverbs.json",
-        "jsonPath": "$.new-zelander[*]"
+        "jsonPath": "$.new_zelander[*]"
     },
     {
         "sourceFile": "./data/nicaraguan_proverbs.json",
@@ -609,7 +609,7 @@
     },
     {
         "sourceFile": "./data/puerto-rikan_proverbs.json",
-        "jsonPath": "$.puerto-rikan[*]"
+        "jsonPath": "$.puerto_rikan[*]"
     },
     {
         "sourceFile": "./data/romanian_proverbs.json",
@@ -653,7 +653,7 @@
     },
     {
         "sourceFile": "./data/sierra-leonean_proverbs.json",
-        "jsonPath": "$.sierra-leonean[*]"
+        "jsonPath": "$.sierra_leonean[*]"
     },
     {
         "sourceFile": "./data/sinhalese_proverbs.json",
@@ -669,7 +669,7 @@
     },
     {
         "sourceFile": "./data/solomon-islander_proverbs.json",
-        "jsonPath": "$.solomon-islander[*]"
+        "jsonPath": "$.solomon_islander[*]"
     },
     {
         "sourceFile": "./data/somalia_proverbs.json",
@@ -677,7 +677,7 @@
     },
     {
         "sourceFile": "./data/south-african_proverbs.json",
-        "jsonPath": "$.south-african[*]"
+        "jsonPath": "$.south_african[*]"
     },
     {
         "sourceFile": "./data/spanish_proverbs.json",
@@ -685,7 +685,7 @@
     },
     {
         "sourceFile": "./data/sri-lankan_proverbs.json",
-        "jsonPath": "$.sri-lankan[*]"
+        "jsonPath": "$.sri_lankan[*]"
     },
     {
         "sourceFile": "./data/sudanese_proverbs.json",
@@ -785,7 +785,7 @@
     },
     {
         "sourceFile": "./data/virgin-islander_proverbs.json",
-        "jsonPath": "$.virgin-islander[*]"
+        "jsonPath": "$.virgin_islander[*]"
     },
     {
         "sourceFile": "./data/walloon_proverbs.json",
@@ -797,7 +797,7 @@
     },
     {
         "sourceFile": "./data/west-african_proverbs.json",
-        "jsonPath": "$.west-african[*]"
+        "jsonPath": "$.west_african[*]"
     },
     {
         "sourceFile": "./data/yemeni_proverbs.json",
