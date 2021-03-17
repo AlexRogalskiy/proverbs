@@ -1,6 +1,7 @@
 name: Process JSON fields
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'data/**.json'
