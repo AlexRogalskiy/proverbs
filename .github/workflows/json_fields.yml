@@ -16,9 +16,6 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1
 
-      - name: Pull changeset
-        run: git pull origin master
-
       - name: Process JSON fields
         uses: alexrogalskiy/github-action-json-fields@master
         id: process_json

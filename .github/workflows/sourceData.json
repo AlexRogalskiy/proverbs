@@ -605,7 +605,7 @@
     },
     {
         "sourceFile": "./data/romanian_proverbs.json",
-        "jsonPath": "$.romanian_proverbs[*]"
+        "jsonPath": "$.romanian[*]"
     },
     {
         "sourceFile": "./data/russian_proverbs.json",
