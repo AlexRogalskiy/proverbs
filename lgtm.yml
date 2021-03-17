@@ -3,5 +3,6 @@ extraction:
     index:
       exclude:
         - node_modules
+        - docs
       filters:
         - exclude: "**/*.bundle.js"

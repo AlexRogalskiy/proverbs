@@ -14,6 +14,8 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/AlexRogalskiy/proverbs/goto)
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/proverbs)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/proverbs)
+
+[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16316/branches/347252/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=11946&pid=16316&bid=347252)
 [![Tokei](https://tokei.rs/b1/github/AlexRogalskiy/proverbs?category=lines)](https://github.com/XAMPPRocky/tokei)
 ![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/AlexRogalskiy/proverbs)
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
@@ -34,6 +36,8 @@
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/proverbs)
 [![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/proverbs)](https://hitsofcode.com/github/AlexRogalskiy/proverbs/view)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][tags]
+
+[![CI](https://github.com/AlexRogalskiy/proverbs/workflows/test/badge.svg)](https://github.com/AlexRogalskiy/proverbs/workflows/test)
 [![GitHub Super-Linter](https://github.com/AlexRogalskiy/proverbs/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![GitHub JSON-Validator](https://github.com/AlexRogalskiy/proverbs/workflows/Validate%20JSONs/badge.svg)](https://github.com/OrRosenblatt/validate-json-action)
 
