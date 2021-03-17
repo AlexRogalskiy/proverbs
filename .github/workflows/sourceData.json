@@ -196,10 +196,6 @@
         "jsonPath": "$.creole[*]"
     },
     {
-        "sourceFile": "./data/chilean_proverbs.json",
-        "jsonPath": "$.chilean[*]"
-    },
-    {
         "sourceFile": "./data/croatian_proverbs.json",
         "jsonPath": "$.croatian[*]"
     },
