@@ -36,11 +36,6 @@
             "category": "yemeni"
         },
         {
-            "text": "A sick person is a prisoner.",
-            "description": "",
-            "category": "yemeni"
-        },
-        {
             "text": "A hungry dog will eat his own excrement.",
             "description": "",
             "category": "yemeni"
@@ -52,11 +47,6 @@
         },
         {
             "text": "Whoever does not help himself cannot help others.",
-            "description": "",
-            "category": "yemeni"
-        },
-        {
-            "text": "Pity the stranger, even if he is rich.",
             "description": "",
             "category": "yemeni"
         },
@@ -92,11 +82,6 @@
         },
         {
             "text": "He who has all jobs is liar.",
-            "description": "",
-            "category": "yemeni"
-        },
-        {
-            "text": "A mule driver is not aware of the stink of his animals.",
             "description": "",
             "category": "yemeni"
         },
@@ -141,16 +126,6 @@
             "category": "yemeni"
         },
         {
-            "text": "A hungry dog will eat his own excrement.",
-            "description": "",
-            "category": "yemeni"
-        },
-        {
-            "text": "If the time has passed, there is no point in preparing.",
-            "description": "",
-            "category": "yemeni"
-        },
-        {
             "text": "A foreigner should be well-behaved.",
             "description": "",
             "category": "yemeni"
@@ -176,17 +151,7 @@
             "category": "yemeni"
         },
         {
-            "text": "Every sickness begins in the stomach.",
-            "description": "",
-            "category": "yemeni"
-        },
-        {
             "text": "He who talks much is not respectable.",
-            "description": "",
-            "category": "yemeni"
-        },
-        {
-            "text": "A sick person is a prisoner.",
             "description": "",
             "category": "yemeni"
         },
@@ -208,11 +173,6 @@
         {
             "text": "Out of sight, out of mind.",
             "description": "We tend to forget about things we cannot see or hear.",
-            "category": "yemeni"
-        },
-        {
-            "text": "If you give people nuts, you’ll get shells thrown at you.",
-            "description": "",
             "category": "yemeni"
         }
     ]
