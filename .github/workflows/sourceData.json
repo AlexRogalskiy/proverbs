@@ -496,10 +496,6 @@
         "jsonPath": "$.malian[*]"
     },
     {
-        "sourceFile": "./data/malian_proverbs.json",
-        "jsonPath": "$.malian[*]"
-    },
-    {
         "sourceFile": "./data/maltese_proverbs.json",
         "jsonPath": "$.maltese[*]"
     },
