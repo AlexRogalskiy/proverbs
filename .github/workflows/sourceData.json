@@ -172,8 +172,12 @@
         "jsonPath": "$.canadian[*]"
     },
     {
-        "sourceFile": "./data/cape-verdian_proverbs.json",
-        "jsonPath": "$.cape_verdian[*]"
+        "sourceFile": "./data/canary-islander_proverbs.json",
+        "jsonPath": "$.canary_islander[*]"
+    },
+    {
+        "sourceFile": "./data/cape-verdean_proverbs.json",
+        "jsonPath": "$.cape_verdean[*]"
     },
     {
         "sourceFile": "./data/catalan_proverbs.json",
@@ -216,6 +220,10 @@
         "jsonPath": "$.creole[*]"
     },
     {
+        "sourceFile": "./data/cretian_proverbs.json",
+        "jsonPath": "$.cretian[*]"
+    },
+    {
         "sourceFile": "./data/croatian_proverbs.json",
         "jsonPath": "$.croatian[*]"
     },
@@ -240,6 +248,10 @@
         "jsonPath": "$.danish[*]"
     },
     {
+        "sourceFile": "./data/darkovan_proverbs.json",
+        "jsonPath": "$.darkovan[*]"
+    },
+    {
         "sourceFile": "./data/dominican_proverbs.json",
         "jsonPath": "$.dominican[*]"
     },
@@ -250,6 +262,10 @@
     {
         "sourceFile": "./data/dwarven_proverbs.json",
         "jsonPath": "$.dwarven[*]"
+    },
+    {
+        "sourceFile": "./data/east-african_proverbs.json",
+        "jsonPath": "$.east_african[*]"
     },
     {
         "sourceFile": "./data/east-asian_proverbs.json",
@@ -602,6 +618,10 @@
     {
         "sourceFile": "./data/norwegian_proverbs.json",
         "jsonPath": "$.norwegian[*]"
+    },
+    {
+        "sourceFile": "./data/omani_proverbs.json",
+        "jsonPath": "$.omani[*]"
     },
     {
         "sourceFile": "./data/osage_proverbs.json",
