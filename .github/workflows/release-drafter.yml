@@ -1,0 +1,19 @@
+# https://github.com/marketplace/actions/release-drafter
+name: Release Drafter
+# The branches to listen for configuration updates to .github/release-drafter.yml and for merge commits.
+# Default is the repository’s default branch.
+on:
+  push:
+    branches:
+      - development
+
+jobs:
+  Drafter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Release Drafter
+        uses: release-drafter/release-drafter@v5.7.0
+        with:
+          config-name: ./.github/release-drafter.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}

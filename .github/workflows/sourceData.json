@@ -593,7 +593,7 @@
     },
     {
         "sourceFile": "./data/polish_proverbs.json",
-        "jsonPath": "$.polish_proverbs[*]"
+        "jsonPath": "$.polish[*]"
     },
     {
         "sourceFile": "./data/portuguese_proverbs.json",

@@ -1,0 +1,5 @@
+component_depth: 6
+default_excludes: true
+languages:
+  - javascript
+  - typescript
