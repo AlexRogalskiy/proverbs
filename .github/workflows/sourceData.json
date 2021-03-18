@@ -352,6 +352,10 @@
         "jsonPath": "$.greek[*]"
     },
     {
+        "sourceFile": "./data/guadeloupe_proverbs.json",
+        "jsonPath": "$.guadeloupe[*]"
+    },
+    {
         "sourceFile": "./data/guatemalan_proverbs.json",
         "jsonPath": "$.guatemalan[*]"
     },

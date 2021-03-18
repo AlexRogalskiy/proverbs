@@ -239,6 +239,7 @@ export enum LanguagePattern {
     thai = 'thai',
     burmese = 'burmese',
     greek = 'greek',
+    guadeloupe = 'guadeloupe',
     new_zelander = 'new_zelander',
     cuban = 'cuban',
     palestinian = 'palestinian',

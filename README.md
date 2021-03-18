@@ -36,6 +36,7 @@
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/proverbs)
 [![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/proverbs)](https://hitsofcode.com/github/AlexRogalskiy/proverbs/view)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][tags]
+![Website](https://img.shields.io/website?url=https://img.shields.io/website?url=https://styled-proverbs.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 
 [![CI](https://github.com/AlexRogalskiy/proverbs/workflows/test/badge.svg)](https://github.com/AlexRogalskiy/proverbs/workflows/test)
 [![GitHub Super-Linter](https://github.com/AlexRogalskiy/proverbs/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
@@ -195,6 +196,7 @@ Here is a list of languages supported by Proverb API:
 | **Ghanaian**                      | ghanaian                      |
 | **Goan**                          | goan                          |
 | **Greek**                         | greek                         |
+| **Guadeloupe**                    | guadeloupe                    |
 | **Guatemalan**                    | guatemalan                    |
 | **Guinean**                       | guinean                       |
 | **Guyanese**                      | guyanese                      |

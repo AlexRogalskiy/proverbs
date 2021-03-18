@@ -86,6 +86,7 @@ import * as germanProverbs from '../data/german_proverbs.json'
 import * as ghanaianProverbs from '../data/ghanaian_proverbs.json'
 import * as goanProverbs from '../data/goan_proverbs.json'
 import * as greekProverbs from '../data/greek_proverbs.json'
+import * as guadeloupeProverbs from '../data/guadeloupe_proverbs.json'
 import * as guatemalanProverbs from '../data/guatemalan_proverbs.json'
 import * as guineanProverbs from '../data/guinean_proverbs.json'
 import * as guyaneseProverbs from '../data/guyanese_proverbs.json'
@@ -316,6 +317,7 @@ const getProverbs = (): ProverbMapper =>
         ghanaianProverbs,
         goanProverbs,
         greekProverbs,
+        guadeloupeProverbs,
         guatemalanProverbs,
         guineanProverbs,
         guyaneseProverbs,
