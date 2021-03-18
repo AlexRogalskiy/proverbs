@@ -10,6 +10,7 @@ import * as antilleanProverbs from '../data/antillean_proverbs.json'
 import * as arabianProverbs from '../data/arabian_proverbs.json'
 import * as argentinianProverbs from '../data/argentinian_proverbs.json'
 import * as armenianProverbs from '../data/armenian_proverbs.json'
+import * as ashantiProverbs from '../data/ashanti_proverbs.json'
 import * as australianProverbs from '../data/australian_proverbs.json'
 import * as austrianProverbs from '../data/austrian_proverbs.json'
 import * as azerbaijaniProverbs from '../data/azerbaijani_proverbs.json'
@@ -26,10 +27,12 @@ import * as bembaProverbs from '../data/bemba_proverbs.json'
 import * as bengaliProverbs from '../data/bengali_proverbs.json'
 import * as benineseProverbs from '../data/beninese_proverbs.json'
 import * as berberProverbs from '../data/berber_proverbs.json'
+import * as bibleProverbs from '../data/bible_proverbs.json'
 import * as bolivianProverbs from '../data/bolivian_proverbs.json'
 import * as bosnianProverbs from '../data/bosnian_proverbs.json'
 import * as brazilianProverbs from '../data/brazilian_proverbs.json'
 import * as bretonProverbs from '../data/breton_proverbs.json'
+import * as bugundanProverbs from '../data/bugundan_proverbs.json'
 import * as bulgarianProverbs from '../data/bulgarian_proverbs.json'
 import * as burkinabeProverbs from '../data/burkinabe_proverbs.json'
 import * as burmeseProverbs from '../data/burmese_proverbs.json'
@@ -38,6 +41,7 @@ import * as byzantiumProverbs from '../data/byzantium_proverbs.json'
 import * as cambodianProverbs from '../data/cambodian_proverbs.json'
 import * as cameroonianProverbs from '../data/cameroonian_proverbs.json'
 import * as canadianProverbs from '../data/canadian_proverbs.json'
+import * as capeVerdeanProverbs from '../data/cape-verdean_proverbs.json'
 import * as catalanProverbs from '../data/catalan_proverbs.json'
 import * as chadianProverbs from '../data/chadian_proverbs.json'
 import * as chileanProverbs from '../data/chilean_proverbs.json'
@@ -46,6 +50,7 @@ import * as colombianProverbs from '../data/colombian_proverbs.json'
 import * as congoleseProverbs from '../data/congolese_proverbs.json'
 import * as corsicanProverbs from '../data/corsican_proverbs.json'
 import * as costaRikanProverbs from '../data/costa-rikan_proverbs.json'
+import * as creeProverbs from '../data/cree_proverbs.json'
 import * as creoleProverbs from '../data/creole_proverbs.json'
 import * as croatianProverbs from '../data/croatian_proverbs.json'
 import * as cubanProverbs from '../data/cuban_proverbs.json'
@@ -60,6 +65,7 @@ import * as eastAsianProverbs from '../data/east-asian_proverbs.json'
 import * as ecuadorianProverbs from '../data/ecuadorian_proverbs.json'
 import * as egyptianProverbs from '../data/egyptian_proverbs.json'
 import * as englishProverbs from '../data/english_proverbs.json'
+import * as eskimoProverbs from '../data/eskimo_proverbs.json'
 import * as estonianProverbs from '../data/estonian_proverbs.json'
 import * as ethiopianProverbs from '../data/ethiopian_proverbs.json'
 import * as fijianProverbs from '../data/fijian_proverbs.json'
@@ -104,6 +110,7 @@ import * as kanuriProverbs from '../data/kanuri_proverbs.json'
 import * as kashmiriProverbs from '../data/kashmiri_proverbs.json'
 import * as kenyanProverbs from '../data/kenyan_proverbs.json'
 import * as kikuyuProverbs from '../data/kikuyu_proverbs.json'
+import * as koranProverbs from '../data/koran_proverbs.json'
 import * as koreanProverbs from '../data/korean_proverbs.json'
 import * as kurdishProverbs from '../data/kurdish_proverbs.json'
 import * as kyrgyzstaniProverbs from '../data/kyrgyzstani_proverbs.json'
@@ -124,6 +131,7 @@ import * as malayProverbs from '../data/malay_proverbs.json'
 import * as malaysianProverbs from '../data/malaysian_proverbs.json'
 import * as malianProverbs from '../data/malian_proverbs.json'
 import * as malteseProverbs from '../data/maltese_proverbs.json'
+import * as maoriProverbs from '../data/maori_proverbs.json'
 import * as martiniquaisProverbs from '../data/martiniquais_proverbs.json'
 import * as massaiProverbs from '../data/massai_proverbs.json'
 import * as mauritanianProverbs from '../data/mauritanian_proverbs.json'
@@ -142,6 +150,7 @@ import * as newZelanderProverbs from '../data/new-zelander_proverbs.json'
 import * as nicaraguanProverbs from '../data/nicaraguan_proverbs.json'
 import * as nigerianProverbs from '../data/nigerian_proverbs.json'
 import * as norwegianProverbs from '../data/norwegian_proverbs.json'
+import * as osageProverbs from '../data/osage_proverbs.json'
 import * as palestinianProverbs from '../data/palestinian_proverbs.json'
 import * as persianProverbs from '../data/persian_proverbs.json'
 import * as peruvianProverbs from '../data/peruvian_proverbs.json'
@@ -160,14 +169,16 @@ import * as senegaleseProverbs from '../data/senegalese_proverbs.json'
 import * as serbianProverbs from '../data/serbian_proverbs.json'
 import * as sicilianProverbs from '../data/sicilian_proverbs.json'
 import * as sierraLeoneanProverbs from '../data/sierra-leonean_proverbs.json'
+import * as singaporeanProverbs from '../data/singaporean_proverbs.json'
 import * as slovakianProverbs from '../data/slovakian_proverbs.json'
 import * as slovenianProverbs from '../data/slovenian_proverbs.json'
 import * as solomonIslanderProverbs from '../data/solomon-islander_proverbs.json'
-import * as somaliaProverbs from '../data/somalia_proverbs.json'
+import * as somaliProverbs from '../data/somali_proverbs.json'
 import * as southAfricanProverbs from '../data/south-african_proverbs.json'
 import * as spanishProverbs from '../data/spanish_proverbs.json'
 import * as sriLankanProverbs from '../data/sri-lankan_proverbs.json'
 import * as sudaneseProverbs from '../data/sudanese_proverbs.json'
+import * as sumerianProverbs from '../data/sumerian_proverbs.json'
 import * as surinameseProverbs from '../data/surinamese_proverbs.json'
 import * as swahiliProverbs from '../data/swahili_proverbs.json'
 import * as swedishProverbs from '../data/swedish_proverbs.json'
@@ -175,6 +186,7 @@ import * as swissProverbs from '../data/swiss_proverbs.json'
 import * as syrianProverbs from '../data/syrian_proverbs.json'
 import * as taiwaneseProverbs from '../data/taiwanese_proverbs.json'
 import * as tajikistaniProverbs from '../data/tajikistani_proverbs.json'
+import * as talmudProverbs from '../data/talmud_proverbs.json'
 import * as tamilanProverbs from '../data/tamilan_proverbs.json'
 import * as tanzanianProverbs from '../data/tanzanian_proverbs.json'
 import * as thaiProverbs from '../data/thai_proverbs.json'
@@ -195,6 +207,7 @@ import * as virginIslanderProverbs from '../data/virgin-islander_proverbs.json'
 import * as walloonProverbs from '../data/walloon_proverbs.json'
 import * as welshProverbs from '../data/welsh_proverbs.json'
 import * as westAfricanProverbs from '../data/west-african_proverbs.json'
+import * as wolofProverbs from '../data/wolof_proverbs.json'
 import * as yemeniProverbs from '../data/yemeni_proverbs.json'
 import * as yiddishProverbs from '../data/yiddish_proverbs.json'
 import * as yorubaProverbs from '../data/yoruba_proverbs.json'
@@ -222,6 +235,7 @@ const getProverbs = (): ProverbMapper =>
         arabianProverbs,
         argentinianProverbs,
         armenianProverbs,
+        ashantiProverbs,
         australianProverbs,
         austrianProverbs,
         azerbaijaniProverbs,
@@ -238,10 +252,12 @@ const getProverbs = (): ProverbMapper =>
         bengaliProverbs,
         benineseProverbs,
         berberProverbs,
+        bibleProverbs,
         bolivianProverbs,
         bosnianProverbs,
         brazilianProverbs,
         bretonProverbs,
+        bugundanProverbs,
         bulgarianProverbs,
         burkinabeProverbs,
         burmeseProverbs,
@@ -250,6 +266,7 @@ const getProverbs = (): ProverbMapper =>
         cambodianProverbs,
         cameroonianProverbs,
         canadianProverbs,
+        capeVerdeanProverbs,
         catalanProverbs,
         chadianProverbs,
         chileanProverbs,
@@ -258,6 +275,7 @@ const getProverbs = (): ProverbMapper =>
         congoleseProverbs,
         corsicanProverbs,
         costaRikanProverbs,
+        creeProverbs,
         creoleProverbs,
         croatianProverbs,
         cubanProverbs,
@@ -272,6 +290,7 @@ const getProverbs = (): ProverbMapper =>
         ecuadorianProverbs,
         egyptianProverbs,
         englishProverbs,
+        eskimoProverbs,
         estonianProverbs,
         ethiopianProverbs,
         fijianProverbs,
@@ -316,6 +335,7 @@ const getProverbs = (): ProverbMapper =>
         kashmiriProverbs,
         kenyanProverbs,
         kikuyuProverbs,
+        koranProverbs,
         koreanProverbs,
         kurdishProverbs,
         kyrgyzstaniProverbs,
@@ -336,6 +356,7 @@ const getProverbs = (): ProverbMapper =>
         malaysianProverbs,
         malianProverbs,
         malteseProverbs,
+        maoriProverbs,
         martiniquaisProverbs,
         massaiProverbs,
         mauritanianProverbs,
@@ -354,6 +375,7 @@ const getProverbs = (): ProverbMapper =>
         nicaraguanProverbs,
         nigerianProverbs,
         norwegianProverbs,
+        osageProverbs,
         palestinianProverbs,
         persianProverbs,
         peruvianProverbs,
@@ -372,14 +394,16 @@ const getProverbs = (): ProverbMapper =>
         serbianProverbs,
         sicilianProverbs,
         sierraLeoneanProverbs,
+        singaporeanProverbs,
         slovakianProverbs,
         slovenianProverbs,
         solomonIslanderProverbs,
-        somaliaProverbs,
+        somaliProverbs,
         southAfricanProverbs,
         spanishProverbs,
         sriLankanProverbs,
         sudaneseProverbs,
+        sumerianProverbs,
         surinameseProverbs,
         swahiliProverbs,
         swedishProverbs,
@@ -387,6 +411,7 @@ const getProverbs = (): ProverbMapper =>
         syrianProverbs,
         taiwaneseProverbs,
         tajikistaniProverbs,
+        talmudProverbs,
         tamilanProverbs,
         tanzanianProverbs,
         thaiProverbs,
@@ -407,6 +432,7 @@ const getProverbs = (): ProverbMapper =>
         walloonProverbs,
         welshProverbs,
         westAfricanProverbs,
+        wolofProverbs,
         yemeniProverbs,
         yiddishProverbs,
         yorubaProverbs,

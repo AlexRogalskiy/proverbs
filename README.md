@@ -119,6 +119,7 @@ Here is a list of languages supported by Proverb API:
 | **Arabian**                       | arabian                       |
 | **Argentinian**                   | argentinian                   |
 | **Armenian**                      | armenian                      |
+| **Ashanti**                       | ashanti                       |
 | **Australian**                    | australian                    |
 | **Austrian**                      | austrian                      |
 | **Azerbaijani**                   | azerbaijani                   |
@@ -135,10 +136,12 @@ Here is a list of languages supported by Proverb API:
 | **Bengali**                       | bengali                       |
 | **Beninese**                      | beninese                      |
 | **Berber**                        | berber                        |
+| **Bible**                         | bible                         |
 | **Bolivian**                      | bolivian                      |
 | **Bosnian**                       | bosnian                       |
 | **Brazilian**                     | brazilian                     |
 | **Breton**                        | breton                        |
+| **Bugundan**                      | bugundan                      |
 | **Bulgarian**                     | bulgarian                     |
 | **Burkinabe**                     | burkinabe                     |
 | **Burmese**                       | burmese                       |
@@ -147,6 +150,7 @@ Here is a list of languages supported by Proverb API:
 | **Cambodian**                     | cambodian                     |
 | **Cameroonian**                   | cameroonian                   |
 | **Canadian**                      | canadian                      |
+| **Cape Verdian**                  | cape_verdian                  |
 | **Catalan**                       | catalan                       |
 | **Chadian**                       | chadian                       |
 | **Chilean**                       | chilean                       |
@@ -155,6 +159,7 @@ Here is a list of languages supported by Proverb API:
 | **Congolese**                     | congolese                     | 
 | **Corsican**                      | corsican                      |
 | **Costa Rikan**                   | costa_rikan                   |
+| **Cree**                          | cree                          |
 | **Creole**                        | creole                        |
 | **Croatian**                      | croatian                      |
 | **Cuban**                         | cuban                         |
@@ -169,6 +174,7 @@ Here is a list of languages supported by Proverb API:
 | **Ecuadorian**                    | ecuadorian                    |
 | **Egyptian**                      | egyptian                      |
 | **English**                       | english                       |
+| **Eskimo**                        | eskimo                        |
 | **Estonian**                      | estonian                      |
 | **Ethiopian**                     | ethiopian                     |
 | **Fijian**                        | fijian                        |
@@ -213,6 +219,7 @@ Here is a list of languages supported by Proverb API:
 | **Kashmiri**                      | kashmiri                      | 
 | **Kenyan**                        | kenyan                        |
 | **Kikuyu**                        | kikuyu                        |
+| **Koran**                         | koran                         |
 | **Korean**                        | korean                        |
 | **Kurdish**                       | kurdish                       |
 | **Kyrgyzstani**                   | kyrgyzstani                   |
@@ -233,6 +240,7 @@ Here is a list of languages supported by Proverb API:
 | **Malaysian**                     | malaysian                     |
 | **Malian**                        | malian                        |
 | **Maltese**                       | maltese                       |
+| **Maori**                         | maori                         |
 | **Martiniquais**                  | martiniquais                  |
 | **Massai**                        | massai                        |
 | **Mauritanian**                   | mauritanian                   |
@@ -251,7 +259,8 @@ Here is a list of languages supported by Proverb API:
 | **Nicaraguan**                    | nicaraguan                    |
 | **Nigerian**                      | nigerian                      |
 | **Norwegian**                     | norwegian                     |
-| **Somalia**                       | somalia                       |
+| **Osage**                         | osage                         |
+| **Somali**                        | somali                        |
 | **Palestinian**                   | palestinian                   |
 | **Panamanian**                    | panamanian                    |
 | **Persian**                       | persian                       |
@@ -271,6 +280,7 @@ Here is a list of languages supported by Proverb API:
 | **Serbian**                       | serbian                       |
 | **Sicilian**                      | sicilian                      |
 | **Sierra Leonean**                | sierra_leonean                |
+| **Singaporean**                   | singaporean                   |
 | **Sinhalese**                     | sinhalese                     |
 | **Slovakian**                     | slovakian                     |
 | **Slovenian**                     | slovenian                     |
@@ -279,6 +289,7 @@ Here is a list of languages supported by Proverb API:
 | **Spanish**                       | spanish                       |
 | **Sri Lankan**                    | sri_lankan                    |
 | **Sudanese**                      | sudanese                      |
+| **Sumerian**                      | sumerian                      |
 | **Surinamese**                    | surinamese                    |
 | **Swahili**                       | swahili                       |
 | **Swedish**                       | swedish                       |
@@ -286,6 +297,7 @@ Here is a list of languages supported by Proverb API:
 | **Syrian**                        | syrian                        |
 | **Taiwanese**                     | taiwanese                     |
 | **Tajikistani**                   | tajikistani                   |
+| **Talmud**                        | talmud                        |
 | **Tamilan**                       | tamilan                       |
 | **Tanzanian**                     | tanzanian                     |
 | **Thai**                          | thai                          |
@@ -305,6 +317,7 @@ Here is a list of languages supported by Proverb API:
 | **Walloon**                       | walloon                       |
 | **Welsh**                         | welsh                         |
 | **West African**                  | west_african                  |
+| **Wolof**                         | wolof                         |
 | **Yemeni**                        | yemeni                        |
 | **Yiddish**                       | yiddish                       |
 | **Yoruba**                        | yoruba                        |

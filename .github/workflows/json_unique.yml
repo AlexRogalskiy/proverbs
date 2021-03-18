@@ -349,7 +349,7 @@ jobs:
             property: '$.slovenian[*]'
           - file: solomon-islander_proverbs.json
             property: '$.solomon-islander[*]'
-          - file: somalia_proverbs.json
+          - file: somali_proverbs.json
             property: '$.somalia[*]'
           - file: south-african_proverbs.json
             property: '$.south-african[*]'

@@ -48,6 +48,10 @@
         "jsonPath": "$.armenian[*]"
     },
     {
+        "sourceFile": "./data/ashanti_proverbs.json",
+        "jsonPath": "$.ashanti[*]"
+    },
+    {
         "sourceFile": "./data/australian_proverbs.json",
         "jsonPath": "$.australian[*]"
     },
@@ -112,6 +116,10 @@
         "jsonPath": "$.berber[*]"
     },
     {
+        "sourceFile": "./data/bible_proverbs.json",
+        "jsonPath": "$.bible[*]"
+    },
+    {
         "sourceFile": "./data/bolivian_proverbs.json",
         "jsonPath": "$.bolivian[*]"
     },
@@ -126,6 +134,10 @@
     {
         "sourceFile": "./data/breton_proverbs.json",
         "jsonPath": "$.breton[*]"
+    },
+    {
+        "sourceFile": "./data/bugundan_proverbs.json",
+        "jsonPath": "$.bugundan[*]"
     },
     {
         "sourceFile": "./data/bulgarian_proverbs.json",
@@ -160,6 +172,10 @@
         "jsonPath": "$.canadian[*]"
     },
     {
+        "sourceFile": "./data/cape-verdian_proverbs.json",
+        "jsonPath": "$.cape_verdian[*]"
+    },
+    {
         "sourceFile": "./data/catalan_proverbs.json",
         "jsonPath": "$.catalan[*]"
     },
@@ -190,6 +206,10 @@
     {
         "sourceFile": "./data/costa-rikan_proverbs.json",
         "jsonPath": "$.costa_rikan[*]"
+    },
+    {
+        "sourceFile": "./data/cree_proverbs.json",
+        "jsonPath": "$.cree[*]"
     },
     {
         "sourceFile": "./data/creole_proverbs.json",
@@ -246,6 +266,10 @@
     {
         "sourceFile": "./data/english_proverbs.json",
         "jsonPath": "$.english[*]"
+    },
+    {
+        "sourceFile": "./data/eskimo_proverbs.json",
+        "jsonPath": "$.eskimo[*]"
     },
     {
         "sourceFile": "./data/estonian_proverbs.json",
@@ -424,6 +448,10 @@
         "jsonPath": "$.kikuyu[*]"
     },
     {
+        "sourceFile": "./data/koran_proverbs.json",
+        "jsonPath": "$.koran[*]"
+    },
+    {
         "sourceFile": "./data/korean_proverbs.json",
         "jsonPath": "$.korean[*]"
     },
@@ -500,6 +528,10 @@
         "jsonPath": "$.maltese[*]"
     },
     {
+        "sourceFile": "./data/maori_proverbs.json",
+        "jsonPath": "$.maori[*]"
+    },
+    {
         "sourceFile": "./data/martiniquais_proverbs.json",
         "jsonPath": "$.martiniquais[*]"
     },
@@ -570,6 +602,10 @@
     {
         "sourceFile": "./data/norwegian_proverbs.json",
         "jsonPath": "$.norwegian[*]"
+    },
+    {
+        "sourceFile": "./data/osage_proverbs.json",
+        "jsonPath": "$.osage[*]"
     },
     {
         "sourceFile": "./data/palestinian_proverbs.json",
@@ -648,6 +684,10 @@
         "jsonPath": "$.sierra_leonean[*]"
     },
     {
+        "sourceFile": "./data/singaporean_proverbs.json",
+        "jsonPath": "$.singaporean[*]"
+    },
+    {
         "sourceFile": "./data/sinhalese_proverbs.json",
         "jsonPath": "$.sinhalese[*]"
     },
@@ -664,8 +704,8 @@
         "jsonPath": "$.solomon_islander[*]"
     },
     {
-        "sourceFile": "./data/somalia_proverbs.json",
-        "jsonPath": "$.somalia[*]"
+        "sourceFile": "./data/somali_proverbs.json",
+        "jsonPath": "$.somali[*]"
     },
     {
         "sourceFile": "./data/south-african_proverbs.json",
@@ -682,6 +722,10 @@
     {
         "sourceFile": "./data/sudanese_proverbs.json",
         "jsonPath": "$.sudanese[*]"
+    },
+    {
+        "sourceFile": "./data/sumerian_proverbs.json",
+        "jsonPath": "$.sumerian[*]"
     },
     {
         "sourceFile": "./data/surinamese_proverbs.json",
@@ -710,6 +754,10 @@
     {
         "sourceFile": "./data/tajikistani_proverbs.json",
         "jsonPath": "$.tajikistani[*]"
+    },
+    {
+        "sourceFile": "./data/talmud_proverbs.json",
+        "jsonPath": "$.talmud[*]"
     },
     {
         "sourceFile": "./data/tamilan_proverbs.json",
@@ -790,6 +838,10 @@
     {
         "sourceFile": "./data/west-african_proverbs.json",
         "jsonPath": "$.west_african[*]"
+    },
+    {
+        "sourceFile": "./data/wolof_proverbs.json",
+        "jsonPath": "$.wolof[*]"
     },
     {
         "sourceFile": "./data/yemeni_proverbs.json",
