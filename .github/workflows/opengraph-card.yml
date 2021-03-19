@@ -44,7 +44,7 @@ jobs:
           mkdir -p images
           echo "$full_path"
 
-          wget "$full_path" --no-check-certificate -O ./images/opengraph-card.svg
+          wget "$full_path" --no-check-certificate --quiet -O ./images/opengraph-card.svg
         shell: bash
 
       - name: Commit update
