@@ -16,14 +16,32 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1
 
-      - name: Process JSON fields
+      - id: file_changes
+        uses: trilom/file-changes-action@v1.2.3
+        with:
+          output: ','
+          fileOutput: ','
+
+      - name: Changed files
+        run: |
+          echo 'Files: ${{ steps.file_changes.outputs.files}}'
+          echo 'Files modified: ${{ steps.file_changes.outputs.files_modified}}'
+          echo 'Files added: ${{ steps.file_changes.outputs.files_added}}'
+          echo 'Files removed: ${{ steps.file_changes.outputs.files_removed}}'
+
+      - name: Generate JSON changelog
+        id: generate_json
+        run: node ./sourceData.js ${{ steps.file_changes.outputs.files }}
+
+      - name: Process JSON changelog fields
         uses: alexrogalskiy/github-action-json-fields@master
         id: process_json
         env:
+          target_file: /temp/sourceData.json
           target_path: ./data
           fields: 'text'
         with:
-          sourceData: .github/workflows/sourceData.json
+          sourceData: "${{ env.target_file }}"
           mode: 'unique'
           jsonFields: "${{ env.fields }}"
           targetPath: "${{ env.target_path }}"
