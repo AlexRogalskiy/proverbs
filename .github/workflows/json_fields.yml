@@ -36,7 +36,7 @@ jobs:
         uses: alexrogalskiy/github-action-json-fields@master
         id: process_json
         env:
-          target_file: "$TMPDIR/sourceData.json"
+          target_file: "${{ runner.temp }}/sourceData.json"
           target_path: ./data
           fields: 'text'
         with:

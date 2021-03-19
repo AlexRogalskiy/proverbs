@@ -1,9 +1,8 @@
 const fs = require('fs');
 const path = require('path');
-const os = require('os');
 
 const sourceFile = path.resolve(path.dirname(__filename), 'sourceData.json');
-const targetFile = path.resolve(os.tmpdir(), 'sourceData.json');
+const targetFile = path.resolve(process.env['RUNNER_TEMP'], 'sourceData.json');
 
 function run(args) {
     const changeSet = args[0];
