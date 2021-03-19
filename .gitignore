@@ -31,12 +31,9 @@ build/*
 packages/
 coverage/
 target/
-images/
 log/
 site/
 dist/
 .cache
 node_modules
-.vercel
-
 .vercel
