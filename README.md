@@ -494,6 +494,22 @@ See also the list of [contributors][contributors] who participated in this proje
 
 [![issuehunt-to-marktext](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/r/AlexRogalskiy/proverbs)
 
+## _Team Tools_
+
+[![alt tag](http://pylonsproject.org/img/logo-jetbrains.png)](https://www.jetbrains.com/)
+
+_**Styled Proverbs**_ Team would like inform that JetBrains is helping by provided IDE to develop the application. Thanks to its support program for an Open Source projects!
+
+[![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/AlexRogalskiy/proverbs)
+
+_**Styled Proverbs**_ has experimental support for Gitpod, a pre-configured development environment that runs in your browser. To use Gitpod, click the button below and sign in with GitHub. Gitpod also offers a browser add-on, though it is not required.
+
+## _OpenGraph Card_
+
+<p align="center" style="text-align:center;">
+    <img alt="OpenGraph card" src="https://raw.githubusercontent.com/AlexRogalskiy/proverbs/master/images/opengraph-card.png"/>
+</p>
+
 ## _Development Support_
 
 Like _**Styled Proverbs**_ ? Consider buying me a coffee :\)

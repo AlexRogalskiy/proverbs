@@ -1,3 +1,15 @@
-*.json
+*.log
+*.DS_Store
+*.md
+
+.github
+.dependabot
+.idea
+.vscode
+
 node_modules
+flow-typed
 coverage
+dist
+data
+docs

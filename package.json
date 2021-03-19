@@ -24,8 +24,8 @@
         "setup": "yarn",
         "semantic-release": "semantic-release",
         "test": "env-cmd --silent -e test jest",
-        "test:coverage": "jest --collectCoverage",
-        "test:watch": "jest --watch",
+        "test:coverage": "env-cmd --silent -e test jest --collectCoverage --detectOpenHandles",
+        "test:watch": "env-cmd --silent -e test jest --watch",
         "test:all": "npm run test",
         "all": "npm run format && npm run lint"
     },
@@ -86,6 +86,7 @@
         "node": ">= 12.x"
     },
     "keywords": [
+        "proverbs",
         "vercel",
         "serverless functions",
         "typescript"
