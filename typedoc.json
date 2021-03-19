@@ -1,0 +1,16 @@
+{
+    "entryPoints": [
+        "./api",
+        "./utils",
+        "./typings"
+    ],
+    "externalPattern": [
+        "./data/**/*.json"
+    ],
+    "exclude": [
+        "**/*+(.spec|.e2e).ts"
+    ],
+    "excludeExternals": true,
+    "highlightTheme": "dark-plus",
+    "out": "docs"
+}
