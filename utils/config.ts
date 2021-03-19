@@ -1,4 +1,6 @@
-import { ConfigOptions } from '../typings/types'
+import { Profile, ProfileOptions } from '../typings/types'
+
+export type ConfigOptions = Record<Profile, ProfileOptions>
 
 export const CONFIG: Readonly<ConfigOptions> = {
     dev: {
@@ -13,7 +15,7 @@ export const CONFIG: Readonly<ConfigOptions> = {
             height: '100%',
         },
         indexOptions: {
-            delimiter: '_',
+            delimiter: '__',
             path: '.cache',
             name: 'lunr-index.json',
         },

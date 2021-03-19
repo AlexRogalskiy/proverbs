@@ -41,7 +41,9 @@ jobs:
             full_path="${full_path}&heights=$i"
           done
 
+          mkdir -p images
           echo "$full_path"
+
           curl "$full_path" > ./images/opengraph-card.png
         shell: bash
 

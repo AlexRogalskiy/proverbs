@@ -1,14 +1,9 @@
-import {
-    ColorOptions,
-    ImageOptions,
-    LanguagePattern,
-    Optional,
-    ParsedRequest,
-    ProverbData,
-} from '../typings/types'
+import { ColorOptions, ImageOptions, LanguagePattern, ParsedRequest, ProverbData } from '../typings/types'
 import gradient from 'gradient-string'
 import randomColor from 'randomcolor'
 import _ from 'lodash'
+
+import { Optional } from '../typings/standard-types'
 
 import { delim, isBlankString, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
 import { css } from './getCss'

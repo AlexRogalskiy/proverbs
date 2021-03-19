@@ -225,7 +225,9 @@ import * as zimbabweanProverbs from '../data/zimbabwean_proverbs.json'
 import * as zuluProverbs from '../data/zulu_proverbs.json'
 
 import { mergeProps } from './commons'
-import { ProverbMapper } from '../typings/types'
+import { LanguagePattern, ProverbData } from '../typings/types'
+
+export type ProverbMapper = Record<LanguagePattern, ProverbData[]>
 
 const getProverbs = (): ProverbMapper =>
     mergeProps<ProverbMapper>(
