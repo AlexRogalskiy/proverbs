@@ -1,7 +1,6 @@
 name: Process JSON fields
 
 on:
-  workflow_dispatch:
   push:
     paths:
       - 'data/**.json'
@@ -31,7 +30,7 @@ jobs:
 
       - name: Generate JSON changelog
         id: generate_json
-        run: node ./.github/workflows/sourceData.js ${{ steps.file_changes.outputs.files }}
+        run: node ./.github/workflows/sourceData.js "${{ steps.file_changes.outputs.files }}"
 
       - name: Process JSON changelog fields
         uses: alexrogalskiy/github-action-json-fields@master
