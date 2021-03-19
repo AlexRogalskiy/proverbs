@@ -59,6 +59,8 @@
       * [<em>Acknowledgement</em>](#acknowledgement)
       * [<em>Forks</em>](#forks)
       * [<em>Issues</em>](#issues)
+      * [<em>Team Tools</em>](#team-tools)
+      * [<em>OpenGraph Card</em>](#opengraph-card)
       * [<em>Development Support</em>](#development-support)
 <!--te-->
 
