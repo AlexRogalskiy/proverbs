@@ -834,7 +834,7 @@
     {
         "sourceFile": "./data/ugandan_proverbs.json",
         "jsonPath": "$.ugandan[*]"
-    },,
+    },
     {
         "sourceFile": "./data/uighur_proverbs.json",
         "jsonPath": "$.uighur[*]"
