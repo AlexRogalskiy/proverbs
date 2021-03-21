@@ -139,6 +139,7 @@ Here is a list of languages supported by Proverb API:
 | **Bengali**                       | bengali                       |
 | **Beninese**                      | beninese                      |
 | **Berber**                        | berber                        |
+| **Bhutanese**                     | bhutanese                     |
 | **Bible**                         | bible                         |
 | **Bolivian**                      | bolivian                      |
 | **Bosnian**                       | bosnian                       |
@@ -208,7 +209,6 @@ Here is a list of languages supported by Proverb API:
 | **Hawaiian**                      | hawaiian                      |
 | **Hebrew**                        | hebrew                        |
 | **Hindu**                         | hindu                         |
-| **Hindustani**                    | hindustani                    |
 | **Hungarian**                     | hungarian                     |
 | **Icelandic**                     | icelandic                     |
 | **Indian**                        | indian                        |
@@ -281,6 +281,7 @@ Here is a list of languages supported by Proverb API:
 | **Romanian**                      | romanian                      |
 | **Russian**                       | russian                       |
 | **Rwandan**                       | rwandan                       |
+| **Salvadorian**                   | salvadorian                   |
 | **Samoan**                        | samoan                        |
 | **Sanskrit**                      | sanskrit                      |
 | **Sardinian**                     | sardinian                     |
@@ -312,12 +313,14 @@ Here is a list of languages supported by Proverb API:
 | **Thai**                          | thai                          |
 | **Tibetan**                       | tibetan                       |
 | **Togolese**                      | togolese                      |
+| **Tongan**                        | tongan                        |
 | **Trinidadian**                   | trinidadian                   |
 | **Tuareg**                        | tuareg                        |
 | **Tunisian**                      | tunisian                      |
 | **Turkish**                       | turkish                       |
 | **Tuscarora**                     | tuscarora                     |
 | **Ugandan**                       | ugandan                       |
+| **Uighur**                        | uighur                        |
 | **Uruguayan**                     | uruguayan                     |
 | **Venezuelan**                    | venezuelan                    |
 | **Vermont**                       | vermont                       |
@@ -329,7 +332,6 @@ Here is a list of languages supported by Proverb API:
 | **Wolof**                         | wolof                         |
 | **Yemeni**                        | yemeni                        |
 | **Yiddish**                       | yiddish                       |
-| **Yoruba**                        | yoruba                        |
 | **Yugoslavian**                   | yugoslavian                   |
 | **Zambian**                       | zambian                       |
 | **Zanzibar**                      | zanzibar                      |

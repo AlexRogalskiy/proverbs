@@ -116,6 +116,10 @@
         "jsonPath": "$.berber[*]"
     },
     {
+        "sourceFile": "./data/bhutanese_proverbs.json",
+        "jsonPath": "$.bhutanese[*]"
+    },
+    {
         "sourceFile": "./data/bible_proverbs.json",
         "jsonPath": "$.bible[*]"
     },
@@ -390,10 +394,6 @@
     {
         "sourceFile": "./data/hindu_proverbs.json",
         "jsonPath": "$.hindu[*]"
-    },
-    {
-        "sourceFile": "./data/hindustani_proverbs.json",
-        "jsonPath": "$.hindustani[*]"
     },
     {
         "sourceFile": "./data/hungarian_proverbs.json",
@@ -676,6 +676,10 @@
         "jsonPath": "$.rwandan[*]"
     },
     {
+        "sourceFile": "./data/salvadorian_proverbs.json",
+        "jsonPath": "$.salvadorian[*]"
+    },
+    {
         "sourceFile": "./data/samoan_proverbs.json",
         "jsonPath": "$.samoan[*]"
     },
@@ -804,6 +808,10 @@
         "jsonPath": "$.togolese[*]"
     },
     {
+        "sourceFile": "./data/tongan_proverbs.json",
+        "jsonPath": "$.tongan[*]"
+    },
+    {
         "sourceFile": "./data/trinidadian_proverbs.json",
         "jsonPath": "$.trinidadian[*]"
     },
@@ -826,6 +834,10 @@
     {
         "sourceFile": "./data/ugandan_proverbs.json",
         "jsonPath": "$.ugandan[*]"
+    },,
+    {
+        "sourceFile": "./data/uighur_proverbs.json",
+        "jsonPath": "$.uighur[*]"
     },
     {
         "sourceFile": "./data/ukrainian_proverbs.json",
@@ -874,10 +886,6 @@
     {
         "sourceFile": "./data/yiddish_proverbs.json",
         "jsonPath": "$.yiddish[*]"
-    },
-    {
-        "sourceFile": "./data/yoruba_proverbs.json",
-        "jsonPath": "$.yoruba[*]"
     },
     {
         "sourceFile": "./data/yugoslavian_proverbs.json",
