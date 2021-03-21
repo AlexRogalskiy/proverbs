@@ -143,6 +143,7 @@ Here is a list of languages supported by Proverb API:
 | **Bible**                         | bible                         |
 | **Bolivian**                      | bolivian                      |
 | **Bosnian**                       | bosnian                       |
+| **Botswana**                      | botswana                      |
 | **Brazilian**                     | brazilian                     |
 | **Breton**                        | breton                        |
 | **Bugundan**                      | bugundan                      |
@@ -237,6 +238,7 @@ Here is a list of languages supported by Proverb API:
 | **Latin**                         | latin                         |
 | **Latvian**                       | latvian                       |
 | **Lebanese**                      | lebanese                      |
+| **Lesotho**                       | lesotho                       |
 | **Liberian**                      | liberian                      |
 | **Libyan**                        | libyan                        |
 | **Lithuanian**                    | lithuanian                    |

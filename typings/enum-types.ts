@@ -282,6 +282,7 @@ export enum LanguagePattern {
     chadian = 'chadian',
     syrian = 'syrian',
     bosnian = 'bosnian',
+    botswana = 'botswana',
     hindu = 'hindu',
     malian = 'malian',
     vermont = 'vermont',
@@ -323,5 +324,6 @@ export enum LanguagePattern {
     hungarian = 'hungarian',
     macedonian = 'macedonian',
     lebanese = 'lebanese',
+    lesotho = 'lesotho',
     samoan = 'samoan',
 }

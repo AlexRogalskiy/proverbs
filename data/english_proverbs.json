@@ -11,6 +11,16 @@
             "category": "english"
         },
         {
+            "text": "You made your bed, now you have to lie in it.",
+            "description": "No one likes sleeping in a poorly made bed. If you make your bed with the sheets all tangled and blankets facing the wrong way, you can’t switch with someone else. You have to sleep in that bed. This proverb uses bed-making to describe any bad situation in which you may find yourself. You can’t trade places with anyone else. You must live with the results of your actions, so make good choices.",
+            "category": "english"
+        },
+        {
+            "text": "My hands are tied.",
+            "description": "You say this proverb when you can’t do what you would like to do.",
+            "category": "english"
+        },
+        {
             "text": "A bad settlement is better than a good lawsuit.",
             "description": "",
             "category": "english"
@@ -987,7 +997,7 @@
         },
         {
             "text": "A rolling stone gathers no moss.",
-            "description": "",
+            "description": "Only a stone that is in the same place for a long time will have moss growing on it. A stone on the move will remain bare. The same is true with people.",
             "category": "english"
         },
         {
@@ -1257,7 +1267,7 @@
         },
         {
             "text": "Actions speak louder than words.",
-            "description": "",
+            "description": "The Greek philosopher Plato once said that action is character. People are not defined by what they say because a lot of talk does not mean anything. People are judged by the things they do. Your actions are more important than what you say.",
             "category": "english"
         },
         {
@@ -1627,12 +1637,12 @@
         },
         {
             "text": "An apple a day keeps the doctor away",
-            "description": "",
+            "description": "An apple is full of Vitamin C, which keeps you healthy. However, the “apple” in this proverb means eating healthy in general. If you eat well and your diet includes a lot of fruits and vegetables, there will be no need to visit the doctor.",
             "category": "english"
         },
         {
             "text": "An apple a day keeps the doctor away–if you have good aim.",
-            "description": "",
+            "description": "An apple is full of Vitamin C, which keeps you healthy. However, the “apple” in this proverb means eating healthy in general. If you eat well and your diet includes a lot of fruits and vegetables, there will be no need to visit the doctor.",
             "category": "english"
         },
         {
@@ -1847,7 +1857,7 @@
         },
         {
             "text": "Apple a day keeps the doctor away.",
-            "description": "",
+            "description": "An apple is full of Vitamin C, which keeps you healthy. However, the “apple” in this proverb means eating healthy in general. If you eat well and your diet includes a lot of fruits and vegetables, there will be no need to visit the doctor.",
             "category": "english"
         },
         {
@@ -2137,7 +2147,7 @@
         },
         {
             "text": "Beggars can’t be choosers.",
-            "description": "",
+            "description": "If someone gives you free things or offers to help you do something, you can’t ask for a different color or choose the perfect time in your schedule. When you receive free help or goods, you should accept what you’re offered—you can’t be picky (a “chooser”) because you’re not paying!",
             "category": "english"
         },
         {
@@ -2262,7 +2272,7 @@
         },
         {
             "text": "Better late than never.",
-            "description": "",
+            "description": "While being the early bird is the best, even latecomers may get something for coming. It would be a lot worse if they never came at all. This proverb is said about ending fights with people. It’s better to apologize and make up years later, than to never resolve your fight at all.",
             "category": "english"
         },
         {
@@ -2302,7 +2312,7 @@
         },
         {
             "text": "Better to be safe than sorry.",
-            "description": "",
+            "description": "Do everything possible to keep bad things from happening to you. It only takes a second to put on a seatbelt or to check that you locked the door. But if you’re not safe, the bad results can last a lifetime. So it’s best for you to be careful, otherwise you’ll be sorry.",
             "category": "english"
         },
         {
@@ -2847,7 +2857,7 @@
         },
         {
             "text": "Close but no cigar.",
-            "description": "",
+            "description": "In the old days, fairgrounds would give cigars as prizes for games. The phrase “close but no cigar” means that you were close to succeeding in the game, but you didn’t win the cigar. As a proverb it means that even though you did your best or almost had it right, you weren’t completely correct.",
             "category": "english"
         },
         {
@@ -3022,12 +3032,12 @@
         },
         {
             "text": "Curiosity killed the cat.",
-            "description": "",
+            "description": "This proverb is often used to stop someone from asking too many questions.",
             "category": "english"
         },
         {
             "text": "Curiosity killed the cat. Satisfaction brought it back, that’s why the cat has nine lives.",
-            "description": "",
+            "description": "This proverb is often used to stop someone from asking too many questions.",
             "category": "english"
         },
         {
@@ -3387,12 +3397,12 @@
         },
         {
             "text": "Don’t bite off more than you can chew.",
-            "description": "",
+            "description": "If you take a bite of food that’s too big, you won’t be able to chew! Plus you could choke on all of that extra food. It’s the same if you take on more work or responsibility than you can handle—you will have a difficult time. So it’s best not to get involved in too many projects, because you won’t be able to focus and get them all done well.",
             "category": "english"
         },
         {
             "text": "Don’t bite the hand that feeds you.",
-            "description": "",
+            "description": "This proverb warns against acting mean to those who provide for you or who do nice things for you. If you were to bite the hand that gave you food, that hand probably won’t come back to feed you again. Then what would you eat? So you should be kind and thankful to those who care for you.",
             "category": "english"
         },
         {
@@ -3422,17 +3432,17 @@
         },
         {
             "text": "Don’t count your chickens before they are hatched",
-            "description": "",
+            "description": "This proverb warns against being too eager. Just because you have five eggs, does not mean you will have five chickens. It is not a good idea to make plans based on expectations (what you think will happen). Wait for all things to come true before building up your dreams. Or worse, your promises. Things may not happen like you thought they would and that could get you in trouble.",
             "category": "english"
         },
         {
             "text": "Don’t count your chickens before they hatch.",
-            "description": "",
+            "description": "This proverb warns against being too eager. Just because you have five eggs, does not mean you will have five chickens. It is not a good idea to make plans based on expectations (what you think will happen). Wait for all things to come true before building up your dreams. Or worse, your promises. Things may not happen like you thought they would and that could get you in trouble.",
             "category": "english"
         },
         {
             "text": "Don’t count your chickens before they’re hatched.",
-            "description": "",
+            "description": "This proverb warns against being too eager. Just because you have five eggs, does not mean you will have five chickens. It is not a good idea to make plans based on expectations (what you think will happen). Wait for all things to come true before building up your dreams. Or worse, your promises. Things may not happen like you thought they would and that could get you in trouble.",
             "category": "english"
         },
         {
@@ -3517,7 +3527,7 @@
         },
         {
             "text": "Don’t judge a book by its cover.",
-            "description": "",
+            "description": "Things are not always what they seem. This proverb teaches you not to make judgments about other people because of how they look or dress. A book with a boring or plain cover could be amazing. The same is true with people. A person might look like an athlete or fool, but there is probably a lot more to them than clothes suggest.",
             "category": "english"
         },
         {
@@ -3782,7 +3792,7 @@
         },
         {
             "text": "Early bird catches the worm",
-            "description": "",
+            "description": "This proverb is a lot like the phrase “first come, first served.” It simply means that it’s usually best to be early. If you arrive earlier—whether it’s to a clothing store, restaurant, conference, etc.—you will have the best options to choose from. If you come later, though, the best clothes could have sold out, the restaurant could be full and have a long waiting time, etc.",
             "category": "english"
         },
         {
@@ -3832,7 +3842,7 @@
         },
         {
             "text": "Easy come, easy go.",
-            "description": "",
+            "description": "Money, fame, love or anything that happens easily can be lost just as quickly. If you get a lot of money or suddenly become famous, you could lose that money or fame very quickly—since you didn’t work hard to earn it.",
             "category": "english"
         },
         {
@@ -3997,7 +4007,7 @@
         },
         {
             "text": "Every cloud has a silver lining.",
-            "description": "",
+            "description": "People say this when things are going badly or when someone is sad. Clouds stand for bad situations. Every bad situation has some good parts to it—you just have to look for them. The proverb is meant to help people feel better and keep going. It’s also where the name of the movie “Silver Linings Playbook” came from.",
             "category": "english"
         },
         {
@@ -4402,7 +4412,7 @@
         },
         {
             "text": "First things first.",
-            "description": "",
+            "description": "This proverb advises you to do things in the right order. Do not skip over the more difficult or less enjoyable tasks in order to get to the easier, more fun ones.",
             "category": "english"
         },
         {
@@ -4982,7 +4992,7 @@
         },
         {
             "text": "Grass is always greener on the other side of the fence",
-            "description": "",
+            "description": "‘The grass is always greener” is a proverb that teaches us it’s not good to be jealous (to want what other people have). It may seem like everyone around you has “greener grass,” meaning nicer cars, better jobs, etc.",
             "category": "english"
         },
         {
@@ -5942,7 +5952,7 @@
         },
         {
             "text": "Honesty is the best policy.",
-            "description": "",
+            "description": "Lying a lot can be difficult, because you might forget your lies. Soon enough, someone will find out you are lying. Then, you are in trouble. Or even if no one ever finds out, you will feel guilty for not telling the truth. But if you are honest and tell the truth, people will believe you and respect you. You will earn their trust and sleep well at night.",
             "category": "english"
         },
         {
@@ -6132,12 +6142,12 @@
         },
         {
             "text": "If ignorance is bliss, why aren’t more people happy?",
-            "description": "",
+            "description": "“Ignorance” is when you don’t know or are unaware of something. “Bliss” is pure joy and happiness. So sometimes it feels better and you’re more comfortable when you don’t know about certain things.",
             "category": "english"
         },
         {
             "text": "If it isn’t broke, don’t fix it.",
-            "description": "",
+            "description": "This phrase is used when someone is trying to change or “improve” a way of doing something that works perfectly well.",
             "category": "english"
         },
         {
@@ -6487,7 +6497,7 @@
         },
         {
             "text": "Ignorance is bliss.",
-            "description": "",
+            "description": "“Ignorance” is when you don’t know or are unaware of something. “Bliss” is pure joy and happiness. So sometimes it feels better and you’re more comfortable when you don’t know about certain things.",
             "category": "english"
         },
         {
@@ -6957,7 +6967,7 @@
         },
         {
             "text": "It takes two to tango.",
-            "description": "",
+            "description": "This proverb is often said during a fight in which one person is putting all of the blame on the other person, when both people were actually responsible. Just as one person can’t tango (a Spanish dance with two people) alone, two people are responsible for some situations, so you can’t just blame one person.",
             "category": "english"
         },
         {
@@ -7417,7 +7427,7 @@
         },
         {
             "text": "Learn to walk before you run.",
-            "description": "",
+            "description": "Do things in the right order, from simple to more complicated.",
             "category": "english"
         },
         {
@@ -7777,7 +7787,7 @@
         },
         {
             "text": "Look before you leap.",
-            "description": "",
+            "description": "Don’t rush into things! Make sure you know what is going to happen next. You would not jump off a cliff without first checking how far the ground is below or what there is to land on.",
             "category": "english"
         },
         {
@@ -8017,7 +8027,7 @@
         },
         {
             "text": "Many a cloud has a silver lining.",
-            "description": "",
+            "description": "People say this when things are going badly or when someone is sad. Clouds stand for bad situations. Every bad situation has some good parts to it—you just have to look for them. The proverb is meant to help people feel better and keep going. It’s also where the name of the movie “Silver Linings Playbook” came from.",
             "category": "english"
         },
         {
@@ -8082,7 +8092,7 @@
         },
         {
             "text": "Many hands make light work.",
-            "description": "",
+            "description": "If a lot of people carry a heavy object, it does not feel heavy. That is the general meaning of this proverb. If everyone works together to complete something—like cleaning, painting or group projects—then each person has less to do. More importantly, the job will be completed much more quickly.",
             "category": "english"
         },
         {
@@ -8287,7 +8297,7 @@
         },
         {
             "text": "Money doesn’t grow on trees",
-            "description": "",
+            "description": "Money must be earned through hard work, and doesn’t “grow back” after you spend it. Once you spend money, it’s gone. This proverb is often said to people who waste their money on silly purchases.",
             "category": "english"
         },
         {
@@ -8497,7 +8507,7 @@
         },
         {
             "text": "Never judge a book by its cover",
-            "description": "",
+            "description": "Things are not always what they seem. This proverb teaches you not to make judgments about other people because of how they look or dress. A book with a boring or plain cover could be amazing. The same is true with people. A person might look like an athlete or fool, but there is probably a lot more to them than clothes suggest.",
             "category": "english"
         },
         {
@@ -8782,7 +8792,7 @@
         },
         {
             "text": "No news is good news.",
-            "description": "",
+            "description": "No information about a situation suggests that nothing bad has happened.",
             "category": "english"
         },
         {
@@ -9337,7 +9347,7 @@
         },
         {
             "text": "Out of sight, out of mind.",
-            "description": "",
+            "description": "If you can see something every day, your mind will think about it. This proverb is about the habit of forgetting things that are not nearby.",
             "category": "english"
         },
         {
@@ -9422,7 +9432,7 @@
         },
         {
             "text": "People who live in glass houses shouldn’t throw stones.",
-            "description": "",
+            "description": "“People in glass houses” means anyone who is sensitive about their failures. People like this should not insult others (should not “throw stones”) because most likely the other person will turn around and insult you back. And like glass, which is easy to break, your self-esteem (what you think of yourself) will easily break into pieces.",
             "category": "english"
         },
         {
@@ -9572,12 +9582,12 @@
         },
         {
             "text": "Practice does not make perfect but a perfect practice makes perfect.",
-            "description": "",
+            "description": "It would be amazing if the first time you picked up a guitar you could play it like a rock star. Or if the first time you got in a car, you could drive like a professional. Or if you could speak English perfectly after one lesson. Everything is difficult when you are a beginner. But if you stick with it, if you keep practicing, you can master anything.",
             "category": "english"
         },
         {
             "text": "Practice makes perfect.",
-            "description": "",
+            "description": "It would be amazing if the first time you picked up a guitar you could play it like a rock star. Or if the first time you got in a car, you could drive like a professional. Or if you could speak English perfectly after one lesson. Everything is difficult when you are a beginner. But if you stick with it, if you keep practicing, you can master anything.",
             "category": "english"
         },
         {
@@ -9852,7 +9862,7 @@
         },
         {
             "text": "Rolling stone gathers no moss",
-            "description": "",
+            "description": "Only a stone that is in the same place for a long time will have moss growing on it. A stone on the move will remain bare. The same is true with people.",
             "category": "english"
         },
         {
@@ -9862,7 +9872,7 @@
         },
         {
             "text": "Rome wasn’t built in a day.",
-            "description": "",
+            "description": "Rome is a great city. However, it took many years to be completed. The builders did not rush to complete their work and neither should you. If you wish to create something wonderful and long-lasting, you will have to spend more than a day working on it. You will probably have to spend several days, weeks or even months to do a good job. Take your time and do it right!",
             "category": "english"
         },
         {
@@ -10237,7 +10247,7 @@
         },
         {
             "text": "Squeaky wheel gets the grease",
-            "description": "",
+            "description": "If you have a problem but never talk about it, no one will help you. How could they? But if you tell someone, things will get better. This proverb is about someone who complains a lot (the “squeaky wheel”) because they get more attention (“the grease”). For example, a child who cries a lot will get more attention from his mother than his silent brothers and sisters.",
             "category": "english"
         },
         {
@@ -10292,12 +10302,12 @@
         },
         {
             "text": "Strike while the iron is hot.",
-            "description": "",
+            "description": "This old expression comes from the days of blacksmiths (people who work with metal). To shape the metal, the blacksmith would have to beat it with a hammer. Iron is easier to work with when it’s hot. This proverb means you should take advantage of the moment. If an opportunity presents itself to you, take it! Take action because the chance may not come again.",
             "category": "english"
         },
         {
             "text": "Strike while the iron is hot. or Make hay while the sun shines.",
-            "description": "",
+            "description": "This old expression comes from the days of blacksmiths (people who work with metal). To shape the metal, the blacksmith would have to beat it with a hammer. Iron is easier to work with when it’s hot. This proverb means you should take advantage of the moment. If an opportunity presents itself to you, take it! Take action because the chance may not come again.",
             "category": "english"
         },
         {
@@ -10867,7 +10877,7 @@
         },
         {
             "text": "The early bird catches the worm.",
-            "description": "",
+            "description": "This proverb is a lot like the phrase “first come, first served.” It simply means that it’s usually best to be early. If you arrive earlier—whether it’s to a clothing store, restaurant, conference, etc.—you will have the best options to choose from. If you come later, though, the best clothes could have sold out, the restaurant could be full and have a long waiting time, etc.",
             "category": "english"
         },
         {
@@ -11027,17 +11037,17 @@
         },
         {
             "text": "The grass is always greener on the other side of the fence.",
-            "description": "",
+            "description": "‘The grass is always greener” is a proverb that teaches us it’s not good to be jealous (to want what other people have). It may seem like everyone around you has “greener grass,” meaning nicer cars, better jobs, etc.",
             "category": "english"
         },
         {
             "text": "The grass is always greener on the other side of the hill.",
-            "description": "",
+            "description": "‘The grass is always greener” is a proverb that teaches us it’s not good to be jealous (to want what other people have). It may seem like everyone around you has “greener grass,” meaning nicer cars, better jobs, etc.",
             "category": "english"
         },
         {
             "text": "The grass is always greener on the other side.",
-            "description": "",
+            "description": "‘The grass is always greener” is a proverb that teaches us it’s not good to be jealous (to want what other people have). It may seem like everyone around you has “greener grass,” meaning nicer cars, better jobs, etc.",
             "category": "english"
         },
         {
@@ -11502,7 +11512,7 @@
         },
         {
             "text": "The squeaky wheel gets the grease.",
-            "description": "",
+            "description": "If you have a problem but never talk about it, no one will help you. How could they? But if you tell someone, things will get better. This proverb is about someone who complains a lot (the “squeaky wheel”) because they get more attention (“the grease”). For example, a child who cries a lot will get more attention from his mother than his silent brothers and sisters.",
             "category": "english"
         },
         {
@@ -12072,7 +12082,7 @@
         },
         {
             "text": "Those who live in glass houses shouldn’t throw stones.",
-            "description": "",
+            "description": "“People in glass houses” means anyone who is sensitive about their failures. People like this should not insult others (should not “throw stones”) because most likely the other person will turn around and insult you back. And like glass, which is easy to break, your self-esteem (what you think of yourself) will easily break into pieces.",
             "category": "english"
         },
         {
@@ -12322,7 +12332,7 @@
         },
         {
             "text": "Too many cooks spoil the broth.",
-            "description": "",
+            "description": "Or as it’s more commonly said, “Too many cooks in the kitchen.” This is a well known experience—a lot people all trying to work in a kitchen around a small table or stovetop will make a mess and ruin the food. This proverb talks about the trouble of too many people trying to do the same thing at once.",
             "category": "english"
         },
         {
@@ -12467,12 +12477,12 @@
         },
         {
             "text": "Two wrongs don’t make a right, but three lefts do.",
-            "description": "",
+            "description": "If somebody insults you or harms you (“a wrong”), doing the same to them (“two wrongs”) will not make everything okay. It will most likely cause a back-and-forth fight without end. If somebody is mean to you, don’t be mean to them in return because it’s not right to do so.",
             "category": "english"
         },
         {
             "text": "Two wrongs don’t make a right.",
-            "description": "",
+            "description": "If somebody insults you or harms you (“a wrong”), doing the same to them (“two wrongs”) will not make everything okay. It will most likely cause a back-and-forth fight without end. If somebody is mean to you, don’t be mean to them in return because it’s not right to do so.",
             "category": "english"
         },
         {
@@ -12662,7 +12672,7 @@
         },
         {
             "text": "We must learn to walk before we can run.",
-            "description": "",
+            "description": "Do things in the right order, from simple to more complicated.",
             "category": "english"
         },
         {
@@ -12992,12 +13002,12 @@
         },
         {
             "text": "When in Rome, do as the Romans do.",
-            "description": "",
+            "description": "When you are a visitor somewhere away from home, you should act like everyone else. It is polite to do so, and could keep you from getting into trouble. This proverb is from the ancient days of the Roman Empire when the capital city had visitors from all over the world. Cultures were very different between cities in those times. But while in Rome, one would behave like a Roman, no matter where you came from.",
             "category": "english"
         },
         {
             "text": "When in Rome, do as the Romans.",
-            "description": "",
+            "description": "When you are a visitor somewhere away from home, you should act like everyone else. It is polite to do so, and could keep you from getting into trouble. This proverb is from the ancient days of the Roman Empire when the capital city had visitors from all over the world. Cultures were very different between cities in those times. But while in Rome, one would behave like a Roman, no matter where you came from.",
             "category": "english"
         },
         {
@@ -13137,7 +13147,7 @@
         },
         {
             "text": "Where ignorance is bliss, ’tis folly to be wise.",
-            "description": "",
+            "description": "“Ignorance” is when you don’t know or are unaware of something. “Bliss” is pure joy and happiness. So sometimes it feels better and you’re more comfortable when you don’t know about certain things.",
             "category": "english"
         },
         {
@@ -13162,7 +13172,7 @@
         },
         {
             "text": "Where there’s a will, there’s a way.",
-            "description": "",
+            "description": "This proverb is said to encourage people who want to give up. Sometimes, we face problems that seem impossible. But if you want it bad enough, nothing can stand in your way. That is what this proverb means—if you have the will to meet the problems that are in front of you, there is a way to overcome them.",
             "category": "english"
         },
         {
@@ -13767,7 +13777,7 @@
         },
         {
             "text": "You can’t have your cake and eat it too.",
-            "description": "",
+            "description": "If you eat your cake, you won’t have it anymore, will you? So you can’t do both. This proverb is about having two opposite desires, and how it’s impossible to get both. Its meaning is similar to the proverb, “You can’t have the best of both worlds.”",
             "category": "english"
         },
         {
@@ -13777,7 +13787,7 @@
         },
         {
             "text": "You can’t judge a book by its cover.",
-            "description": "",
+            "description": "Things are not always what they seem. This proverb teaches you not to make judgments about other people because of how they look or dress. A book with a boring or plain cover could be amazing. The same is true with people. A person might look like an athlete or fool, but there is probably a lot more to them than clothes suggest.",
             "category": "english"
         },
         {
@@ -13792,7 +13802,7 @@
         },
         {
             "text": "You can’t make an omelet without breaking a few eggs.",
-            "description": "",
+            "description": "Sometimes, to get things done, you have to be pushy or break a few rules. You may even have to insult some people. An omelet is a tasty dish and worth the effort to make. However, you must break some eggs to make it. So if you want to get a worthwhile project done or make changes, you can’t please everyone. Someone might be offended or hurt, so you have to decide if the price is worth it.",
             "category": "english"
         },
         {
@@ -14091,6 +14101,16 @@
             "category": "english"
         },
         {
+            "text": "Two wrongs don’t make a right.",
+            "description": "If somebody insults you or harms you (“a wrong”), doing the same to them (“two wrongs”) will not make everything okay. It will most likely cause a back-and-forth fight without end. If somebody is mean to you, don’t be mean to them in return because it’s not right to do so.",
+            "category": "english"
+        },
+        {
+            "text": "Beauty lies in the eye of the beholder.",
+            "description": "",
+            "category": "english"
+        },
+        {
             "text": "Zeal without knowledge is a runaway horse.",
             "description": "",
             "category": "english"
@@ -14112,12 +14132,12 @@
         },
         {
             "text": "Better to be safe than sorry.",
-            "description": "",
+            "description": "Do everything possible to keep bad things from happening to you. It only takes a second to put on a seatbelt or to check that you locked the door. But if you’re not safe, the bad results can last a lifetime. So it’s best for you to be careful, otherwise you’ll be sorry.",
             "category": "english"
         },
         {
             "text": "Actions speak louder than words.",
-            "description": "",
+            "description": "The Greek philosopher Plato once said that action is character. People are not defined by what they say because a lot of talk does not mean anything. People are judged by the things they do. Your actions are more important than what you say.",
             "category": "english"
         },
         {
@@ -14142,7 +14162,7 @@
         },
         {
             "text": "The squeaky wheel gets the grease.",
-            "description": "",
+            "description": "If you have a problem but never talk about it, no one will help you. How could they? But if you tell someone, things will get better. This proverb is about someone who complains a lot (the “squeaky wheel”) because they get more attention (“the grease”). For example, a child who cries a lot will get more attention from his mother than his silent brothers and sisters.",
             "category": "english"
         },
         {
@@ -14152,17 +14172,17 @@
         },
         {
             "text": "People who live in glass houses shouldn’t throw stones.",
-            "description": "",
+            "description": "“People in glass houses” means anyone who is sensitive about their failures. People like this should not insult others (should not “throw stones”) because most likely the other person will turn around and insult you back. And like glass, which is easy to break, your self-esteem (what you think of yourself) will easily break into pieces.",
             "category": "english"
         },
         {
             "text": "Better late than never.",
-            "description": "",
+            "description": "While being the early bird is the best, even latecomers may get something for coming. It would be a lot worse if they never came at all. This proverb is said about ending fights with people. It’s better to apologize and make up years later, than to never resolve your fight at all.",
             "category": "english"
         },
         {
             "text": "Two wrongs don’t make a right.",
-            "description": "",
+            "description": "If somebody insults you or harms you (“a wrong”), doing the same to them (“two wrongs”) will not make everything okay. It will most likely cause a back-and-forth fight without end. If somebody is mean to you, don’t be mean to them in return because it’s not right to do so.",
             "category": "english"
         },
         {
@@ -14197,7 +14217,7 @@
         },
         {
             "text": "The grass is always greener on the other side of the fence.",
-            "description": "",
+            "description": "‘The grass is always greener” is a proverb that teaches us it’s not good to be jealous (to want what other people have). It may seem like everyone around you has “greener grass,” meaning nicer cars, better jobs, etc.",
             "category": "english"
         },
         {
@@ -14252,7 +14272,7 @@
         },
         {
             "text": "An apple a day keeps the doctor away.",
-            "description": "",
+            "description": "An apple is full of Vitamin C, which keeps you healthy. However, the “apple” in this proverb means eating healthy in general. If you eat well and your diet includes a lot of fruits and vegetables, there will be no need to visit the doctor.",
             "category": "english"
         },
         {
@@ -14272,7 +14292,7 @@
         },
         {
             "text": "Curiosity killed the cat.",
-            "description": "",
+            "description": "This proverb is often used to stop someone from asking too many questions.",
             "category": "english"
         },
         {
@@ -14912,7 +14932,7 @@
         },
         {
             "text": "An apple a day keeps the doctor away.",
-            "description": "",
+            "description": "An apple is full of Vitamin C, which keeps you healthy. However, the “apple” in this proverb means eating healthy in general. If you eat well and your diet includes a lot of fruits and vegetables, there will be no need to visit the doctor.",
             "category": "traditional"
         },
         {
@@ -15237,7 +15257,7 @@
         },
         {
             "text": "Beggars can’t be choosers.",
-            "description": "",
+            "description": "If someone gives you free things or offers to help you do something, you can’t ask for a different color or choose the perfect time in your schedule. When you receive free help or goods, you should accept what you’re offered—you can’t be picky (a “chooser”) because you’re not paying!",
             "category": "traditional"
         },
         {
@@ -15502,7 +15522,7 @@
         },
         {
             "text": "Easy come, easy go.",
-            "description": "",
+            "description": "Money, fame, love or anything that happens easily can be lost just as quickly. If you get a lot of money or suddenly become famous, you could lose that money or fame very quickly—since you didn’t work hard to earn it.",
             "category": "traditional"
         },
         {
@@ -15587,7 +15607,7 @@
         },
         {
             "text": "Every cloud has a silver lining.",
-            "description": "",
+            "description": "People say this when things are going badly or when someone is sad. Clouds stand for bad situations. Every bad situation has some good parts to it—you just have to look for them. The proverb is meant to help people feel better and keep going. It’s also where the name of the movie “Silver Linings Playbook” came from.",
             "category": "traditional"
         },
         {
@@ -15937,7 +15957,7 @@
         },
         {
             "text": "We must learn to walk before we can run.",
-            "description": "",
+            "description": "Do things in the right order, from simple to more complicated.",
             "category": "traditional"
         },
         {
@@ -16027,12 +16047,12 @@
         },
         {
             "text": "Out of sight, out of mind.",
-            "description": "",
+            "description": "If you can see something every day, your mind will think about it. This proverb is about the habit of forgetting things that are not nearby.",
             "category": "traditional"
         },
         {
             "text": "Curiosity killed the cat.",
-            "description": "",
+            "description": "This proverb is often used to stop someone from asking too many questions.",
             "category": "traditional"
         },
         {
@@ -16937,7 +16957,7 @@
         },
         {
             "text": "Practice makes perfect.",
-            "description": "",
+            "description": "It would be amazing if the first time you picked up a guitar you could play it like a rock star. Or if the first time you got in a car, you could drive like a professional. Or if you could speak English perfectly after one lesson. Everything is difficult when you are a beginner. But if you stick with it, if you keep practicing, you can master anything.",
             "category": "traditional"
         },
         {
@@ -17312,7 +17332,7 @@
         },
         {
             "text": "Two wrongs don’t make a right.",
-            "description": "",
+            "description": "If somebody insults you or harms you (“a wrong”), doing the same to them (“two wrongs”) will not make everything okay. It will most likely cause a back-and-forth fight without end. If somebody is mean to you, don’t be mean to them in return because it’s not right to do so.",
             "category": "english"
         },
         {
@@ -17532,7 +17552,7 @@
         },
         {
             "text": "Actions speak louder than words.",
-            "description": "",
+            "description": "The Greek philosopher Plato once said that action is character. People are not defined by what they say because a lot of talk does not mean anything. People are judged by the things they do. Your actions are more important than what you say.",
             "category": "english"
         },
         {
@@ -17597,7 +17617,7 @@
         },
         {
             "text": "Many hands make light work.",
-            "description": "",
+            "description": "If a lot of people carry a heavy object, it does not feel heavy. That is the general meaning of this proverb. If everyone works together to complete something—like cleaning, painting or group projects—then each person has less to do. More importantly, the job will be completed much more quickly.",
             "category": "english"
         },
         {
@@ -17627,7 +17647,7 @@
         },
         {
             "text": "The grass is always greener on the other side.",
-            "description": "",
+            "description": "‘The grass is always greener” is a proverb that teaches us it’s not good to be jealous (to want what other people have). It may seem like everyone around you has “greener grass,” meaning nicer cars, better jobs, etc.",
             "category": "english"
         },
         {
@@ -17727,7 +17747,7 @@
         },
         {
             "text": "Strike while the iron is hot.",
-            "description": "",
+            "description": "This old expression comes from the days of blacksmiths (people who work with metal). To shape the metal, the blacksmith would have to beat it with a hammer. Iron is easier to work with when it’s hot. This proverb means you should take advantage of the moment. If an opportunity presents itself to you, take it! Take action because the chance may not come again.",
             "category": "english"
         },
         {
@@ -17812,7 +17832,7 @@
         },
         {
             "text": "Don’t judge a book by its cover.",
-            "description": "",
+            "description": "Things are not always what they seem. This proverb teaches you not to make judgments about other people because of how they look or dress. A book with a boring or plain cover could be amazing. The same is true with people. A person might look like an athlete or fool, but there is probably a lot more to them than clothes suggest.",
             "category": "english"
         },
         {
@@ -17952,7 +17972,7 @@
         },
         {
             "text": "Better late than never.",
-            "description": "",
+            "description": "While being the early bird is the best, even latecomers may get something for coming. It would be a lot worse if they never came at all. This proverb is said about ending fights with people. It’s better to apologize and make up years later, than to never resolve your fight at all.",
             "category": "english"
         },
         {
@@ -18452,7 +18472,7 @@
         },
         {
             "text": "It takes two to tango.",
-            "description": "",
+            "description": "This proverb is often said during a fight in which one person is putting all of the blame on the other person, when both people were actually responsible. Just as one person can’t tango (a Spanish dance with two people) alone, two people are responsible for some situations, so you can’t just blame one person.",
             "category": "traditional"
         },
         {
@@ -19812,7 +19832,7 @@
         },
         {
             "text": "You can’t have your cake and eat it too.",
-            "description": "",
+            "description": "If you eat your cake, you won’t have it anymore, will you? So you can’t do both. This proverb is about having two opposite desires, and how it’s impossible to get both. Its meaning is similar to the proverb, “You can’t have the best of both worlds.”",
             "category": "english"
         },
         {
@@ -19987,7 +20007,7 @@
         },
         {
             "text": "It’s no use crying over spilled milk.",
-            "description": "",
+            "description": "Milk is easy to get. You may get in trouble for spilling the milk, you shouldn’t cry because it isn’t a big deal. Also, crying won’t solve anything. This proverb advises you to stay calm during such small problems. Don’t waste time worrying about little things that cannot be changed. Clean up the mess and go buy some more milk.",
             "category": "english"
         },
         {
@@ -20688,7 +20708,7 @@
         {
             "text": "You scratch my back, I’ll scratch yours.",
             "category": "english",
-            "description": ""
+            "description": "This proverb simply means that if you help me, I’ll help you too. Usually, when you do a favor for someone, they do something for you in return. This can be beneficial (helpful) to both people."
         },
         {
             "text": "The apple doesn't fall far from the tree.",
@@ -20898,12 +20918,12 @@
         {
             "text": "Don’t make a mountain out of an anthill",
             "category": "english",
-            "description": ""
+            "description": "People sometimes get very upset over small problems. This proverb reminds you to take a moment and see how important (or not important) the issue is. Messing up your laundry or being late for work is not very important when you consider your entire life. So it’s important to stay calm and not get angry about tiny problems."
         },
         {
             "text": "The cat is out of the bag",
             "category": "english",
-            "description": "Truth will out"
+            "description": "This proverb means that a secret has been told. It comes from the Middle Ages and was common advice given in the market. You may have thought you purchased a tasty pig, but the seller put a simple cat in the bag instead. To “let the cat out of the bag” was to reveal the seller’s trick."
         },
         {
             "text": "Put your best foot forward.",
@@ -20928,7 +20948,7 @@
         {
             "text": "Don’t cross the bridge until you come to it.",
             "category": "english",
-            "description": ""
+            "description": "This proverb tells you not to worry so much! Problems will certainly come in the future. But what can be done about that now? It’s better to think about what you are doing right now—without worrying about the unknown—and take care of issues when they happen."
         },
         {
             "text": "He that mischief hatches mischief catches.",

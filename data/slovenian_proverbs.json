@@ -11,6 +11,11 @@
             "category": "slovenian"
         },
         {
+            "text": "Speak the truth, but leave immediately after.",
+            "description": "",
+            "category": "slovenian"
+        },
+        {
             "text": "Never whisper to the deaf or wink at the blind.",
             "description": "",
             "category": "slovenian"
@@ -157,7 +162,7 @@
         },
         {
             "text": "Don’t count your chickens before they’re hatched.",
-            "description": "",
+            "description": "This proverb warns against being too eager. Just because you have five eggs, does not mean you will have five chickens. It is not a good idea to make plans based on expectations (what you think will happen). Wait for all things to come true before building up your dreams. Or worse, your promises. Things may not happen like you thought they would and that could get you in trouble.",
             "category": "slovenian"
         },
         {
@@ -247,7 +252,7 @@
         },
         {
             "text": "Strike while the iron is hot.",
-            "description": "ake action in favorable circumstances because they can change very quickly and it might not be as achieve success.",
+            "description": "Take action in favorable circumstances because they can change very quickly and it might not be as achieve success.",
             "category": "slovenian"
         },
         {
@@ -382,7 +387,7 @@
         },
         {
             "text": "Every cloud has a silver lining.",
-            "description": "",
+            "description": "People say this when things are going badly or when someone is sad. Clouds stand for bad situations. Every bad situation has some good parts to it—you just have to look for them. The proverb is meant to help people feel better and keep going. It’s also where the name of the movie “Silver Linings Playbook” came from.",
             "category": "slovenian"
         },
         {

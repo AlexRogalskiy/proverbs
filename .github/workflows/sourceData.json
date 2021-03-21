@@ -132,6 +132,10 @@
         "jsonPath": "$.bosnian[*]"
     },
     {
+        "sourceFile": "./data/botswana_proverbs.json",
+        "jsonPath": "$.botswana[*]"
+    },
+    {
         "sourceFile": "./data/brazilian_proverbs.json",
         "jsonPath": "$.brazilian[*]"
     },
@@ -506,6 +510,10 @@
     {
         "sourceFile": "./data/lebanese_proverbs.json",
         "jsonPath": "$.lebanese[*]"
+    },
+    {
+        "sourceFile": "./data/lesotho_proverbs.json",
+        "jsonPath": "$.lesotho[*]"
     },
     {
         "sourceFile": "./data/liberian_proverbs.json",

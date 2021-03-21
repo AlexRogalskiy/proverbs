@@ -31,6 +31,7 @@ import * as bhutaneseProverbs from '../data/bhutanese_proverbs.json'
 import * as bibleProverbs from '../data/bible_proverbs.json'
 import * as bolivianProverbs from '../data/bolivian_proverbs.json'
 import * as bosnianProverbs from '../data/bosnian_proverbs.json'
+import * as botswanaProverbs from '../data/botswana_proverbs.json'
 import * as brazilianProverbs from '../data/brazilian_proverbs.json'
 import * as bretonProverbs from '../data/breton_proverbs.json'
 import * as bugundanProverbs from '../data/bugundan_proverbs.json'
@@ -125,6 +126,7 @@ import * as latinAmericanProverbs from '../data/latin-american_proverbs.json'
 import * as latinProverbs from '../data/latin_proverbs.json'
 import * as latvianProverbs from '../data/latvian_proverbs.json'
 import * as lebaneseProverbs from '../data/lebanese_proverbs.json'
+import * as lesothoProverbs from '../data/lesotho_proverbs.json'
 import * as liberianProverbs from '../data/liberian_proverbs.json'
 import * as libyanProverbs from '../data/libyan_proverbs.json'
 import * as lithuanianProverbs from '../data/lithuanian_proverbs.json'
@@ -268,6 +270,7 @@ const getProverbs = (): ProverbMapper =>
         bibleProverbs,
         bolivianProverbs,
         bosnianProverbs,
+        botswanaProverbs,
         brazilianProverbs,
         bretonProverbs,
         bugundanProverbs,
@@ -362,6 +365,7 @@ const getProverbs = (): ProverbMapper =>
         latinProverbs,
         latvianProverbs,
         lebaneseProverbs,
+        lesothoProverbs,
         liberianProverbs,
         libyanProverbs,
         lithuanianProverbs,
