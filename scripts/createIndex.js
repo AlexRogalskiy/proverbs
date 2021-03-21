@@ -11,7 +11,7 @@ const proverbs = require('../data/proverbs.json')
 function getConfig() {
     return process.env.AWS_LAMBDA_FUNCTION_VERSION
         ? { path: '.cache', name: 'lunr-index.json', delimiter: '_' }
-        : { path: '.cache', name: 'lunr-index.json', delimiter: '_' }
+        : { path: '.cache', name: 'lunr-index.json', delimiter: '__' }
 }
 
 function filePath() {

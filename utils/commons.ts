@@ -1,34 +1,12 @@
-import fetch from 'isomorphic-unfetch'
 import _ from 'lodash'
-import { tmpdir } from 'os'
-import { existsSync, mkdirSync } from 'fs'
 
 export const delimiterBy = (value = '>', num = 80): string => value.repeat(num)
 
 export const delim = delimiterBy()
 
-export const tempDir = tmpdir()
-
 export const random = (max: number): number => Math.floor(Math.random() * max)
 
 export const randomElement = <T>(arr: T[]): T => arr[random(arr.length)]
-
-export const ensureDirExists = (dir: string): void => {
-    if (!existsSync(dir)) {
-        mkdirSync(dir, { recursive: true })
-    }
-}
-
-export const toBase64ImageUrl = async (request: RequestInfo): Promise<string> => {
-    const fetchImageUrl = await fetch(request)
-    const responseArrBuffer = await fetchImageUrl.arrayBuffer()
-
-    return `data:${fetchImageUrl.headers.get('Content-Type') || 'image/png'};base64,${Buffer.from(
-        responseArrBuffer
-    ).toString('base64')}`
-}
-
-export const isBlankString = (value: string): boolean => !value || /^\s*$/.test(value)
 
 export const toString = (value: string | string[]): string => (Array.isArray(value) ? value[0] : value)
 

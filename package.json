@@ -26,6 +26,7 @@
         "test": "env-cmd --silent -e test jest",
         "test:coverage": "env-cmd --silent -e test jest --collectCoverage --detectOpenHandles",
         "test:watch": "env-cmd --silent -e test jest --watch",
+        "check:all": "npm run format:check",
         "test:all": "npm run test",
         "all": "npm run format && npm run lint"
     },

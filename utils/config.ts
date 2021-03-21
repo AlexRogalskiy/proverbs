@@ -1,4 +1,5 @@
-import { Profile, ProfileOptions } from '../typings/types'
+import { ProfileOptions } from '../typings/types'
+import { Profile } from '../typings/enum-types'
 
 export type ConfigOptions = Record<Profile, ProfileOptions>
 

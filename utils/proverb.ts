@@ -1,17 +1,19 @@
-import { ColorOptions, ImageOptions, LanguagePattern, ParsedRequest, ProverbData } from '../typings/types'
 import gradient from 'gradient-string'
 import randomColor from 'randomcolor'
 import _ from 'lodash'
 
 import { Optional } from '../typings/standard-types'
+import { ColorOptions, ImageOptions, ParsedRequestData, TemplateData } from '../typings/types'
+import { LanguagePattern } from '../typings/enum-types'
 
-import { delim, isBlankString, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
+import { delim, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
 import { css } from './getCss'
 import { profile } from './env'
 
 import { proverbs } from './proverbs'
+import { isBlankString } from './validators'
 
-export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<string> {
+export async function proverbRenderer(parsedRequest: ParsedRequestData): Promise<string> {
     const { language, keywords, width, height, ...rest } = parsedRequest
 
     const colorOptions: ColorOptions = mergeProps(profile.colorOptions, rest)
@@ -29,7 +31,7 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
         `
     )
 
-    const proverbData: Optional<ProverbData> = keywords
+    const proverbData: Optional<TemplateData> = keywords
         ? await getProverbByKeywords(keywords)
         : await getProverbByLanguage(language)
 
@@ -37,7 +39,7 @@ export async function proverbRenderer(parsedRequest: ParsedRequest): Promise<str
 }
 
 const getImageContent = (
-    proverbData: Optional<ProverbData>,
+    proverbData: Optional<TemplateData>,
     colorOptions: ColorOptions,
     imageOptions: ImageOptions
 ): string => {
@@ -78,7 +80,7 @@ const getCategory = (category?: string | string[]): string => {
     return category ? `(${_.isArray(category) ? category.join(',') : category})` : ''
 }
 
-const getProverbByKeywords = async (keywords: string | string[]): Promise<Optional<ProverbData>> => {
+const getProverbByKeywords = async (keywords: string | string[]): Promise<Optional<TemplateData>> => {
     const searchKeys = typeof keywords === 'string' ? keywords.split(',') : keywords
     //const searchResults = getSearchResults(idx(), searchKeys.join(' '))
     //const searchData = randomElement(searchResults)
@@ -93,8 +95,8 @@ const getProverbByKeywords = async (keywords: string | string[]): Promise<Option
 //     return data[data[0]][data[1]]
 // }
 
-const getProverbByLanguage = async (language: Optional<LanguagePattern>): Promise<ProverbData> => {
-    const data: ProverbData[] = language ? proverbs[language] : proverbs[randomEnum(LanguagePattern)]
+const getProverbByLanguage = async (language: Optional<LanguagePattern>): Promise<TemplateData> => {
+    const data: TemplateData[] = language ? proverbs[language] : proverbs[randomEnum(LanguagePattern)]
 
     return randomElement(data)
 }

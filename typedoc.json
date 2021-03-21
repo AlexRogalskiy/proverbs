@@ -8,9 +8,13 @@
         "./data/**/*.json"
     ],
     "exclude": [
+        "**/__tests__/**/*",
+        "**/__test_utils__/**/*",
+        "**/__fixtures__/**/*",
         "**/*+(.spec|.e2e).ts"
     ],
     "excludeExternals": true,
+    "excludePrivate": true,
     "highlightTheme": "dark-plus",
     "out": "docs"
 }

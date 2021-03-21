@@ -6,6 +6,4821 @@
             "category": "russian"
         },
         {
+            "text": "A bird may be known by its flight.",
+            "description": "(a person is know and judged by his actions or behavior)",
+            "category": "russian"
+        },
+        {
+            "text": "A chain is only as strong as its weakest link.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A drowning man will clutch at straw.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A long pull and a strong pull and a pull altogether.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A priest’s beard is always soaked in butter.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A priest’s belly is made up of several sheepskins.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A proverb can’t be judged.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A ruler without a nation is like a flower without the sun.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A sea will not dry up, a nation will not get lost.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A silent man is not a conquered man.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A sin of gold is followed by a punishment of lead.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A single Russian hair outweighs half a Pole.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A sleeping fox counts chicken in his dreams.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A smart person will not climb a mountain; A smart person will go around it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A soldier on furlough lets his shirt hang out of his trousers.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A soldier who doesn’t dream of becoming a general is a bad one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A sparrow in the hand is better than a cock on the roof.",
+            "description": "(it is better to be content with what we have or can easily get than to lose it by trying to get something better, as this may never happen)",
+            "category": "russian"
+        },
+        {
+            "text": "A spoken word flies; you won’t catch it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A spoken word is like a sparrow that once has flown away, cannot be caught again.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A spoken word is not a sparrow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A spoken word is not a sparrow. Once it flies out, you can’t catch it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A spooked crow is afraid of a bush.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A spoonful of tar in a barrel of honey.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A stranger’s soul is like a dark forest.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A tale is soon told; a deed is not soon done.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A thief’s hat is burning.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A thousand friends are few; one enemy is too many.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A thread from everyone will make a shirt for the needy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A titmouse in the hand is better than a crane in the sky.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A toad too would like to crack nuts, but he has no teeth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A virgin’s heart is a dark forest.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A wife is not a pot, she will not break so easily.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A wife should be as humble as a lamb, busy as a bee, as beautiful as a bird of paradise and faithful as a turtle dove.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A wise companion is half the journey.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A wise man sees only water in the tears of a woman.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A wolf won’t eat wolf.",
+            "description": "(people of the same group, occupation, interests live, or should live, together in amity)",
+            "category": "russian"
+        },
+        {
+            "text": "A woman farmer had no trouble, so she bought a piglet.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A woman’s tongue is longer than her hair.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A wooden bed is better than a golden coffin.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A word of kindness is better than a bottle of vodka.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "A young man should not marry yet, an old man not at all.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Absentmindedness is searching for the horse you are riding.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Abuse doesn’t hang on the collar.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Accidents will happen in the best-regulated families.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Acknowledgement is half of correction.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Advertising is the driving force of business.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Afraid of the enemies, don’t be a border guard.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "After a storm (comes) fair weather, after sorrow (comes) joy.",
+            "description": "(there must be something better after every piece of unpleasantness)",
+            "category": "russian"
+        },
+        {
+            "text": "After a storm comes fair weather, after sorrow comes joy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "After a storm fair weather, after sorrow joy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "After all, every man is the son of a woman.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "After the head is off, one does not cry over the hair.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "After your daughter is married, there comes a number of potential sons-in-law.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "All ages are submissive to love.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "All are not cooks who walk with long knives.",
+            "description": "(good looks do not always go to with virtue, and ugliness does not always go with sin)",
+            "category": "russian"
+        },
+        {
+            "text": "All cats are grey at night.",
+            "description": "(all shapes,all colors are alike in the dark. the night obscure all distinguishing features)",
+            "category": "russian"
+        },
+        {
+            "text": "All is not gold that glitters.",
+            "description": "(a person or thing may not be as good,valuable,etc., as he or it first appears; appearances can be deceptive)",
+            "category": "russian"
+        },
+        {
+            "text": "All is well that ends well.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "All lay loads on a willing horse.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "All roads do not lead to Rome.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "All roads lead to Moscow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "All roads lead to Rome.",
+            "description": "(a number of persons arrive at one common objective by different means.all ways or methods of fulfilling a certain intention end in the same results.)",
+            "category": "russian"
+        },
+        {
+            "text": "All the cones drop on poor makar.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An agreement is more valuable than money.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An argument is fine only when there is to be a fight.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An axe does not cut down a tree by itself.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An egg is dear on Easter day.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An empty barrel makes the greatest sound.",
+            "description": "(ignorant stupid people talk more often and more loudly than wise ones; just as an empty pot makes a loud noise when it is struck, while a full pot makes little noise)",
+            "category": "russian"
+        },
+        {
+            "text": "An empty barrel rattles louder.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An empty mill will turn without the wind.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An enemy will agree, but a friend will argue.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An enemy will agree, but a friend will argue.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An ill-paying job is better than a lucrative heist.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An indispensable thing never has much value.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An old dog can’t get used to chains.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An old friend is better than two new ones.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An old loan repaid is like finding something new.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An old man telling lies is like a rich man stealing.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An uninvited guest is worse than the Mongol invasion.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An unsolicited guest is better than a solicited one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "An unsolicited guest is worse than a Tatar.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Any fish is good if it is on the hook.",
+            "description": "(the fisherman can make use of every kind of fish that he catches,large and small.one should make use of every opportunity that comes one’s way)",
+            "category": "russian"
+        },
+        {
+            "text": "Any sandpiper is great in his own swamp.",
+            "description": "(it is easy to brag of your deeds in familiar surroundings where you are safe from danger and not likely to be put to proof)",
+            "category": "russian"
+        },
+        {
+            "text": "Around bread there will always be crumbs.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "As busy as a bee.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "As chicken is not a bird, woman is not a human being.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "As cold waters to a thirsty soul, so is good news from a far place.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "As hungry as a wolf.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "As is well that ends well.",
+            "description": "(if the final result is good,previous failures are forgotten and there is no need to complain, since the end result is the most importance thing)",
+            "category": "russian"
+        },
+        {
+            "text": "As long as a child does not cry, it does not matter what pleases it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "As long as the fish swims in the water, don’t light up the grill.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "As long as the sun shines one does not ask for the moon.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "As soon as your cart is turned over, everyone rushes to give you advice.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "As twice two is four.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "As you brew, so must you drink.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "As you cooked the porridge, so must you eat it.",
+            "description": "(every must take consequences of his own actions)",
+            "category": "russian"
+        },
+        {
+            "text": "As you make your bed, so you will sleep.",
+            "description": "(a person must take the responsibility for the results of his own unwise actions; just as a man who makes his bed badly will certainly sleep uncomfortably.)",
+            "category": "russian"
+        },
+        {
+            "text": "Ask a lot, but take what is offered.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Ask a silly question and you get a silly answer.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Asking is no sin, and being refused is no tragedy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Bad luck is fertile.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Badly oiled wheels will squeak.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Be patient, cossack, and you’ll be a chieftain.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Be wise, but pretend to be ignorant.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Beat your own and others will fear you.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Beauty is the sister of idleness and the mother of luxury.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Beauty’s sister is vanity, and its daughter lust.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Before we went to churches and bars",
+            "description": "",
+            "category": "now we go to clubs and cinemas. – russian"
+        },
+        {
+            "text": "Berry by berry, a basket will be full.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Best is the enemy of good.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Better a bed of wood than a bier of gold.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Better a dove on the plate than a woodgrouse in the mating place.",
+            "description": "(it is better to accept something small than to reject it and hope to get more later on)",
+            "category": "russian"
+        },
+        {
+            "text": "Better a fair pair of heels than a halter.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Better late than never.",
+            "description": "(it is better to come (to repent, to do something,etc) late than never to come (to repent,to do something,etc.) at all)",
+            "category": "russian"
+        },
+        {
+            "text": "Better to stumble than make a slip of the tongue.",
+            "description": "(it is better to do something wrong that to say something wrong, because it is sometimes more difficult to improve something said than something done)",
+            "category": "russian"
+        },
+        {
+            "text": "Better to turn back than to lose your way.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Better too aware than too unaware.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Between hammer and anvil.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Beware of a quiet dog and still water.",
+            "description": "(you should not afraid of people who make threats and shout in a loud voice; it is the people who are quiet and say little that must really be feared)",
+            "category": "russian"
+        },
+        {
+            "text": "Big voyage for a big ship. Big voyage for a big ship.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Both cheap and angry.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Bread and salt never quarrel.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Bury truth in a golden coffin, it will break it open.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Call a pot, just don’t put into the oven.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Cat died of curiosity.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Chickens are counted in autumn.",
+            "description": "(do not be sure of success,victory,etc.,until all difficulties have been overcome; make sure that a thing is actually yours before you speak or act as if it were already yours)",
+            "category": "russian"
+        },
+        {
+            "text": "Chipped china lasts two centuries.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Choose a matchmaker, not a bride.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Clemency is the support of justice.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Clever father, clever daughter; clever mother, clever son.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Close to the Tsar, close to death.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Confide a secret to a dumb man and he will speak.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Conversation shortens the distance, singing lightens the load.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Cows forget that they were calves.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Creditors have better memories than debtors.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Crows are black the world over.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Cry and the whole world cries with you.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Cry not for the hair when the head is off.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Cry not out before you are hurt.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Curious Varvara’s nose was torn off.",
+            "description": "(a person who tries to find out too much about other people’s affairs is likely to suffer injury or harm; a warning to mind one’s own business)",
+            "category": "russian"
+        },
+        {
+            "text": "Custom is stronger than law.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Cut down the tree that you are able to.",
+            "description": "(do not undertake more than you are able to perform or something that is too difficult)",
+            "category": "russian"
+        },
+        {
+            "text": "Death answers before it is asked.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Death carries on its shoulders a heavy Tsar just as easily as a light beggar.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Death does not come free of charge, for it costs us our life.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Death does not take the old but the ripe.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Death is a giant against whom even the Tsars must draw weapons.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Death is not found behind mountains but right behind our shoulders.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not be born good or handsome, but be born lucky.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not carry rubbish out of your hut.",
+            "description": "(do not discuss your fault, mistakes, private, and especially family, grievances, troubles, quarrels, scandals, etc., in public)",
+            "category": "russian"
+        },
+        {
+            "text": "Do not cut the bough you are sitting on.",
+            "description": "(do not act in such a way as to do yourself harm)",
+            "category": "russian"
+        },
+        {
+            "text": "Do not dig a hole for somebody else; you yourself will fall into it.",
+            "description": "(mistakes, misdeeds, etc., come back as an unpleasant effect on the person who originally made the mistakes, did the misdeeds, etc)",
+            "category": "russian"
+        },
+        {
+            "text": "Do not look at gift horse’s mouth.",
+            "description": "(never criticize or express displeasure when you receive a gift;be thankful that you have it at all.(examination of a horse’s mouth reveals a lot about its age and condition)",
+            "category": "russian"
+        },
+        {
+            "text": "Do not look for further good from good.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not look for good from good.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not make an elephant out of a fly.",
+            "description": "(do not worry or become excited about matters that are not really important at all. do not exaggerate the importance of matters)",
+            "category": "russian"
+        },
+        {
+            "text": "Do not make jokes that cost more than a ruble.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not make me kiss, and you will not make me sin.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not measure (others) by your own arshin (=28 inches)",
+            "description": "(do not judge others by yourself; do not apply your own standard to other)",
+            "category": "russian"
+        },
+        {
+            "text": "Do not measure others by your own yardstick.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not plant a tree with its root upward.",
+            "description": "(do not do or say things in the wrong order; do not reverse the right or natural order of things)",
+            "category": "russian"
+        },
+        {
+            "text": "Do not plant a tree with the roots upward.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not play with fire, you will burn yourself.",
+            "description": "(do not take risks with dangerous articles,especially when it is foolish and unnecessary; do not put yourself into a position that may be dangerous)",
+            "category": "russian"
+        },
+        {
+            "text": "Do not praise yourself when going of to battle going into battle; praise yourself coming out of battle.",
+            "description": "(do not rejoice till you are sure that your difficulties are at an end)",
+            "category": "russian"
+        },
+        {
+            "text": "Do not spit in the well you may be thirsty by and by.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not spit into a well-it may be useful to drink water.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not spit into the well that you might need to drink out of.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not spit into the well you may have to drink of.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not teach a learned person.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Do not teach a pike to swim, a pike knows his own science.",
+            "description": "(do not tell or show somebody how to do something that he can do perfectly well and probably better than you yourself)",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t be so clever; cleverer ones than you are in jail.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t blame your wife’s side if your son is cross-eyed.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t boast when you start out, but when you get there.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t buy the house, buy the neighborhood.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t chat on the phone",
+            "description": "",
+            "category": "a talker is a great find for a spy. – russian"
+        },
+        {
+            "text": "Don’t dig a hole for someone else, as you will fall into it yourself.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t drive a Binya into the woods if he has found his way to your house.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t fight with the strong one, don’t sue the rich one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t hope for rain or thunder, hope for an agronomist.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t look a gift horse in the mouth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t be so clever; cleverer ones than you are in jail.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t blame your wife’s side if your son is cross-eyed.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t boast when you start out, but when you get there.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t buy the house, buy the neighborhood.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t chat on the phone a talker is a great find for a spy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t dig a hole for someone else, as you will fall into it yourself.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t drive a Binya into the woods if he has found his way to your house.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t fight with the strong one, don’t sue the rich one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t hope for rain or thunder, hope for an agronomist.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t look a gift horse in the mouth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t look for a sea when you can drown in a puddle.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t pluck the apple while it is green; when it is ripe it will fall of itself.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t praise your furnace when the house is cold.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t put all eggs in one basket.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t put all your eggs in one basket.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t put it in my ear, but in my hand.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t put new wine into old bottles.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t raise your stick and the dog won’t bark at you.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t swear off of beggary and jail.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t wake up trouble while it sleeps quietly.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Don’t worry if you borrow, but worry if you lend.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Drowning man clutches at straw.",
+            "description": "(anyone in desperate circumstances will try every possible means to escape from danger or difficulty even though he knows it is unlikely to be successful)",
+            "category": "russian"
+        },
+        {
+            "text": "Each day learns from the one before it, but no day teaches the one after it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Each time it is different.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Ears do not grow higher than the head.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Eat until you are half full; drink until you are half drunk.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Eat what is cooked; listen to what is said.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Eggs cannot teach a hen.",
+            "description": "(do not give advice to someone who is more experienced than you; do not teach a person who is wiser and more knowledgeable)",
+            "category": "russian"
+        },
+        {
+            "text": "Eggs don’t teach the hens anything.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Either chest in crosses, or a head in bushes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Elderberries in the yard and an uncle in Kiev.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Elder-berry is in the kitchen-garden, therefore your Uncle is in Kiev.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Envy can breed swans from bad duck eggs.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Envy sees the sea but not the rocks.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Eternal peace lasts only until the next war.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Eternal peace lasts until the next war.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Eternity makes room for a salty cucumber.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Even a blind pig finds an acorn every once in awhile.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Even a blind squirrel finds an acorn sometimes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Even an eagle will not fly higher than the sun.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Even an old lady makes mistakes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Even good dogs have fleas.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Even honor is not an honor, if there is nothing to eat.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Even in the ashes there will be a few sparks.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Even one person in the field is a warrior, if he is a soviet warrior.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Even pulling a fish out of the pond requires some effort.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Even vinegar is sweet when for freebie.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Even walls may have ears.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Every Ananya has his Melanie.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Every cricket must know its hearth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Every day is a messenger of God.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Every peasant is proud of the pond in his village because from it he measures the sea.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Every road has two directions.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Every sandpiper praises his own swamp.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Every sandpiper praises its own swamp.",
+            "description": "(every man praises what is familar and dear to him)",
+            "category": "russian"
+        },
+        {
+            "text": "Every seed knows its time == All in good time.",
+            "description": "(one should not be impatient and hasten events; everything will work out after some time,but not immediately)",
+            "category": "russian"
+        },
+        {
+            "text": "Every seed knows its time.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Every vegetable has its time.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Everyone has his own Czar in his head.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Everyone loves the tree that gives him shelter.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Everything is funny as long as it happens to someone else.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Everything tastes bitter to him with gall in his mouth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Eyes are afraid, but hands are doing the job.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Fear has big eyes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Fear has large eyes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Fear the goat from the front, the horse from the rear, and a man from all sides.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Fear the Greeks bearing gifts.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Fear the law not the judge.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Fedot, yet not the one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Fedot, yet not the right one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Feel free to jabber, Emelya-it’s your week.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Fighting for your country glorifies death.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "First do it, then say it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "First the stable, then the cow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Fishermen recognize each other from far away.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Flies and priests can enter any house.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Fools make feasts and wise men eat them.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "For a drunkard the sea only reaches his knees.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "For a drunken one a sea is knee-deep, and a puddle ears-deep.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "For a mad dog, seven versts is not a long detour.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "For a poor man, to prepare for a trip means belt himself.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "For each wise man there are plenty of fools.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "For every one with a plow-there’re seven with a spoon.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "For him who does not believe in signs, there is no way to live in the world.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "For ill do well, Then fear not hell.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "For some people war is war, for others dear mother.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Force a fool to pray and he’ll crack his forehead.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Forgiveness is a pillar of justice.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Fortune and misfortune live in the same courtyard.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Freedom for the free and heaven for the saved.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Friendship is friendship, but keep our tobacco apart.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Friendship is one thing and tobacco is another.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "From fire to flame.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Further from the eye",
+            "description": "",
+            "category": "closer to the heart. – russian"
+        },
+        {
+            "text": "Give a naked man a piece of cloth and he will say it is too thick.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Give your children too much freedom and you lose your own.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Giving gifts to the rich is like pouring water into the sea.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Glory lies still; abuse is running.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Glowing coals sparkle oft.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God bestows no horns upon an ill-tempered cow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God comes with leaden feet but strikes with iron hands.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God does not give horns to a cow that likes to gore.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God does not give to the cow that butts.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God doesn’t give more beards than soap.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God gave, God took back.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God gives to those who get up early.",
+            "description": "(the person who gets up early to work will be successful; those that arrive early at a place have the advantage over the latecomers)",
+            "category": "russian"
+        },
+        {
+            "text": "God gives to those who wake up early.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God is always where we don’t look for him.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God is far up high, the Tsar is far away.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God keeps those safe who keep themselves safe.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God marks the crook.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God takes care of the one who takes care of himself.",
+            "description": "(what appears to be cowardice may be wise caution,and what appears to be valour may be foolish rashness; so unnecessary risks should not be run)",
+            "category": "russian"
+        },
+        {
+            "text": "God wanted to chastise mankind, so he sent lawyers.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "God wanted to punish mankind, so he created lawyers.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Golden hands, but a wicked mouth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Good brotherhood is the best wealth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Good fortune wears a pretty dress but its underclothes do not bear investigation.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Gossip needs no carriage.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Guard your honor from your youth, and your weapons once you’ve got them in hand.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Habit is a second nature.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Habit is a shirt that we wear till death.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Hands wash each other.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Hang a German, even if he is a good man.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Happiness is not a horse, you cannot harness it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Haste is good only for catching flies.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Have a good time if you want — but don’t overdo it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Having a good wife and rich cabbage soup, seek not other things.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Having given your word, be strong; not having done it, try not to promise.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He can cheat a fish of its skin.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He is dead who is faultless.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He lied like an eyewitness.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He lived a colonel but died a corpse.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He makes the bed soft, yet it’s hard to sleep on.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He need not search his pockets for words.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He that would learn to pray, let him go to sea.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He took the devil’s mat, but he’ll pay back with his skin.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He who doesn’t risk never gets to drink champagne.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He who is destined for the gallows will not be drowned.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He who is frightened of a sparrow will never sow barley.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He who offers his back should not complain if it is beaten.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He who serves the Tsar cannot serve his people.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "He would exclaim \"Ah\" looking at himself.",
+            "description": "(people are inclined to shut their eyes to their own sins and vices.)",
+            "category": "russian"
+        },
+        {
+            "text": "Heart with pepper, soul with garlic.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "His word is as good as a tied knot.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Hold your children with your heart but teach them with your hands.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Honor goes to God; the priests get the bacon.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Hope for God, but do not be reliant.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Hope in the Lord, but exert yourself.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "How echo is prompted, it will bounce back.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "How is prompted, it will bounce back.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "However much you steal from your state, all the same you won’t get your own back.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "However much,good you feed the wolf, he still looks at the wood.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "However muchwould the string wind, the end will be reached anyway.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "However would the string wind, the end will be reached.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "However you feed the wolf, he still looks at the wood.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Hunger is not your aunt.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Hypocrites kick with their hind feet while licking with their tongues.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "I need not fear my enemies because the most they can do is attack me. I need not fear my friends because the most they can do is betray me. But I have much to fear from people who are indifferent.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "I sell it for what I bought it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Ice in spring is treacherous; new friendships are seldom sure.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Idleness is the mother of all vices.",
+            "description": "(there is no excuse for doing nothing – when people do not have enough work to do,they into trouble)",
+            "category": "russian"
+        },
+        {
+            "text": "If a poor man finds a penny, it is probably a false one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If age and experience came at birth, We would have neither youth nor mirth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If everyone gives one thread, the poor man will have a shirt.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If everyone were a gentleman, who would make the mills work?",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If God listened to every shepherd’s curse, our sheep would all be dead.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If God sends you meal, the devil takes the sack.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If Jesus Christ comes to help me, I laugh at the angels.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If men could foresee the future, they would still behave as they do now.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If Moscow is the heart of Russia and St. Petersburg is its head, then Kiev is its mother.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If mushrooms grew in the mouth, that would be not mouth but kitchen garden.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If not by washing, then by rolling.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If one hand were the other they would both want to be clean.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If rubles fell from heaven the poor would have no bag.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If the child does not cry, the mother won’t know what it wants.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If the collective farm is wealthy, the farmer is happy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If the devil catch a man idle he’ll set him at work.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If the doctor cures, the sun sees it; but if he kills, the earth hides it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If the family is together, the soul is in the right place.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If the fool has a hunchback no one remarks about it; if a wise man has a boil everybody talks about it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If the peasant doesn’t hear the thunder he won’t make the sign of the cross.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If the pocket is empty, the judge is deaf.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If the thunder is not loud, the peasant forgets to cross himself.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If there is no apple one eats a little carrot.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If there is no caviar one eats porridge.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you are a host to your guest, be a host to his dog as well.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you are afraid of the wolves, do not go to the woods.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you are going to do something carelessly, it is better to give it up entirely.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you called yourself a milk-mushroom-get into the basket!.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you chase two rabbits, you will not catch either one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you didn’t catch anything when fishing, then a crab is a fish.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you do not strike back at him who hits you, there is no way for him to find out whether you also have hands.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you do what you’ve always done, you’ll get what you’ve always gotten.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you don’t crack the shell, you can’t eat the nut.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you don’t deceive, you can’t sell.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you don’t have a hundred rubles, make sure you have a hundred friends.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you don’t have time to do it right you must have time to do it over.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you enjoy riding, enjoy pulling the sleigh.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you enjoy riding, you better enjoy pulling the sleigh.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you feel an urge to work, take a nap, and it will pass.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you flatter the mother, you will embrace the daughter.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you follow god, you won’t find anything.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you go to war pray once; if you go on a sea journey pray twice; but pray three times when you are going to be married.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you have eaten the morsel on Wednesday, do not look for it on Thursday.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you learn a lot, you’ll age soon.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you make a fool to pray to God, he will hurt forehead.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you rely on god, you won’t fail.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you rush things, you’ll just make others laugh.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you start chasing two hares, you will catch none.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you take it together, it will not be heavy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you talk to an official you must talk rubles.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you throw nettles into your neighbors garden you will find them growing in your own.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you want to be a hundred you must start young.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you were born lucky, even your rooster will lay eggs.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you will not hear reason, she will surely rap your knuckles.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If your face looks skewed, don’t blame the mirror.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If your face skewed, don’t blame the mirror.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If your heart is a rose, then your mouth will speak perfumed words.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "If you’re afraid of wolves, don’t go to the woods.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In a crush, yet without resentment.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In a deal there are two fools: the one who asks too much and the one who asks too little.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In a fight the rich man tries to save his face, the poor man his coat.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In a quarrel, leave room for reconciliation.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In a rickety stable the cow produces no milk.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In affect you can break even an elm.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In other persons’ eye one can see a mote, in one’s own",
+            "description": "",
+            "category": "cannot see a log. – russian"
+        },
+        {
+            "text": "In Russia every day is of thirty hours.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In the garden of time grows the flower of consolation.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In the kingdom of hope, there is no winter.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In the lake of lies there are many dead fish.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In the land of hope, there is never any winter.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "In the times of czar Goroch.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Intoxication is not the wine’s fault but man’s.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Invite a peasant to your table and he’ll put his feet on it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is a bad workman that has a bad saw.",
+            "description": "(a careless or unskilled person blames his tools to excuse himself for bad work, while it is his own carelessness or lack of skill which is really to blame)",
+            "category": "russian"
+        },
+        {
+            "text": "It is better to have a small fish than a big cockroach.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is bread that keeps one warm, not fur.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is easier for the horse when a woman gets off the cart.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is easier to bear a child once a year than to shave every day.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is easier to bear a child once a year than to shave everyday.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is easier to fill bellies than one pair of the eyes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is easier to fill twenty bellies than one pair of eyes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is easy to undress the naked.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is good to be visiting, but it is better to be at home.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is good to be visiting, but it is better at home.",
+            "description": "(your home (i.e. your house,your home town,etc.) is where you are likely to be happiest, especially in comparison with other places you may be at the time)",
+            "category": "russian"
+        },
+        {
+            "text": "It is good to pay with other people’s money.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is never winter in the land of hope.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is not the horse that draws the cart, but the oats.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is unpleasant to go alone, even to be drowned.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It is wanted and repellent.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It makes chicken laugh.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It takes all kinds of trees to make a forest.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It was smooth on paper, but forgotten about ravines.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It was smooth on paper, but we’ve forgotten about ravines.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It will heal well before your wedding.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It will last out our time; if after us no grass grows, what does it matter to us?",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It will snap where it’s the thinnest.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It’s a crime if you get caught.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It’s better to be a cripple than always sitting down.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It’s better to be known as a rascal than a fool.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It’s better to be too aware than too unaware.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It’s better to see once than hear a hundred times.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It’s easier to tear a hole than to mend one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It’s nice to have a spoon in time for dinner.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "It’s the still waters that are inhibited by devils.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Jabber, Emelya your week.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Jesus Christ was crucified by public opinion.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Judges and physicians kill with impunity.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Keep your ears wider and your mouth narrower.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Keep your eye on the ball.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Know friend when trouble.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Law is a flag and gold is the wind that makes it wave.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Law is like a shaft of a cart, it points wherever you turn it to.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Laws are silent in time of war.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Lenin’s science strengthens the mind and the hands.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Lenin’s truth makes great strides all around the world.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Let everyone pick his own nose.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Lie, but don’t overdo it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Life is short, but there’s a lot to be done.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Like priest, like church.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Like two drops of water.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Live and scratch — when you’re dead the itching will stop.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Live for a century",
+            "description": "",
+            "category": "learn for a century. – russian"
+        },
+        {
+            "text": "Living life is not like crossing a meadow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Living life is not like just crossing a field.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Living mindlessly is paradise.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Living your life is not like crossing a meadow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Long whiskers cannot take the place of brains.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Look for wind in a field.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Looking at a tree see its fruit; looking at a man see his deeds.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Loose words are picked up like gold coin.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Love and eggs are best when they are fresh.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Love has its own language, but marriage falls back on the local dialect.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Love is like a glass that breaks if handled clumsily.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Love makes the owl seem prettier than a white falcon.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Make a friend of the wolf, but keep your axe ready.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Make peace with man and war with your sins.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Make peace with people; wage war with your sins.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Make thyself a sheep, and the wolf is ready.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Make yourself a sheep and the wolf is ready.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Makes the bed soft, yet hard to sleep.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Many people who have gold in the house are looking for copper outside.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Many who have gold in the house are looking for copper outside.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Mass is not repeated for the deaf.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Masters are fighting, servants’ forelocks are creaking.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Meanness looks through one eye only, ambition is blind.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Measure thy cloth ten times, thou canst cut it but once.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Men who watch their fortune grow find their houses too small.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Men will not be fortunate without a helping hand from misfortune.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Messengers should be neither beheaded nor hanged.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Misfortune does not visit the weak-hearted.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Mistrust is an axe in the tree of love.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Mock not the fallen, for slippery is the road ahead of you.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Mocking is catching.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Money is like down — one puff and it’s gone.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Money is only good for a weekday, a holiday, and a rainy day.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Moscow does not believe in tears.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Much noise from nothing.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Mute as a fish.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "My job ‘cock-a-doodle-doo’; from then on, it may not dawn.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "My job is to scream, ‘cock-a-doodle-doo’; from then on, it may not dawn.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Near is my shirt, but nearer is my skin.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Neither fish nor meat.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Neither rhyme nor harmony.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Never kiss an opportunity with a dirty mouth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "No apple tree is immune from worms.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "No family has no ugly member.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "No man can be a good ruler unless he has first been ruled.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "No matter how much you feed a wolf, he will always return to the forest.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "No money is taken for just looking at somebody or something.",
+            "description": "(there is nothing to prevent an ordinary person from l looking at a person of great importance so long as he tries to do no harm)",
+            "category": "russian"
+        },
+        {
+            "text": "No money is taken for just looking.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "No one can take two skins from one ox.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "No one is dragged to heaven by the hair.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "No one is hanged who has money in his pocket.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "No one knows how the poor man dines.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "No year has two summers.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Nobody goes to another monastery with one’s own charter.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Nobody goes to Tula with one’s own samovar.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Nosy Barbara’s nose was torn off at the market.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Not all who make love make marriages.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Not every glittering thing is gold.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Not everyone who has a cowl on is a monk.",
+            "description": "(do not judge people by what they appear to be)",
+            "category": "russian"
+        },
+        {
+            "text": "Not everything is a mermaid that dives into the water.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Not for village, not for town.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Nothing is worse than waiting or chasing.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Old age is not a blessing.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Old age is not a joy, but death is not a gain.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "On a fishing lull, even a crayfish is fish.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "On an empty belly every burden is heavy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Once burned by milk you will blow on cold water.",
+            "description": "(after some bitter or painful experience you will be on your guard against similar troubles our sufferings)",
+            "category": "russian"
+        },
+        {
+            "text": "Once it flies out, you can’t catch it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Once you have fallen into the water, you’re not scared of water any more.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One can even get used to living hell.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One can get sick of cake, but never of bread.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One cannot make a fur coat from a \"Thank you.\"",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One can’t break an axe with a whip.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One can’t spoil porridge with butter.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One day before you is better than ten years behind you.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One does not go to Tula with one’s own samovar.",
+            "description": "(tula-russia city. do not do anything that is completely unnecessary; do not take supplies, articles, etc., to a place where are plenty of them already)",
+            "category": "russian"
+        },
+        {
+            "text": "One does not look for good from good.",
+            "description": "(by continually striving for the best one way waste good opportunities)",
+            "category": "russian"
+        },
+        {
+            "text": "One does not look for good when he is well.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One does not regret giving one’s own ear-ring to one’s dear friend.",
+            "description": "(one does not regret giving the best to one’s friend)",
+            "category": "russian"
+        },
+        {
+            "text": "One does not sharpen the axes after the right time; after the time they are needed.",
+            "description": "(it is useless to have something when there is no use for it)",
+            "category": "russian"
+        },
+        {
+            "text": "One does not wash one’s dirty linen in public.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One doesn’t bring samovars to Tula.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One fisherman recognizes another from afar.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One fisherman sees another from afar.",
+            "description": "(people of similar interests,tastes or characters are attracted to each other and stay close together)",
+            "category": "russian"
+        },
+        {
+            "text": "One good daughter is worth seven sons.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One is not a thief unless caught stealing.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One is one’s own master on one’s own stove.",
+            "description": "(an englishman can do as he likes in his own home and nobody may enter it without his permissions)",
+            "category": "russian"
+        },
+        {
+            "text": "One is received according to one’s dress and sent off according to one’s wit.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One is wiser in the morning than in the evening.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One man in a field is not a warrior.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One may make up a soft bed for somebody, but still it will be hard to sleep in.",
+            "description": "(one should beware of an attractive offer, for there is very likely)",
+            "category": "russian"
+        },
+        {
+            "text": "One may make up a soft bed, but still it will be hard to sleep in.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One naturally prefers one’s own kind.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One never tires working for oneself.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One road for the fugitive and a hundred for the pursuer.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One rotten beam can make a whole house collapse.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One son is no son, two sons is no son, but three sons is a son.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One sprinkles the most sugar where the tart is burnt.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One stupid woman recognizes another one from a distance.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One who seeks no friends is his own enemy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "One who sits between two chairs may easily fall down.",
+            "description": "(a person who cannot decide which of two courses to follow, who tries to follow two courses at the same time,may fail to follow either)",
+            "category": "russian"
+        },
+        {
+            "text": "One with a plow",
+            "description": "",
+            "category": "seven with a spoon. – russian"
+        },
+        {
+            "text": "One would like to eat fish, but would not like to get into the water.",
+            "description": "(said of a person who is anxious to obtain something valuable but does not want to take the necessary trouble or risk)",
+            "category": "russian"
+        },
+        {
+            "text": "One would like to eat honey, but would not like to get stung.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Onion treats seven ailments.",
+            "description": "(if person eats an onion every day,he will remain healthy and not need a doctor)",
+            "category": "russian"
+        },
+        {
+            "text": "Only a fool will make a doctor his heir.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Only chained bears dance.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Only death will cure the hunchback.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Only he who does nothing makes no mistakes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Other people’s money has sharp teeth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Our eyes are our enemies.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Out of eyesight",
+            "description": "",
+            "category": "out of heart. – russian"
+        },
+        {
+            "text": "Overseas, a cow a quarter of kopeck, but a rouble to ship.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Overseas, a cow costs a quarter of kopeck, but it will cost a rouble to ship it here.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Paper is patient you can put anything on it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Partnership is an invention of the devil.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Peace and harmony is great treasure.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Peace lasts till the army comes, and the army lasts till peace comes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Peace lasts until the army comes, and the army lasts until peace comes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Plan your life as though you were going to live forever, but live today as if you were going to die tomorrow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Politics is a rotten egg; if broken, it stinks.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Poverty is a sin that the rich never forgive.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Poverty is crafty.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Poverty is not a sin, it’s worse than that.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Praise a fair day at night.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Pray for revenge, and God will turn a deaf ear.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Pray to God but continue to row to the shore.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Pray to God, but be level-headed.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Pray to God, but keep on rowing to the shore.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Pray to God, but keep rowing to the shore.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Praying kneads no dough.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Proverbs are the people’s wisdom.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Pull out the beak and the tail gets stuck, pull out the tail and the beak gets stuck.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Rain falls alike on the just and the unjust.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Rather a bitter truth than a sweet lie.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Regretting the past is like chasing after the wind.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Reperition is a mother of learning.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Ride slower - get further.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Ride slower",
+            "description": "",
+            "category": "you’ll get further. – russian"
+        },
+        {
+            "text": "Rooster today, feather duster tomorrow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Rotten straw can harm a healthy horse.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Running away is not glorious, but often very healthy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Russia was tsarist",
+            "description": "",
+            "category": "became proletarian. – russian"
+        },
+        {
+            "text": "Seeing the Kremlin stars going forward braver.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Seek the brave in prison and the stupid among the clergy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Seven don’t wait for one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Seven nannies make a one-eyed kid.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Seven people don’t wait for one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Shame is worse than death.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Shoot a daw and a crow, and soon you’ll hit a falcon.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Single man in a field is not a warrior.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Sit a beggar at your table and he will soon put his feet on it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Small children give you headache; big children give you heartache.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Small children give you headache; big children heartache.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Small choice in rotten apples.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Small faults indulged in are little thieves that let in greater.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Small gifts go to places where men expect bigger ones.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Smooth hands love the labor of others.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "So the man, so his shadow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Soap is grey but it used to be white.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Some people are masters of money, and some its slaves.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Some people are masters of money, and some people are slaves of it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Something well cared for lasts two centuries.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Sorrow doesn’t kill, but it blights.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Spending is quick, earning is slow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Spent as earned.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Still water undermines the bank.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Still waters are inhibited by devils.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Stormy weather cannot stay all the time, the red sun will come out, too.",
+            "description": "(things are at their worst just before they get better, or the worst stage is often the prelude to an improvement)",
+            "category": "russian"
+        },
+        {
+            "text": "Stretch your legs according to your clothes.",
+            "description": "(one should remain within the limits of what one has or what one can afford)",
+            "category": "russian"
+        },
+        {
+            "text": "Strike while the iron is hot.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Success and rest don’t sleep together.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Success consecrates the foulest crimes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Success has many fathers, while failure is an orphan.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Take a man at his word, an ox by the horns.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Take care of clothes since they are new, take care of your honor since you are young.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Take care of your dress from when it’s new and your honor from your youth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Take the bull by the horns.",
+            "description": "(you should deal with something difficult boldly without delay)",
+            "category": "russian"
+        },
+        {
+            "text": "Take the goods the gods provide.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Take thy thoughts to bed with thee, for the morning is wiser than the evening.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Take time to smell the roses.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Take time when time is, for time will away.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Take together, it will not be heavy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Tastes are not argued.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Tears come more often from the eyes than from the heart.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Tell God the truth, but give money to the judge.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Tell God the truth, but give the judge money.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Tell lies, but become not tangled in lies.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Tell me who your friends are and i’ll tell you who you are.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Tell me who’s your friend and I’ll tell you who you are.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Thanks to one small candle the whole of Moscow burns.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "That’s the snag!.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "That’s where the dog is buried.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "That’s, Grandma, the Yuri’s Day.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The appetite comes during a meal.",
+            "description": "(desire or facility increases as an activity proceeds)",
+            "category": "russian"
+        },
+        {
+            "text": "The appetite comes with eating.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The apple doesn’t fall far away from the apple-tree.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The bear dances but the tamer collects the money.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The beautiful is less what one sees than what one dreams.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The belly is like a judge that is silent yet still asks questions.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The blind cannot see — the proud will not.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The boss is always right.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The calmer you go, the further along you will be.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The cart is still there.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The casket opened in a simple way.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The casket opened simple.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The castle gates will always open for gold-laden donkeys.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The cat knows who’s meat it has eaten.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The cat with cream on her whiskers should have a good excuse ready.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The church is near but the road is icy; the bar is far away but I’ll walk carefully.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The coat is quite new, only the holes are old.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The crow flew over the sea but returned still a crow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The cub does not teach the Wolf.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The devil is not as scary as they paint him.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The devil is not so frightful as he is painted.",
+            "description": "(any person of bad character is not so bad as people say he is)",
+            "category": "russian"
+        },
+        {
+            "text": "The devil is not so frightful as he is painted.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The dog learns to swim when the water reaches his ears.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The elbow is near, but try and bite it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The empty vessel makes the greatest sound.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The end is the crown of any work.",
+            "description": "(it is the final result than completes all that went before and is its culmination; it is the final result than matters)",
+            "category": "russian"
+        },
+        {
+            "text": "The fall of a leaf is a whisper to the living.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The fall of the leaf; is a whisper to the living.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The fathers ate the cranberries and the children are left with the aftertaste.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The first [cup of vodka] goes as a stake, the second as a falcon, and the third as a little bird.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The first blin always turns out lumpy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The first goes as a stake, the second as a falcon, and the third as a little bird.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The first pancake is a blob.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The first pancake is always a failure.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The first snow does not mean winter, nor the first love marriage.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The fish always stinks from the head downwards.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The future is for those who know how to wait.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The greatest king must at last be put to bed with a shovel.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The hammer shatters glass but hardens steel.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The hearth in our house is warmer than our neighbor’s.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The horse loves oats; the earth, manure; and the governor, tribute.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The horse may run quickly, but it can’t escape its own tail.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The horses of hope gallop, but the asses of experience go slowly.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The lambskin is not worth the currying.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The less you know, the more soundly you sleep.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The lonely person is at home everywhere.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The lucky man’s enemy dies, and the unlucky man’s friend.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The man is the flame, the woman the glow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The moon gives us light but no heat.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The more you know the less will you sleep.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The morning is wiser than the evening.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The morning sun never lasts a day.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The naked don’t fear robbery.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The newborn baby yells; you die in silence.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The night walks the same road as the dream.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The nights are short for him who married late in life.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The night’s too short to warrant marrying poor.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The noblemen’s quarrels can be read on the backs of the peasants.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The offender never forgives.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The old bear falls into the old trap.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The one who draws (a cart) is urged on.",
+            "description": "(a man willing to work is always given more work to do than a lazy one,because the work which given to willing man will be done well and quickly)",
+            "category": "russian"
+        },
+        {
+            "text": "The one who draws the cart is urged on.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The one who pulls a cart is urged on.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The past is for God, the future for the Tsars.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The payment adorns the debt.",
+            "description": "",
+            "category": "russian proverb – russian"
+        },
+        {
+            "text": "The peasant sweats and the nobleman is always right.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The peasant will not cross himself before it begins to thunder.",
+            "description": "(do not do at the last moment anything that was to be done long before.do not put things off until the last moment)",
+            "category": "russian"
+        },
+        {
+            "text": "The person afraid of bad luck will never know good.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The poorer, the more generous.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The reserve doesn’t weight your pocket.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The rich would have to eat money if the poor did not provide food.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The riches that are in the heart cannot be stolen.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The river is flat but the banks are steep.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The river’s reputation ends where the sea begins.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The same hammer that breaks the glass forges the steel.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The sat one doesn’t understand the hungry one: for one the soup is too thin, for the other - the pearls are too small.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The scythe has hit a stone.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The scythe ran into a stone.",
+            "description": "(said of meeting of two persons who are a match for each other in cunning or power)",
+            "category": "russian"
+        },
+        {
+            "text": "The shovel insults the poker.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The slower you go, the farther you will be.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The sluggard will not plough by reason of the cold; therefore shall he beg in harvest, and have nothing.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The sober man’s secret is the drunkard’s speech.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The sooner you get in, the sooner you get out.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The stargazer’s toe is often stubbed.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The sun will shine into our yard too.",
+            "description": "(neither the weather nor people can remain disturbed for long;the calm(sun) must follow)",
+            "category": "russian"
+        },
+        {
+            "text": "The sythe ran into a stone.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The tallest blade of grass is the first to be cut by the scythe.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The tallest tree is rooted in the ground.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The tears of strangers are only water.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The teeth are not match for the nut.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The thief has a chicken’s heart — he sleeps in fear.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The thief makes perhaps one mistake; those he stole from made a hundred.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The toe of the star-gazer is often stubbed.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The tongue always returns to the sore tooth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The tongue speaks, but the head doesn’t know.",
+            "description": "(foolish and vain people are very fond of expressing their own opinions and talking too much)",
+            "category": "russian"
+        },
+        {
+            "text": "The Tsar has three hands but only one ear.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The vulture embraced the chicken until its last breath.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The whole Soviet country is visible from the Kremlin.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The wife is twice precious only; when led into the house, and when taken out.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The wise man boasts of his goods and wares; the foolish one of his young wife.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The wise man says \"I am looking for truth\"; and the fool, \"I have found truth.\"",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The wolf can always be hired very cheap as a shepherd.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The wolf is not afraid of the sheepdog, but he is of his chain.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The wolf will hire himself out very cheaply as a shepherd.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The woman had no problems so she bought some pigs.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The word is silver, the silence is gold.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "The young lobster learns his manner of walking from the old lobster.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There are many fathers, but only one mother.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There are more whores in hiding than there are public ones.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There are no bad ships at all, there are bad captains.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There are only two types of Chinese — those who give bribes and those who take them.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There are two kinds of Chinese: those who give wine and those who drink it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There is more light than can be seen through the window.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There is no evil without good.",
+            "description": "(in every trouble and difficulty there is hope or expectation of an improvement in the circumstances; a misfortune may turn into a benefit)",
+            "category": "russian"
+        },
+        {
+            "text": "There is no honor when there is nothing to eat.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There is no law written for fools.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There is no repentance after death.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There is no shame in not knowing — the shame lies in not finding out.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There is no smoke without fire.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There is nothing better than a rich wife and a generous mother-in-law.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There is only one good - knowledge; there is only one evil – ignorance.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There is plenty of sound in an empty barrel.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There may be deep bottoms in still waters.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There may be snow on the roof, but there’s fire in the belly.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There was",
+            "description": "",
+            "category": "there wasn’t. – russian"
+        },
+        {
+            "text": "There was a time they loved an accordionist, and now the time has come where they love a tractor driver.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There were people before us and there will be people after us.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There will be trouble if the cobbler starts making pies.",
+            "description": "(a person should concern himself with his own trade or occupation and should not engage in, or give advice about, other trades or occupations)",
+            "category": "russian"
+        },
+        {
+            "text": "There will come a time when the seed will sprout.",
+            "description": "(do not trouble yourself about future problems and difficulties, but wait till you have to deal with them; then will be the time to worry about them,not now)",
+            "category": "russian"
+        },
+        {
+            "text": "There would be no good fortune had misfortune not helped.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There’s no bad without the good.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "There’s no harm in wine, it’s drunkenness that is at fault.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "They bow to you when borrowing, you bow to them when collecting.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "They come into the courtroom in a suit and leave with no trousers.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "They don’t hit you in the nose for asking.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "They don’t swing fists when the fight is over.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "They use a wedge to knock out a wedge.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "They wait three years for what was promised.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Those that are afraid of bad luck will never know good.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Those who are discontent to remain in one place will not earn much.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Those who love you will make you weep; those who hate you will make you laugh.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Thread off the world - shirt for naked.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Time best healer.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Time makes the best healer.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "To ask is no sin, and to be refused is no calamity.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "To become a master or a deadman.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "To every high mountain, there is a higher one.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "To keep a new friend, never break with the old.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "To know that candles are expensive is of no value to the blind man.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "To live is well, but to live well is better.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "To live with wolves, you have to howl like a wolf.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "To run away is not glorious, but very healthy.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "To us - in the tanks, going back – on the sleds.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Together, it’s cramped; apart, it’s boring.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Trouble is here, so open the gates.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Trouble is the beginning of disaster.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Trouble never comes alone.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Trust in God but lock your doors.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Trust in God, but mind your own business.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Trust, but verify.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Truth does not need many words.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Two bears don’t live in one cave.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Two boots make a pair.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Two communists lead three hundred unaffiliated.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Two hands upon the breast, and labour is past.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Unless the thunder strikes, a man won’t cross himself.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Until you have smoked out the bees, you can’t eat the honey.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "USSR - an example for all.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Visiting is good, but home is better.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Vixen resolved not to steal chicken.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Vodka is the aunt of wine.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Vows made in storms are forgotten in calms.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Wait three years for promised.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Warm a frozen snake and it will be the first to bite you.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Water does not run under a lying stone.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Water never loses its way.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "We all see the same sun, but we don’t eat the same meal.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "We do not care of what we have, but we cry when it is lost.",
+            "description": "(we do not appreciate the value of a thing until we have lost it)",
+            "category": "russian"
+        },
+        {
+            "text": "We use to live and spill tears, now we live and build happiness.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Went to get wool, but returned bald.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What boy one begs for, the man throws away.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What comes out of one mouth goes into a hundred others.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What go looking for, will find.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What johnny will not teach himself, johnny will never know.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What makes you happy, makes you rich.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What men usually ask for when they pray to God is, that two and two may not make four.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What plant, that will harvest.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What the heart doesn’t see, the eye will not see either.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What the young one begs for, the grown-up throws away.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What was written by a pen, cannot be taken out with an axe.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What you go looking for, you will find.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "What you plant, that you will harvest.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When a girl is born all four walls weep.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When a needle sees a dagger, she cries \"O sister!\"",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When Anger and Revenge get married, their daughter is called Cruelty.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When death is there, dying is over.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When god will punish, he will first take away the understanding.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When gold speaks, everything else is silent.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When he mounts his horse he forgets God; when he dismounts, he forgets his horse.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When masters are fighting, their servants’ forelocks are creaking.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When misers die, children open up their coffers.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When money speaks the truth is silent.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When money speaks, the truth keeps silent.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When money talks, the truth is silent.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When money talks, then truth stays silent.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When necessity speaks, it demands.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When night falls the face of the wolf lights up.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When the Czar has a cold all Russia coughs.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When the fight’s over, don’t wave your fists.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When the task accomplished, feel free to take a walk.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When the Tsar sins the Empire must do penance.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When the wine is run out, you stop the leak.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When we sing everybody hears us, when we sigh nobody hears us.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When wood is chopped, wood chips will fly.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When you are in a pack of hounds, you either bark or wag your tail.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When you live next to the cemetery you cannot weep for everyone.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When you meet a man judge him by his clothes, when you leave a man judge him by his heart.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "When you meet a man, you judge him by his clothes; when you leave, you judge him by his heart.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Where necessity speaks it demands.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Where something is thin, that’s where it tears.",
+            "description": "(each person or feature in an enterprise or process must be equally reliable; an enterprise or process may fail because of a single weakness or fault)",
+            "category": "russian"
+        },
+        {
+            "text": "Where you saw wood, there the sawdust will fall.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Whether an owl with a stump, or a stump with an owl.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Whether you hit an owl with a stump, or a stump with an owl.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Who drinks till bottom, lives without mind.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Who falls in the water will hold on to the foam to save himself.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Who have not been there - he will be, who have been – will not forget.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Who is brave eats two.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Who lives in exile finds that spring has no charm.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Who owns the bank owns the fish.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Who reminds old, will be deprived of his eye.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Who talks little hears better.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Who wants heat, must endure the smoke.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Who wasn’t [out] in the sea, didn’t pray to God.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Who wasn’t out in the sea, didn’t pray to God.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Whoever wants honey must breed bees.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Why marry, when your neighbor’s wife is ready to go to bed with you?",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Wild ducks and tomorrow both come without calling.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Will heal before wedding.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Wine bears no blame — only the drunkard.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Wisdom is born; stupidity is learned.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "With a piece of bread in your hand you’ll find paradise under a pine tree.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "With lies you may go ahead in the world–but you can never go back.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "With seven nurses the child loses its eye.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Without a cat mice have no restrictions.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Without a fertilizer, there couldn’t be any plants.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Without stooping down for the mushroom, you cannot put it in your basket.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Without the shepherd, sheep are not a flock.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Wolf in sheep’s clothing.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Word is not a sparrow: flies out, can’t catch it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Work is afraid of a skilled worker.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Work is unlike wolf; it won’t run to the woods.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Work makes you into a hunchback and then rich.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Worship the gods of where you live.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Would I know where I’d fall, I’d lay some straw there ahead of time.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Yakov’s magpie started chattering the same thing about anyone.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can bend an alder-tree, if you do it gradually.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can best shoot an eagle with an arrow made from its own feathers.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can get used to anything — even hell.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can get used to anything—even hell.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can not write in the chimney with charcoal.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot break a wall with your forehead.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot break through a wall with your forehead.",
+            "description": "(it is often wise to give way to the wishes off others; for to oppose them might bring ruin upon oneself)",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot build a wall with one stone.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot buy wisdom abroad if there is none at home.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot drive straight on a twisting lane.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot hang everything on a single peg.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot jump higher than your head.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot make a soft bed for everyone.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot please everybody.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot pull a fish out of the pond without work.",
+            "description": "(restraint and caution achieve nothing; if you want to get something,you should immediately start working for it)",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot ride two horses with one ass.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot sew buttons on your neighbor’s mouth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You cannot throw a word out of a song.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can’t do everything at once.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can’t drive straight on a twisting lane.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can’t have two forenoons in the same day.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can’t keep a word of thanks in your pocket.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can’t move faster than your shadow.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can’t sew buttons on your neighbor’s mouth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You can’t throw a handkerchief over somebody’s mouth.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You could even hew sticks on head.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You do not drink soup with a knife.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You do not need a whip to urge on an obedient horse.",
+            "description": "(a keep worker who is doing his best should be left alone and not urged to work harder)",
+            "category": "russian"
+        },
+        {
+            "text": "You do not really understand something unless you can explain it to your grandmother.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You do not swap horses while crossing the ford.",
+            "description": "(do not change arrangements while yyou are in the middle of a difficult task or till a crisis is past)",
+            "category": "russian"
+        },
+        {
+            "text": "You don’t get a headache from what other people have drunk.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You don’t get something for nothing.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You don’t learn anything from buying, but you do from selling.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You don’t milk a cow with your hands in your pockets.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You get to really know your friend when trouble comes.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You get used to everything — even hell.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You have summer and you have winter — why, then, be in a hurry?",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You heard the ring, but don’t know where.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You know a bird from the way he flies.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You look for the horse you ride on.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You may call me even a pot, just don’t put me into the oven.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You must chop down the tree that gives too much or too little shade.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You need a sharp axe for a tough bough.",
+            "description": "",
+            "category": "russian proverb(serious evils need drastic remedies)"
+        },
+        {
+            "text": "You need sharp axes for knotty trees.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "You needn’t be afraid of a barking dog, but you should be afraid of a silent dog.",
+            "description": "(people who often lose their temper and make many loud threats seldom carry them out. dogs that bark most bite least)",
+            "category": "russian"
+        },
+        {
+            "text": "You will reap what you will sow.",
+            "description": "(you will be rewarded or punished in accordance with what you have done to deserve it)",
+            "category": "russian"
+        },
+        {
+            "text": "You would do better to sit on a powder keg than on the knee of a woman.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Your body belongs to the Tsar, your soul to God, and your back to the squire.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Your dog wishes you a long life.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Your elbow is near but you can’t bite it.",
+            "description": "",
+            "category": "russian"
+        },
+        {
+            "text": "Your tongue will get you to Kiev.",
+            "description": "",
+            "category": "russian"
+        },
+        {
             "text": "Eternal peace lasts until the next war.",
             "description": "",
             "category": "russian"

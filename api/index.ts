@@ -1,6 +1,7 @@
 import { NowRequest, NowResponse, VercelResponse } from '@vercel/node'
 
-import { LanguagePattern, HeroPattern } from '../typings/types'
+import { LanguagePattern, HeroPattern } from '../typings/enum-types'
+
 import { proverbRenderer } from '../utils/proverb'
 import { toString } from '../utils/commons'
 

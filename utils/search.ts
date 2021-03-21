@@ -1,13 +1,15 @@
 import * as flexsearch from 'flexsearch'
 import FlexSearch from 'flexsearch'
 
-import { LanguagePattern, ProverbData } from '../typings/types'
+import { TemplateData } from '../typings/types'
+import { LanguagePattern } from '../typings/enum-types'
+
 import { profile } from './env'
 
 import { proverbs } from './proverbs'
 
-export const createIndex = (): flexsearch.Index<ProverbData> => {
-    const searchIndex: flexsearch.Index<ProverbData> = FlexSearch.create({
+export const createIndex = (): flexsearch.Index<TemplateData> => {
+    const searchIndex: flexsearch.Index<TemplateData> = FlexSearch.create({
         tokenize: 'forward',
         encode: 'icase',
         async: true,
@@ -38,10 +40,10 @@ export const createIndex = (): flexsearch.Index<ProverbData> => {
 }
 
 export const searchTitleQuery = async (
-    index: flexsearch.Index<ProverbData>,
+    index: flexsearch.Index<TemplateData>,
     query: string,
     options: flexsearch.SearchOptions
-): Promise<ProverbData[]> => {
+): Promise<TemplateData[]> => {
     return await index.search({
         field: 'proverb',
         query,
@@ -50,9 +52,9 @@ export const searchTitleQuery = async (
 }
 
 export const searchQuery = async (
-    index: flexsearch.Index<ProverbData>,
+    index: flexsearch.Index<TemplateData>,
     query: string,
     options?: number | flexsearch.SearchOptions
-): Promise<ProverbData[]> => {
+): Promise<TemplateData[]> => {
     return await index.search(query, options)
 }

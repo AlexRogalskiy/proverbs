@@ -1,407 +1,119 @@
 import { Optional } from './standard-types'
+import { HeroPattern, LanguagePattern } from './enum-types'
 
-export enum HeroPattern {
-    jigsaw = 'jigsaw',
-    overcast = 'overcast',
-    formalInvitation = 'formalInvitation',
-    topography = 'topography',
-    texture = 'texture',
-    jupiter = 'jupiter',
-    architect = 'architect',
-    cutout = 'cutout',
-    hideout = 'hideout',
-    graphPaper = 'graphPaper',
-    yyy = 'yyy',
-    squares = 'squares',
-    fallingTriangles = 'fallingTriangles',
-    pianoMan = 'pianoMan',
-    pieFactory = 'pieFactory',
-    dominos = 'dominos',
-    hexagons = 'hexagons',
-    charlieBrown = 'charlieBrown',
-    autumn = 'autumn',
-    temple = 'temple',
-    stampCollection = 'stampCollection',
-    deathStar = 'deathStar',
-    churchOnSunday = 'churchOnSunday',
-    iLikeFood = 'iLikeFood',
-    overlappingHexagons = 'overlappingHexagons',
-    bamboo = 'bamboo',
-    bathroomFloor = 'bathroomFloor',
-    corkScrew = 'corkScrew',
-    happyIntersection = 'happyIntersection',
-    kiwi = 'kiwi',
-    lips = 'lips',
-    lisbon = 'lisbon',
-    randomShapes = 'randomShapes',
-    steelBeams = 'steelBeams',
-    tinyCheckers = 'tinyCheckers',
-    xEquals = 'xEquals',
-    anchorsAway = 'anchorsAway',
-    bevelCircle = 'bevelCircle',
-    brickWall = 'brickWall',
-    fancyRectangles = 'fancyRectangles',
-    heavyRain = 'heavyRain',
-    overlappingCircles = 'overlappingCircles',
-    plus = 'plus',
-    roundedPlusConnected = 'roundedPlusConnected',
-    volcanoLamp = 'volcanoLamp',
-    wiggle = 'wiggle',
-    bubbles = 'bubbles',
-    cage = 'cage',
-    connections = 'connections',
-    current = 'current',
-    diagonalStripes = 'diagonalStripes',
-    flippedDiamonds = 'flippedDiamonds',
-    floatingCogs = 'floatingCogs',
-    glamorous = 'glamorous',
-    leaf = 'leaf',
-    linesInMotion = 'linesInMotion',
-    moroccan = 'moroccan',
-    morphingDiamonds = 'morphingDiamonds',
-    rails = 'rails',
-    rain = 'rain',
-    skulls = 'skulls',
-    squaresInSquares = 'squaresInSquares',
-    stripes = 'stripes',
-    ticTacToe = 'ticTacToe',
-    zigZag = 'zigZag',
-    aztec = 'aztec',
-    bankNote = 'bankNote',
-    boxes = 'boxes',
-    circlesAndSquares = 'circlesAndSquares',
-    circuitBoard = 'circuitBoard',
-    curtain = 'curtain',
-    diagonalLines = 'diagonalLines',
-    endlessClouds = 'endlessClouds',
-    eyes = 'eyes',
-    floorTile = 'floorTile',
-    groovy = 'groovy',
-    intersectingCircles = 'intersectingCircles',
-    melt = 'melt',
-    overlappingDiamonds = 'overlappingDiamonds',
-    parkayFloor = 'parkayFloor',
-    pixelDots = 'pixelDots',
-    polkaDots = 'polkaDots',
-    signal = 'signal',
-    slantedStars = 'slantedStars',
-    wallpaper = 'wallpaper',
-}
-
-export enum LanguagePattern {
-    english = 'english',
-    eskimo = 'eskimo',
-    canadian = 'canadian',
-    canary_islander = 'canary_islander',
-    cape_verdean = 'cape_verdean',
-    catalan = 'catalan',
-    venezuelan = 'venezuelan',
-    american = 'american',
-    belgian = 'belgian',
-    bambara = 'bambara',
-    guinean = 'guinean',
-    somali = 'somali',
-    korean = 'korean',
-    albanian = 'albanian',
-    mauritian = 'mauritian',
-    czechoslovakian = 'czechoslovakian',
-    antillean = 'antillean',
-    hindustani = 'hindustani',
-    zambian = 'zambian',
-    west_african = 'west_african',
-    wolof = 'wolof',
-    virgin_islander = 'virgin_islander',
-    french_guianese = 'french_guianese',
-    anii = 'anii',
-    bible = 'bible',
-    kikuyu = 'kikuyu',
-    koran = 'koran',
-    gambian = 'gambian',
-    flemish = 'flemish',
-    malay = 'malay',
-    goan = 'goan',
-    byzantium = 'byzantium',
-    kashmiri = 'kashmiri',
-    latin_american = 'latin_american',
-    azerbaijani = 'azerbaijani',
-    sanskrit = 'sanskrit',
-    costa_rikan = 'costa_rikan',
-    cree = 'cree',
-    spanish = 'spanish',
-    danish = 'danish',
-    darkovan = 'darkovan',
-    dutch = 'dutch',
-    zimbabwean = 'zimbabwean',
-    peruvian = 'peruvian',
-    surinamese = 'surinamese',
-    gypsy = 'gypsy',
-    polish = 'polish',
-    persian = 'persian',
-    nepalese = 'nepalese',
-    puerto_rikan = 'puerto_rikan',
-    sri_lankan = 'sri_lankan',
-    trinidadian = 'trinidadian',
-    burundian = 'burundian',
-    beninese = 'beninese',
-    bengali = 'bengali',
-    colombian = 'colombian',
-    ecuadorian = 'ecuadorian',
-    panamanian = 'panamanian',
-    guyanese = 'guyanese',
-    burkinabe = 'burkinabe',
-    angolan = 'angolan',
-    south_african = 'south_african',
-    basque = 'basque',
-    dominican = 'dominican',
-    nicaraguan = 'nicaraguan',
-    martiniquais = 'martiniquais',
-    jordanian = 'jordanian',
-    tibetan = 'tibetan',
-    tanzanian = 'tanzanian',
-    cypriot = 'cypriot',
-    walloon = 'walloon',
-    babylonian = 'babylonian',
-    haitian = 'haitian',
-    algerian = 'algerian',
-    myanmar = 'myanmar',
-    swahili = 'swahili',
-    iraqi = 'iraqi',
-    romanian = 'romanian',
-    serbian = 'serbian',
-    bedouin = 'bedouin',
-    ivorian = 'ivorian',
-    yemeni = 'yemeni',
-    russian = 'russian',
-    scottish = 'scottish',
-    arabian = 'arabian',
-    andorran = 'andorran',
-    belizean = 'belizean',
-    indonesian = 'indonesian',
-    jewish = 'jewish',
-    senegalese = 'senegalese',
-    islamic = 'islamic',
-    french = 'french',
-    fijian = 'fijian',
-    croatian = 'croatian',
-    kenyan = 'kenyan',
-    malagasy = 'malagasy',
-    latin = 'latin',
-    moorish = 'moorish',
-    swiss = 'swiss',
-    turkish = 'turkish',
-    ethiopian = 'ethiopian',
-    malaysian = 'malaysian',
-    malawian = 'malawian',
-    ghanaian = 'ghanaian',
-    maltese = 'maltese',
-    maori = 'maori',
-    filipino = 'filipino',
-    mexican = 'mexican',
-    congolese = 'congolese',
-    german = 'german',
-    afghan = 'afghan',
-    african = 'african',
-    cameroonian = 'cameroonian',
-    iranian = 'iranian',
-    icelandic = 'icelandic',
-    swedish = 'swedish',
-    mongolian = 'mongolian',
-    ugandan = 'ugandan',
-    lithuanian = 'lithuanian',
-    italian = 'italian',
-    irish = 'irish',
-    egyptian = 'egyptian',
-    hawaiian = 'hawaiian',
-    cambodian = 'cambodian',
-    bolivian = 'bolivian',
-    creole = 'creole',
-    cretian = 'cretian',
-    zen = 'zen',
-    sierra_leonean = 'sierra_leonean',
-    singaporean = 'singaporean',
-    sinhalese = 'sinhalese',
-    yoruba = 'yoruba',
-    kanuri = 'kanuri',
-    argentinian = 'argentinian',
-    japanese = 'japanese',
-    armenian = 'armenian',
-    ashanti = 'ashanti',
-    yugoslavian = 'yugoslavian',
-    yiddish = 'yiddish',
-    thai = 'thai',
-    burmese = 'burmese',
-    greek = 'greek',
-    guadeloupe = 'guadeloupe',
-    new_zelander = 'new_zelander',
-    cuban = 'cuban',
-    palestinian = 'palestinian',
-    welsh = 'welsh',
-    zulu = 'zulu',
-    bantu = 'bantu',
-    jamaican = 'jamaican',
-    georgian = 'georgian',
-    tunisian = 'tunisian',
-    slovakian = 'slovakian',
-    togolese = 'togolese',
-    breton = 'breton',
-    bugundan = 'bugundan',
-    estonian = 'estonian',
-    latvian = 'latvian',
-    gabonese = 'gabonese',
-    sudanese = 'sudanese',
-    sumerian = 'sumerian',
-    moroccan = 'moroccan',
-    vietnamese = 'vietnamese',
-    indian = 'indian',
-    hebrew = 'hebrew',
-    czech = 'czech',
-    nigerian = 'nigerian',
-    brazilian = 'brazilian',
-    rwandan = 'rwandan',
-    chilean = 'chilean',
-    namibian = 'namibian',
-    austrian = 'austrian',
-    zanzibar = 'zanzibar',
-    taiwanese = 'taiwanese',
-    chadian = 'chadian',
-    syrian = 'syrian',
-    bosnian = 'bosnian',
-    hindu = 'hindu',
-    malian = 'malian',
-    vermont = 'vermont',
-    montenegro = 'montenegro',
-    tajikistani = 'tajikistani',
-    talmud = 'talmud',
-    mozambican = 'mozambican',
-    mauritanian = 'mauritanian',
-    kurdish = 'kurdish',
-    corsican = 'corsican',
-    tamilan = 'tamilan',
-    chinese = 'chinese',
-    portuguese = 'portuguese',
-    gaelic = 'gaelic',
-    bulgarian = 'bulgarian',
-    tuscarora = 'tuscarora',
-    bahamian = 'bahamian',
-    philippine = 'philippine',
-    libyan = 'libyan',
-    navajo = 'navajo',
-    sardinian = 'sardinian',
-    hasidic = 'hasidic',
-    bemba = 'bemba',
-    basotho = 'basotho',
-    kyrgyzstani = 'kyrgyzstani',
-    berber = 'berber',
-    east_asian = 'east_asian',
-    slovenian = 'slovenian',
-    solomon_islander = 'solomon_islander',
-    finnish = 'finnish',
-    luxembourgish = 'luxembourgish',
-    norwegian = 'norwegian',
-    omani = 'omani',
-    osage = 'osage',
-    liberian = 'liberian',
-    laotian = 'laotian',
-    sicilian = 'sicilian',
-    hungarian = 'hungarian',
-    macedonian = 'macedonian',
-    lebanese = 'lebanese',
-    samoan = 'samoan',
-}
-
-export type ProverbData = {
+/**
+ * ProverbData
+ * @desc Type representing template data
+ */
+export type TemplateData = {
     /**
-     * Proverb identifier
+     * Template identifier
      */
     id?: string
     /**
-     * Proverb text
+     * Template text
      */
     text: string
     /**
-     * Proverb category
+     * Template category
      */
     category?: string | string[]
     /**
-     * Proverb description
+     * Template description
      */
     description: string
 }
 
-export interface ParsedRequest {
+/**
+ * ParsedRequest
+ * @desc Type representing parsed request data
+ */
+export type ParsedRequestData = {
     /**
-     * Proverb origin language
+     * Template origin language
      */
     language?: Optional<LanguagePattern>
     /**
-     * Proverb image background pattern
+     * Template image background pattern
      */
     pattern?: Optional<HeroPattern>
     /**
-     * Proverb image width
+     * Template image width
      */
     width?: string
     /**
-     * Proverb image height
+     * Template image height
      */
     height?: string
     /**
-     * Proverb keywords
+     * Request keywords
      */
     keywords?: string | string[]
     /**
-     * Proverb image color pattern
+     * Template image color pattern
      */
     colorPattern?: string | string[]
     /**
-     * Proverb text font color
+     * Template image text font color
      */
     fontColor?: string | string[]
     /**
-     * Proverb image background color
+     * Template image background color
      */
     backgroundColor?: string | string[]
     /**
-     * Proverb image background opacity
+     * Template image background opacity
      */
     opacity?: string | string[]
 }
 
-export interface ColorOptions {
+/**
+ * ColorOptions
+ * @desc Type representing template color options
+ */
+export type ColorOptions = {
     /**
-     * Image color pattern
+     * Template image color pattern
      */
     readonly colorPattern: string | string[]
     /**
-     * Image text font color
+     * Template image text font color
      */
     readonly fontColor: string | string[]
     /**
-     * Image background color
+     * Template image background color
      */
     readonly backgroundColor: string | string[]
     /**
-     * Image background opacity
+     * Template image background opacity
      */
     readonly opacity: string | string[]
     /**
-     * Image background pattern
+     * Template image background pattern
      */
     readonly pattern?: Optional<HeroPattern>
 }
 
-export interface ImageOptions {
+/**
+ * ImageOptions
+ * @desc Type representing template image options
+ */
+export type ImageOptions = {
     /**
-     * Image width
+     * Template image width
      */
     readonly width: string
     /**
-     * Image height
+     * Template image height
      */
     readonly height: string
 }
 
-export interface IndexOptions {
+/**
+ * IndexOptions
+ * @desc Type representing template index options
+ */
+export type IndexOptions = {
     /**
      * Index identifier delimiter
      */
@@ -416,12 +128,11 @@ export interface IndexOptions {
     readonly name: string
 }
 
-export enum Profile {
-    dev = 'dev',
-    prod = 'prod',
-}
-
-export interface ProfileOptions {
+/**
+ * ProfileOptions
+ * @desc Type representing template profile options
+ */
+export type ProfileOptions = {
     /**
      * Color configuration options.
      */

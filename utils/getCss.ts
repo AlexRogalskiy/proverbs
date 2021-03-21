@@ -1,7 +1,7 @@
 import getPattern from './bg-hero'
 import { ColorOptions } from '../typings/types'
 
-import { monserrat700, monserratRegular } from './font'
+import { monserrat700, monserratRegular } from './fonts'
 
 export const css = (colorOptions: ColorOptions): string => {
     const { fontColor, backgroundColor, pattern, opacity, colorPattern } = colorOptions

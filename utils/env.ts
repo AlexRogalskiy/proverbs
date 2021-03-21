@@ -1,4 +1,5 @@
 import { ProfileOptions } from '../typings/types'
+
 import { CONFIG } from './config'
 
 const getProfile = (): ProfileOptions => {

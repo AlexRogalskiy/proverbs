@@ -36,13 +36,14 @@ jobs:
         uses: alexrogalskiy/github-action-json-fields@master
         id: process_json
         env:
-          target_file: "${{ runner.temp }}/sourceData.json"
+          source_data: "${{ runner.temp }}/sourceData.json"
           target_path: ./data
-          fields: 'text'
-        with:
-          sourceData: "${{ env.target_file }}"
+          json_fields: 'text'
           mode: 'unique'
-          jsonFields: "${{ env.fields }}"
+        with:
+          mode: "${{ env.mode }}"
+          jsonFields: "${{ env.json_fields }}"
+          sourceData: "${{ env.source_data }}"
           targetPath: "${{ env.target_path }}"
 
       - name: Push changes
