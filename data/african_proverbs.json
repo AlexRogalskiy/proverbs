@@ -586,11 +586,6 @@
             "category": "ugandan"
         },
         {
-            "text": "A roaring lion kills no game.",
-            "description": "",
-            "category": "zimbabwean"
-        },
-        {
             "text": "A roaring lion kills no prey.",
             "description": "",
             "category": "african"
@@ -886,11 +881,6 @@
             "category": "ghanaian"
         },
         {
-            "text": "Bad luck for one man is good luck for another.",
-            "description": "",
-            "category": "ghanaian"
-        },
-        {
             "text": "Bad luck rots and in the end one rejoices.",
             "description": "",
             "category": "bemba"
@@ -944,11 +934,6 @@
             "text": "Birds of all kinds will end up landing.",
             "description": "",
             "category": "african"
-        },
-        {
-            "text": "Birds of all kinds will end up landing.",
-            "description": "",
-            "category": "egyptian"
         },
         {
             "text": "Birds sing not because they have answers but because they have songs.",
@@ -1811,11 +1796,6 @@
             "category": "somalian"
         },
         {
-            "text": "I pointed out to you the stars and all you saw was the tip of my finger.",
-            "description": "",
-            "category": "swahili"
-        },
-        {
             "text": "I shall come for the cows after the donkeys have grown horns.",
             "description": "",
             "category": "meru"
@@ -2169,11 +2149,6 @@
             "text": "It is better to walk than curse the road.",
             "description": "",
             "category": "senegalese"
-        },
-        {
-            "text": "It is better to walk than curse the road.",
-            "description": "",
-            "category": "wolof"
         },
         {
             "text": "It is crooked wood that shows the best sculptor.",
@@ -2734,11 +2709,6 @@
             "text": "Only a fool tests the depth of the water with both feet.",
             "description": "",
             "category": "african"
-        },
-        {
-            "text": "Only a fool tests the water’s depth with both feet.",
-            "description": "",
-            "category": "ghanaian"
         },
         {
             "text": "Only a fool tests the water’s depth with both feet.",
@@ -3686,11 +3656,6 @@
             "category": "hausa"
         },
         {
-            "text": "Ugliness with a good character is better than beauty.",
-            "description": "",
-            "category": "nigerian"
-        },
-        {
             "text": "Unity is strength, division is weakness.",
             "description": "",
             "category": "swahili"
@@ -4521,24 +4486,9 @@
             "category": "yoruba"
         },
         {
-            "text": "He who learns, teaches.",
-            "description": "",
-            "category": "ethiopian"
-        },
-        {
             "text": "If you educate a man you educate one individual, but if you educate a woman you educate a family.",
             "description": "",
             "category": "fanti"
-        },
-        {
-            "text": "Advice is a stranger; if he’s welcome he stays for the night; if not, he leaves the same day.",
-            "description": "",
-            "category": "malagasy"
-        },
-        {
-            "text": "By crawling a child learns to stand.",
-            "description": "",
-            "category": "african"
         },
         {
             "text": "If you think education is expensive, try ignorance.",
@@ -4571,24 +4521,9 @@
             "category": "moroccan"
         },
         {
-            "text": "Learning expands great souls.",
-            "description": "",
-            "category": "namibian"
-        },
-        {
-            "text": "One who causes others misfortune also teaches them wisdom.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "To get lost is to learn the way.",
             "description": "",
             "category": "african"
-        },
-        {
-            "text": "Traveling is learning.",
-            "description": "",
-            "category": "kenyan"
         },
         {
             "text": "Wealth, if you use it, comes to an end; learning, if you use it, increases.",
@@ -4601,29 +4536,9 @@
             "category": "african"
         },
         {
-            "text": "What you learn is what you die with.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "When you follow in the path of your father, you learn to walk like him.",
-            "description": "",
-            "category": "ashanti"
-        },
-        {
             "text": "Where there are experts there will be no lack of learners.",
             "description": "",
             "category": "swahili"
-        },
-        {
-            "text": "You always learn a lot more when you lose than when you win.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "You do not teach the paths of the forest to an old gorilla.",
-            "description": "",
-            "category": "congolese"
         },
         {
             "text": "You learn how to cut down trees by cutting them down.",
@@ -4661,16 +4576,6 @@
             "category": "lesotho"
         },
         {
-            "text": "A large chair does not make a king.",
-            "description": "",
-            "category": "sudanese"
-        },
-        {
-            "text": "A leader who does not take advice is not a leader.",
-            "description": "",
-            "category": "kenyan"
-        },
-        {
             "text": "A word of peace redeems a crime.",
             "description": "",
             "category": "ovambo"
@@ -4681,29 +4586,9 @@
             "category": "ethiopian"
         },
         {
-            "text": "Do not forget what is to be a sailor because of being a captain yourself.",
-            "description": "",
-            "category": "tanzanian"
-        },
-        {
-            "text": "He who fears the sun will not become chief.",
-            "description": "",
-            "category": "ugandan"
-        },
-        {
-            "text": "He who is destined for power does not have to fight for it.",
-            "description": "",
-            "category": "ugandan"
-        },
-        {
             "text": "If a leader loves you, he makes sure you build your house on rock.",
             "description": "",
             "category": "ugandan"
-        },
-        {
-            "text": "If the cockroach wants to rule over the chicken, then it must hire the fox as a body-guard.",
-            "description": "",
-            "category": "sierra leone"
         },
         {
             "text": "If you can’t resolve your problems in peace, you can’t solve them with war.",
@@ -4714,11 +4599,6 @@
             "text": "If you overtake a leader, you break your neck.",
             "description": "",
             "category": "ugandan"
-        },
-        {
-            "text": "Milk and honey have different colors, but they share the same house peacefully.",
-            "description": "",
-            "category": "african"
         },
         {
             "text": "Speak softly and carry a big stick; you will go far.",
@@ -4746,11 +4626,6 @@
             "category": "ugandan"
         },
         {
-            "text": "When two elephants fight, it is the grass that gets trampled.",
-            "description": "",
-            "category": "swahili saying"
-        },
-        {
             "text": "Where a woman rules, streams run uphill.",
             "description": "",
             "category": "ethiopian"
@@ -4764,21 +4639,6 @@
             "text": "Unity is the real thing.",
             "description": "",
             "category": "kenyan"
-        },
-        {
-            "text": "Unity is strength, division is weakness.",
-            "description": "",
-            "category": "swahili"
-        },
-        {
-            "text": "A single bracelet does not jingle.",
-            "description": "",
-            "category": "congolese"
-        },
-        {
-            "text": "A single stick may smoke, but it will not burn.",
-            "description": "",
-            "category": "african"
         },
         {
             "text": "An army of sheep led by a lion can defeat an army of lions led by a sheep.",
@@ -4804,16 +4664,6 @@
             "text": "Many hands make light work.",
             "description": "",
             "category": "haya (tanzania)"
-        },
-        {
-            "text": "Sticks in a bundle are unbreakable.",
-            "description": "",
-            "category": "bondei"
-        },
-        {
-            "text": "Two ants do not fail to pull one grasshopper.",
-            "description": "",
-            "category": "tanzanian"
         },
         {
             "text": "Where there are many, nothing goes wrong.",
@@ -4886,19 +4736,9 @@
             "category": "african"
         },
         {
-            "text": "A friend is someone you share the path with.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "A small house will hold a hundred friends.",
             "description": "",
             "category": "african"
-        },
-        {
-            "text": "Bad friends will prevent you from having good friends.",
-            "description": "",
-            "category": "gabon"
         },
         {
             "text": "Between true friends even water drunk together is sweet enough.",
@@ -4911,32 +4751,7 @@
             "category": "african"
         },
         {
-            "text": "Home affairs are not talked about on the public square.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "If relatives help each other, what evil can hurt them?",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "Return to old watering holes for more than water; friends and dreams are there to meet you.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "Show me your friend and I will show you your character.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "The friends of our friends are our friends.",
-            "description": "",
-            "category": "congolese"
-        },
-        {
-            "text": "There is no fool who is disowned by his family.",
             "description": "",
             "category": "african"
         },
@@ -4964,11 +4779,6 @@
             "text": "Money knows no day on which it is not welcome.",
             "description": "",
             "category": "shona"
-        },
-        {
-            "text": "A man’s wealth may be superior to him.",
-            "description": "",
-            "category": "cameroon"
         },
         {
             "text": "A real family eats the same cornmeal.",
@@ -5021,24 +4831,9 @@
             "category": "congo"
         },
         {
-            "text": "It is no shame at all to work for money.",
-            "description": "",
-            "category": "africa"
-        },
-        {
-            "text": "Knowledge is better than riches.",
-            "description": "",
-            "category": "cameroon"
-        },
-        {
             "text": "Lack of money is lack of friends; if you have money at your disposal, every dog and goat will claim to be related to you.",
             "description": "",
             "category": "yoruba"
-        },
-        {
-            "text": "Make some money but don’t let money make you.",
-            "description": "",
-            "category": "tanzania"
         },
         {
             "text": "Much wealth brings many enemies.",
@@ -5049,11 +4844,6 @@
             "text": "One cannot both feast and become rich.",
             "description": "",
             "category": "ashanti"
-        },
-        {
-            "text": "One cannot count on riches.",
-            "description": "",
-            "category": "somalia"
         },
         {
             "text": "Poverty is slavery.",
@@ -5071,11 +4861,6 @@
             "category": "ashanti"
         },
         {
-            "text": "The rich are always complaining.",
-            "description": "",
-            "category": "zulu"
-        },
-        {
             "text": "The wealth which enslaves the owner isn’t wealth.",
             "description": "",
             "category": "yoruba"
@@ -5086,37 +4871,12 @@
             "category": "ethiopia"
         },
         {
-            "text": "Wealth diminishes with usage; learning increases with use.",
-            "description": "",
-            "category": "nigeria"
-        },
-        {
-            "text": "What you give you get, ten times over.",
-            "description": "",
-            "category": "yoruba"
-        },
-        {
-            "text": "Wisdom is not like money to be tied up and hidden.",
-            "description": "",
-            "category": "akan"
-        },
-        {
             "text": "With wealth one wins a woman.",
             "description": "",
             "category": "uganda"
         },
         {
             "text": "You become wise when you begin to run out of money.",
-            "description": "",
-            "category": "ghana"
-        },
-        {
-            "text": "You must act as if it is impossible to fail.",
-            "description": "",
-            "category": "ashanti"
-        },
-        {
-            "text": "You should not hoard your money and die of hunger.",
             "description": "",
             "category": "ghana"
         },
@@ -5171,11 +4931,6 @@
             "category": "african"
         },
         {
-            "text": "A woman’s polite devotion is her greatest beauty.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "An ugly child of your own is more to you than a beautiful one belonging to your neighbor.",
             "description": "",
             "category": "ganda"
@@ -5201,29 +4956,14 @@
             "category": "african"
         },
         {
-            "text": "Every woman is beautiful until she speaks.",
-            "description": "",
-            "category": "zimbabwean"
-        },
-        {
             "text": "Getting only a beautiful woman is like planting a vine on the roadside everyone feeds on it.",
             "description": "",
             "category": "african"
         },
         {
-            "text": "Greatness and beauty do not belong to the gods alone.",
-            "description": "",
-            "category": "nigerian"
-        },
-        {
             "text": "Having beauty doesn’t mean understanding the perseverance of marriage.",
             "description": "",
             "category": "african"
-        },
-        {
-            "text": "He who marries a beauty marries trouble.",
-            "description": "",
-            "category": "nigerian"
         },
         {
             "text": "If there is character, ugliness becomes beauty; if there is none, beauty becomes ugliness.",
@@ -5246,11 +4986,6 @@
             "category": "african"
         },
         {
-            "text": "Judge not your beauty by the number of people who look at you, but rather by the number of people who smile at you.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "One who plants grapes by the road side, and one who marries a pretty woman, share the same problem.",
             "description": "",
             "category": "ethiopian"
@@ -5269,11 +5004,6 @@
             "text": "She is like a road – pretty, but crooked.",
             "description": "",
             "category": "cameroonian"
-        },
-        {
-            "text": "The beauty of a woman becomes useless if there is no one to admire it.",
-            "description": "",
-            "category": "african"
         },
         {
             "text": "The cook does not have to be a beautiful woman.",
@@ -5306,24 +5036,9 @@
             "category": "african"
         },
         {
-            "text": "There is always a winner even in a monkey’s beauty contest.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "There is no beauty but the beauty of action.",
-            "description": "",
-            "category": "moroccan"
-        },
-        {
             "text": "Three things cause sorrow to flee; water, green trees, and a beautiful face.",
             "description": "",
             "category": "moroccan"
-        },
-        {
-            "text": "Ugliness with a good character is better than beauty.",
-            "description": "",
-            "category": "nigerian"
         },
         {
             "text": "When a once-beautiful piece of cloth has turned into rags, no one remembers that it was woven by Ukwa master weavers.",
@@ -5421,11 +5136,6 @@
             "category": "kenya"
         },
         {
-            "text": "Coffee and love taste best when hot.",
-            "description": "",
-            "category": "ethiopian"
-        },
-        {
             "text": "Do not treat your loved one like a swinging door: you are fond of it but you push it back and forth.",
             "description": "",
             "category": "madagascar"
@@ -5449,11 +5159,6 @@
             "text": "Happiness requires something to do, something to love and something to hope for.",
             "description": "",
             "category": "swahili"
-        },
-        {
-            "text": "He who loves money must labor.",
-            "description": "",
-            "category": "mauritanian"
         },
         {
             "text": "He who loves the vase loves also what is inside.",
@@ -5519,11 +5224,6 @@
             "text": "Live patiently in the world know that those who hate you are more numerous than those who love you.",
             "description": "",
             "category": "african"
-        },
-        {
-            "text": "Never marry a woman who has bigger feet than you.",
-            "description": "",
-            "category": "mozambique"
         },
         {
             "text": "One does not love if one does not accept from others.",
@@ -5596,11 +5296,6 @@
             "category": "wolof"
         },
         {
-            "text": "What you help a child to love can be more important than what you help him to learn.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "When one is in love, a cliff becomes a meadow.",
             "description": "",
             "category": "ethiopia"
@@ -5666,19 +5361,9 @@
             "category": "african"
         },
         {
-            "text": "Hurry, hurry has no blessings.",
-            "description": "",
-            "category": "swahili"
-        },
-        {
             "text": "If you do not have patience you cannot make beer.",
             "description": "",
             "category": "ovambo"
-        },
-        {
-            "text": "To run is not necessarily to arrive.",
-            "description": "",
-            "category": "swahili"
         },
         {
             "text": "Food gained by fraud tastes sweet to a man, but he ends up with gravel in his mouth.",
@@ -5861,11 +5546,6 @@
             "category": "bayombe"
         },
         {
-            "text": "The chicken that digs for food will not sleep hungry.",
-            "description": "",
-            "category": "congolese"
-        },
-        {
             "text": "The food eaten first lasts longest in the stomach.",
             "description": "",
             "category": "kikuyu"
@@ -5976,11 +5656,6 @@
             "category": "ibo"
         },
         {
-            "text": "You cannot tell a hungry child that you gave him food yesterday.",
-            "description": "",
-            "category": "zimbabwean"
-        },
-        {
             "text": "Sugarcane is sweetest at its joint.",
             "description": "Good and sweet things of life may appear difficult to achieve but in the end, it is worth it.",
             "category": "african"
@@ -6076,11 +5751,6 @@
             "category": "african"
         },
         {
-            "text": "When the heart acts, the body is its slave.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "The world doesn’t make promises to anybody.",
             "description": "",
             "category": "african"
@@ -6096,17 +5766,7 @@
             "category": "african"
         },
         {
-            "text": "Tomorrow belongs to the people who prepare for it today.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "If you live next to the cemetery, you can’t cry for everyone.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "Anxiety will not let you die of hunger.",
             "description": "",
             "category": "african"
         },
@@ -6116,22 +5776,7 @@
             "category": "african"
         },
         {
-            "text": "When there is no enemy within, the enemies outside cannot hurt you.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "A king’s child is a slave elsewhere.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "What forgets is the ax, but the tree that has been axed will never forget.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "It is no shame at all to work for money.",
             "description": "",
             "category": "african"
         },
@@ -6148,16 +5793,6 @@
         {
             "text": "The path is made by walking.",
             "description": "",
-            "category": "african"
-        },
-        {
-            "text": "It takes a whole village to raise a child.",
-            "description": "The society is responsible for the moral characters it creates and everyone in a community should be responsible for helping to train a child irrespective of who the parents are; offering correction where they are needed.",
-            "category": "african"
-        },
-        {
-            "text": "Do not look where you fell, but where you slipped.",
-            "description": "Don’t look at your mistakes; look at what caused your mistakes, otherwise you may repeat the same mistake again.",
             "category": "african"
         },
         {
@@ -6202,11 +5837,6 @@
         },
         {
             "text": "Let a wrong-doing repeat itself at least three times: the first may be an accident, the second a mistake, but the third is likely to be intentional.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "People should not talk while they are eating or pepper may go down the wrong way.",
             "description": "",
             "category": "african"
         },
@@ -6266,22 +5896,12 @@
             "category": "african"
         },
         {
-            "text": "The laughter of a child is the light of a house.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "The tree breaks that takes all the force of the wind.",
             "description": "",
             "category": "african"
         },
         {
             "text": "Greatness is not achieved with violence.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "Whatever accomplishment you boast of in the world, there is someone better than you.",
             "description": "",
             "category": "african"
         },
@@ -6336,16 +5956,6 @@
             "category": "african"
         },
         {
-            "text": "Help me during the flood, and I will help you during the drought.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "The world does not make promises to anybody.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "Live patiently in the world; know that those who hate you are more numerous than those who love you.",
             "description": "",
             "category": "african"
@@ -6366,21 +5976,6 @@
             "category": "african"
         },
         {
-            "text": "It is not what you are called, but what you answer to.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "A chick that will grow into a cock can be spotted the very day it hatches.",
-            "description": "You can easily foresee the future of something through the character and tell-tale signs it exhibits today.",
-            "category": "african"
-        },
-        {
-            "text": "A small shrub may grow into a tree.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "The plant God favors will grow even without rain.",
             "description": "",
             "category": "african"
@@ -6391,37 +5986,12 @@
             "category": "african"
         },
         {
-            "text": "Tomorrow belongs to the people who prepare for it today.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "If you know the beginning well, the end will not trouble you.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "It takes a whole village to raise a child.",
-            "description": "The society is responsible for the moral characters it creates and everyone in a community should be responsible for helping to train a child irrespective of who the parents are; offering correction where they are needed.",
-            "category": "african"
-        },
-        {
             "text": "There are three friends in this world: courage, sense, and insight.",
             "description": "",
             "category": "african"
         },
         {
             "text": "Say no from the start; you will have rest.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "Smooth seas do not make skillful sailors.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "You must judge a man by the work of his hands.",
             "description": "",
             "category": "african"
         },
@@ -6481,11 +6051,6 @@
             "category": "african"
         },
         {
-            "text": "When elephants fight, it’s the grass that suffers.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "Heaven and earth shall never meet.",
             "description": "",
             "category": "african"
@@ -6496,17 +6061,7 @@
             "category": "african"
         },
         {
-            "text": "When the moon is shining the cripple becomes hungry for a walk.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "Whoever has only one garment does not wash it when it rains.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "While the sun is shining, bask in it!",
             "description": "",
             "category": "african"
         },
@@ -6536,27 +6091,7 @@
             "category": "african"
         },
         {
-            "text": "In the birds’ court, a cockroach never wins his case.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "Looking at a king’s mouth one would never think he sucked his mother’s breast.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "If a child washes his hands he could eat with kings.",
-            "description": "If you prepare and allow yourself to be well trained when you have the opportunity, you will achieve a lot and be favoured in due course.",
-            "category": "african"
-        },
-        {
             "text": "People think that the poor are not as wise as the rich, for if a man be wise, why is he poor?",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "Even the best cooking pot will not produce food.",
             "description": "",
             "category": "african"
         },
@@ -6621,32 +6156,12 @@
             "category": "african"
         },
         {
-            "text": "Repetition is the mother of knowledge.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "Until lions have their historians, tales of the hunt shall always glorify the hunters.",
             "description": "",
             "category": "african"
         },
         {
-            "text": "The mouth which eats does not talk.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "He who talks continuously, talks nonsense.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "Until the lions have their historians, tales of the hunt shall always glorify the hunter.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "If you are filled with pride, then you will have no room for wisdom.",
             "description": "",
             "category": "african"
         },
@@ -6681,16 +6196,6 @@
             "category": "african"
         },
         {
-            "text": "Don’t expect to be offered a chair when you are visiting a place where the chief sits on the floor.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "There are 40 kinds of lunacy, but only one kind of common sense.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "One who does what he says is not a coward.",
             "description": "",
             "category": "african"
@@ -6716,22 +6221,12 @@
             "category": "african"
         },
         {
-            "text": "You can outrun what is running after you, but not what is running inside of you.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "If you get rich, be in a dark corner when you jump for joy.",
             "description": "",
             "category": "african"
         },
         {
             "text": "He who waits for the moon waits for darkness.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "If you wait for tomorrow, tomorrow comes. If you don’t wait for tomorrow, tomorrow comes.",
             "description": "",
             "category": "african"
         },
@@ -6747,16 +6242,6 @@
         },
         {
             "text": "Travel and you will see them, sit and they will come to you.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "The wise traveler leaves his heart at home.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "Each trip gives you its own uniqueness.",
             "description": "",
             "category": "african"
         },
@@ -6786,32 +6271,7 @@
             "category": "african"
         },
         {
-            "text": "Brothers love each other when they are equally rich.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "The lizard that jumped from the high iroko tree to the ground said he would praise himself if no one else did.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "Anxiety will not let you die of hunger.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "A proud heart can survive a general failure because such a failure does not prick its pride.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "Do me a favor during the rainy season, and I shall do the same for you during the dry season.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "If you have not been to two different bazaars, then you do not know what the best value is.",
             "description": "",
             "category": "african"
         },
@@ -6831,11 +6291,6 @@
             "category": "african"
         },
         {
-            "text": "The hunter who is tracking an elephant does not stop to throw stones at birds.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "The zebra told the white horse, \"I am white,\" and told the black horse, \"I am actually black.\"",
             "description": "",
             "category": "african"
@@ -6847,16 +6302,6 @@
         },
         {
             "text": "When the big tree falls, the goat eats its leaves.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "A man who pays respect to the great paves the way for his own greatness.",
-            "description": "What goes around, comes around so whatever you sow, you shall reap.",
-            "category": "african"
-        },
-        {
-            "text": "A person who is not disciplined cannot be cautioned.",
             "description": "",
             "category": "african"
         },
@@ -6906,11 +6351,6 @@
             "category": "african"
         },
         {
-            "text": "No matter how many house chores you complete, there are always more to be done.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "He whose mother is naked is not likely to clothe his aunt.",
             "description": "",
             "category": "african"
@@ -6941,11 +6381,6 @@
             "category": "african"
         },
         {
-            "text": "Food you will not eat you do not boil.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "The potter eats from broken plates.",
             "description": "",
             "category": "african"
@@ -6961,27 +6396,12 @@
             "category": "african"
         },
         {
-            "text": "Filthy water cannot be washed.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "For the sake of the rose the thorn is watered too.",
             "description": "",
             "category": "african"
         },
         {
-            "text": "No matter how much milk a cow has, you cannot milk butter from it.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "The best morsels are never given to a beggar.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "A beggar won’t mind being insulted.",
             "description": "",
             "category": "african"
         },
@@ -7031,29 +6451,9 @@
             "category": "african"
         },
         {
-            "text": "When the music changes, so does the dance.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "Who forgives wins.",
             "description": "",
             "category": "african"
-        },
-        {
-            "text": "Where there is no shame, there is no honor.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "Bad luck for one man is good luck for another.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "Wisdom is like a baobab tree; no one individual can embrace it.",
-            "description": "",
-            "category": "east african"
         },
         {
             "text": "A liar will steal and a thief will kill.",
@@ -7561,29 +6961,9 @@
             "category": "african american"
         },
         {
-            "text": "When there is no enemy within, the enemies outside cannot hurt you.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "Only a fool tests the depth of the water with both feet.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "If you want to go fast, go alone. If you want to go far, go together.",
-            "description": "",
-            "category": "african"
-        },
-        {
             "text": "An axe forgets what the tree remembers.",
             "category": "german",
             "description": "It is easy for someone who is hurting another person to forget the wrong and move on but the person who was hurt never forgets."
-        },
-        {
-            "text": "A wise man never knows all, only fools know everything.",
-            "description": "",
-            "category": "african"
         },
         {
             "text": "The wise man is father of the fool.",
@@ -7607,16 +6987,6 @@
         },
         {
             "text": "To trouble me is better than to forget me.",
-            "description": "",
-            "category": "african"
-        },
-        {
-            "text": "A talkative bird will not build a nest.",
-            "description": "",
-            "category": "west african"
-        },
-        {
-            "text": "I pointed out the stars and moon to you, but all you saw was the tip of my finger!",
             "description": "",
             "category": "african"
         },
@@ -7654,11 +7024,6 @@
             "text": "Sorrow doesn’t kill — reckless joy does.",
             "description": "",
             "category": "west african"
-        },
-        {
-            "text": "Work is good, as long as you don’t forget to live.",
-            "description": "",
-            "category": "african"
         }
     ]
 }
