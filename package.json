@@ -15,6 +15,7 @@
         "markdown": "markdown-link-check ./README.md ./SECURITY.md",
         "remark": "remark -q -f .",
         "docs": "typedoc",
+        "ls": "ls -lh data/",
         "reinstall": "del-cli ./node_modules ./package-lock.json ./yarn.lock",
         "index": "node --version",
         "postreinstall": "yarn setup",
