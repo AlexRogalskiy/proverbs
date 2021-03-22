@@ -14,8 +14,10 @@
         "lint": "eslint --cache --fix --quiet --format codeframe --ext js,ts .",
         "markdown": "markdown-link-check ./README.md ./SECURITY.md",
         "remark": "remark -q -f .",
+        "lint:md": "remark-preset-davidtheclark",
+        "format:md": "remark-preset-davidtheclark --format",
         "docs": "typedoc",
-        "ls": "ls -lh data/",
+        "data": "ls -lh data/",
         "reinstall": "del-cli --dot=true ./node_modules ./package-lock.json ./yarn.lock",
         "coverage": "cat ./coverage/lcov.info | coveralls",
         "index": "node --version",
@@ -28,9 +30,11 @@
         "test": "env-cmd --silent -e test jest",
         "test:coverage": "env-cmd --silent -e test jest --collectCoverage --detectOpenHandles",
         "test:watch": "env-cmd --silent -e test jest --watch",
+        "lint:all": "npm run lint && npm run lint:md",
+        "format:all": "npm run format && npm run format:md",
         "check:all": "npm run format:check",
         "test:all": "npm run test",
-        "all": "npm run format && npm run lint"
+        "all": "npm run format:all && npm run lint:all"
     },
     "dependencies": {
         "concurrently": "^6.0.0",
@@ -65,6 +69,7 @@
         "remark-cli": "^9.0.0",
         "remark-validate-links": "^10.0.2",
         "remark-lint-code-block-style": "^2.0.1",
+        "remark-preset-davidtheclark": "^0.12.0",
         "remark-lint-ordered-list-marker-value": "^2.0.1",
         "typedoc": "^0.20.28",
         "markdown-link-check": "^3.8.6",
