@@ -43,6 +43,11 @@
 [![GitHub JSON-Validator](https://github.com/AlexRogalskiy/proverbs/workflows/Validate%20JSONs/badge.svg)](https://github.com/OrRosenblatt/validate-json-action)
 [![BCH compliance](https://bettercodehub.com/edge/badge/AlexRogalskiy/proverbs?branch=master)](https://bettercodehub.com/)
 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/AlexRogalskiy/proverbs)
+[![Chat](https://img.shields.io/badge/chat-discussions-success.svg)](https://github.com/AlexRogalskiy/proverbs/discussions)
+[![Open questions](https://img.shields.io/badge/Open-questions-blue.svg?style=flat-curved)](https://github.com/AlexRogalskiy/proverbs/labels/question)
+[![Open bugs](https://img.shields.io/badge/Open-bugs-red.svg?style=flat-curved)](https://github.com/AlexRogalskiy/proverbs/labels/bug)
+
 ## *Table of contents*
 
 - [*Description*](#description)
