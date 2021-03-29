@@ -40,4 +40,4 @@ jobs:
           JAVASCRIPT_DEFAULT_STYLE: prettier
           DEFAULT_BRANCH: master
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          FILTER_REGEX_INCLUDE: .*(api/|utils/).*
+          FILTER_REGEX_INCLUDE: .*(api/|src|typings/).*

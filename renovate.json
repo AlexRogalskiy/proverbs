@@ -1,11 +1,17 @@
 {
     "extends": [
         "config:base",
+        ":maintainLockFilesWeekly",
+        "config:base",
         ":semanticCommits",
         ":maintainLockFilesWeekly",
         ":prHourlyLimitNone",
         ":prConcurrentLimitNone",
-        ":pinAllExceptPeerDependencies"
+        ":pinAllExceptPeerDependencies",
+        ":rebaseStalePrs",
+        ":automergeDigest",
+        ":gitSignOff",
+        ":preserveSemverRanges"
     ],
     "maven": {
         "enabled": true

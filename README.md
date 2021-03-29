@@ -234,7 +234,6 @@ Here is a list of languages supported by Proverb API:
 | **Kurdish**                       | kurdish                       |
 | **Kyrgyzstani**                   | kyrgyzstani                   |
 | **Laotian**                       | laotian                       |
-| **Lash**                          | lash                          |
 | **Latin American**                | latin_american                |
 | **Latin**                         | latin                         |
 | **Latvian**                       | latvian                       |
@@ -271,7 +270,6 @@ Here is a list of languages supported by Proverb API:
 | **Nigerian**                      | nigerian                      |
 | **Norwegian**                     | norwegian                     |
 | **Omani**                         | omani                         |
-| **Osage**                         | osage                         |
 | **Somali**                        | somali                        |
 | **Palestinian**                   | palestinian                   |
 | **Panamanian**                    | panamanian                    |

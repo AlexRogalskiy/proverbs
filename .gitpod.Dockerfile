@@ -10,14 +10,14 @@ ARG HOME_DIR="/home/gitpod"
 
 LABEL maintainer="Alexander Rogalskiy <hi@nullables.io>"
 LABEL organization="nullables.io"
-LABEL io.nullables.quotes.build-date=$BUILD_DATE
-LABEL io.nullables.quotes.name="proverbs"
-LABEL io.nullables.quotes.description="Styled proverbs"
-LABEL io.nullables.quotes.url="https://nullables.io/"
-LABEL io.nullables.quotes.vcs-ref=$VCS_REF
-LABEL io.nullables.quotes.vcs-url="https://github.com/AlexRogalskiy/proverbs"
-LABEL io.nullables.quotes.vendor="Nullables.io"
-LABEL io.nullables.quotes.version=$VERSION
+LABEL io.nullables.proverbs.build-date=$BUILD_DATE
+LABEL io.nullables.proverbs.name="proverbs"
+LABEL io.nullables.proverbs.description="Styled proverbs"
+LABEL io.nullables.proverbs.url="https://nullables.io/"
+LABEL io.nullables.proverbs.vcs-ref=$VCS_REF
+LABEL io.nullables.proverbs.vcs-url="https://github.com/AlexRogalskiy/proverbs"
+LABEL io.nullables.proverbs.vendor="Nullables.io"
+LABEL io.nullables.proverbs.version=$VERSION
 
 ENV LC_ALL en_US.UTF-8
 ENV LANG $LC_ALL

@@ -4,5 +4,6 @@ extraction:
       exclude:
         - node_modules
         - docs
+        - data
       filters:
         - exclude: "**/*.bundle.js"

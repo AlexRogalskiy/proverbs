@@ -11,8 +11,12 @@
         "develop": "concurrently --prefix \"[{name}]:{time}\" --names \"index,dev\" \"npm run index\" \"npm run development\"",
         "format": "prettier --single-quote --write **/*.ts",
         "format:check": "prettier --check **/*.ts",
-        "lint": "eslint --cache --fix --quiet --format codeframe --ext js,ts .",
-        "lint:clean": "rimraf .eslintcache",
+        "lint": "eslint --cache --fix --quiet --cache-location ./node_modules/.cache/ --format codeframe --ext js,ts .",
+        "lint:clean": "del-cli .eslintcache",
+        "lint:json": "node_modules/.bin/jsonlint ./package.json --quiet",
+        "pretty": "pretty-quick --staged --pattern '!test/tests/lint/**'",
+        "license": "license-checker --json > licenses.json",
+        "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
         "markdown": "markdown-link-check ./README.md ./SECURITY.md",
         "remark": "remark -q -f .",
         "lint:md": "remark-preset-davidtheclark",
@@ -21,21 +25,22 @@
         "data": "ls -lh data/",
         "reinstall": "del-cli --dot=true ./node_modules ./package-lock.json ./yarn.lock",
         "coverage": "cat ./coverage/lcov.info | coveralls",
-        "index": "node --version",
+        "index": "node scripts/createIndex.js",
         "postreinstall": "yarn setup",
         "postinstall": "husky install",
-        "prepare": "rimraf coverage .cache",
+        "prepare": "del-cli coverage .cache && npm run index",
         "postpublish": "git push && git push --tags",
         "setup": "yarn",
         "semantic-release": "semantic-release",
         "test": "env-cmd --silent -e test jest",
         "test:coverage": "env-cmd --silent -e test jest --collectCoverage --detectOpenHandles",
         "test:watch": "env-cmd --silent -e test jest --watch",
-        "lint:all": "npm run lint:clean && npm run lint && npm run lint:md",
+        "test:license": "license-checker --production --summary --unknown --onlyAllow=\"Apache-2.0;BSD;ISC;MIT;GPL-3.0;CC-BY-3.0;CC0-1.0;\"",
+        "lint:all": "npm run lint:clean && npm run lint && npm run lint:md && npm run lint:json",
         "format:all": "npm run format && npm run format:md",
         "check:all": "npm run format:check",
-        "test:all": "npm run test",
-        "all": "npm run format:all && npm run lint:all"
+        "test:all": "npm run test && npm run test:license",
+        "all": "npm run format:all && npm run lint:all && npm run pretty"
     },
     "dependencies": {
         "concurrently": "^6.0.0",
@@ -44,6 +49,7 @@
         "hero-patterns": "^2.1.0",
         "isomorphic-unfetch": "^3.1.0",
         "lodash": "^4.17.20",
+        "lunr": "^2.3.9",
         "node-cron": "^2.0.3"
     },
     "devDependencies": {
@@ -52,10 +58,12 @@
         "@semantic-release/release-notes-generator": "^9.0.1",
         "@types/jest": "^26.0.20",
         "@types/lodash.mergewith": "^4.6.6",
+        "@types/lunr": "^2.3.3",
         "@types/prettier": "^2.1.5",
         "@typescript-eslint/eslint-plugin": "^4.15.0",
         "@typescript-eslint/parser": "^4.15.0",
         "@vercel/node": "^1.9.0",
+        "dateformat": "^4.5.1",
         "boxen": "^5.0.0",
         "del-cli": "^3.0.1",
         "eslint": "^7.18.0",
@@ -67,6 +75,7 @@
         "eslint-plugin-prettier": "^3.1.4",
         "eslint-plugin-spellcheck": "0.0.8",
         "gradient-string": "^1.2.0",
+        "conventional-changelog-cli": "^2.0.0",
         "remark-cli": "^9.0.0",
         "remark-validate-links": "^10.0.2",
         "remark-lint-code-block-style": "^2.0.1",
@@ -74,11 +83,14 @@
         "remark-lint-ordered-list-marker-value": "^2.0.1",
         "typedoc": "^0.20.28",
         "markdown-link-check": "^3.8.6",
+        "license-checker": "^25.0.1",
         "coveralls": "^3.0.0",
+        "jsonlint": "^1.6.3",
         "husky": "^5.0.8",
         "jest": "^26.6.3",
         "jest-circus": "^26.6.3",
         "prettier": "^2.1.2",
+        "pretty-quick": "^3.1.0",
         "randomcolor": "^0.5.4",
         "semantic-release": ">=17.2.3",
         "ts-jest": "^26.4.4",
@@ -135,7 +147,8 @@
     },
     "husky": {
         "hooks": {
-            "pre-commit": "npm test:all"
+            "pre-commit": "npm run test:all",
+            "pre-push": "npm run check:all"
         }
     },
     "bugs": {
@@ -146,5 +159,11 @@
         "name": "Alexander Rogalskiy",
         "url": "https://github.com/AlexRogalskiy"
     },
-    "funding": "https://github.com/sponsors/AlexRogalskiy"
+    "funding": "https://github.com/sponsors/AlexRogalskiy",
+    "files": [
+        "api/**",
+        "data/**",
+        "src/**",
+        "typings/**"
+    ]
 }

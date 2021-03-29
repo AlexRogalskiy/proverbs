@@ -3,11 +3,11 @@ name: Changelog
 
 on:
   workflow_dispatch:
-  release:
-    types: [ created ]
-  push:
-    branches:
-      - master
+#  release:
+#    types: [ created ]
+#  push:
+#    branches:
+#      - master
 
 jobs:
   build:
@@ -26,11 +26,9 @@ jobs:
           key: ${{ runner.os }}-changelog-gem
           restore-keys: ${{ runner.os }}-changelog-gem
       - name: Create local changes
-        env:
-          CHANGELOG_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gem install github_changelog_generator
-          github_changelog_generator -u ${{ github.repository_owner }} -p ${{ github.event.repository.name }}
+          github_changelog_generator -u ${{ github.repository_owner }} -p ${{ github.event.repository.name }} --token ${{ secrets.GITHUB_TOKEN }} --exclude-labels duplicate,question,invalid,wontfix,nodoc
       - name: Commit files
         run: |
           git config --local user.email "github-actions@example.com"

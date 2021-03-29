@@ -1,43 +1,18 @@
 import { NowRequest, NowResponse, VercelResponse } from '@vercel/node'
 
-import { LanguagePattern, HeroPattern } from '../typings/enum-types'
+import { RoutePattern } from '../typings/enum-types'
 
-import { proverbRenderer } from '../utils/proverb'
-import { toString } from '../utils/commons'
+import { toString } from '../src/utils/commons'
+
+import { getRoute } from '../src/routes/routes'
 
 export default async function render(req: NowRequest, res: NowResponse): Promise<VercelResponse> {
     try {
-        const {
-            language,
-            keywords,
-            pattern,
-            width,
-            height,
-            backgroundColor,
-            fontColor,
-            opacity,
-            colorPattern,
-        } = req.query
+        const routePattern = RoutePattern[toString(req.query.operation)]
 
-        const proverb = await proverbRenderer({
-            language: LanguagePattern[toString(language)] as LanguagePattern,
-            pattern: HeroPattern[toString(pattern)] as HeroPattern,
-            width: toString(width),
-            height: toString(height),
-            keywords,
-            backgroundColor,
-            fontColor,
-            opacity,
-            colorPattern,
-        })
+        const route = getRoute(routePattern)
 
-        res.setHeader('Cache-Control', 'no-cache,max-age=0,no-store,s-maxage=0,proxy-revalidate')
-        res.setHeader('Pragma', 'no-cache')
-        res.setHeader('Expires', '-1')
-        res.setHeader('Content-type', 'image/svg+xml')
-        res.setHeader('X-Powered-By', 'Vercel')
-
-        return res.send(proverb)
+        return await route(req, res)
     } catch (error) {
         return res.send({
             status: 'Error',

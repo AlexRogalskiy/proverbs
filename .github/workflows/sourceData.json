@@ -492,10 +492,6 @@
         "jsonPath": "$.laotian[*]"
     },
     {
-        "sourceFile": "./data/lash_proverbs.json",
-        "jsonPath": "$.lash[*]"
-    },
-    {
         "sourceFile": "./data/latin-american_proverbs.json",
         "jsonPath": "$.latin_american[*]"
     },
@@ -634,10 +630,6 @@
     {
         "sourceFile": "./data/omani_proverbs.json",
         "jsonPath": "$.omani[*]"
-    },
-    {
-        "sourceFile": "./data/osage_proverbs.json",
-        "jsonPath": "$.osage[*]"
     },
     {
         "sourceFile": "./data/palestinian_proverbs.json",
