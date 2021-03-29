@@ -48,7 +48,7 @@
         "flexsearch": "github:nextapps-de/flexsearch#0.7.0",
         "hero-patterns": "^2.1.0",
         "isomorphic-unfetch": "^3.1.0",
-        "lodash": "^4.17.20",
+        "lodash": "^4.17.21",
         "lunr": "^2.3.9",
         "node-cron": "^2.0.3"
     },
