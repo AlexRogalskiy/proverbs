@@ -196,7 +196,7 @@ pre {
 }
 
 /**
- * * Address CSS proverbs not supported in IE 6/7. */
+ * * Address CSS quotes not supported in IE 6/7. */
 q {
   quotes: none;
 }
@@ -206,7 +206,7 @@ q:before, q:after {
 }
 
 /**
- * * Address `proverbs` property not supported in Safari 4. */
+ * * Address `quotes` property not supported in Safari 4. */
 /**
  * * Address inconsistent and variable font size in all browsers. */
 small {

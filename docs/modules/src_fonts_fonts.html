@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>api | Styled Proverbs TypeDoc</title>
+	<title>src/fonts/fonts | Styled Proverbs TypeDoc</title>
 	<meta name="description" content="Documentation for Styled Proverbs TypeDoc">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="../assets/css/main.css">
@@ -53,10 +53,10 @@
 					<a href="../modules.html">Styled Proverbs TypeDoc</a>
 				</li>
 				<li>
-					<a href="api.html">api</a>
+					<a href="src_fonts_fonts.html">src/fonts/fonts</a>
 				</li>
 			</ul>
-			<h1>Module api</h1>
+			<h1>Module src/fonts/fonts</h1>
 		</div>
 	</div>
 </header>
@@ -68,39 +68,73 @@
 				<section class="tsd-panel tsd-index-panel">
 					<div class="tsd-index-content">
 						<section class="tsd-index-section ">
+							<h3>Type aliases</h3>
+							<ul class="tsd-index-list">
+								<li class="tsd-kind-type-alias tsd-parent-kind-module"><a href="src_fonts_fonts.html#fontrecord" class="tsd-kind-icon">Font<wbr>Record</a></li>
+							</ul>
+						</section>
+						<section class="tsd-index-section ">
 							<h3>Functions</h3>
 							<ul class="tsd-index-list">
-								<li class="tsd-kind-function tsd-parent-kind-module"><a href="api.html#default" class="tsd-kind-icon">default</a></li>
+								<li class="tsd-kind-function tsd-parent-kind-module"><a href="src_fonts_fonts.html#getfont" class="tsd-kind-icon">get<wbr>Font</a></li>
 							</ul>
 						</section>
 					</div>
 				</section>
 			</section>
 			<section class="tsd-panel-group tsd-member-group ">
+				<h2>Type aliases</h2>
+				<section class="tsd-panel tsd-member tsd-kind-type-alias tsd-parent-kind-module">
+					<a name="fontrecord" class="tsd-anchor"></a>
+					<h3>Font<wbr>Record</h3>
+					<div class="tsd-signature tsd-kind-icon">Font<wbr>Record<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">Record</span><span class="tsd-signature-symbol">&lt;</span><a href="../enums/typings_enum_types.fontpattern.html" class="tsd-signature-type" data-tsd-kind="Enumeration">FontPattern</a><span class="tsd-signature-symbol">, </span><a href="typings_domain_types.html#fontoptions" class="tsd-signature-type" data-tsd-kind="Type alias">FontOptions</a><span class="tsd-signature-symbol">&gt;</span></div>
+					<aside class="tsd-sources">
+						<ul>
+							<li>Defined in <a href="https://github.com/AlexRogalskiy/proverbs/blob/e2ea2d2/src/fonts/fonts.ts#L11">src/fonts/fonts.ts:11</a></li>
+						</ul>
+					</aside>
+					<div class="tsd-comment tsd-typography">
+						<div class="lead">
+							<p>FontRecord</p>
+						</div>
+						<dl class="tsd-comment-tags">
+							<dt>desc</dt>
+							<dd><p>Type representing font config options</p>
+							</dd>
+						</dl>
+					</div>
+				</section>
+			</section>
+			<section class="tsd-panel-group tsd-member-group ">
 				<h2>Functions</h2>
 				<section class="tsd-panel tsd-member tsd-kind-function tsd-parent-kind-module">
-					<a name="default" class="tsd-anchor"></a>
-					<h3>default</h3>
+					<a name="getfont" class="tsd-anchor"></a>
+					<h3><span class="tsd-flag ts-flagConst">Const</span> get<wbr>Font</h3>
 					<ul class="tsd-signatures tsd-kind-function tsd-parent-kind-module">
-						<li class="tsd-signature tsd-kind-icon">default<span class="tsd-signature-symbol">(</span>req<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">NowRequest</span>, res<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">NowResponse</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">VercelResponse</span><span class="tsd-signature-symbol">&gt;</span></li>
+						<li class="tsd-signature tsd-kind-icon">get<wbr>Font<span class="tsd-signature-symbol">(</span>value<span class="tsd-signature-symbol">: </span><a href="typings_standard_types.html#optional" class="tsd-signature-type" data-tsd-kind="Type alias">Optional</a><span class="tsd-signature-symbol">&lt;</span><a href="../enums/typings_enum_types.fontpattern.html" class="tsd-signature-type" data-tsd-kind="Enumeration">FontPattern</a><span class="tsd-signature-symbol">&gt;</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="typings_domain_types.html#fontoptions" class="tsd-signature-type" data-tsd-kind="Type alias">FontOptions</a></li>
 					</ul>
 					<ul class="tsd-descriptions">
 						<li class="tsd-description">
 							<aside class="tsd-sources">
 								<ul>
-									<li>Defined in <a href="https://github.com/AlexRogalskiy/proverbs/blob/e2ea2d2/api/index.ts#L9">api/index.ts:9</a></li>
+									<li>Defined in <a href="https://github.com/AlexRogalskiy/proverbs/blob/e2ea2d2/src/fonts/fonts.ts#L298">src/fonts/fonts.ts:298</a></li>
 								</ul>
 							</aside>
+							<div class="tsd-comment tsd-typography">
+								<div class="lead">
+									<p>Returns <a href="typings_domain_types.html#fontoptions">FontOptions</a> by input <a href="../enums/typings_enum_types.fontpattern.html">FontPattern</a> value</p>
+								</div>
+							</div>
 							<h4 class="tsd-parameters-title">Parameters</h4>
 							<ul class="tsd-parameters">
 								<li>
-									<h5>req: <span class="tsd-signature-type">NowRequest</span></h5>
-								</li>
-								<li>
-									<h5>res: <span class="tsd-signature-type">NowResponse</span></h5>
+									<h5>value: <a href="typings_standard_types.html#optional" class="tsd-signature-type" data-tsd-kind="Type alias">Optional</a><span class="tsd-signature-symbol">&lt;</span><a href="../enums/typings_enum_types.fontpattern.html" class="tsd-signature-type" data-tsd-kind="Enumeration">FontPattern</a><span class="tsd-signature-symbol">&gt;</span></h5>
+									<div class="tsd-comment tsd-typography">
+										<p>initial input <a href="../enums/typings_enum_types.fontpattern.html">FontPattern</a> to fetch by</p>
+									</div>
 								</li>
 							</ul>
-							<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">VercelResponse</span><span class="tsd-signature-symbol">&gt;</span></h4>
+							<h4 class="tsd-returns-title">Returns <a href="typings_domain_types.html#fontoptions" class="tsd-signature-type" data-tsd-kind="Type alias">FontOptions</a></h4>
 						</li>
 					</ul>
 				</section>
@@ -113,14 +147,17 @@
 						<a href="../modules.html">Modules</a>
 					</li>
 					<li class="current tsd-kind-module">
-						<a href="api.html">api</a>
+						<a href="src_fonts_fonts.html">src/fonts/fonts</a>
 					</li>
 				</ul>
 			</nav>
 			<nav class="tsd-navigation secondary menu-sticky">
 				<ul class="before-current">
+					<li class=" tsd-kind-type-alias tsd-parent-kind-module">
+						<a href="src_fonts_fonts.html#fontrecord" class="tsd-kind-icon">Font<wbr>Record</a>
+					</li>
 					<li class=" tsd-kind-function tsd-parent-kind-module">
-						<a href="api.html#default" class="tsd-kind-icon">default</a>
+						<a href="src_fonts_fonts.html#getfont" class="tsd-kind-icon">get<wbr>Font</a>
 					</li>
 				</ul>
 			</nav>
