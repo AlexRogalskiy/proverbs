@@ -91,27 +91,26 @@ For the tech stack, ***Styled proverbs*** using Typescript and serverless functi
 It's simple, you can copy paste this markdown content, like this one:
 
 ```
-![Styled proverbs](https://styled-proverbs.vercel.app/api?theme=[value]&layout=[value]&animation=[value]&bgColor=[value]&opacity=[value]&colorPattern=[value]&quoteColor=[value]&authorColor=[value]&pattern=[pattern]&language=[value]&width=[width]&height=[height]&keywords=[keywords])
+![Styled proverbs](https://styled-proverbs.vercel.app/api?theme=[value]&layout=[value]&animation=[value]&bgColor=[value]&opacity=[value]&colorPattern=[value]&textColor=[value]&categoryColor=[value]&pattern=[pattern]&language=[value]&width=[width]&height=[height]&keywords=[keywords])
 ```
 
 There are several options you can use from the list:
 
-| **Options**               | **Description**                    | **Type**                          | **Example**        | **Query Params**         |
-| ------------------------- | ---------------------------------- | --------------------------------- | ------------------ | ------------------------ |
-| **\[Theme]**              | Theme of the image                 | <code>String</code>               | default_repocard   | `?theme=[value]`         |
-| **\[Layout]**             | Layout of the image                | <code>String</code>               | churchill          | `&layout=[value]`        |
-| **\[Animation]**          | Animation of the image             | <code>String</code>               | grow_out_in        | `&animation=[value]`     |
-| **\[Background Color]**   | Background color of the image      | <code>Hex color code</code>       | ffffff             | `&bgColor=[value]`       |
-| **\[Opacity Pattern]**    | Opacity of the background pattern  | <code>Float number</code>         | 0 - 1              | `&opacity=[value]`       |
-| **\[Color Pattern]**      | Color of the background pattern    | <code>Hex color code</code>       | 1abc9c             | `&colorPattern=[value]`  |
-| **\[Quote Font Color]**   | Font color of the quote text       | <code>Hex color code</code>       | 000000             | `&quoteColor=[value]`    |
-| **\[Author Font Color]**  | Font color of the author text      | <code>Hex color code</code>       | 000000             | `&authorColor=[value]`   |
-| **\[Pattern]**            | Background pattern                 | <code>String constant</code>      | plus               | `&pattern=[value]`       |
-| **\[Language]**           | Proverb language                   | <code>String constant</code>      | swahili            | `&language=[value]`      |
-| **\[Width]**              | Image width                        | <code>String</code>               | 100%               | `&width=[value]`         |
-| **\[Height]**             | Image height                       | <code>String</code>               | 100%               | `&height=[value]`        |
-| **\[Keywords]**           | Quote keywords                     | <code>String/String Array</code>  | love               | `&keywords=[value]`      |
-
+| **Options**                 | **Description**                    | **Type**                          | **Example**        | **Query Params**         |
+| --------------------------- | ---------------------------------- | --------------------------------- | ------------------ | ------------------------ |
+| **\[Theme]**                | Theme of the image                 | <code>String</code>               | default_repocard   | `?theme=[value]`         |
+| **\[Layout]**               | Layout of the image                | <code>String</code>               | churchill          | `&layout=[value]`        |
+| **\[Animation]**            | Animation of the image             | <code>String</code>               | grow_out_in        | `&animation=[value]`     |
+| **\[Background Color]**     | Background color of the image      | <code>Hex color code</code>       | ffffff             | `&bgColor=[value]`       |
+| **\[Opacity Pattern]**      | Opacity of the background pattern  | <code>Float number</code>         | 0 - 1              | `&opacity=[value]`       |
+| **\[Color Pattern]**        | Color of the background pattern    | <code>Hex color code</code>       | 1abc9c             | `&colorPattern=[value]`  |
+| **\[Text Font Color]**      | Font color of the proverb text     | <code>Hex color code</code>       | 000000             | `&quoteColor=[value]`    |
+| **\[Category Font Color]**  | Font color of the category text    | <code>Hex color code</code>       | 000000             | `&authorColor=[value]`   |
+| **\[Pattern]**              | Background pattern                 | <code>String constant</code>      | plus               | `&pattern=[value]`       |
+| **\[Language]**             | Proverb language                   | <code>String constant</code>      | swahili            | `&language=[value]`      |
+| **\[Width]**                | Image width                        | <code>String</code>               | 100%               | `&width=[value]`         |
+| **\[Height]**               | Image height                       | <code>String</code>               | 100%               | `&height=[value]`        |
+| **\[Keywords]**             | Quote keywords                     | <code>String/String Array</code>  | love               | `&keywords=[value]`      |
 
 Here is a list of supported image themes:
 
