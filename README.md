@@ -38,6 +38,7 @@
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][tags]
 ![Website](https://img.shields.io/website?url=https://img.shields.io/website?url=https://styled-proverbs.vercel.app/api?backgroundColor=%23FFFFFF\&opacity=0.3\&colorPattern=%23FFE0E9\&fontColor=%230A83DC)
 
+[![codecov](https://codecov.io/gh/AlexRogalskiy/proverbs/branch/master/graph/badge.svg?token=Wgb7nM3Xx3)](https://codecov.io/gh/AlexRogalskiy/proverbs)
 [![CI](https://github.com/AlexRogalskiy/proverbs/workflows/test/badge.svg)](https://github.com/AlexRogalskiy/proverbs/workflows/test)
 [![GitHub Super-Linter](https://github.com/AlexRogalskiy/proverbs/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![GitHub JSON-Validator](https://github.com/AlexRogalskiy/proverbs/workflows/Validate%20JSONs/badge.svg)](https://github.com/OrRosenblatt/validate-json-action)
@@ -90,24 +91,97 @@ For the tech stack, ***Styled proverbs*** using Typescript and serverless functi
 It's simple, you can copy paste this markdown content, like this one:
 
 ```
-![Styled proverbs](https://styled-proverbs.vercel.app/api?backgroundColor=[value]&opacity=[value]&colorPattern=[value]&fontColor=[value]&pattern=[pattern]&language=[value]&width=[width]&height=[height]&keywords=[keywords])
+![Styled proverbs](https://styled-proverbs.vercel.app/api?theme=[value]&layout=[value]&animation=[value]&bgColor=[value]&opacity=[value]&colorPattern=[value]&quoteColor=[value]&authorColor=[value]&pattern=[pattern]&language=[value]&width=[width]&height=[height]&keywords=[keywords])
 ```
 
 There are several options you can use from the list:
 
-|  **Options**           | **Description**                          |   **Type**                     | **Example**   | **Query Params**               |
-| ---------------------- | ---------------------------------------- | ------------------------------ | ------------- | ------------------------------ |
-| **\[Background Color]** | Background color for the proverb image   | <code>Hex color code</code>    | %23ffffff     | `?backgroundColor=[value]` |
-| **\[Opacity Pattern]**  | Background opacity of the pattern        | <code>Float number</code>      | 0 - 1         | `&opacity=[value]`         |
-| **\[Color Pattern]**    | Color pattern for the signage            | <code>Hex color code</code>    | %231abc9c     | `&colorPattern=[value]`    |
-| **\[Font Color]**       | Font color for the proverb text          | <code>Hex color code</code>    | %23000000     | `&fontColor=[value]`       |
-| **\[Pattern]**          | Pattern for the background               | <code>String constant</code>   | plus          | `&pattern=[value]`         |
-| **\[Language]**         | Proverb language                         | <code>String constant</code>   | swedish       | `&language=[value]`        |
-| **\[Width]**            | Proverb image width                      | <code>String</code>            | 100%          | `&width=[value]`           |
-| **\[Height]**           | Proverb image height                     | <code>String</code>            | 100%          | `&height=[value]`          |
-| **\[Keywords]**         | Proverb keywords                         | <code>String/String\[]</code>   | love          | `&keywords=[value]`        |
+| **Options**               | **Description**                    | **Type**                          | **Example**        | **Query Params**         |
+| ------------------------- | ---------------------------------- | --------------------------------- | ------------------ | ------------------------ |
+| **\[Theme]**              | Theme of the image                 | <code>String</code>               | default_repocard   | `?theme=[value]`         |
+| **\[Layout]**             | Layout of the image                | <code>String</code>               | churchill          | `&layout=[value]`        |
+| **\[Animation]**          | Animation of the image             | <code>String</code>               | grow_out_in        | `&animation=[value]`     |
+| **\[Background Color]**   | Background color of the image      | <code>Hex color code</code>       | ffffff             | `&bgColor=[value]`       |
+| **\[Opacity Pattern]**    | Opacity of the background pattern  | <code>Float number</code>         | 0 - 1              | `&opacity=[value]`       |
+| **\[Color Pattern]**      | Color of the background pattern    | <code>Hex color code</code>       | 1abc9c             | `&colorPattern=[value]`  |
+| **\[Quote Font Color]**   | Font color of the quote text       | <code>Hex color code</code>       | 000000             | `&quoteColor=[value]`    |
+| **\[Author Font Color]**  | Font color of the author text      | <code>Hex color code</code>       | 000000             | `&authorColor=[value]`   |
+| **\[Pattern]**            | Background pattern                 | <code>String constant</code>      | plus               | `&pattern=[value]`       |
+| **\[Language]**           | Proverb language                   | <code>String constant</code>      | swahili            | `&language=[value]`      |
+| **\[Width]**              | Image width                        | <code>String</code>               | 100%               | `&width=[value]`         |
+| **\[Height]**             | Image height                       | <code>String</code>               | 100%               | `&height=[value]`        |
+| **\[Keywords]**           | Quote keywords                     | <code>String/String Array</code>  | love               | `&keywords=[value]`      |
 
-Here is a list of languages supported by Proverb API:
+
+Here is a list of supported image themes:
+
+| **Name**                          | **Value**                     |
+| --------------------------------- | ----------------------------- |
+| **Default**                       | default                       |
+| **Default repocard**              | default_repocard              |
+| **Dark**                          | dark                          |
+| **Radical**                       | radical                       |
+| **Merko**                         | merko                         |
+| **Gruvbox**                       | gruvbox                       |
+| **Tokyo night**                   | tokyonight                    |
+| **One dark**                      | onedark                       |
+| **Cobalt**                        | cobalt                        |
+| **Synth wave**                    | synthwave                     |
+| **High contrast**                 | highcontrast                  |
+| **Dracula**                       | dracula                       |
+| **Prussian**                      | prussian                      |
+| **Monokai**                       | monokai                       |
+| **Vue**                           | vue                           |
+| **Vue dark**                      | vue_dark                      |
+| **Shades of purple**              | shades_of_purple              |
+| **Night owl**                     | nightowl                      |
+| **Buefy**                         | buefy                         |
+| **Blue green**                    | blue_green                    |
+| **Algolia**                       | algolia                       |
+| **Great Gatsby**                  | great_gatsby                  |
+| **Darcula**                       | darcula                       |
+| **Bear**                          | bear                          |
+| **Solarized dark**                | solarized_dark                |
+| **Solarized light**               | solarized_light               |
+| **Chartreuse dark**               | chartreuse_dark               |
+| **Nord**                          | nord                          |
+| **Gotham**                        | gotham                        |
+| **Material pale night**           | material_palenight            |
+| **Gray white**                    | graywhite                     |
+| **Vision friendly dark**          | vision_friendly_dark          |
+| **Ayu mirage**                    | ayu_mirage                    |
+| **Midnight purple**               | midnight_purple               |
+| **Calm**                          | calm                          |
+| **Flag India**                    | flag_india                    |
+| **Omni**                          | omni                          |
+| **React**                         | react                         |
+| **Jolly**                         | jolly                         |
+| **Maroongold**                    | maroongold                    |
+| **Yeblu**                         | yeblu                         |
+| **Blueberry**                     | blueberry                     |
+| **State orange**                  | slateorange                   |
+| **Kacho ga**                      | kacho_ga                      |
+| **Arabesque**                     | arabesque                     |
+
+List of supported image layouts:
+
+| **Name**                          | **Value**                     |
+| --------------------------------- | ----------------------------- |
+| **Default**                       | default                       |
+| **Churchill**                     | churchill                     |
+| **Pluto**                         | pluto                         |
+| **Samuel**                        | samuel                        |
+| **Socrates**                      | socrates                      |
+| **Zues**                          | zues                          |
+
+List of supported image animations:
+
+| **Name**                          | **Value**                     |
+| --------------------------------- | ----------------------------- |
+| **Default**                       | default                       |
+| **Grow-out-in**                   | grow_out_in                   |
+
+List of languages supported by Proverb API:
 
 | **Name**                          | **Value**                     |
 | --------------------------------- | ----------------------------- |
@@ -436,13 +510,13 @@ Patterns in proverbs are provided by [Hero Pattern](https://github.com/lowmess/h
 This is example of using ***Styled Proverbs***:
 
 ```
-![Styled proverbs](https://styled-proverbs.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
+![Styled proverbs](https://styled-proverbs.vercel.app/api?theme=default_repocard&layout=churchill)
 ```
 
 Result:
 
 <div align="center" style="align-content: center">
-    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Proverbs" />
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=default_repocard&layout=churchill" alt="Styled proverbs" />
 </div>
 
 ## *Visitor stats*
