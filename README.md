@@ -574,6 +574,8 @@ See also the list of [contributors][contributors] who participated in this proje
 
 ## *Team Tools*
 
+https://lunrjs.com/guides/getting_started.html
+
 [![alt tag](http://pylonsproject.org/img/logo-jetbrains.png)](https://www.jetbrains.com/)
 
 ***Styled Proverbs*** Team would like inform that JetBrains is helping by provided IDE to develop the application. Thanks to its support program for an Open Source projects!
@@ -581,6 +583,10 @@ See also the list of [contributors][contributors] who participated in this proje
 [![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/AlexRogalskiy/proverbs)
 
 ***Styled Proverbs*** has experimental support for Gitpod, a pre-configured development environment that runs in your browser. To use Gitpod, click the button below and sign in with GitHub. Gitpod also offers a browser add-on, though it is not required.
+
+[![alt tag](https://lunrjs.com/images/moon.jpg)](https://lunrjs.com/guides/getting_started.html)
+
+***Styled Proverbs*** project is using Lunr search tool to index and query text data by provided keywords.
 
 ## *OpenGraph Card*
 

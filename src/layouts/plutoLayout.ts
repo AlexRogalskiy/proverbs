@@ -3,7 +3,7 @@ import { FontPattern, LayoutPattern } from '../../typings/enum-types'
 
 import { getFont } from '../fonts/fonts'
 import { getHeroPattern } from '../patterns/patterns'
-import { capitalize } from '../utils/commons'
+import { capitalize, join } from '../utils/commons'
 
 const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
     pluto: {
@@ -50,7 +50,7 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
                         color: #903;
                         font-family: Georgia;
                     }
-                    .quote-wrapper {
+                    .proverb-wrapper {
                         background: ${bgColor};
                         background-image: ${backgroundPattern};
                         margin: 0;
@@ -68,7 +68,7 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
                     p.site {
                         margin-top: 10px;
                     }
-                    .quote-wrapper-desc {
+                    .proverb-wrapper-desc {
                         display: flex;
                         flex-direction: column;
                         width: 100%;
@@ -85,13 +85,12 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
         },
         template: (options: TemplateOptions) => {
             return `
-                <div class="quote-wrapper">
-                    <div class="quote-wrapper-desc">
-                        <div class="line"></div>
-                        <p class="text subhead">${options.text}</p>
-                        <div class="line"></div>
-                        <h3 class="category">${capitalize(options.category)}</h3>
-                    </div>
+                <div class="proverb-wrapper">
+                    <div class="proverb-wrapper-desc">
+                    <h3 class="text subhead">${options.text}</h3>
+                    <div class="line"></div>
+                    <p class="category">${capitalize(join(options.category))} proverb</p>
+                    <div class="line"></div>
                 </div>
                 `
         },

@@ -1,7 +1,7 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
-import { capitalize } from '../utils/commons'
+import { capitalize, join } from '../utils/commons'
 
 const churchillLayout: Record<LayoutPattern.churchill, LayoutOptions> = {
     churchill: {
@@ -116,7 +116,7 @@ const churchillLayout: Record<LayoutPattern.churchill, LayoutOptions> = {
                         <div id="borderRight"></div>
                         <div id="borderBottom"></div>
                         <div id="borderTop"></div>
-                        <span>${capitalize(options.category)}</span>
+                        <span>${capitalize(join(options.category))} proverb</span>
                         <blockquote>
                             <p><i>${options.text}</i></p>
                         </blockquote>

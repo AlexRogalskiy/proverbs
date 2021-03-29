@@ -1,7 +1,7 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
-import { capitalize } from '../utils/commons'
+import { capitalize, join } from '../utils/commons'
 
 const defaultLayout: Record<LayoutPattern.default, LayoutOptions> = {
     default: {
@@ -57,7 +57,7 @@ const defaultLayout: Record<LayoutPattern.default, LayoutOptions> = {
             return `
                     <div class="container">
                         <h3> ${options.text} </h3>
-                        <p>- ${capitalize(options.category)} </p>
+                        <p>- ${capitalize(join(options.category))} proverb</p>
                     </div>
                 `
         },

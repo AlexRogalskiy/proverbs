@@ -1,7 +1,7 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
-import { capitalize } from '../utils/commons'
+import { capitalize, join } from '../utils/commons'
 
 const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
     zues: {
@@ -107,7 +107,7 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
                         <div class="quote4">
                             <div class="border"></div>
                             <div class="text">${options.text}</div>
-                            <div class="author">${capitalize(options.category)}</div>
+                            <div class="author">${capitalize(join(options.category))} proverb</div>
                         </div>
                     </div>
                 `

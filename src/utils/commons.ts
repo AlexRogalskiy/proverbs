@@ -19,7 +19,7 @@ export const toStringArray = (value: string | string[], delim = ','): string[] =
 }
 
 export const join = (value?: string | string[], delim = ','): string => {
-    return value ? `(${_.isArray(value) ? value.join(delim) : value})` : ''
+    return value ? (_.isArray(value) ? value.join(delim) : value) : ''
 }
 
 export const toString = (value: string | string[]): string => (_.isArray(value) ? value[0] : value)

@@ -26,5 +26,5 @@ export const IMAGE_OPTIONS: Readonly<ImageOptions> = {
 export const INDEX_OPTIONS: Readonly<IndexOptions> = {
     delimiter: '_',
     path: '.cache',
-    name: 'lunr-index.json',
+    name: 'proverbs-lunr-index.json',
 }

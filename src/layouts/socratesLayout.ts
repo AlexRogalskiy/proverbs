@@ -1,7 +1,7 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
-import { capitalize } from '../utils/commons'
+import { capitalize, join } from '../utils/commons'
 
 const socratesLayout: Record<LayoutPattern.socrates, LayoutOptions> = {
     socrates: {
@@ -59,7 +59,7 @@ const socratesLayout: Record<LayoutPattern.socrates, LayoutOptions> = {
                     <div class="square-brackets-quote">
                         <blockquote>
                             <p>${options.text}</p>
-                            <cite>${capitalize(options.category)}</cite>
+                            <cite>${capitalize(join(options.category))} proverb</cite>
                         </blockquote>
                     </div>
                 `
