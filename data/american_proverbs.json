@@ -6,6 +6,56 @@
             "category": "american"
         },
         {
+            "text": "From little acorns mighty oaks do grow.",
+            "description": "",
+            "category": "American"
+        },
+        {
+            "text": "Listen to the wind, it talks. Listen to the silence, it speaks. Listen to your heart, it knows",
+            "description": "",
+            "category": "Native American"
+        },
+        {
+            "text": "Seek wisdom, not knowledge. Knowledge is of the past, wisdom is of the future",
+            "description": "",
+            "category": "Lumbee (Native American)"
+        },
+        {
+            "text": "We don’t inherit the earth from our ancestors, we borrow it from our children",
+            "description": "",
+            "category": "Native American"
+        },
+        {
+            "text": "Knowledge is rooted in all things — the world is a library",
+            "description": "",
+            "category": "Lakota"
+        },
+        {
+            "text": "When we show our respect for other living things, they respond with respect for us",
+            "description": "",
+            "category": "Arapaho"
+        },
+        {
+            "text": "Take only what you need and leave the land as you found it",
+            "description": "",
+            "category": "Arapaho (Native American)"
+        },
+        {
+            "text": "From little acorns mighty oaks do grow.",
+            "description": "",
+            "category": "American"
+        },
+        {
+            "text": "Before borrowing money from a friend, decide which you need most",
+            "description": "",
+            "category": "American"
+        },
+        {
+            "text": "From little acorns mighty oaks do grow.",
+            "description": "",
+            "category": "American"
+        },
+        {
             "text": "Give cheerfully with one hand and you will gather well with two.",
             "description": "",
             "category": "lash"
@@ -3488,12 +3538,12 @@
         {
             "text": "A man can die just once.",
             "description": "",
-            "category": "american proverbs"
+            "category": "american"
         },
         {
             "text": "A man can’t do more than he can do. What says Don Ferdinando?",
             "description": "",
-            "category": "american proverbs"
+            "category": "american"
         },
         {
             "text": "A man chases a woman until she catches him.",
@@ -5366,6 +5416,16 @@
             "category": "american"
         },
         {
+            "text": "Of your unspoken words, you are the master; of your spoken words, the servant; of your written words, the slave",
+            "description": "",
+            "category": "Quaker"
+        },
+        {
+            "text": "Silence is the cornerstone of character",
+            "description": "",
+            "category": "Teton Sioux (Native American proverb)"
+        },
+        {
             "text": "Don’t count your chickens before they’ve hatched.",
             "description": "This proverb warns against being too eager. Just because you have five eggs, does not mean you will have five chickens. It is not a good idea to make plans based on expectations (what you think will happen). Wait for all things to come true before building up your dreams. Or worse, your promises. Things may not happen like you thought they would and that could get you in trouble.",
             "category": "american"
@@ -5613,7 +5673,7 @@
         {
             "text": "Don’t talk unless you can improve the silence.",
             "description": "",
-            "category": "american proverbs"
+            "category": "american"
         },
         {
             "text": "Don’t throw away your dirty water until you get clean.",
@@ -7548,7 +7608,7 @@
         {
             "text": "It isn’t the whistle that pulls the train.",
             "description": "",
-            "category": "american proverbs"
+            "category": "american"
         },
         {
             "text": "It makes a difference if the pope is on your side.",
@@ -8113,7 +8173,7 @@
         {
             "text": "Many speak much who cannot speak well.",
             "description": "",
-            "category": "american proverbs"
+            "category": "american"
         },
         {
             "text": "Many words will not fill a bushel.",
@@ -8298,7 +8358,7 @@
         {
             "text": "Never miss a good chance to shut up.",
             "description": "",
-            "category": "american proverbs"
+            "category": "american"
         },
         {
             "text": "Never quarrel with one’s bread and butter.",
@@ -9348,7 +9408,7 @@
         {
             "text": "The blacker the berry the sweeter the juice.",
             "description": "",
-            "category": "american proverbs"
+            "category": "american"
         },
         {
             "text": "The busy man has few idle visitors: to the boiling pot the flies come not.",
@@ -12886,7 +12946,7 @@
             "category": "american"
         },
         {
-            "text": "Sleep tight, don’t let the bed bugs bite.- Colonial American Proverb",
+            "text": "Sleep tight, don’t let the bed bugs bite.- Colonial American ",
             "description": "",
             "category": "american"
         },
@@ -13461,7 +13521,7 @@
             "category": "american"
         },
         {
-            "text": "You will always be lucky if you know how to make friends with strange cats. – Colonial American Proverb",
+            "text": "You will always be lucky if you know how to make friends with strange cats. – Colonial American ",
             "description": "",
             "category": "american"
         },
@@ -13487,11 +13547,6 @@
         },
         {
             "text": "Be in general virtuous, and you will be happy.",
-            "description": "",
-            "category": "american"
-        },
-        {
-            "text": "Be inspired by these American Proverbs. We hope you find the wisdom of many in these words",
             "description": "",
             "category": "american"
         },
@@ -17098,7 +17153,7 @@
         {
             "text": "True peace between nations will only happen when there is true peace within people’s souls.",
             "description": "",
-            "category": "lakota (teton, sioux)proverb"
+            "category": "lakota (teton, sioux)"
         },
         {
             "text": "We are all related.",
@@ -17418,7 +17473,7 @@
         {
             "text": "There can never be peace between nations until it is first known that true peace is within the souls of men.",
             "description": "",
-            "category": "oglala siouxproverb"
+            "category": "oglala sioux"
         },
         {
             "text": "Sometimes I go about pitying myself, and all the timeI am being carried on great wings across the sky.",
@@ -17688,7 +17743,7 @@
         {
             "text": "People seeking a myth will usually find one.",
             "description": "",
-            "category": "pueblo proverbnative american proverbs"
+            "category": "pueblo (native american)"
         },
         {
             "text": "Children are taught to give what they prize most, that they may taste the happiness of giving.",
@@ -18133,7 +18188,7 @@
         {
             "text": "Don’t walk behind me; I may not lead. Don’t walk in front of me; I may not follow. Walk beside me that we may be as one.",
             "description": "",
-            "category": "ute proverbnative american proverbs"
+            "category": "ute (native american)"
         },
         {
             "text": "Earth, Teach MeEarth teach me quietas the grasses are still with new light.Earth teach me sufferingas old stones suffer with memory.Earth teach me humilityas blossoms are humble with beginning.Earth teach me caringas mothers nurture their young.Earth teach me courageas the tree that stands alone.Earth teach me limitationas the ant that crawls on the ground.Earth teach me freedomas the eagle that soars in the sky.Earth teach me acceptanceas the leaves that die each fall.Earth teach me renewalas the seed that rises in the spring.Earth teach me to forget myselfas melted snow forgets its life.Earth teach me to remember kindnessas dry fields weep with rain.",

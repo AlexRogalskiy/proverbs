@@ -6,6 +6,21 @@
             "category": "nigerian"
         },
         {
+            "text": "In the moment of crisis, the wise build bridges and the foolish build dams",
+            "description": "",
+            "category": "Nigerian"
+        },
+        {
+            "text": "Being happy in one’s home is better than being a chief",
+            "description": "",
+            "category": "Nigerian"
+        },
+        {
+            "text": "When the brothers fight to the death, a stranger inherits their father’s estate",
+            "description": "",
+            "category": "Ibo"
+        },
+        {
             "text": "In the moment of crisis, the wise build bridges and the foolish build dams.",
             "description": "",
             "category": "nigerian"
@@ -378,17 +393,17 @@
         {
             "text": "Frowning and fierceness do not prove manliness.",
             "description": "",
-            "category": "nigerian proverbs (yoruba)"
+            "category": "nigerian (yoruba)"
         },
         {
             "text": "It takes a whole village to raise a child.",
             "description": "The society is responsible for the moral characters it creates and everyone in a community should be responsible for helping to train a child irrespective of who the parents are; offering correction where they are needed.",
-            "category": "nigerian proverbs (yoruba)"
+            "category": "nigerian (yoruba)"
         },
         {
             "text": "Character is religion.",
             "description": "",
-            "category": "nigerian proverbs (yoruba)"
+            "category": "nigerian (yoruba)"
         },
         {
             "text": "The person who has been a slave from birth does not value rebellion.",
@@ -612,11 +627,6 @@
         },
         {
             "text": "A child lacks wisdom, and some say that what is important is that the child does not die; what kills more surely than lack of wisdom?",
-            "description": "",
-            "category": "yoruba"
-        },
-        {
-            "text": "A wise man who knows proverbs, reconciles difficulties.",
             "description": "",
             "category": "yoruba"
         },

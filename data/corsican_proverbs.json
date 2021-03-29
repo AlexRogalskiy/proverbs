@@ -1,9 +1,14 @@
 {
     "corsican": [
         {
-            "text": "here’s no substitute for experience.",
+            "text": "There’s no substitute for experience.",
             "description": "",
             "category": "corsican"
+        },
+        {
+            "text": "I can get another husband but never another brother",
+            "description": "",
+            "category": "Corsican"
         },
         {
             "text": "A pound’s worth of tears will not settle a penny’s worth of debt.",
