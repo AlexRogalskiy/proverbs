@@ -1,4 +1,4 @@
-import lunr from 'lunr'
+import lunr, { Index, Query, tokenizer } from 'lunr'
 import cron from 'node-cron'
 
 import { readFileSync, writeFileSync } from 'fs'
@@ -25,7 +25,7 @@ const filePath: string = join(tempDir, profile.indexOptions.path)
 
 const getIndexPath = (filePath: string): string => join(filePath, profile.indexOptions.name)
 
-const storeIndex = (): lunr.Index => {
+const storeIndex = (): Index => {
     try {
         ensureDirExists(filePath)
 
@@ -37,13 +37,13 @@ const storeIndex = (): lunr.Index => {
         writeFileSync(indexPath, JSON.stringify(index))
 
         return index
-    } catch (e) {
-        boxenErrorLogs(`Failed to store index file, message=${e.message}`)
-        throw e
+    } catch (error) {
+        boxenErrorLogs(`Failed to store index file, message=${error.message}`)
+        throw error
     }
 }
 
-const restoreIndex = (): lunr.Index => {
+const restoreIndex = (): Index => {
     try {
         const indexPath = getIndexPath(filePath)
 
@@ -51,14 +51,14 @@ const restoreIndex = (): lunr.Index => {
 
         const index = readFileSync(indexPath, 'utf-8')
 
-        return lunr.Index.load(JSON.parse(index))
-    } catch (e) {
-        boxenErrorLogs(`Failed to restore index file, message=${e.message}`)
-        throw e
+        return Index.load(JSON.parse(index))
+    } catch (error) {
+        boxenErrorLogs(`Failed to restore index file, message=${error.message}`)
+        throw error
     }
 }
 
-const createIndex = (): lunr.Index => {
+const createIndex = (): Index => {
     return lunr(function () {
         this.field('quote')
         this.field('author')
@@ -72,19 +72,15 @@ const createIndex = (): lunr.Index => {
     })
 }
 
-export const idx = (): lunr.Index => {
+export const idx = (): Index => {
     try {
         return restoreIndex()
-    } catch (e) {
+    } catch (error) {
         return storeIndex()
     }
 }
 
-export const getSearchResultSet = <T>(
-    data: T[],
-    index: lunr.Index,
-    query: lunr.Index.QueryString
-): Optional<T>[] => {
+export const getSearchResultSet = <T>(data: T[], index: Index, query: Index.QueryString): Optional<T>[] => {
     const results = getSearchResults(index, query)
 
     return results.map(result => {
@@ -92,15 +88,15 @@ export const getSearchResultSet = <T>(
     })
 }
 
-export const getSearchResults = (index: lunr.Index, query: lunr.Index.QueryString): lunr.Index.Result[] => {
+export const getSearchResults = (index: Index, query: Index.QueryString): Index.Result[] => {
     return index.search(query)
 }
 
-export const getSearchResultsByTerm = (index: lunr.Index, term: string): lunr.Index.Result[] => {
+export const getSearchResultsByTerm = (index: Index, term: string): Index.Result[] => {
     return index.query(q => {
-        q.term(lunr.tokenizer(term), {
-            wildcard: lunr.Query.wildcard.TRAILING,
-            presence: lunr.Query.presence.REQUIRED,
+        q.term(tokenizer(term), {
+            wildcard: Query.wildcard.TRAILING,
+            presence: Query.presence.REQUIRED,
         })
     })
 }

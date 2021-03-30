@@ -19,9 +19,9 @@ export const fetchAsJson = async (url: string, options: RequestInit = {}): Promi
         const data = await checkStatus(response)
 
         return await data.json()
-    } catch (e) {
-        errorLogs(`Cannot fetch request by url: ${url}, message: ${e.message}`)
-        throw e
+    } catch (error) {
+        errorLogs(`Cannot fetch request by url: ${url}, message: ${error.message}`)
+        throw error
     }
 }
 
