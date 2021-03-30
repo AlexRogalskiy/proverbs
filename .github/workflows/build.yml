@@ -17,7 +17,10 @@ jobs:
         node: [ "13", "14", "15" ]
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
 
       - name: Setup node
         uses: actions/setup-node@v1
@@ -38,9 +41,6 @@ jobs:
 
       - name: Install
         run: yarn install
-
-      - name: Lint
-        run: yarn all
 
       - name: Jest
         run: yarn test:all

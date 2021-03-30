@@ -79,8 +79,8 @@ export const mergeProps = <T>(...obj: any[]): T =>
         return _.isArray(s) && _.isArray(o) ? _.union(o, s) : _.isNull(s) ? o : s
     })
 
-export const hasPrototypeProperty = (obj: any, name: string): boolean => {
-    return !obj.hasOwnProperty(name) && name in obj
+export const hasPrototypeProperty = (obj: any, name: PropertyKey): boolean => {
+    return !Object.prototype.hasOwnProperty.call(obj, name) && name in obj
 }
 
 export const hasProperty = (obj: any, prop: PropertyKey): boolean => {
