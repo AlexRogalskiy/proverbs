@@ -6,8 +6,243 @@
             "category": "french"
         },
         {
-            "text": "There is no pillow so soft as a clear conscience",
+            "text": "There is no pillow so soft as a clear conscience.",
             "description": "",
+            "category": "French"
+        },
+        {
+            "text": "Tout ce qui brille n'est pas or",
+            "description": "An apple a day keeps the doctor away.",
+            "category": "French"
+        },
+        {
+            "text": "Il vaut mieux être marteau qu'enclume.",
+            "description": "It's better to be a hammer than a nail.",
+            "category": "French"
+        },
+        {
+            "text": "Il vaut mieux s'adresser à Dieu qu'à ses saints.",
+            "description": "it's better to talk to the organ-grinder than the monkey.",
+            "category": "French"
+        },
+        {
+            "text": "Aide-toi, le ciel t'aidera.",
+            "description": "Heaven helps those who help themselves.",
+            "category": "French"
+        },
+        {
+            "text": "Au royaume des aveugles les borgnes sont rois.",
+            "description": "In the kingdom of the blind the one-eyed man is king.",
+            "category": "French"
+        },
+        {
+            "text": "C'est la poule qui chante qui a fait l'oeuf.",
+            "description": "The guilty dog barks the loudest.",
+            "category": "French"
+        },
+        {
+            "text": "Ce sont les tonneaux vides qui font le plus de bruit.",
+            "description": "Empty vessels make the most noise.",
+            "category": "French"
+        },
+        {
+            "text": "À l'impossible nul n'est tenu.",
+            "description": "No one is bound to do the impossible.",
+            "category": "French"
+        },
+        {
+            "text": "À l'oeuvre on reconnaît l'artisan.",
+            "description": "You can tell an artist by his handiwork.",
+            "category": "French"
+        },
+        {
+            "text": "Il ne faut jamais mettre la charrue avant les boeufs.",
+            "description": "Don't put the cart before the horse.",
+            "category": "French"
+        },
+        {
+            "text": "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.",
+            "description": "Don't count your chickens before they're hatched.",
+            "category": "French"
+        },
+        {
+            "text": "À mauvais ouvrier point de bons outils.",
+            "description": "A bad workman blames his tools.",
+            "category": "French"
+        },
+        {
+            "text": "Il faut toujours qu'il ramène sa fraise.",
+            "description": "He always has to put his two cents in.",
+            "category": "French"
+        },
+        {
+            "text": "Ne tourne pas autour du pot.",
+            "description": "Don't beat around the bush.",
+            "category": "French"
+        },
+        {
+            "text": "Qui se ressemble s'assemble.",
+            "description": "Birds of a feather flock together.",
+            "category": "French"
+        },
+        {
+            "text": "Qui naît poule aime à caqueter.",
+            "description": "A leopard can't change his spots.",
+            "category": "French"
+        },
+        {
+            "text": "L'habit ne fait pas le moine.",
+            "description": "Clothes don't make the person.",
+            "category": "French"
+        },
+        {
+            "text": "Qui trop embrasse mal étreint.",
+            "description": "He who grasps at too much loses everything.",
+            "category": "French"
+        },
+        {
+            "text": "Heureux au jeu, malheureux en amour. (il ne faut rien laisser au hasard)",
+            "description": "Lucky at cards, unlucky in love.",
+            "category": "French"
+        },
+        {
+            "text": "C'est facile comme tout.",
+            "description": "It's as easy as pie.",
+            "category": "French"
+        },
+        {
+            "text": "C'est plus facile à dire qu'à faire.",
+            "description": "Easier said than done.",
+            "category": "French"
+        },
+        {
+            "text": "Paris ne s'est pas fait en un jour.",
+            "description": "Rome wasn't built in a day.",
+            "category": "French"
+        },
+        {
+            "text": "Il faut laisser faire le temps.",
+            "description": "Let things take/follow their [natural] course.",
+            "category": "French"
+        },
+        {
+            "text": "À quelque-chose malheur est bon. (Après la pluie le beau temps)",
+            "description": "Every cloud has a silver lining.",
+            "category": "French"
+        },
+        {
+            "text": "Bon chien chasse de race.",
+            "description": "Like father, like son.",
+            "category": "French"
+        },
+        {
+            "text": "Les petits ruisseaux font les grandes rivières.",
+            "description": "Tall oaks from little acorns grow.",
+            "category": "French"
+        },
+        {
+            "text": "Les chiens ne font pas des chats.",
+            "description": "The apple doesn't fall far from the tree.",
+            "category": "French"
+        },
+        {
+            "text": "C'est au pied du mur qu'on voit le maçon.",
+            "description": "The tree is known by its fruit.",
+            "category": "French"
+        },
+        {
+            "text": "Bonne renommée vaut mieux que ceinture dorée.",
+            "description": "A good name is better than riches.",
+            "category": "French"
+        },
+        {
+            "text": "Les bons comptes font les bons amis.",
+            "description": "Don't let money squabbles ruin a friendship.",
+            "category": "French"
+        },
+        {
+            "text": "Battre le fer pendant qu'il est chaud.",
+            "description": "To strike while the iron is hot.",
+            "category": "French"
+        },
+        {
+            "text": "Entre l'arbre et l'écorce il ne faut pas mettre le doigt.",
+            "description": "Caught between a rock and a hard place.",
+            "category": "French"
+        },
+        {
+            "text": "Il y a un temps pour tout.",
+            "description": "There's a right time for everything.",
+            "category": "French"
+        },
+        {
+            "text": "Le temps c'est de l'argent.",
+            "description": "Time is money.",
+            "category": "French"
+        },
+        {
+            "text": "Le temps perdu ne se rattrape jamais.",
+            "description": "Time and tide wait for no man.",
+            "category": "French"
+        },
+        {
+            "text": "Quand on parle du loup (on en voit la queue).",
+            "description": "Speak of the devil (and he appears).",
+            "category": "French"
+        },
+        {
+            "text": "Un chien vivant vaut mieux qu'un lion mort.",
+            "description": "A bird in the hand is worth two in the bush.",
+            "category": "French"
+        },
+        {
+            "text": "Aux grands maux les grands remèdes.",
+            "description": "Desperate times call for desperate measures, big problems require big solutions.",
+            "category": "French"
+        },
+        {
+            "text": "Le chat parti, les souris dansent. (Quand le chat n'est pas là les souris dansent)",
+            "description": "When the cat's away, the mice will play.",
+            "category": "French"
+        },
+        {
+            "text": "Nécessité fait loi. (Faute de grives, on mange des merles)",
+            "description": "Beggars can't be choosers.",
+            "category": "French"
+        },
+        {
+            "text": "Ne mets pas tous tes oeufs dans le même panier.",
+            "description": "Don't put all your eggs in one basket.",
+            "category": "French"
+        },
+        {
+            "text": "On ne fait pas d'omelette sans casser des oeufs.",
+            "description": "You can't make an omelet without breaking eggs.",
+            "category": "French"
+        },
+        {
+            "text": "The shoemakers are always the most badly shod.",
+            "description": "The shoemaker's always goes barefoot.",
+            "category": "French"
+        },
+        {
+            "text": "Avec des si et des mais, on mettrait Paris dans une bouteille.",
+            "description": "If ifs and ands were pots and pans there'd be no work for tinkers' hands.",
+            "category": "French"
+        },
+        {
+            "text": "Il vaut mieux aller au moulin qu'au médecin.",
+            "description": "All that glitters isn't gold",
+            "category": "French"
+        },
+        {
+            "text": "Quand le chat n'est pas là, les souris dansent.",
+            "description": "When the cat's away, the mice will play",
+            "category": "French"
+        },
+        {
+            "text": "Impossible n'est pas français.",
+            "description": "There's no such thing as can't",
             "category": "French"
         },
         {
@@ -7702,7 +7937,7 @@
         },
         {
             "text": "You only die once.",
-            "description": "",
+            "description": "Nothing in life is so bad.",
             "category": "french"
         },
         {
@@ -7752,7 +7987,7 @@
         },
         {
             "text": "Old habits die hard.",
-            "description": "",
+            "description": "I've tried to quit smoking many times. I just can't do it!",
             "category": "french"
         },
         {
@@ -8842,7 +9077,7 @@
         },
         {
             "text": "Variety is the spice of life.",
-            "description": "",
+            "description": "Make sure to try all sorts of things in your life. Otherwise, you'll get bored.",
             "category": "french"
         },
         {

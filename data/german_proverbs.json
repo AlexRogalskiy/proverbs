@@ -6,6 +6,106 @@
             "category": "german"
         },
         {
+            "text": "He who rests grows rusty.",
+            "description": "",
+            "category": "german"
+        },
+        {
+            "text": "Starting is easy, persistence is an art.",
+            "description": "",
+            "category": "german"
+        },
+        {
+            "text": "Alles hat ein Ende, nur die Wurst hat zwei.",
+            "description": "Everything must end. Literally: Everything has an end; only the sausage has two.",
+            "category": "german"
+        },
+        {
+            "text": "Das ist mir Wurst.",
+            "description": "It's all the same to me. Literally: It's a sausage to me.",
+            "category": "german"
+        },
+        {
+            "text": "Es geht um die Wurst.",
+            "description": "It's do or die / now or never / the moment of truth. Literal: It's about the sausage.",
+            "category": "german"
+        },
+        {
+            "text": "Äpfel mit Birnen vergleichen.",
+            "description": "Comparing apples and oranges. Literally: Comparing apples and pears",
+            "category": "german"
+        },
+        {
+            "text": "In des Teufels Küche sein.",
+            "description": "To get into hot water. Literal: In the devil's kitchen",
+            "category": "german"
+        },
+        {
+            "text": "Dir haben sie wohl etwas in den Kaffee getan.",
+            "description": "You've got to be kidding. Literally: You've probably done something in/to the coffee",
+            "category": "german"
+        },
+        {
+            "text": "Die Radieschen von unten anschauen/betrachten.",
+            "description": "To be pushing up daisies (to be dead). Literally: To see/view the radishes from below",
+            "category": "german"
+        },
+        {
+            "text": "Die Katze im Sack kaufen",
+            "description": "To buy a pig in a poke. Literally: to buy a cat in a sack",
+            "category": "german"
+        },
+        {
+            "text": "Wo sich die Füchse gute Nacht sagen",
+            "description": "The middle of nowhere/the back of beyond. Literally: Where the foxes say goodnight",
+            "category": "german"
+        },
+        {
+            "text": "Stochere nicht im Bienenstock.",
+            "description": "Let sleeping dogs lie. Literally: Don't poke around in the beehive.",
+            "category": "german"
+        },
+        {
+            "text": "Daumen drücken!",
+            "description": "Keep your fingers crossed! Literally: Press/hold your thumbs!",
+            "category": "german"
+        },
+        {
+            "text": "Er hat einen dicken Kopf.",
+            "description": "He's got a hangover. Literally: He has a fat head.",
+            "category": "german"
+        },
+        {
+            "text": "Was ich nicht weiß, macht mich nicht heiß.",
+            "description": "What you don't know, won't hurt you. Literally: What I don't know won't burn me.",
+            "category": "german"
+        },
+        {
+            "text": "Er fällt immer mit der Tür ins Häuschen.",
+            "description": "He always gets right to the point/just blurts it out. Literally: He always falls into the house through the door.",
+            "category": "german"
+        },
+        {
+            "text": "Was Hänschen nicht lernt, lernt Hans nimmermehr.",
+            "description": "You can't teach an old dog new tricks. Literally: What little Hans didn't learn, adult Hans never will.",
+            "category": "german"
+        },
+        {
+            "text": "Wenn man dem Teufel den kleinen Finger gibt, so nimmt er die ganze Hand.",
+            "description": "Give an inch; they'll take a mile. Literally: If you give the devil your little finger, he'll take the whole hand.",
+            "category": "german"
+        },
+        {
+            "text": "The cheapest is always the most expensive.",
+            "description": "",
+            "category": "german"
+        },
+        {
+            "text": "Make haste with leisure.",
+            "description": "",
+            "category": "german"
+        },
+        {
             "text": "Speaking comes by nature, silence by understanding",
             "description": "",
             "category": "German"
@@ -1217,7 +1317,7 @@
         },
         {
             "text": "Blood is thicker than water.",
-            "description": "",
+            "description": "Remember he's your brother. That relationship will always remain.",
             "category": "german"
         },
         {
@@ -2102,7 +2202,7 @@
         },
         {
             "text": "Great minds think alike.",
-            "description": "",
+            "description": "You and I are thinking the same thing!",
             "category": "german"
         },
         {
@@ -3537,7 +3637,7 @@
         },
         {
             "text": "Money talks.",
-            "description": "",
+            "description": "I know he shouldn't have won the election, but he had a lot of rich donors.",
             "category": "german"
         },
         {

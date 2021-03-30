@@ -6,6 +6,331 @@
             "category": "spanish"
         },
         {
+            "text": "El hábito no hace al monje.",
+            "description": "The habit doesn't make the monk. (Clothes do not make the man.)",
+            "category": "spanish"
+        },
+        {
+            "text": "A beber y a tragar, que el mundo se va a acabar.",
+            "description": "Here's to drinking and swallowing, for the world is going to end. (Eat, drink and be merry, for tomorrow we die.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Algo es algo; menos es nada.",
+            "description": "Something is something; less is nothing. (It's better than nothing. Half a loaf is better than none.)",
+            "category": "spanish"
+        },
+        {
+            "text": "No hay que ahogarse en un vaso de agua.",
+            "description": "It isn't necessary to drown oneself in a glass of water. (Don't make a mountain out of a molehill.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Borra con el codo lo que escribe con la mano.",
+            "description": "He/she erases with the elbow what his/her hand is writing. (Whatever good actions or decisions he makes, he invalidates by other actions)",
+            "category": "spanish"
+        },
+        {
+            "text": "Dame pan y dime tonto.",
+            "description": "Give me bread and call me a fool. (Think of me what you will. As long as I get what I want, it doesn't matter what you think.)",
+            "category": "spanish"
+        },
+        {
+            "text": "La cabra siempre tira al monte.",
+            "description": "The goat always heads toward the mountain. (The leopard doesn't change its spots. You can't teach an old dog new tricks.)",
+            "category": "spanish"
+        },
+        {
+            "text": "El amor todo lo puede.",
+            "description": "Love can do it all. (Love will find a way.)",
+            "category": "spanish"
+        },
+        {
+            "text": "A los tontos no les dura el dinero.",
+            "description": "Money does not last for fools. (A fool and his money are soon parted.)",
+            "category": "spanish"
+        },
+        {
+            "text": "De músico, poeta y loco, todos tenemos un poco.",
+            "description": "We all have a little bit of musician, poet and crazy person in ourselves. (We're all a little bit crazy.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Al mejor escribano se le va un borrón.",
+            "description": "To the best scribe comes a smudge. (Even the best of us make mistakes. Nobody's perfect.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Camarón que se duerme se lo lleva la corriente.",
+            "description": "The shrimp that falls asleep is carried by the current. (Don't let the world pass you by. Stay alert and be proactive. Don't fall asleep at the wheel.)",
+            "category": "spanish"
+        },
+        {
+            "text": "A lo hecho, pecho.",
+            "description": "To what is done, the chest. (Face up to what is. What is done is done.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Nunca es tarde para aprender.",
+            "description": "It never is late for learning. (It is never too late to learn.)",
+            "category": "spanish"
+        },
+        {
+            "text": "A otro perro con ese hueso.",
+            "description": "To another dog with that bone. (Tell that to someone who will believe you.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Desgracia compartida, menos sentida.",
+            "description": "Shared misfortune, less sorrow. (Misery loves company.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Donde hay humo, hay fuego.",
+            "description": "Where there's smoke, there's fire.",
+            "category": "spanish"
+        },
+        {
+            "text": "No hay peor sordo que el que no quiere oír.",
+            "description": "There is not a worse deaf person than the one who doesn't want to hear. (There is none so blind as he who will not see.)",
+            "category": "spanish"
+        },
+        {
+            "text": "No vendas la piel del oso antes de cazarlo.",
+            "description": "Don't sell the bear's hide before you hunt it. (Don't count your chickens before they hatch.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Qué bonito es ver la lluvia y no mojarse.",
+            "description": "How nice it is to see the rain and not get wet. (Don't criticize others for the way they do something unless you've done it yourself.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Nadie da palos de balde.",
+            "description": "Nobody gives sticks for free. (You can't get something for nothing. There's no such thing as a free lunch.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Los árboles no están dejando ver el bosque.",
+            "description": "The trees aren't allowing one to see the forest. (You can't see the forest for the trees.)",
+            "category": "spanish"
+        },
+        {
+            "text": "El mundo es un pañuelo.",
+            "description": "The world is a handkerchief. (It's a small world.)",
+            "category": "spanish"
+        },
+        {
+            "text": "A cada cerdo le llega su San Martín.",
+            "description": "Every pig gets its San Martín. (What goes around comes around. You deserve what you get. San Martín refers to a traditional celebration in which a pig is sacrificed.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Consejo no pedido, consejo mal oído.",
+            "description": "Advice not asked for, advice poorly heard. (Someone who doesn't ask for advice doesn't want to hear it. Don't give advice unless you're asked.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Obras son amores y no buenas razones.",
+            "description": "Acts are love and good reasons aren't. (Actions speak louder than words.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Gobernar es prever.",
+            "description": "To govern is to foresee. (It is better to prevent problems than to fix them. An ounce of prevention is worth a pound of cure.)",
+            "category": "spanish"
+        },
+        {
+            "text": "No dejes camino viejo por sendero nuevo.",
+            "description": "Don't leave the old road for a new trail. (It's better to stick with what works. A shortcut isn't always quicker.)",
+            "category": "spanish"
+        },
+        {
+            "text": "La lengua no tiene hueso, pero corta lo más grueso.",
+            "description": "The tongue doesn't have a bone, but it cuts the thickest thing. (Words are more powerful than weapons.)",
+            "category": "spanish"
+        },
+        {
+            "text": "La raíz de todos los males es el amor al dinero.",
+            "description": "The root of all evils is love toward money. (Love of money is the root of all evil.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Más vale pájaro en mano que cien volando.",
+            "description": "A bird in the hand is worth more than 100 flying. (A bird in the hand is worth two in the bush.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Ojos que no ven, corazón que no siente.",
+            "description": "Eyes that do not see, heart that does not feel.",
+            "category": "spanish"
+        },
+        {
+            "text": "No por mucho madrugar amanece más temprano.",
+            "description": "Not through much awaking early does the dawn come earlier.",
+            "category": "spanish"
+        },
+        {
+            "text": "El amor es ciego.",
+            "description": "Love is blind.",
+            "category": "spanish"
+        },
+        {
+            "text": "Perro que no camina, no encuentra hueso.",
+            "description": "The dog that doesn't walk doesn't find a bone. (You can't succeed if you don't try.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Dime con quién andas y te diré quién eres.",
+            "description": "Tell me with whom you walk and I will tell you who you are. (A man is known by the company he keeps.)",
+            "category": "spanish"
+        },
+        {
+            "text": "El diablo sabe más por viejo que por diablo.",
+            "description": "The devil knows more due to being old than by being the devil.",
+            "category": "spanish"
+        },
+        {
+            "text": "A la luz de la tea, no hay mujer fea.",
+            "description": "By the light of the torch there is no ugly woman.",
+            "category": "spanish"
+        },
+        {
+            "text": "Haz el bien, y no mires a quién.",
+            "description": "Do the good, and don't look at whom. (Do what is right, not what will gain approval.)",
+            "category": "spanish"
+        },
+        {
+            "text": "El que nació para tamal, del cielo le caen las hojas.",
+            "description": "The leaves fall from the sky for him who was born for the tamal (a traditional Mexican food made from corn leaves).",
+            "category": "spanish"
+        },
+        {
+            "text": "No hay mal que por bien no venga.",
+            "description": "There is no bad from which good doesn't come.",
+            "category": "spanish"
+        },
+        {
+            "text": "Quien no tiene, perder no puede.",
+            "description": "He who doesn't have is unable to lose. (You can't lose what you don't have.)",
+            "category": "spanish"
+        },
+        {
+            "text": "No todo lo que brilla es oro.",
+            "description": "Not all that shines is gold. (Not everything that glitters is gold.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Perro que ladra no muerde.",
+            "description": "The dog that barks doesn't bite.",
+            "category": "spanish"
+        },
+        {
+            "text": "A caballo regalado no se le mira el diente.",
+            "description": "Don't look at the tooth of a horse that was given. (Don't look a gift horse in the mouth.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Eso es harina de otro costal.",
+            "description": "That is wheat from a different bag. (It's a bird of a different feather.)",
+            "category": "spanish"
+        },
+        {
+            "text": "De tal palo, tal astilla.",
+            "description": "From such a stick, such a splinter. (A chip off the old block.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Para el hombre no hay mal pan. (O, para el hambre no hay mal pan.)",
+            "description": ") There is no bad bread for man. (Or, there is no bad bread for hunger.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Las desgracias nunca vienen solas.",
+            "description": "Misfortunes never come alone. (Bad things happen in threes.)",
+            "category": "spanish"
+        },
+        {
+            "text": "De buen vino, buen vinagre.",
+            "description": "From good wine, good vinegar.",
+            "category": "spanish"
+        },
+        {
+            "text": "El que la sigue, la consigue.",
+            "description": "He who follows it attains it. (You get what you work for.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Saliste de Guatemala y te metiste en Guatepeor.",
+            "description": "You left Guate-bad and went to Guate-worse.",
+            "category": "spanish"
+        },
+        {
+            "text": "A quien madruga, Dios le ayuda.",
+            "description": "God helps the one who arises early. (God helps those who help themselves. The early bird catches the worm. Early to bed, early to rise, makes a man healthy, wealthy and wise.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Camarón que se duerme, se lo lleva la corriente.",
+            "description": "The shrimp that falls asleep gets carried away by the current.",
+            "category": "spanish"
+        },
+        {
+            "text": "Del dicho al hecho, hay mucho trecho.",
+            "description": "From the saying to the act, there is much distance. (Saying something and doing it are two different things.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Si quieres el perro, acepta las pulgas.",
+            "description": "If you want the dog, accept the fleas. (If you can't stand the heat, get out of the kitchen. Love me, love my faults.)",
+            "category": "spanish"
+        },
+        {
+            "text": "De noche todos los gatos son negros.",
+            "description": "At night all cats are black.",
+            "category": "spanish"
+        },
+        {
+            "text": "Lo que en los libros no está, la vida te enseñará.",
+            "description": "That which isn't in books, life will teach you. (Life is the best teacher.)",
+            "category": "spanish"
+        },
+        {
+            "text": "La ignorancia es atrevida.",
+            "description": "Ignorance is courageous.",
+            "category": "spanish"
+        },
+        {
+            "text": "Cada uno lleva su cruz.",
+            "description": "Everyone carries his cross. (We each have our own cross to bear.)",
+            "category": "spanish"
+        },
+        {
+            "text": "A falta de pan, tortillas.",
+            "description": "Lack of bread, tortillas. (Make do with what you have. Half a loaf is better than none.)",
+            "category": "spanish"
+        },
+        {
+            "text": "El amor es como el agua que no se seca.",
+            "description": "Love is like water that never evaporates. (True love lasts forever.)",
+            "category": "spanish"
+        },
+        {
+            "text": "No dejes para mañana lo que puedas hacer hoy.",
+            "description": "Don't leave for tomorrow that which you can do today.",
+            "category": "spanish"
+        },
+        {
+            "text": "Donde no hay harina, todo es mohina.",
+            "description": "Where there's no flour, everything is an annoyance. (Poverty breeds discontent. If your needs aren't met, you won't be happy.)",
+            "category": "spanish"
+        },
+        {
+            "text": "Todos los caminos llevan a Roma.",
+            "description": "All roads lead to Rome. (There's more than one way to reach a goal. All actions have the same result.)",
+            "category": "spanish"
+        },
+        {
             "text": "Tomorrow is often the busiest day of the week",
             "description": "",
             "category": "Spanish"
@@ -3147,7 +3472,7 @@
         },
         {
             "text": "Great minds think alike.",
-            "description": "",
+            "description": "You and I are thinking the same thing!",
             "category": "spanish"
         },
         {
@@ -3177,7 +3502,7 @@
         },
         {
             "text": "Half the truth is often a whole lie.",
-            "description": "",
+            "description": "Even though it seemed like a good idea, the fact that he left out some details should have been a clue to the problems.",
             "category": "spanish"
         },
         {
@@ -4377,7 +4702,7 @@
         },
         {
             "text": "Home is where the heart is.",
-            "description": "",
+            "description": "Your true place is with the people you love.",
             "category": "spanish"
         },
         {
@@ -13332,7 +13657,7 @@
         },
         {
             "text": "Home is where the heart is.",
-            "description": "",
+            "description": "Your true place is with the people you love.",
             "category": "spanish"
         },
         {
@@ -13802,7 +14127,7 @@
         },
         {
             "text": "Half the truth is often a whole lie.",
-            "description": "",
+            "description": "Even though it seemed like a good idea, the fact that he left out some details should have been a clue to the problems.",
             "category": "spanish"
         },
         {
