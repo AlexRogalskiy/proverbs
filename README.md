@@ -302,6 +302,7 @@ List of languages supported by Proverb API:
 | **Kashmiri**                      | kashmiri                      |
 | **Kenyan**                        | kenyan                        |
 | **Kikuyu**                        | kikuyu                        |
+| **Klingon**                       | klingon                       |
 | **Koran**                         | koran                         |
 | **Korean**                        | korean                        |
 | **Kurdish**                       | kurdish                       |

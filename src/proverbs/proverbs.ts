@@ -116,6 +116,7 @@ import * as kanuriProverbs from '../../data/kanuri_proverbs.json'
 import * as kashmiriProverbs from '../../data/kashmiri_proverbs.json'
 import * as kenyanProverbs from '../../data/kenyan_proverbs.json'
 import * as kikuyuProverbs from '../../data/kikuyu_proverbs.json'
+import * as klingonProverbs from '../../data/klingon_proverbs.json'
 import * as koranProverbs from '../../data/koran_proverbs.json'
 import * as koreanProverbs from '../../data/korean_proverbs.json'
 import * as kurdishProverbs from '../../data/kurdish_proverbs.json'
@@ -356,6 +357,7 @@ const proverbs: TemplateRecord = mergeProps<TemplateRecord>(
     kashmiriProverbs,
     kenyanProverbs,
     kikuyuProverbs,
+    klingonProverbs,
     koranProverbs,
     koreanProverbs,
     kurdishProverbs,

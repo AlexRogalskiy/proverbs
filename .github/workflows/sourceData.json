@@ -472,6 +472,10 @@
         "jsonPath": "$.kikuyu[*]"
     },
     {
+        "sourceFile": "./data/klingon_proverbs.json",
+        "jsonPath": "$.klingon[*]"
+    },
+    {
         "sourceFile": "./data/koran_proverbs.json",
         "jsonPath": "$.koran[*]"
     },

@@ -130,6 +130,7 @@ export enum LanguagePattern {
     anii = 'anii',
     bible = 'bible',
     kikuyu = 'kikuyu',
+    klingon = 'klingon',
     koran = 'koran',
     gambian = 'gambian',
     flemish = 'flemish',
