@@ -31,9 +31,8 @@ const basque = require('../data/basque_proverbs.json')
 const bedouin = require('../data/bedouin_proverbs.json')
 const belgian = require('../data/belgian_proverbs.json')
 const belizean = require('../data/belizean_proverbs.json')
-const bemba = require('../data/bemba_proverbs.json')
 const bengali = require('../data/bengali_proverbs.json')
-const benines = require('../data/beninese_proverbs.json')
+const beninese = require('../data/beninese_proverbs.json')
 const berber = require('../data/berber_proverbs.json')
 const bhutanese = require('../data/bhutanese_proverbs.json')
 const bible = require('../data/bible_proverbs.json')
@@ -61,7 +60,6 @@ const colombian = require('../data/colombian_proverbs.json')
 const congolese = require('../data/congolese_proverbs.json')
 const corsican = require('../data/corsican_proverbs.json')
 const costaRikan = require('../data/costa-rikan_proverbs.json')
-const cree = require('../data/cree_proverbs.json')
 const creole = require('../data/creole_proverbs.json')
 const cretian = require('../data/cretian_proverbs.json')
 const croatian = require('../data/croatian_proverbs.json')
@@ -79,9 +77,11 @@ const eastAsian = require('../data/east-asian_proverbs.json')
 const ecuadorian = require('../data/ecuadorian_proverbs.json')
 const egyptian = require('../data/egyptian_proverbs.json')
 const english = require('../data/english_proverbs.json')
+const eritrean = require('../data/eritrean_proverbs.json')
 const eskimo = require('../data/eskimo_proverbs.json')
 const estonian = require('../data/estonian_proverbs.json')
 const ethiopian = require('../data/ethiopian_proverbs.json')
+const faroese = require('../data/faroese_proverbs.json')
 const fijian = require('../data/fijian_proverbs.json')
 const filipino = require('../data/filipino_proverbs.json')
 const finnish = require('../data/finnish_proverbs.json')
@@ -106,6 +106,7 @@ const hasidic = require('../data/hasidic_proverbs.json')
 const hawaiian = require('../data/hawaiian_proverbs.json')
 const hebrew = require('../data/hebrew_proverbs.json')
 const hindu = require('../data/hindu_proverbs.json')
+const honduran = require('../data/honduran_proverbs.json')
 const hungarian = require('../data/hungarian_proverbs.json')
 const icelandic = require('../data/icelandic_proverbs.json')
 const indian = require('../data/indian_proverbs.json')
@@ -114,7 +115,8 @@ const iranian = require('../data/iranian_proverbs.json')
 const iraqi = require('../data/iraqi_proverbs.json')
 const irish = require('../data/irish_proverbs.json')
 const islamic = require('../data/islamic_proverbs.json')
-const italia = require('../data/italian_proverbs.json')
+const israeli = require('../data/israeli_proverbs.json')
+const italian = require('../data/italian_proverbs.json')
 const ivorian = require('../data/ivorian_proverbs.json')
 const jamaican = require('../data/jamaican_proverbs.json')
 const japanese = require('../data/japanese_proverbs.json')
@@ -124,6 +126,7 @@ const kanuri = require('../data/kanuri_proverbs.json')
 const kashmiri = require('../data/kashmiri_proverbs.json')
 const kenyan = require('../data/kenyan_proverbs.json')
 const kikuyu = require('../data/kikuyu_proverbs.json')
+const klingon = require('../data/klingon_proverbs.json')
 const koran = require('../data/koran_proverbs.json')
 const korean = require('../data/korean_proverbs.json')
 const kurdish = require('../data/kurdish_proverbs.json')
@@ -163,10 +166,12 @@ const nepalese = require('../data/nepalese_proverbs.json')
 const newZelander = require('../data/new-zelander_proverbs.json')
 const nicaraguan = require('../data/nicaraguan_proverbs.json')
 const nigerian = require('../data/nigerian_proverbs.json')
-const norwegia = require('../data/norwegian_proverbs.json')
+const pakistani = require('../data/pakistani_proverbs.json')
+const norwegian = require('../data/norwegian_proverbs.json')
 const omani = require('../data/omani_proverbs.json')
 const palestinian = require('../data/palestinian_proverbs.json')
 const panamanian = require('../data/panamanian_proverbs.json')
+const paraguayan = require('../data/paraguayan_proverbs.json')
 const persian = require('../data/persian_proverbs.json')
 const peruvian = require('../data/peruvian_proverbs.json')
 const philippine = require('../data/philippine_proverbs.json')
@@ -201,6 +206,7 @@ const swahili = require('../data/swahili_proverbs.json')
 const swedish = require('../data/swedish_proverbs.json')
 const swiss = require('../data/swiss_proverbs.json')
 const syrian = require('../data/syrian_proverbs.json')
+const tahitian = require('../data/tahitian_proverbs.json')
 const taiwanese = require('../data/taiwanese_proverbs.json')
 const tajikistani = require('../data/tajikistani_proverbs.json')
 const talmud = require('../data/talmud_proverbs.json')
@@ -214,7 +220,6 @@ const trinidadian = require('../data/trinidadian_proverbs.json')
 const tuareg = require('../data/tuareg_proverbs.json')
 const tunisian = require('../data/tunisian_proverbs.json')
 const turkish = require('../data/turkish_proverbs.json')
-const tuscarora = require('../data/tuscarora_proverbs.json')
 const ugandan = require('../data/ugandan_proverbs.json')
 const uighur = require('../data/uighur_proverbs.json')
 const ukrainian = require('../data/ukrainian_proverbs.json')
@@ -226,10 +231,10 @@ const virginIslander = require('../data/virgin-islander_proverbs.json')
 const walloon = require('../data/walloon_proverbs.json')
 const welsh = require('../data/welsh_proverbs.json')
 const westAfrican = require('../data/west-african_proverbs.json')
-const wolof = require('../data/wolof_proverbs.json')
 const yemeni = require('../data/yemeni_proverbs.json')
 const yiddish = require('../data/yiddish_proverbs.json')
 const yugoslavian = require('../data/yugoslavian_proverbs.json')
+const zaire = require('../data/zaire_proverbs.json')
 const zambian = require('../data/zambian_proverbs.json')
 const zanzibar = require('../data/zanzibar_proverbs.json')
 const zen = require('../data/zen_proverbs.json')
@@ -304,9 +309,8 @@ function ensureDirExists(dir) {
             bedouin,
             belgian,
             belizean,
-            bemba,
             bengali,
-            benines,
+            beninese,
             berber,
             bhutanese,
             bible,
@@ -334,7 +338,6 @@ function ensureDirExists(dir) {
             congolese,
             corsican,
             costaRikan,
-            cree,
             creole,
             cretian,
             croatian,
@@ -352,9 +355,11 @@ function ensureDirExists(dir) {
             ecuadorian,
             egyptian,
             english,
+            eritrean,
             eskimo,
             estonian,
             ethiopian,
+            faroese,
             fijian,
             filipino,
             finnish,
@@ -379,6 +384,7 @@ function ensureDirExists(dir) {
             hawaiian,
             hebrew,
             hindu,
+            honduran,
             hungarian,
             icelandic,
             indian,
@@ -387,7 +393,8 @@ function ensureDirExists(dir) {
             iraqi,
             irish,
             islamic,
-            italia,
+            israeli,
+            italian,
             ivorian,
             jamaican,
             japanese,
@@ -397,6 +404,7 @@ function ensureDirExists(dir) {
             kashmiri,
             kenyan,
             kikuyu,
+            klingon,
             koran,
             korean,
             kurdish,
@@ -436,10 +444,12 @@ function ensureDirExists(dir) {
             newZelander,
             nicaraguan,
             nigerian,
-            norwegia,
+            norwegian,
             omani,
+            pakistani,
             palestinian,
             panamanian,
+            paraguayan,
             persian,
             peruvian,
             philippine,
@@ -474,6 +484,7 @@ function ensureDirExists(dir) {
             swedish,
             swiss,
             syrian,
+            tahitian,
             taiwanese,
             tajikistani,
             talmud,
@@ -487,7 +498,6 @@ function ensureDirExists(dir) {
             tuareg,
             tunisian,
             turkish,
-            tuscarora,
             ugandan,
             uighur,
             ukrainian,
@@ -499,12 +509,13 @@ function ensureDirExists(dir) {
             walloon,
             welsh,
             westAfrican,
-            wolof,
             yemeni,
             yiddish,
             yugoslavian,
+            zaire,
             zambian,
             zanzibar,
+            zen,
             zimbabwean,
             zulu,
         ]

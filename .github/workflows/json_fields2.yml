@@ -1,0 +1,35 @@
+name: Process JSON fields (dup)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  process-json-fields:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+
+      - name: Process JSON changelog fields
+        uses: alexrogalskiy/github-action-json-fields@master
+        id: process_json
+        env:
+          source_data: ".github/workflows/sourceData.json"
+          target_path: ./data
+          json_fields: 'text'
+          mode: 'unique'
+        with:
+          mode: "${{ env.mode }}"
+          jsonFields: "${{ env.json_fields }}"
+          sourceData: "${{ env.source_data }}"
+          targetPath: "${{ env.target_path }}"
+
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        if: "steps.process_json.outputs.changed"
+        with:
+          commit_message: Add processed JSON files
+          commit_options: '--no-verify --signoff'
