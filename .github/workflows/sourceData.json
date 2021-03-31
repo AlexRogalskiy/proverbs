@@ -100,10 +100,6 @@
         "jsonPath": "$.belizean[*]"
     },
     {
-        "sourceFile": "./data/bemba_proverbs.json",
-        "jsonPath": "$.bemba[*]"
-    },
-    {
         "sourceFile": "./data/bengali_proverbs.json",
         "jsonPath": "$.bengali[*]"
     },
@@ -220,10 +216,6 @@
         "jsonPath": "$.costa_rikan[*]"
     },
     {
-        "sourceFile": "./data/cree_proverbs.json",
-        "jsonPath": "$.cree[*]"
-    },
-    {
         "sourceFile": "./data/creole_proverbs.json",
         "jsonPath": "$.creole[*]"
     },
@@ -292,6 +284,10 @@
         "jsonPath": "$.english[*]"
     },
     {
+        "sourceFile": "./data/eritrean_proverbs.json",
+        "jsonPath": "$.eritrean[*]"
+    },
+    {
         "sourceFile": "./data/eskimo_proverbs.json",
         "jsonPath": "$.eskimo[*]"
     },
@@ -302,6 +298,10 @@
     {
         "sourceFile": "./data/ethiopian_proverbs.json",
         "jsonPath": "$.ethiopian[*]"
+    },
+    {
+        "sourceFile": "./data/faroese_proverbs.json",
+        "jsonPath": "$.faroese[*]"
     },
     {
         "sourceFile": "./data/fijian_proverbs.json",
@@ -400,6 +400,10 @@
         "jsonPath": "$.hindu[*]"
     },
     {
+        "sourceFile": "./data/honduran_proverbs.json",
+        "jsonPath": "$.honduran[*]"
+    },
+    {
         "sourceFile": "./data/hungarian_proverbs.json",
         "jsonPath": "$.hungarian[*]"
     },
@@ -430,6 +434,10 @@
     {
         "sourceFile": "./data/islamic_proverbs.json",
         "jsonPath": "$.islamic[*]"
+    },
+    {
+        "sourceFile": "./data/israeli_proverbs.json",
+        "jsonPath": "$.israeli[*]"
     },
     {
         "sourceFile": "./data/italian_proverbs.json",
@@ -636,12 +644,20 @@
         "jsonPath": "$.omani[*]"
     },
     {
+        "sourceFile": "./data/pakistani_proverbs.json",
+        "jsonPath": "$.pakistani[*]"
+    },
+    {
         "sourceFile": "./data/palestinian_proverbs.json",
         "jsonPath": "$.palestinian[*]"
     },
     {
         "sourceFile": "./data/panamanian_proverbs.json",
         "jsonPath": "$.panamanian[*]"
+    },
+    {
+        "sourceFile": "./data/paraguayan_proverbs.json",
+        "jsonPath": "$.paraguayan[*]"
     },
     {
         "sourceFile": "./data/persian_proverbs.json",
@@ -780,6 +796,10 @@
         "jsonPath": "$.syrian[*]"
     },
     {
+        "sourceFile": "./data/tahitian_proverbs.json",
+        "jsonPath": "$.tahitian[*]"
+    },
+    {
         "sourceFile": "./data/taiwanese_proverbs.json",
         "jsonPath": "$.taiwanese[*]"
     },
@@ -832,10 +852,6 @@
         "jsonPath": "$.turkish[*]"
     },
     {
-        "sourceFile": "./data/tuscarora_proverbs.json",
-        "jsonPath": "$.tuscarora[*]"
-    },
-    {
         "sourceFile": "./data/ugandan_proverbs.json",
         "jsonPath": "$.ugandan[*]"
     },
@@ -880,10 +896,6 @@
         "jsonPath": "$.west_african[*]"
     },
     {
-        "sourceFile": "./data/wolof_proverbs.json",
-        "jsonPath": "$.wolof[*]"
-    },
-    {
         "sourceFile": "./data/yemeni_proverbs.json",
         "jsonPath": "$.yemeni[*]"
     },
@@ -894,6 +906,10 @@
     {
         "sourceFile": "./data/yugoslavian_proverbs.json",
         "jsonPath": "$.yugoslavian[*]"
+    },
+    {
+        "sourceFile": "./data/zaire_proverbs.json",
+        "jsonPath": "$.zaire[*]"
     },
     {
         "sourceFile": "./data/zambian_proverbs.json",

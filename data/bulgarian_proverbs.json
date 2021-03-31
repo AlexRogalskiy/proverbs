@@ -6,6 +6,956 @@
             "category": "bulgarian"
         },
         {
+            "text": "A lie has no legs.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A lie's legs are short.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A lion lurks in everyone's heart; awake him not.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A person is known by the company he keeps.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A Single hand cannot wash itself even in the Danube river.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A song belongs to no one.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A tree falls the way it leans.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A word about to be spoken is like a stone that is ready to be thrown.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A Word makes no hole, a pinch tears no underskirt.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "An axe without a shaft is no threat to the forest.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "As you sow, so shall you reap.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Bad weather gets better, a bad man never does.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Bandage up your finger and take a walk in the village to see how many medical people you will meet.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Because of John hating St. John.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Better the grave than a slave.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Blessed wine, cursed drinking.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Blood is thicker than water.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Burning the poor man's candles, counting the rich man's money.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Burning the quilt because of the fleas.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Dead horses can't kick.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He who lies, hangs from a gallows - he who does not, hangs twice.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He who lives by the sword shall die by the sword.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He who steals the minaret shall find a case to hide it.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He who undertakes too many jobs does none.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He, who buys what he does not need, sells what he needs.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He, who gets angry, grows old fast.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He, who gives much, will soon start begging.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Hell is also made for people.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Hunger is a bigger master than the king.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Hungry bear doesn't dance.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A crow a crow's eyes doesn't peck.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A crow will never be a dove.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A fortress surrenders from within.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A gentle word opens an iron gate.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A good cock can never have too many hens.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A good friend is recognized in times of trouble.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A Good son needs no inheritance, the bad needs none.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A Haughty person will not even reach down to take his own nose if it had fallen to the ground.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A house without a woman is like a fire without a bucket.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "A Joke may have children born.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Eyes see everything but themselves.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Feed a dog to bark at you.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Flies plough the ox' horns.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "For the blind sellers there are blind buyers.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "From the promise to the deed is a day's journey.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "From walking -- something; from sitting -- nothing.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Give me money to buy myself a purse to put my money in.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Give me, mother, luck at my birth, then throw me if you will on the rubbish heap.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Go hunting for rabbits - be eaten by wolves.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "God does not pay every Saturday.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Money tempts women, women tempt men.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Mother Nature, time and patience are the three best doctors.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "New day -- new destiny.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "No hero without a wound.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Not Every nun becomes Mother Superior.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "One does not get crucified, one crucifies oneself.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "One gentle word opens a gate of iron.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "One learns as long as one lives and still dies a fool.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "One swallow doesn't make a spring.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Only other people's eggs are double-yolked.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The crow pecks at the ox to clean it -- not to feed from it.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Dog barks to keep itself, not the village.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Donkey, though it may go to the Holy Land, will still come back a donkey.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The droplet is always at its largest just before it drops.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Drum is large but empty.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The earth is man's only friend.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The eye that sees all things else, sees not itself.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The First glass is for health, the second - for joy, the third - for fun, the fourth - for madness.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The fox falls into the trap only once.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The horse went into the river.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "I Gave Up smoking, smoking would not give me up.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If God should listen to rooks, he should send a plague to horses.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If Only youth had knowledge and old age ability.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If The Priest is used to get drunk, the people do not sober at all.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you are going to drown, do not try it in shallow water.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you break the fast, better eat pork, not curds.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you call one wolf, you invite the pack.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you can kiss the mistress, never kiss the maid.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you can't be good, be careful.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you can't be good, then be careful.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Sparrows quarrel over somebody else's millet.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Stronghold is taken from within.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Sun shines on mud, but does not get muddy.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The village feeds the town.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Wealthy man has even his crow laying him eggs.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The wife carries the husband on her face; the husband carries the wife on his clothes.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The wolf changes only his coat -- not his character.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The wolf has a thick neck, because he does his job on his own.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "There is no boneless fish.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "There's no flock without carrion.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you can't beat em, join em.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you cannot serve, you cannot rule.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you go to sleep with the blind, you'll wake up squinting.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you have no enemies think then that your own mother might have produced one.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you let everyone walk over you, then you become a carpet.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you light one candle for God, then you must light two for the devil.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you want apples, you have to shake the trees.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you want to annoy the devil stay silent.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you want to drown yourself, don't torture yourself with shallow water.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you wish to drown, do not torture yourself with shallow water.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Why didn't the midwife, who cut your naval string, cut your head instead?",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Why should I shave when God doesn't?",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "With a king it is the same as with fire - stay neither close by, nor too far away.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "With one bullet - two rabbits.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Wriggling hands like young bride's legs.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "You are permitted in times of great danger to walk with the devil until you have crossed the bridge.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "You can take a horse to water, but you can not make him drink.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "You can't find stupidity in the forest.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "You monk, do you want us to give you in marriage?",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "You will sell more sheepskins at the market than wolfskins.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "God gives but does not lock the gate.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "God is not without sins: He created the world.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "God promises a safe landing but not a smooth passage.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Grapes do not grow in a willow tree.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Gravediggers have their own gravediggers too.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Hasty work - shame for its creator.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Have your cake and eat it too.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He that believes in dreams pastures the winds.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He that feels sorry for the shoe, loses the horse.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He that flies high falls low down.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Death is closer than the shirt.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Do not put all eggs in one basket.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Don't cry at somebody else's grave.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Draw water from the new well, but do not spit in the old one.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Drop by drop - a whole lake becomes.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Either the camel, or the camel man.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Embrace the snake and it will bite you.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Every frog has his own pond.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Every frog must know its sole-leather.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Every tree has its worm to eat it.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Hump is straightened only by the grave.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Meek lamb sucks from two mothers.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Mosquito weighs kilos on his own scale.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The neighbor's chicken is a duck.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The nice apples are always eaten by nasty pigs.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Old man is not asked where he aches, but why he does not ache there.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Older one marries, the longer the nights.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The pear does not fall far from the tree.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Sea has decided to drown itself in the river.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Sluggard works twice, the niggard pays twice.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If you would live long, open your heart.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "If your neighbor's house is on fire, make haste to put out the fire in your own house.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "It is easier to fondle lassies, than to cut timbers.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "It is easy to be the father of children already born.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Let the man who has suffered ask it -- not the man who has travelled.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Life is a ladder -- some will climb up it, others down.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Life is a stairway - some are going up, others are going down.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Man is harder than a stone and more brittle than an egg.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Many people wash their hands to have dinner with the bishop, only a few sit down to his table.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Measure twice, cut once.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He that has a hawk has three hundred partridges.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He that sleeps with a dog, should bear its fleas.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He that wills not to feed a cat feeds the mice.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He who believes in dreams feeds on wind.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He who breaks his word shall through his word be broken.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He who digs someone else's grave shall fall in it himself.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He who does not work, must not eat.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He who has been at the mill has flour on his hat.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He who keeps his old clothes, gains new ones too.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "He who laughs last, laughs best.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "They do not want him in the village, he asks for the priest's house.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "They said to the fox, the fox said to its tail.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Thirsty men make good prophets.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Three hundred ravens are scattered by one stone.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "To the donkey thorns taste better than hay.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Too many barbers would be ready to shave the beard of a beardless man.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Two happy days are seldom brothers.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Unfenced garden - fenced in desert.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Wait horse for green grass.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Watch your step when you walk: you may find nothing but you will not stumble.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Out of sight, out of mind.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Pretty wife, old wine -- many friends.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Ravens do not peck each other's eyes out.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Seize the opportunity by the beard, for it is bald behind.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Take a big bite, but don't say a big word.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Talk of the devil - and the devil appears.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Tell the blind he is eyeless, and he will get mad at you.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Bad tax-collector will sell one of your oxen, the good one - both.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Blind hen, when it sees again, wants even to mount the cock.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "The Chicken teaches the hen to lay eggs.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Water washes up everything but shame.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "We had a dog, it helped the wolf.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "What the devil is unable to do, he asks a woman to do?",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "When a Bulgar gets rich he builds himself another house.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "When given a kingdom, the gypsy asks: what about bread?",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "When the sea turned into honey, the poor man lost his spoon.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "When the sea turned to honey, the poor man lost his spoon.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "When the Turk becomes richer he takes another wife.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Where shepherds are lots, sheep are lost.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Whip the saddle and give the mule something to think about it.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
             "text": "Tell me who your friends are, so I can tell you who you are.",
             "description": "",
             "category": "bulgarian"

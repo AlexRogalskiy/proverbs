@@ -1,9 +1,714 @@
 {
-    "south_african": [
+    "south african": [
         {
             "text": "Two eyes help each other",
             "description": "",
             "category": "south african"
+        },
+        {
+            "text": "Where there is honey, there are bound to be ants.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "You are not great just because you say you are.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Even the maid has a family.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "He who has no intelligence is happy with it.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "He. He. He. You begin with the meal before the water is boiling.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Hope does not kill; I shall live in hope of getting what I seek another day.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "If he keeps on imitating everybody the monkey will one day cut his own throat.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "If you are looking for a fly in your food it means that you are full.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "If your buttocks burn, you know you have done wrong.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "It is hunger that killed the man with many wives.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "It is the snake that smells the rat.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Knowledge is like a lion; it cannot be gently embraced.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "A chattering bird builds no nest.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "A fool is a wise man's ladder.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "A termite grows up in dry wood, and yet comes to maturity.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Abundance does not spread; famine does.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Almost is not eaten.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "An Elder does not break wind in public, but in a latrine.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "As great birds die the eggs rot.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Before you milk a cow tie it up.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Behold the iguana puffing itself out to make itself a man.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "By pounding the dough the bread will rise.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "No hill without gravestones, no valley without shadows.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "No man can perfectly empty a pot with a ladle.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "No one drinks medicine on behalf of a sick person.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "No stake ever grew old with the bark on.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Old age does not announce itself.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Once you have found your first diamond, you will never give up looking.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "One who enters a hut does not smell the termites roasting in the boiler.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "people are people through other people.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Plenty sits still, hunger is a wanderer.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Roasted locusts eaten at night bring dangerous dreams.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Until the lions have their historians, tales of hunting will always glorify the hunter.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Walls have ears, and little pots too.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "What the poor man says is not listened to.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "When a bird builds its nest it uses the feathers of other birds.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "When the elephant is slain all the tribes gather together to eat of it.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "When two elephants meet on a narrow bridge, they get nowhere until one of them backs down or lies down.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "When you climb the mountain and reach the top, do not forget the branches shrubs that helped your footing.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "When you have a lot to do, start with a meal.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "When you have touched a woman, you have struck a rock.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "When you shoot a zebra in the black stripe, the white dies too; shoot it in the white and the black dies too.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The best time to plant a tree is years ago; the next best time is now.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The drums of war are the drums of hunger.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The dupe who takes possession of a lame ox is seldom recognized as a fool.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The fool who owns an ox is seldom recognized as a fool.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The foot pains in sympathy with the toe.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The girl with stars in her eyes will shine like the moonlight.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The greatest death is laughter.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The hand that rocks the cradle rules the nation and its destiny.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The heart is like a goat that has to be tied up.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The impatient person eats goat; the one who hesitates eats beef.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The last partridge to rise gets the most sticks thrown at it.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The one chased away with a club comes back, but the one chased away with reason does not.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The pool has dried up, and the fish is in trouble.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The poor man's proverb is never quoted.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The quail waits for the stick; the idle loiterer about a place waits for a kick from an old boot.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The seed waits for its garden or ground where it will be sown.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The strength of the crocodile is in the water.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "The woman who always complains and is never satisfied with anything is like an annoying flea on the foot.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "A bad name is like a stigma.",
+            "description": "",
+            "category": "south sotho"
+        },
+        {
+            "text": "A bird will always use another birds' feathers to feather its own nest.",
+            "description": "",
+            "category": "south sotho"
+        },
+        {
+            "text": "A man's grave is by the roadside.",
+            "description": "",
+            "category": "south sotho"
+        },
+        {
+            "text": "To kiss the child is to kiss the mother.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "To travel is to see.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "We are people because of other people.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "What is seen is seen by all.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "You can't keep a bull in the Kraal.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "Eating without sharing is like swearing with your mouth.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "Eyes can see widely: They can cross a river in full flood.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "Famine hides under the granary.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "He who offended forgets, but he who suffered from the offense does not.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "If you are too smart to pay the doctor, you had better be too smart to get sick.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "Plenty is like the mist.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "The cripple is fair in its mother's eyes.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "You have exposed yourself.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "You will find out what Hili of the Amambalu experienced.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "You will prefer roasted meat.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "You will shed tears with one eye like a monkey.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "They have slaughtered at Kukwane where much meat is obtainable.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "They prevent us from getting red clay from the pit, and they do not use it.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "Throats are all alike in swallowing",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "To skin a mouse.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "We shall hear, we are on the side towards which the wind blows.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "You are creeping on your knees to the fireplace.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "You are lighting a fire in the wind.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "You disturb monkeys on their way to drink.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "You drink out of the old cup.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "You have cast away your own for that which you are not sure of.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "He is ripe inside, like a water-melon.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "I rejoice that Kolomba's mother is dead.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "I, the adhesive grass, will stick fast to you.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "If we blink the eyes in order not to see a wicked person, how shall we be able to see a good person?",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "It dies and rises like the moon.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "It has stuck fast by one of the front legs.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "It is a cob stripped of maize in an ashpit.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "It is not every one who is a son of Gaika.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "It is the foot of a baboon.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "It is the seed of the umya.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The land is dead.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The mist and the sun are together.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The people who rescue and kill.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The shield turned the wrong way.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The sun never sets without fresh news.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The walls have come into collision.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The wonderful and the impossible have come into collision.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "There is no beast that does not roar in its den.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "There is no wormwood that comes into flower and does not wither.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "They are people of experience who do not sleep at a strange place.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "Like the marriage feast of Mapassa.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "Misfortune of soup made of shanks and feet.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "No partridge scratches the ground in search of food for another.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "One does not become great by claiming greatness.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "One fly does not provide for another.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "One who eats the remains of a meal without first obtaining permission.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The baldness of a head begins at the temples.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The coming of Nkele.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The crab has stuck fast between the stones at the entrance of its hole.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The foot has no nose.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "A brand burns him who stirs it up.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "A dog of the wind.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "A person who will not take advice gets knowledge when trouble overtakes him.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "A spy for both.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "Bakuba is far away, no person ever reached it.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "Guluwe's two of yesterday.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "He has drunk the juice of the flower of the wild aloe.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "He has fastened a dog to a shrub.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "He has gone in pursuit of the birds of the sea.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "He is a buck of an endless forest.",
+            "description": "",
+            "category": "xhosa"
+        },
+        {
+            "text": "The mother is she who catches the knife by the blade.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "The quick one may not win; the enduring one will.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "To give away is to make provision for the future.",
+            "description": "",
+            "category": "tswana"
+        },
+        {
+            "text": "A person is a person because of other persons.",
+            "description": "",
+            "category": "south sotho"
+        },
+        {
+            "text": "He that digs up a grave for his enemy, may be digging it for himself.",
+            "description": "",
+            "category": "south sotho"
+        },
+        {
+            "text": "The wrong-headed fool who refuses counsel, will come to grief.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Two wives, two pots of poison.",
+            "description": "",
+            "category": "south african"
+        },
+        {
+            "text": "Once the manioca is in your stomach it's gone.",
+            "description": "",
+            "category": "nyang"
+        },
+        {
+            "text": "A child brought up where there is always dancing cannot fail to dance.",
+            "description": "",
+            "category": "nyanja"
+        },
+        {
+            "text": "Grow old, body, the heart still remains.",
+            "description": "",
+            "category": "ndebele"
+        },
+        {
+            "text": "The tears of a man drop onto his chest.",
+            "description": "",
+            "category": "ndebele"
+        },
+        {
+            "text": "Where there is a herd without a bull, a castrated ox will rule.",
+            "description": "",
+            "category": "boran"
         },
         {
             "text": "If you are looking for a fly in your food it means that you are full.",

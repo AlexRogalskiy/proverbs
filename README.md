@@ -209,7 +209,6 @@ List of languages supported by Proverb API:
 | **Bedouin**                       | bedouin                       |
 | **Belgian**                       | belgian                       |
 | **Belizean**                      | belizean                      |
-| **Bemba**                         | bemba                         |
 | **Bengali**                       | bengali                       |
 | **Beninese**                      | beninese                      |
 | **Berber**                        | berber                        |
@@ -239,7 +238,6 @@ List of languages supported by Proverb API:
 | **Congolese**                     | congolese                     |
 | **Corsican**                      | corsican                      |
 | **Costa Rikan**                   | costa_rikan                   |
-| **Cree**                          | cree                          |
 | **Creole**                        | creole                        |
 | **Cretian**                       | cretian                       |
 | **Croatian**                      | croatian                      |
@@ -257,9 +255,11 @@ List of languages supported by Proverb API:
 | **Ecuadorian**                    | ecuadorian                    |
 | **Egyptian**                      | egyptian                      |
 | **English**                       | english                       |
+| **Eritrean**                      | eritrean                      |
 | **Eskimo**                        | eskimo                        |
 | **Estonian**                      | estonian                      |
 | **Ethiopian**                     | ethiopian                     |
+| **Faroese**                       | faroese                       |
 | **Fijian**                        | fijian                        |
 | **Filipino**                      | filipino                      |
 | **Finnish**                       | finnish                       |
@@ -284,6 +284,7 @@ List of languages supported by Proverb API:
 | **Hawaiian**                      | hawaiian                      |
 | **Hebrew**                        | hebrew                        |
 | **Hindu**                         | hindu                         |
+| **Honduran**                      | honduran                      |
 | **Hungarian**                     | hungarian                     |
 | **Icelandic**                     | icelandic                     |
 | **Indian**                        | indian                        |
@@ -292,6 +293,7 @@ List of languages supported by Proverb API:
 | **Iraqi**                         | iraqi                         |
 | **Irish**                         | irish                         |
 | **Islamic**                       | islamic                       |
+| **Israeli**                       | israeli                       |
 | **Italian**                       | italian                       |
 | **Ivorian**                       | ivorian                       |
 | **Jamaican**                      | jamaican                      |
@@ -344,9 +346,11 @@ List of languages supported by Proverb API:
 | **Nigerian**                      | nigerian                      |
 | **Norwegian**                     | norwegian                     |
 | **Omani**                         | omani                         |
+| **Pakistani**                     | pakistani                     |
 | **Somali**                        | somali                        |
 | **Palestinian**                   | palestinian                   |
 | **Panamanian**                    | panamanian                    |
+| **Paraguayan**                    | paraguayan                    |
 | **Persian**                       | persian                       |
 | **Peruvian**                      | peruvian                      |
 | **Philippine**                    | philippine                    |
@@ -380,6 +384,7 @@ List of languages supported by Proverb API:
 | **Swedish**                       | swedish                       |
 | **Swiss**                         | swiss                         |
 | **Syrian**                        | syrian                        |
+| **Tahitian**                      | tahitian                      |
 | **Taiwanese**                     | taiwanese                     |
 | **Tajikistani**                   | tajikistani                   |
 | **Talmud**                        | talmud                        |
@@ -393,7 +398,6 @@ List of languages supported by Proverb API:
 | **Tuareg**                        | tuareg                        |
 | **Tunisian**                      | tunisian                      |
 | **Turkish**                       | turkish                       |
-| **Tuscarora**                     | tuscarora                     |
 | **Ugandan**                       | ugandan                       |
 | **Uighur**                        | uighur                        |
 | **Uruguayan**                     | uruguayan                     |
@@ -404,10 +408,10 @@ List of languages supported by Proverb API:
 | **Walloon**                       | walloon                       |
 | **Welsh**                         | welsh                         |
 | **West African**                  | west_african                  |
-| **Wolof**                         | wolof                         |
 | **Yemeni**                        | yemeni                        |
 | **Yiddish**                       | yiddish                       |
 | **Yugoslavian**                   | yugoslavian                   |
+| **Zaire**                         | zaire                         |
 | **Zambian**                       | zambian                       |
 | **Zanzibar**                      | zanzibar                      |
 | **Zen**                           | zen                           |
