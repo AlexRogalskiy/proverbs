@@ -21,11 +21,6 @@
             "category": "phillipine"
         },
         {
-            "text": "He who boasts of his accomplishments will heap ridicule.",
-            "description": "",
-            "category": "phillipine"
-        },
-        {
             "text": "He who gives alms to the poor faces heaven.",
             "description": "",
             "category": "phillipine"
@@ -57,11 +52,6 @@
         },
         {
             "text": "Acts tough but really a wimp.",
-            "description": "",
-            "category": "filipino"
-        },
-        {
-            "text": "Alertness and courage are life's shield.",
             "description": "",
             "category": "filipino"
         },
@@ -202,11 +192,6 @@
         },
         {
             "text": "If you plant, you harvest.",
-            "description": "",
-            "category": "filipino"
-        },
-        {
-            "text": "If you sow arrows, you will reap sorrows.",
             "description": "",
             "category": "filipino"
         },
@@ -391,11 +376,6 @@
             "category": "filipino"
         },
         {
-            "text": "He who gives alms to the poor faces heaven.",
-            "description": "",
-            "category": "filipino"
-        },
-        {
             "text": "He who quits does not win, he who wins does not quit.",
             "description": "",
             "category": "filipino"
@@ -571,11 +551,6 @@
             "category": "philippine / filipino / tagalog"
         },
         {
-            "text": "It is easier to dam a river than to stop the flow of gossip.",
-            "description": "",
-            "category": "philippine / filipino / tagalog"
-        },
-        {
             "text": "The child who is given everything he asks for usually won’t succeed in life.",
             "description": "",
             "category": "philippine / filipino / tagalog"
@@ -599,26 +574,6 @@
             "text": "If you buy things you don’t need, you will soon be selling things you do need.",
             "description": "",
             "category": "philippine / filipino / tagalog"
-        },
-        {
-            "text": "If you buy things you don’t need, you will soon be selling things you do need.",
-            "description": "",
-            "category": "philipino"
-        },
-        {
-            "text": "Alertness and courage are life’s shield.",
-            "description": "",
-            "category": "philippine"
-        },
-        {
-            "text": "It is advantageous to follow advice, for you will succeed in life.",
-            "description": "",
-            "category": "philippine"
-        },
-        {
-            "text": "He who gives alms to the poor faces heaven.",
-            "description": "",
-            "category": "philippine"
         }
     ]
 }
