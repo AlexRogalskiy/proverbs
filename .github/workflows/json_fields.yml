@@ -36,18 +36,14 @@ jobs:
         run: node ./.github/workflows/sourceData.js "${{ steps.file_changes.outputs.files }}"
 
       - name: Set json source file
-        if: "!contains(github.event.head_commit.message, 'SKIP JSON SCRIPTS')"
         id: json-source-file
         run: |
-          sourceFile="${{ runner.temp }}/sourceData.json"
-          echo $sourceFile
-          echo "::set-output name=sourceFile::$sourceFile"
+          if [[ "${{ github.event.head_commit.message }}" == *"SKIP JSON SCRIPTS"* ]]; then
+              sourceFile=".github/workflows/sourceData.json"
+            else
+              sourceFile="${{ runner.temp }}/sourceData.json"
+          fi
 
-      - name: Set json source file
-        if: "contains(github.event.head_commit.message, 'SKIP JSON SCRIPTS')"
-        id: json-source-file
-        run: |
-          sourceFile=".github/workflows/sourceData.json"
           echo $sourceFile
           echo "::set-output name=sourceFile::$sourceFile"
 
