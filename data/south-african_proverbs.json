@@ -1,5 +1,5 @@
 {
-    "south african": [
+    "south_african": [
         {
             "text": "Two eyes help each other",
             "description": "",
@@ -1280,6 +1280,5 @@
             "description": "",
             "category": "south african"
         }
-    ],
-    "south_african": []
+    ]
 }
