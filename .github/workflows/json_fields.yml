@@ -7,7 +7,6 @@ on:
 
 jobs:
   process-json-fields:
-    if: "!contains(github.event.head_commit.message, 'SKIP JSON SCRIPTS')"
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -17,12 +16,14 @@ jobs:
         uses: actions/setup-node@v1
 
       - id: file_changes
+        if: "!contains(github.event.head_commit.message, 'SKIP JSON SCRIPTS')"
         uses: trilom/file-changes-action@v1.2.3
         with:
           output: ','
           fileOutput: ','
 
       - name: Changed files
+        if: "!contains(github.event.head_commit.message, 'SKIP JSON SCRIPTS')"
         run: |
           echo 'Files: ${{ steps.file_changes.outputs.files}}'
           echo 'Files modified: ${{ steps.file_changes.outputs.files_modified}}'
@@ -30,15 +31,32 @@ jobs:
           echo 'Files removed: ${{ steps.file_changes.outputs.files_removed}}'
 
       - name: Generate JSON changelog
+        if: "!contains(github.event.head_commit.message, 'SKIP JSON SCRIPTS')"
         id: generate_json
         run: node ./.github/workflows/sourceData.js "${{ steps.file_changes.outputs.files }}"
+
+      - name: Set json source file
+        if: "!contains(github.event.head_commit.message, 'SKIP JSON SCRIPTS')"
+        id: json-source-file
+        run: |
+          sourceFile="${{ runner.temp }}/sourceData.json"
+          echo $sourceFile
+          echo "::set-output name=sourceFile::$sourceFile"
+
+      - name: Set json source file
+        if: "contains(github.event.head_commit.message, 'SKIP JSON SCRIPTS')"
+        id: json-source-file
+        run: |
+          sourceFile=".github/workflows/sourceData.json"
+          echo $sourceFile
+          echo "::set-output name=sourceFile::$sourceFile"
 
       - name: Process JSON changelog fields
         uses: alexrogalskiy/github-action-json-fields@master
         id: process_json
         env:
-          source_data: "${{ runner.temp }}/sourceData.json"
-          target_path: ./data
+          source_data: "${{ steps.json-source-file.outputs.sourceFile }}"
+          target_path: './data'
           json_fields: 'text'
           mode: 'unique'
         with:
