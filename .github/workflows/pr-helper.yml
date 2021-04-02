@@ -1,8 +1,15 @@
 name: PR Merge on Schedule
 
 on:
-  schedule:
-    - cron: '* 5 * * *'
+  pull_request:
+    branches:
+      - master
+  pull_request_review:
+    branches:
+      - master
+  issue_comment:
+    branches:
+      - master
 
 jobs:
   prhelper_schedule:
@@ -12,22 +19,20 @@ jobs:
         id: runprhelperonschedule
         uses: Matticusau/pr-helper@v1.2.4
         with:
-          repo-token: ${{ secrets.GHACTION_PAT }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
           enable-prmerge-automation: true
-          enable-prcomment-automation: false
+          enable-prcomment-automation: true
           enable-prlabel-automation: true
-          enable-prreviewer-frontmatter: true
-          enable-welcomemessage: false
-          prmerge-requireallchecks: true
-          prmerge-requirereviewcount: 1
-          prmerge-method: 'merge'
+          enable-prreviewer-frontmatter: false
+          enable-welcomemessage: true
           prmerge-deletebranch: 'true'
           prmerge-deletebranch-config: ''
           prmerge-pathcheck: true
-          prmerge-allowpaths: '{"any":["articles/**"]}'
-          prreviewer-authorkey: 'author'
-          prreviewer-githubuserfromauthorfile: true
-          prreviewer-authorfilepath: '_data/authors.yaml'
+          prmerge-allowpaths: '{"any":["src/**"]}'
+          welcome-message: "Thanks for opening an issue! Make sure you've followed CONTRIBUTING.md."
+          prmerge-requireallchecks: true
+          prmerge-requirereviewcount: 1
+          prmerge-method: 'merge'
           prlabel-default: 'pr-onhold'
           prlabel-ready: 'pr-ready'
           prlabel-onhold: 'pr-onhold'
