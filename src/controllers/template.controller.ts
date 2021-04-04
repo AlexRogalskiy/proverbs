@@ -2,28 +2,28 @@ import { NowRequest, NowResponse, VercelResponse } from '@vercel/node'
 
 import {
     AnimationPattern,
-    LanguagePattern,
     HeroPattern,
+    LanguagePattern,
     LayoutPattern,
     ThemePattern,
 } from '../../typings/enum-types'
 
-import * as templateService from '../services/templateService'
+import * as templateService from '../services/template.service'
 
-import { toString } from '../utils/commons'
+import { toInt, toString } from '../utils/commons'
 
 export async function templateController(req: NowRequest, res: NowResponse): Promise<VercelResponse> {
     try {
         const { theme, layout, animation, category, keywords, width, height, ...rest } = req.query
-        const { quoteColor, authorColor, bgColor, colorPattern, opacity, pattern } = rest
+        const { textColor, categoryColor, bgColor, colorPattern, opacity, pattern } = rest
 
         const imageOptions = { width: toString(width), height: toString(height) }
         const themeOptions = {
-            quoteColor: toString(quoteColor),
-            authorColor: toString(authorColor),
+            textColor: toString(textColor),
+            categoryColor: toString(categoryColor),
             bgColor: toString(bgColor),
             colorPattern: toString(colorPattern),
-            opacity: toString(opacity),
+            opacity: toInt(toString(opacity)),
             pattern: HeroPattern[toString(pattern)],
         }
 

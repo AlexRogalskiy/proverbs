@@ -1,5 +1,7 @@
 import _ from 'lodash'
 
+import { Optional } from '../../typings/standard-types'
+
 export const delimiterBy = (value = '>', num = 80): string => value.repeat(num)
 
 export const delim = delimiterBy()
@@ -16,6 +18,14 @@ export const randomEnum = <T>(value: T): T[keyof T] => {
 
 export const toStringArray = (value: string | string[], delim = ','): string[] => {
     return _.isArray(value) ? value : value.split(delim)
+}
+
+export const toInt = (str: string, defaultValue?: number): Optional<number> => {
+    try {
+        return parseInt(str) || defaultValue
+    } catch (error) {
+        return defaultValue
+    }
 }
 
 export const join = (value?: string | string[], delim = ','): string => {

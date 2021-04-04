@@ -60,8 +60,8 @@ const restoreIndex = (): Index => {
 
 const createIndex = (): Index => {
     return lunr(function () {
-        this.field('quote')
-        this.field('author')
+        this.field('text')
+        this.field('category')
 
         for (const language of Object.values(LanguagePattern)) {
             for (const [index, value] of proverbs[language].entries()) {

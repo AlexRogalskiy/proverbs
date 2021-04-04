@@ -20,7 +20,7 @@ import { getFont } from '../fonts/fonts'
 import { getAnimation } from '../animations/animations'
 import { getSvgTemplate } from '../models/template'
 
-import * as quoteService from './proverbService'
+import * as proverbService from './proverb.service'
 
 export async function templateRenderer(requestData: ParsedRequestData): Promise<string> {
     const {
@@ -45,8 +45,8 @@ export async function templateRenderer(requestData: ParsedRequestData): Promise<
     const image = mergeProps<ImageOptions>(profile.imageOptions, imageOptions)
 
     const template: Optional<TemplateOptions> = keywords
-        ? await quoteService.getQuoteByKeywords(keywords)
-        : await quoteService.getQuoteByCategory(categoryPattern)
+        ? await proverbService.getProverbByKeywords(keywords)
+        : await proverbService.getProverbByCategory(categoryPattern)
 
     boxenLogs(
         `

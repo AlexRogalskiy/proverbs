@@ -10,8 +10,8 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
         style: (options: StyleOptions) => {
             const { textColor, categoryColor, bgColor, pattern, opacity, colorPattern } = options.theme
 
-            const fontRegular = getFont(FontPattern.monserrat)
-            const font700 = getFont(FontPattern.monserrat_700)
+            const fontText = getFont(FontPattern.monserrat)
+            const fontCategory = getFont(FontPattern.monserrat_700)
 
             const backgroundPattern = getHeroPattern(pattern, String(opacity), String(colorPattern))
 
@@ -22,24 +22,24 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
                         box-sizing: border-box;
                     }
                     @font-face{
-                        font-family: ${fontRegular.fontFamily};
+                        font-family: ${fontText.fontFamily};
                         font-style: normal;
                         font-weight: normal;
-                        src: url(data:font/woff2;charset=utf-8;base64,${fontRegular.fontSrc}) format('woff2');
+                        src: url(data:font/woff2;charset=utf-8;base64,${fontText.fontSrc}) format('woff2');
                     }
                     @font-face {
-                        font-family: ${font700.fontFamily};
+                        font-family: ${fontCategory.fontFamily};
                         font-style: normal;
                         font-weight: bold;
-                        src: url(data:font/woff2;charset=utf-8;base64,${font700.fontSrc}) format('woff2');
+                        src: url(data:font/woff2;charset=utf-8;base64,${fontCategory.fontSrc}) format('woff2');
                     }
                     .text {
-                        font-family: ${fontRegular.fontFamily}, sans-serif;
+                        font-family: ${fontText.fontFamily}, sans-serif;
                         font-style: italic;
                         color: #${textColor};
                     }
                     .category {
-                        font-family: ${font700.fontFamily}, sans-serif;
+                        font-family: ${fontCategory.fontFamily}, sans-serif;
                         font-weight: bold;
                         text-align: right;
                         margin: 3% 3% 0% 0%;
@@ -51,7 +51,7 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
                         font-family: Georgia;
                     }
                     .proverb-wrapper {
-                        background: ${bgColor};
+                        background: #${bgColor};
                         background-image: ${backgroundPattern};
                         margin: 0;
                         box-sizing: border-box;
@@ -87,10 +87,9 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
             return `
                 <div class="proverb-wrapper">
                     <div class="proverb-wrapper-desc">
-                    <h3 class="text subhead">${options.text}</h3>
-                    <div class="line"></div>
-                    <p class="category">${capitalize(join(options.category))} proverb</p>
-                    <div class="line"></div>
+                        <h3 class="text subhead">${options.text}</h3>
+                        <p class="category">${capitalize(join(options.category))} proverb</p>
+                    </div>
                 </div>
                 `
         },

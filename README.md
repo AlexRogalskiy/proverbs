@@ -104,13 +104,13 @@ There are several options you can use from the list:
 | **\[Background Color]**     | Background color of the image      | <code>Hex color code</code>       | ffffff             | `&bgColor=[value]`       |
 | **\[Opacity Pattern]**      | Opacity of the background pattern  | <code>Float number</code>         | 0 - 1              | `&opacity=[value]`       |
 | **\[Color Pattern]**        | Color of the background pattern    | <code>Hex color code</code>       | 1abc9c             | `&colorPattern=[value]`  |
-| **\[Text Font Color]**      | Font color of the proverb text     | <code>Hex color code</code>       | 000000             | `&quoteColor=[value]`    |
-| **\[Category Font Color]**  | Font color of the category text    | <code>Hex color code</code>       | 000000             | `&authorColor=[value]`   |
+| **\[Text Font Color]**      | Font color of the proverb text     | <code>Hex color code</code>       | 000000             | `&textColor=[value]`     |
+| **\[Category Font Color]**  | Font color of the category text    | <code>Hex color code</code>       | 000000             | `&categoryColor=[value]` |
 | **\[Pattern]**              | Background pattern                 | <code>String constant</code>      | plus               | `&pattern=[value]`       |
 | **\[Language]**             | Proverb language                   | <code>String constant</code>      | swahili            | `&language=[value]`      |
 | **\[Width]**                | Image width                        | <code>String</code>               | 100%               | `&width=[value]`         |
 | **\[Height]**               | Image height                       | <code>String</code>               | 100%               | `&height=[value]`        |
-| **\[Keywords]**             | Quote keywords                     | <code>String/String Array</code>  | love               | `&keywords=[value]`      |
+| **\[Keywords]**             | Proverb keywords                   | <code>String/String Array</code>  | love               | `&keywords=[value]`      |
 
 Here is a list of supported image themes:
 

@@ -3,9 +3,9 @@ import boxen from 'boxen'
 import { Optional } from './standard-types'
 import {
     AnimationPattern,
-    LanguagePattern,
     FontPattern,
     HeroPattern,
+    LanguagePattern,
     LayoutPattern,
     ThemePattern,
 } from './enum-types'
@@ -64,7 +64,7 @@ export type ThemeOptions = {
     /**
      * Theme background opacity
      */
-    readonly opacity?: string
+    readonly opacity?: Optional<number>
     /**
      * Template background pattern
      */

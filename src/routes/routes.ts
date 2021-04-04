@@ -2,7 +2,7 @@ import { RouteFunction } from '../../typings/service-types'
 import { RoutePattern } from '../../typings/enum-types'
 import { Optional } from '../../typings/standard-types'
 
-import { templateController } from '../controllers/templateController'
+import { templateController } from '../controllers/template.controller'
 
 /**
  * RouteRecord
