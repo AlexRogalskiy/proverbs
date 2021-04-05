@@ -48,7 +48,7 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
                         justify-content: center;
                         margin: 1em;
                         width: auto;
-                        padding: 5% 3%;
+                        padding: 3% 3%;
                         ${animation};
                     }
                     ${keyframes}
@@ -59,7 +59,7 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
                         text-align: justify;
                         border-left: thick double #C08552;
                         border-right: thick double #C08552;
-                        padding: 6% 4%;
+                        padding: 4% 4%;
                         position: relative;
                         transform: skew(-.312rad);
                         height: auto;
@@ -81,7 +81,7 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
                     }
                     .quote4::before{
                         content: "“";
-                        top: -25px;
+                        top: -15px;
                         line-height: 80px;
                         z-index: 1;
                     }

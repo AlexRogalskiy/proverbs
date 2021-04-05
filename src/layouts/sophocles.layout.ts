@@ -59,7 +59,7 @@ const sophoclesLayout: Record<LayoutPattern.sophocles, LayoutOptions> = {
                         width: 75%;
                         padding: 0;
                         height: 100%;
-                        margin: 5%;
+                        margin: 2% 5%;
                         border-radius: 10px;
                     }
 

@@ -566,7 +566,7 @@ These are examples of using ***Styled Proverbs***:
 ```
 
 <div align="center" style="align-content: center">
-    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=nightowl&layout=zues" alt="Styled proverbs" />
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=nightowl&layout=zues" alt="Styled proverbs" />
 </div>
 
 ## *Visitor stats*
