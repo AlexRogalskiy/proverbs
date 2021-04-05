@@ -11,5 +11,6 @@ git add src/
 git add tests/
 git add typings/
 
+git add README.md
 git add CHANGELOG.md
 git add package-lock.json
