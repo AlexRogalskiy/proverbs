@@ -511,16 +511,62 @@ Patterns in proverbs are provided by [Hero Pattern](https://github.com/lowmess/h
 
 ## *Example*
 
-This is example of using ***Styled Proverbs***:
+These are examples of using ***Styled Proverbs***:
 
 ```
-![Styled proverbs](https://styled-proverbs.vercel.app/api?theme=default_repocard&layout=churchill)
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=default_repocard&layout=churchill)
 ```
-
-Result:
 
 <div align="center" style="align-content: center">
     <img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=default_repocard&layout=churchill" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=buefy&layout=default)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=buefy&layout=default" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=arabesque&layout=pluto)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=arabesque&layout=pluto" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=veblu&layout=samuel)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=veblu&layout=samuel" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=jolly&layout=socrates)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=jolly&layout=socrates" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=buefy&layout=sophocles)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=buefy&layout=sophocles" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=nightowl&layout=zues)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=nightowl&layout=zues" alt="Styled proverbs" />
 </div>
 
 ## *Visitor stats*
