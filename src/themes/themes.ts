@@ -265,6 +265,20 @@ const themes: Readonly<ThemeRecord> = {
         colorPattern: 'ffe0e9',
         opacity: 0.3,
     },
+    'sunny': {
+        textColor: 'ffffff',
+        categoryColor: 'ffffff',
+        bgColor: 'ec7263',
+        colorPattern: 'ffe0e9',
+        opacity: 0.7,
+    },
+    'rainy': {
+        textColor: 'ffffff',
+        categoryColor: 'ffffff',
+        bgColor: '2a3259',
+        colorPattern: 'ffe0e9',
+        opacity: 0.7,
+    },
     'omni': {
         textColor: 'FF79C6',
         categoryColor: 'E1E1E6',

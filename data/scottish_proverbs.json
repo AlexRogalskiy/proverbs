@@ -6,6 +6,11 @@
             "category": "scottish"
         },
         {
+            "text": "Charity begins at home, but shouldn’t end there",
+            "description": "",
+            "category": "Scottish"
+        },
+        {
             "text": "Be a friend to yourself, and others will.",
             "description": "",
             "category": "Scottish"
@@ -1692,7 +1697,7 @@
         },
         {
             "text": "All is well that ends well.",
-            "description": "",
+            "description": "There is a solution to everything even if there are doubts.",
             "category": "scotch"
         },
         {
@@ -4717,7 +4722,7 @@
         },
         {
             "text": "A's well that ends well.",
-            "description": "",
+            "description": "There is a solution to everything even if there are doubts.",
             "category": "scottish"
         },
         {
@@ -7647,7 +7652,7 @@
         },
         {
             "text": "Birds of a feather flock together.",
-            "description": "",
+            "description": "People like to spend time with others who are similar to them.",
             "category": "scottish"
         },
         {

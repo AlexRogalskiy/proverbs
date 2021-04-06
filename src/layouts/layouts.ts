@@ -9,6 +9,8 @@ import samuelLayout from './samuel.layout'
 import plutoLayout from './pluto.layout'
 import zuesLayout from './zues.layout'
 import sophoclesLayout from './sophocles.layout'
+import herculesLayout from './hercules.layout'
+import diogenesLayout from './diogenes.layout'
 
 /**
  * LayoutRecord
@@ -28,6 +30,8 @@ const layouts: Readonly<LayoutRecord> = {
     ...plutoLayout,
     ...zuesLayout,
     ...sophoclesLayout,
+    ...herculesLayout,
+    ...diogenesLayout,
 }
 
 /**

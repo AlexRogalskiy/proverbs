@@ -22,7 +22,7 @@
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 [![DOI](https://zenodo.org/badge/346359381.svg)](https://zenodo.org/badge/latestdoi/346359381)
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/proverbs.svg)](https://david-dm.org/AlexRogalskiy/proverbs)
-[![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/proverbs.svg)](https://david-dm.org/AlexRogalskiy/proverbs?type=dev)
+[![devDependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/proverbs.svg)](https://david-dm.org/AlexRogalskiy/proverbs?type=dev)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/alexrogalskiy/proverbs/master/LICENSE?token=AH44ZFH7IF2KSEDK7LSIW3C7YOFYC)
 [![Issue](https://img.shields.io/github/issues/alexrogalskiy/proverbs)](https://img.shields.io/github/issues/alexrogalskiy/proverbs)
@@ -159,6 +159,8 @@ Here is a list of supported image themes:
 | **Jolly**                         | jolly                         |
 | **Maroongold**                    | maroongold                    |
 | **Yeblu**                         | yeblu                         |
+| **Sunny**                         | sunny                         |
+| **Rainy**                         | rainy                         |
 | **Blueberry**                     | blueberry                     |
 | **State orange**                  | slateorange                   |
 | **Kacho ga**                      | kacho_ga                      |
@@ -174,6 +176,9 @@ List of supported image layouts:
 | **Samuel**                        | samuel                        |
 | **Socrates**                      | socrates                      |
 | **Zues**                          | zues                          |
+| **Sophocles**                     | sophocles                     |
+| **Hercules**                      | hercules                      |
+| **Diogenes**                      | diogenes                      |
 
 List of supported image animations:
 
@@ -569,6 +574,22 @@ These are examples of using ***Styled Proverbs***:
 
 <div align="center" style="align-content: center">
     <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=nightowl&layout=zues" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=sunny&layout=hercules)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=sunny&layout=hercules" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=rainy&layout=diogenes)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=rainy&layout=diogenes" alt="Styled proverbs" />
 </div>
 
 ## *Visitor stats*

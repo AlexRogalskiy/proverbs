@@ -412,6 +412,8 @@ export enum LayoutPattern {
     zues = 'zues',
     pluto = 'pluto',
     sophocles = 'sophocles',
+    hercules = 'hercules',
+    diogenes = 'diogenes',
 }
 
 /**
@@ -448,6 +450,8 @@ export enum ThemePattern {
     nightowl = 'nightowl',
     buefy = 'buefy',
     blue_green = 'blue-green',
+    sunny = 'sunny',
+    rainy = 'rainy',
     algolia = 'algolia',
     great_gatsby = 'great-gatsby',
     darcula = 'darcula',
