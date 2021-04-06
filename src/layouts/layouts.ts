@@ -14,6 +14,7 @@ import diogenesLayout from './diogenes.layout'
 import herodoteLayout from './herodote.layout'
 import hermesLayout from './hermes.layout'
 import pythagorasLayout from './pythagoras.layout'
+import euclidLayout from './euclid.layout'
 
 /**
  * LayoutRecord
@@ -38,6 +39,7 @@ const layouts: Readonly<LayoutRecord> = {
     ...herodoteLayout,
     ...hermesLayout,
     ...pythagorasLayout,
+    ...euclidLayout,
 }
 
 /**
