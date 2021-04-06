@@ -9,7 +9,7 @@ const herodoteLayout: Record<LayoutPattern.herodote, LayoutOptions> = {
     herodote: {
         style: (options: StyleOptions) => {
             const {
-                theme: { textColor, categoryColor },
+                theme: { textColor, categoryColor, bgColor },
             } = options
 
             const fontText = getFont(FontPattern.bellota)
@@ -45,17 +45,17 @@ const herodoteLayout: Record<LayoutPattern.herodote, LayoutOptions> = {
                         font-weight: bold;
                         text-align: right;
                         font-size: 1.5em;
-                        padding: 0% 5% 3% 5%;
+                        padding: 3% 5% 3% 5%;
                         color: #${categoryColor};
                     }
 
                     section {
-                        background-color: #FFF;
-                        background-image: radial-gradient(center top, circle cover, #FFF, #D6D6D6);
-                        background-image: -o-radial-gradient(center top, circle cover, #FFF, #D6D6D6);
-                        background-image: -ms-radial-gradient(center top, circle cover, #FFF, #D6D6D6);
-                        background-image: -moz-radial-gradient(center top, circle cover, #FFF, #D6D6D6);
-                        background-image: -webkit-radial-gradient(center top, circle cover, #FFF, #D6D6D6);
+                        background-color: #${bgColor};
+                        background-image: radial-gradient(center top, circle cover, #FFF, #${bgColor});
+                        background-image: -o-radial-gradient(center top, circle cover, #FFF, #${bgColor});
+                        background-image: -ms-radial-gradient(center top, circle cover, #FFF, #${bgColor});
+                        background-image: -moz-radial-gradient(center top, circle cover, #FFF, #${bgColor});
+                        background-image: -webkit-radial-gradient(center top, circle cover, #FFF, #${bgColor});
                         text-align: center;
                     }
 

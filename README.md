@@ -180,6 +180,8 @@ List of supported image layouts:
 | **Hercules**                      | hercules                      |
 | **Diogenes**                      | diogenes                      |
 | **Herodote**                      | herodote                      |
+| **Hermes**                        | hermes                        |
+| **Pythagoras**                    | pythagoras                    |
 
 List of supported image animations:
 
@@ -594,11 +596,27 @@ These are examples of using ***Styled Proverbs***:
 </div>
 
 ```
-![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=vue&layout=herodote)
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=react&layout=herodote)
 ```
 
 <div align="center" style="align-content: center">
-    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=vue&layout=herodote" alt="Styled proverbs" />
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=react&layout=herodote" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=merko&layout=pythagoras)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=merko&layout=pythagoras" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=jolly&layout=hermes)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=jolly&layout=hermes" alt="Styled proverbs" />
 </div>
 
 ## *Visitor stats*
