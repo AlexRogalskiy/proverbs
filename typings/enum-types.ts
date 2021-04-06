@@ -414,6 +414,7 @@ export enum LayoutPattern {
     sophocles = 'sophocles',
     hercules = 'hercules',
     diogenes = 'diogenes',
+    herodote = 'herodote',
 }
 
 /**

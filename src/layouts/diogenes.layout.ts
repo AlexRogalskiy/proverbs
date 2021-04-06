@@ -18,12 +18,9 @@ const diogenesLayout: Record<LayoutPattern.diogenes, LayoutOptions> = {
             return `
                     @import url("https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css");
 
-                    * {
+                    *, *:after, *:before {
                         padding: 0;
                         margin: 0;
-                        box-sizing: border-box;
-                    }
-                    *, *:after, *:before {
                         box-sizing: border-box;
                     }
 
@@ -70,7 +67,6 @@ const diogenesLayout: Record<LayoutPattern.diogenes, LayoutOptions> = {
                         z-index: 20;
                     }
 
-                    /* insides styling */
                     .container i {
                         font-size: 18px;
                     }
@@ -85,7 +81,6 @@ const diogenesLayout: Record<LayoutPattern.diogenes, LayoutOptions> = {
                         margin-bottom: 0.2em;
                     }
 
-                    /* common overlay styling */
                     .overlay {
                         z-index: 10;
                         display: none;

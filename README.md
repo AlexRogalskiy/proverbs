@@ -179,6 +179,7 @@ List of supported image layouts:
 | **Sophocles**                     | sophocles                     |
 | **Hercules**                      | hercules                      |
 | **Diogenes**                      | diogenes                      |
+| **Herodote**                      | herodote                      |
 
 List of supported image animations:
 
@@ -590,6 +591,14 @@ These are examples of using ***Styled Proverbs***:
 
 <div align="center" style="align-content: center">
     <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=rainy&layout=diogenes" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=vue&layout=herodote)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=vue&layout=herodote" alt="Styled proverbs" />
 </div>
 
 ## *Visitor stats*

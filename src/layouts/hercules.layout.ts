@@ -18,12 +18,9 @@ const herculesLayout: Record<LayoutPattern.hercules, LayoutOptions> = {
             return `
                     @import url("https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css");
 
-                    * {
+                    *, *:after, *:before {
                         padding: 0;
                         margin: 0;
-                        box-sizing: border-box;
-                    }
-                    *, *:after, *:before {
                         box-sizing: border-box;
                     }
 
@@ -70,28 +67,11 @@ const herculesLayout: Record<LayoutPattern.hercules, LayoutOptions> = {
                         z-index: 20;
                     }
 
-                    /* insides styling */
-                    .container i {
-                        font-size: 18px;
-                    }
-
-                    .container p#conditions {
-                        font-size: 20px;
-                    }
-
-                    .container i, .container p#conditions {
-                        display: inline-block;
-                        margin-top: 0.2em;
-                        margin-bottom: 0.2em;
-                    }
-
-                    /* common overlay styling */
                     .overlay {
                         z-index: 10;
                         display: none;
                     }
 
-                    /* sun overlay styling */
                     .sunny {
                         background-color: #${bgColor};
                     }

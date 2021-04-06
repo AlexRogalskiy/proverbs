@@ -11,6 +11,7 @@ import zuesLayout from './zues.layout'
 import sophoclesLayout from './sophocles.layout'
 import herculesLayout from './hercules.layout'
 import diogenesLayout from './diogenes.layout'
+import herodoteLayout from './herodote.layout'
 
 /**
  * LayoutRecord
@@ -32,6 +33,7 @@ const layouts: Readonly<LayoutRecord> = {
     ...sophoclesLayout,
     ...herculesLayout,
     ...diogenesLayout,
+    ...herodoteLayout,
 }
 
 /**
