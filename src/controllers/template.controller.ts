@@ -1,4 +1,4 @@
-import { NowRequest, NowResponse, VercelResponse } from '@vercel/node'
+import { NowRequest, NowResponse } from '@vercel/node'
 
 import {
     AnimationPattern,
@@ -12,7 +12,7 @@ import * as templateService from '../services/template.service'
 
 import { toInt, toString } from '../utils/commons'
 
-export async function templateController(req: NowRequest, res: NowResponse): Promise<VercelResponse> {
+export async function templateController(req: NowRequest, res: NowResponse): Promise<NowResponse> {
     try {
         const { theme, layout, animation, category, keywords, width, height, ...rest } = req.query
         const { textColor, categoryColor, bgColor, colorPattern, opacity, pattern } = rest
