@@ -16,8 +16,6 @@ const herculesLayout: Record<LayoutPattern.hercules, LayoutOptions> = {
             const fontCategory = getFont(FontPattern.monserrat_700)
 
             return `
-                    @import url("https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css");
-
                     *, *:after, *:before {
                         padding: 0;
                         margin: 0;
