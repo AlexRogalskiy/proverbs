@@ -184,6 +184,7 @@ List of supported image layouts:
 | **Pythagoras**                    | pythagoras                    |
 | **Euclid**                        | euclid                        |
 | **Ptolemy**                       | ptolemy                       |
+| **Descartes**                     | descartes                     |
 
 List of supported image animations:
 
@@ -635,6 +636,14 @@ These are examples of using ***Styled Proverbs***:
 
 <div align="center" style="align-content: center">
     <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=marko&layout=ptolemy" alt="Styled proverbs" />
+</div>
+
+```
+![Styled Proverbs](https://styled-proverbs.vercel.app/api?theme=radical&layout=descartes)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=radical&layout=descartes" alt="Styled proverbs" />
 </div>
 
 ## *Visitor stats*

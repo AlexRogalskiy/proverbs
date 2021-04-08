@@ -419,6 +419,7 @@ export enum LayoutPattern {
     pythagoras = 'pythagoras',
     euclid = 'euclid',
     ptolemy = 'ptolemy',
+    descartes = 'descartes',
 }
 
 /**
