@@ -111,111 +111,6 @@
             "category": "Irish"
         },
         {
-            "text": "You've got to do your own growing, no matter how tall your grandfather was.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "A diplomat must always think twice before he says nothing.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "A dog owns nothing, yet is seldom dissatisfied.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "A hair on the head is worth two on the brush.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "A kind word never broke anyone's mouth.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "A lie travels farther than the truth.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "A light heart lives long.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "A silent mouth is sweet to hear.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "A turkey never voted for an early Christmas.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "Better be quarrelling than lonesome.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "Bricks and mortar make a house, but the laughter of children makes a home.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "Don't break your shin on a stool that is not in your way.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "Even the longest day has its end.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "Give away all you like, but keep your bills and your temper.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "Good luck beats early rising.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "If you dig a grave for others, you might fall into it yourself.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "If you get a reputation as an early riser, you can sleep till noon.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "It's no use carrying an umbrella if your shoes are leaking.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "Praise the young and they will flourish.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "Praise youth and it will prosper.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
-            "text": "The believer is happy, the doubter is wise.",
-            "description": "",
-            "category": "Irish"
-        },
-        {
             "text": "Age is honorable and youth is noble.",
             "description": "",
             "category": "Irish"
@@ -327,11 +222,6 @@
         },
         {
             "text": "A true friend laughs at your stories even when they're not so good, and sympathizes with your troubles even when they're not so bad.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "A turkey never voted for an early Christmas.",
             "description": "",
             "category": "irish"
         },
@@ -651,11 +541,6 @@
             "category": "irish"
         },
         {
-            "text": "It's no use carrying an umbrella if your shoes are leaking.",
-            "description": "",
-            "category": "irish"
-        },
-        {
             "text": "It's no use locking the stable door after the horse has bolted.",
             "description": "",
             "category": "irish"
@@ -881,22 +766,7 @@
             "category": "irish"
         },
         {
-            "text": "A kind word never broke anyone's mouth.",
-            "description": "",
-            "category": "irish"
-        },
-        {
             "text": "A king's son is not nobler than his food.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "A lie travels farther than the truth.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "A light heart lives long.",
             "description": "",
             "category": "irish"
         },
@@ -996,11 +866,6 @@
             "category": "irish"
         },
         {
-            "text": "A diplomat must always think twice before he says nothing.",
-            "description": "",
-            "category": "irish"
-        },
-        {
             "text": "A disease known is half cured.",
             "description": "",
             "category": "irish"
@@ -1022,11 +887,6 @@
         },
         {
             "text": "A guest should be blind in another man's house.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "A hair on the head is worth two on the brush.",
             "description": "",
             "category": "irish"
         },
@@ -1311,11 +1171,6 @@
             "category": "irish"
         },
         {
-            "text": "A dog owns nothing, yet is seldom dissatisfied.",
-            "description": "",
-            "category": "irish"
-        },
-        {
             "text": "A dog with two homes is never any good.",
             "description": "",
             "category": "irish"
@@ -1377,11 +1232,6 @@
         },
         {
             "text": "A silent mouth is musical.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "A silent mouth is sweet to hear.",
             "description": "",
             "category": "irish"
         },
@@ -1487,11 +1337,6 @@
         },
         {
             "text": "Better be quarreling than lonesome.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "Better be quarrelling than lonesome.",
             "description": "",
             "category": "irish"
         },
@@ -1636,11 +1481,6 @@
             "category": "irish"
         },
         {
-            "text": "Even the longest day has its end.",
-            "description": "",
-            "category": "irish"
-        },
-        {
             "text": "Even the truth may be bitter.",
             "description": "",
             "category": "irish"
@@ -1682,11 +1522,6 @@
         },
         {
             "text": "If you come up in this world, be sure not to go down in the next.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "If you dig a grave for others, you might fall into it yourself.",
             "description": "",
             "category": "irish"
         },
@@ -1772,11 +1607,6 @@
         },
         {
             "text": "Both your friend and your enemy think that you will never die.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "Bricks and mortar make a house, but the laughter of children makes a home.",
             "description": "",
             "category": "irish"
         },
@@ -1951,11 +1781,6 @@
             "category": "irish"
         },
         {
-            "text": "Give away all you like, but keep your bills and your temper.",
-            "description": "",
-            "category": "irish"
-        },
-        {
             "text": "Go to a man who is in difficulty and you'll get a bargain.",
             "description": "",
             "category": "irish"
@@ -1987,11 +1812,6 @@
         },
         {
             "text": "Good care takes the head off bad luck.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "Good luck beats early rising.",
             "description": "",
             "category": "irish"
         },
@@ -2202,11 +2022,6 @@
         },
         {
             "text": "If you don't want flour, do not get into the mill.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "If you get a reputation as an early riser, you can sleep till noon.",
             "description": "",
             "category": "irish"
         },
@@ -2532,11 +2347,6 @@
         },
         {
             "text": "Don't bother the beggar's son and the beggar's son won't bother you.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "Don't break your shin on a stool that is not in your way.",
             "description": "",
             "category": "irish"
         },
@@ -3012,11 +2822,6 @@
         },
         {
             "text": "Praise without profit puts little in the pocket.",
-            "description": "",
-            "category": "irish"
-        },
-        {
-            "text": "Praise youth and it will prosper.",
             "description": "",
             "category": "irish"
         },
