@@ -16,6 +16,9 @@ jobs:
 
       - name: Execute close-pending script
         if: github.repository == 'AlexRogalskiy/proverbs'
-        run: .github/scripts/close-pending.sh
+        run: |
+          FILE=.github/scripts/close-pending.sh
+          chmod a+x $FILE
+          ./$FILE
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
