@@ -18,10 +18,14 @@ const samuelLayout: Record<LayoutPattern.samuel, LayoutOptions> = {
 
             const borderColor = bgColor === 'fffefe' ? '757575' : bgColor
             return `
-                    * {
-                        position: relative;
+                    *, *:after, *:before {
+                        padding: 0;
+                        margin: 0;
+                        box-sizing: border-box;
                         z-index: 1;
+                        position: relative;
                     }
+
                     @font-face{
                         font-family: ${fontText.fontFamily};
                         font-style: normal;
@@ -49,7 +53,7 @@ const samuelLayout: Record<LayoutPattern.samuel, LayoutOptions> = {
                     .quote {
                         display: flex;
                         justify-content: center;
-                        margin: 1em;
+                        margin: 3% 3%;
                         width: auto;
                         ${animation};
                     }
@@ -58,7 +62,7 @@ const samuelLayout: Record<LayoutPattern.samuel, LayoutOptions> = {
                         border: solid 6px #${borderColor};
                         display: block;
                         margin: 0;
-                        width: 70%;
+                        width: 90%;
                         font-size: 16px;
                         padding: 2em 2em;
                         background: #fff;

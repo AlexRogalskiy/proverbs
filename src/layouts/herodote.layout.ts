@@ -16,9 +16,12 @@ const herodoteLayout: Record<LayoutPattern.herodote, LayoutOptions> = {
             const fontCategory = getFont(FontPattern.bellota)
 
             return `
-                    * {
-                        margin: 0;
+                    *, *:after, *:before {
                         padding: 0;
+                        margin: 0;
+                        box-sizing: border-box;
+                        z-index: 1;
+                        position: relative;
                     }
 
                     @font-face{
@@ -57,11 +60,13 @@ const herodoteLayout: Record<LayoutPattern.herodote, LayoutOptions> = {
                         background-image: -moz-radial-gradient(center top, circle cover, #FFF, #${bgColor});
                         background-image: -webkit-radial-gradient(center top, circle cover, #FFF, #${bgColor});
                         text-align: center;
+                        width: auto;
+                        margin: 3% 5%;
                     }
 
                     section .quote-wrapper {
                         height: auto;
-                        width: 90%;
+                        width: auto;
                         display: flex;
                         flex-direction: row;
                         align-items: center;
@@ -72,8 +77,8 @@ const herodoteLayout: Record<LayoutPattern.herodote, LayoutOptions> = {
                         display: block;
                         position: relative;
                         top: 0.7em;
-                        margin: 0% 5%;
-                        width: 75%;
+                        margin: 0% 3%;
+                        width: auto;
                         height: auto;
                         color: #444;
                         align-self: stretch;

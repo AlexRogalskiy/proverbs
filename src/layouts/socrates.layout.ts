@@ -18,10 +18,14 @@ const socratesLayout: Record<LayoutPattern.socrates, LayoutOptions> = {
 
             const borderColor = bgColor === 'fffefe' ? 'ccc' : bgColor
             return `
-                    * {
-                        position: relative;
+                    *, *:after, *:before {
+                        padding: 0;
+                        margin: 0;
+                        box-sizing: border-box;
                         z-index: 1;
+                        position: relative;
                     }
+
                     @font-face{
                         font-family: ${fontText.fontFamily};
                         font-style: normal;
@@ -49,7 +53,7 @@ const socratesLayout: Record<LayoutPattern.socrates, LayoutOptions> = {
                     .square-brackets-quote {
                         display: flex;
                         justify-content: center;
-                        margin: 1em;
+                        margin: 3% 5%;
                         width: auto;
                         font-family: Arial,Helvetica,sans-serif;
                         ${animation};
@@ -58,7 +62,7 @@ const socratesLayout: Record<LayoutPattern.socrates, LayoutOptions> = {
                     .square-brackets-quote blockquote {
                         display: block;
                         margin: 0;
-                        width: 70%;
+                        width: 90%;
                         padding: 2em 2em;
                         border: solid 1em #${borderColor};
                         background: #fff;
@@ -73,7 +77,7 @@ const socratesLayout: Record<LayoutPattern.socrates, LayoutOptions> = {
                         left: 2em;
                         position: absolute;
                         right: 2em;
-                        top: -1em;
+                        top: -2em;
                     }
                     .square-brackets-quote cite {
                         color: #757575;

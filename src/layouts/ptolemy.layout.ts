@@ -16,6 +16,13 @@ const ptolemyLayout: Record<LayoutPattern.ptolemy, LayoutOptions> = {
             const fontCategory = getFont(FontPattern.bellota)
 
             return `
+                    *, *:after, *:before {
+                        padding: 0;
+                        box-sizing: border-box;
+                        z-index: 1;
+                        position: relative;
+                    }
+
                     @font-face{
                         font-family: ${fontText.fontFamily};
                         font-style: normal;

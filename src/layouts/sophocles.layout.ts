@@ -16,6 +16,14 @@ const sophoclesLayout: Record<LayoutPattern.sophocles, LayoutOptions> = {
             return `
                     @import 'https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css';
 
+                    *, *:after, *:before {
+                        padding: 0;
+                        margin: 0;
+                        box-sizing: border-box;
+                        z-index: 1;
+                        position: relative;
+                    }
+
                     @font-face{
                         font-family: ${fontText.fontFamily};
                         font-style: normal;
@@ -56,10 +64,10 @@ const sophoclesLayout: Record<LayoutPattern.sophocles, LayoutOptions> = {
 
                     #card {
                         box-shadow: 9px 7px 40px -6px rgba(0, 0, 0, 0.25);
-                        width: 75%;
+                        width: 80%;
                         padding: 0;
                         height: 100%;
-                        margin: 2% 5%;
+                        margin: 3% 5%;
                         border-radius: 10px;
                     }
 

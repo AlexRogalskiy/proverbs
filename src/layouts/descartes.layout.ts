@@ -16,6 +16,14 @@ const descartesLayout: Record<LayoutPattern.descartes, LayoutOptions> = {
             const fontCategory = getFont(FontPattern.bellota)
 
             return `
+                    *, *:after, *:before {
+                        padding: 0;
+                        margin: 0;
+                        box-sizing: border-box;
+                        z-index: 1;
+                        position: relative;
+                    }
+
                     @font-face{
                         font-family: ${fontText.fontFamily};
                         font-style: normal;
@@ -62,8 +70,7 @@ const descartesLayout: Record<LayoutPattern.descartes, LayoutOptions> = {
                     #Author {
                         text-align: right;
                         background-color: #${bgColor};
-                        padding: 8px 22px 8px 0px;
-                        margin-bottom: 0px;
+                        padding: 3% 3%;
                         box-sizing: border-box;
                         font-size: 20px;
                         letter-spacing: 3px;
@@ -106,7 +113,7 @@ const descartesLayout: Record<LayoutPattern.descartes, LayoutOptions> = {
 
                     @media (max-width: 820px) {
                         #QuoteContainer {
-                            width: 80%;
+                            width: auto;
                         }
                     }
                 `

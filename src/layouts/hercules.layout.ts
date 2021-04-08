@@ -20,6 +20,8 @@ const herculesLayout: Record<LayoutPattern.hercules, LayoutOptions> = {
                         padding: 0;
                         margin: 0;
                         box-sizing: border-box;
+                        z-index: 1;
+                        position: relative;
                     }
 
                     @font-face{

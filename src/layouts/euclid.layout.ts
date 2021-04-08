@@ -19,11 +19,7 @@ const euclidLayout: Record<LayoutPattern.euclid, LayoutOptions> = {
                     *, *:after, *:before {
                         padding: 0;
                         margin: 0;
-                        -webkit-box-sizing: border-box;
-                        -moz-box-sizing: border-box;
                         box-sizing: border-box;
-                        padding: 0;
-                        margin: 0;
                     }
 
                     @font-face{

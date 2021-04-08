@@ -16,11 +16,14 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
             const backgroundPattern = getHeroPattern(pattern, String(opacity), String(colorPattern))
 
             return `
-                    * {
+                    *, *:after, *:before {
                         padding: 0;
                         margin: 0;
                         box-sizing: border-box;
+                        z-index: 1;
+                        position: relative;
                     }
+
                     @font-face{
                         font-family: ${fontText.fontFamily};
                         font-style: normal;
@@ -53,7 +56,7 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
                     .proverb-wrapper {
                         background: #${bgColor};
                         background-image: ${backgroundPattern};
-                        margin: 0;
+                        margin: 3% 5%;
                         box-sizing: border-box;
                         display: flex;
                         flex-direction: row;

@@ -17,6 +17,13 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
             const fontCategory = getFont(FontPattern.merienda)
 
             return `
+                    *, *:after, *:before {
+                        padding: 0;
+                        margin: 0;
+                        box-sizing: border-box;
+                        z-index: 1;
+                    }
+
                     @font-face{
                         font-family: ${fontText.fontFamily};
                         font-style: normal;
@@ -46,16 +53,16 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
                         background-color: #${bgColor};
                         display: flex;
                         justify-content: center;
-                        margin: 1em;
-                        width: auto;
-                        padding: 3% 3%;
+                        margin: 5% 5%;
+                        width: 90%;
+                        padding: 6% 3%;
                         ${animation};
                     }
                     ${keyframes}
                     .quote4{
                         background-color: #${bgColor};
                         color: #fff;
-                        width: 75%;
+                        width: 90%;
                         text-align: justify;
                         border-left: thick double #C08552;
                         border-right: thick double #C08552;
@@ -64,7 +71,7 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
                         transform: skew(-.312rad);
                         height: auto;
                     }
-                    .quote4::before, .quote4::after{
+                    .quote4::before, .quote4::after {
                         position: absolute;
                         font-family: 'Dosis', sans-serif;
                         font-size: 105px;
@@ -83,11 +90,10 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
                         content: "“";
                         top: -15px;
                         line-height: 80px;
-                        z-index: 1;
                     }
                     .quote4::after{
                         content: "”";
-                        bottom: -25px;
+                        bottom: -24px;
                         line-height: 70px;
                     }
                     .quote4 .first, .quote4 .text{
@@ -116,7 +122,7 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
                     }
                     .quote4 .border::before, .quote4 .border::after{
                         content: "";
-                        width: 280px;
+                        width: 80%;
                         height: 3px;
                         position: absolute;
                         display: block;

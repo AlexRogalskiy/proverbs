@@ -16,8 +16,15 @@ const hermesLayout: Record<LayoutPattern.hermes, LayoutOptions> = {
             const fontCategory = getFont(FontPattern.bellota)
 
             return `
-                    @charset "UTF-8";
                     @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,200italic);
+
+                    *, *:after, *:before {
+                        padding: 0;
+                        margin: 0;
+                        box-sizing: border-box;
+                        z-index: 1;
+                        position: relative;
+                    }
 
                     @font-face{
                         font-family: ${fontText.fontFamily};
@@ -46,7 +53,7 @@ const hermesLayout: Record<LayoutPattern.hermes, LayoutOptions> = {
                     .container {
                         width: auto;
                         height: auto;
-                        margin: 3% 5%;
+                        margin: 3% 7%;
                     }
 
                     .text-center {

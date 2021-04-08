@@ -13,11 +13,14 @@ const pythagorasLayout: Record<LayoutPattern.pythagoras, LayoutOptions> = {
             const fontCategory = getFont(FontPattern.monserrat_700)
 
             return `
-                    * {
+                    *, *:after, *:before {
                         padding: 0;
                         margin: 0;
                         box-sizing: border-box;
+                        z-index: 1;
+                        position: relative;
                     }
+
                     @font-face{
                         font-family: ${fontText.fontFamily};
                         font-style: normal;

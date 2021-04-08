@@ -5,16 +5,15 @@ import { capitalize, join } from '../utils/commons'
 
 import { getFont } from '../fonts/fonts'
 
-const defaultLayout: Record<LayoutPattern.default, LayoutOptions> = {
-    default: {
+const erastosthenesLayout: Record<LayoutPattern.erastosthenes, LayoutOptions> = {
+    erastosthenes: {
         style: (options: StyleOptions) => {
             const {
                 theme: { textColor, categoryColor, bgColor },
-                animation: { animation, keyframes },
             } = options
 
-            const fontText = getFont(FontPattern.monserrat)
-            const fontCategory = getFont(FontPattern.monserrat_700)
+            const fontText = getFont(FontPattern.bellota)
+            const fontCategory = getFont(FontPattern.bellota)
 
             return `
                     *, *:after, *:before {
@@ -22,7 +21,6 @@ const defaultLayout: Record<LayoutPattern.default, LayoutOptions> = {
                         margin: 0;
                         box-sizing: border-box;
                         z-index: 1;
-                        position: relative;
                     }
 
                     @font-face{
@@ -45,56 +43,70 @@ const defaultLayout: Record<LayoutPattern.default, LayoutOptions> = {
                     .category {
                         font-family: ${fontCategory.fontFamily}, sans-serif;
                         font-weight: bold;
-                        text-align: right;
+                        text-align: center;
                         color: #${categoryColor};
+                    }
+
+                    div, p {
+                        margin: 0;
+                        padding: 0;
                     }
 
                     .container {
                         padding: 3% 3%;
-                        display: flex;
-                        justify-content: center;
-                        flex-direction: column;
+                        position: relative;
+                        background: #${bgColor};
+                        text-align: center;
                         margin: 3% 5%;
-                        width: auto;
-                        background-color: #${bgColor};
-                        border: 1px solid rgba(0, 0, 0, 0.2);
                         border-radius: 5px;
-                        ${animation};
+                        box-shadow: 1px 5px 25px 1px #212121;
                     }
-                    ${keyframes}
-                    .container h3 {
-                        font-size: 19px;
-                        margin: 2% 3%;
-                        font-weight: 500;
-                        font-style: oblique;
-                        color: #${textColor};
+
+                    @media (max-width: 600px) {
+                        .container {
+                            max-width: none;
+                        }
                     }
-                    .container h3::before {
-                        content: open-quote;
-                        font-size: 25px;
+
+                    .quotes {
+                        position: relative;
+                        padding: 5% 3%;
+                        text-align: left;
                     }
-                    .container h3::after {
-                        content: close-quote;
-                        vertical-align: sub;
-                        font-size: 25px;
+
+                    .quotes .quote {
+                        padding-bottom: 15px;
                     }
-                    .container p {
-                        font-style: italic;
-                        text-align: right;
-                        margin: 2% 2%;
-                        color: #${categoryColor};
+
+                    .quotes .author {
+                        position: absolute;
+                        bottom: 5px;
+                        right: 5px;
+                    }
+
+                    .quotes .author:before {
+                        content: "-";
+                        padding-right: 5px;
                     }
                 `
         },
         template: (options: TemplateOptions) => {
             return `
-                    <div class="container">
-                        <h3 class="text"> ${options.text} </h3>
-                        <p class="category">- ${capitalize(join(options.category))} proverb</p>
+                    <div id="wrapper" class="container">
+                        <div class="quotes">
+                            <span class="text" aria-hidden="true">
+                                ${options.text}
+                            </span>
+                            <p id="quote" class="quote">
+                                <span class="author category">
+                                    ${capitalize(join(options.category))} proverb
+                                </span>
+                            </p>
+                        </div>
                     </div>
                 `
         },
     },
 }
 
-export default defaultLayout
+export default erastosthenesLayout
