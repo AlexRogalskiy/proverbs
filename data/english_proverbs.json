@@ -51,11 +51,6 @@
             "category": "english"
         },
         {
-            "text": "Actions speak louder than words",
-            "description": "You are judged more by what you dothan what you say. Your actions are proof to the things you say.",
-            "category": "english"
-        },
-        {
             "text": "Great minds think alike",
             "description": "This phrase is used to emphasize a coincidence when two people say or think the same thing at the sametime.",
             "category": "english"
@@ -66,11 +61,6 @@
             "category": "english"
         },
         {
-            "text": "Bad news travels fast",
-            "description": "People talk more about bad news than good news.",
-            "category": "english"
-        },
-        {
             "text": "Dead men tell no tales",
             "description": "If someone is dead, he or she cannot give evidence against others.",
             "category": "english"
@@ -78,16 +68,6 @@
         {
             "text": "Death keeps no calendar",
             "description": "Any person can die at any time.",
-            "category": "english"
-        },
-        {
-            "text": "The wage of sin is death",
-            "description": "We die because we sin.",
-            "category": "english"
-        },
-        {
-            "text": "You can't take it with you when you die",
-            "description": "Physical items are not important. We can't keep physical items when we die.",
             "category": "english"
         },
         {
@@ -468,56 +448,6 @@
         {
             "text": "Rome wasn't built in a day",
             "description": "It takes time and hard work to accomplish something big.",
-            "category": "english"
-        },
-        {
-            "text": "The straw the broke the camel's back",
-            "description": "The final thing that causes complete failure. When many bad things are piling up and one small thing finally causes complete failure.",
-            "category": "english"
-        },
-        {
-            "text": "What you see is what you get",
-            "description": "There is nothing hidden.",
-            "category": "english"
-        },
-        {
-            "text": "Money is the root of all evil",
-            "description": "Evil things happen when people desire money too much.",
-            "category": "english"
-        },
-        {
-            "text": "Money talks",
-            "description": "Money gives people power.",
-            "category": "english"
-        },
-        {
-            "text": "If you play with fire, you might get burned",
-            "description": "If you mess with something that is dangerous, you might get hurt.",
-            "category": "english"
-        },
-        {
-            "text": "Birds of a feather flock together",
-            "description": "People who are alike tend to stick together.",
-            "category": "english"
-        },
-        {
-            "text": "If at first you don't succeed, try, try again",
-            "description": "Keep trying until you're successful.",
-            "category": "english"
-        },
-        {
-            "text": "One swallow does not a summer make",
-            "description": "One success does not guarantee asecond success.",
-            "category": "english"
-        },
-        {
-            "text": "Strike while the iron is hot",
-            "description": "When you have a chance to do something,don't wait. Take an opportunity when it comes to you.",
-            "category": "english"
-        },
-        {
-            "text": "The early bird catches the worm",
-            "description": "Success comes to people who are prepared.",
             "category": "english"
         },
         {
@@ -1007,16 +937,6 @@
         },
         {
             "text": "To him that you tell your secret you resign your liberty.",
-            "description": "",
-            "category": "English"
-        },
-        {
-            "text": "Early to bed and early to rise, makes a man healthy, wealthy and wise.",
-            "description": "",
-            "category": "English"
-        },
-        {
-            "text": "Laugh and the world laughs with you, weep and you weep alone.",
             "description": "",
             "category": "English"
         },
@@ -16781,11 +16701,6 @@
             "category": "english"
         },
         {
-            "text": "A fool and his money are soon parted",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "A fool is ever laughing.",
             "description": "",
             "category": "english"
@@ -17263,11 +17178,6 @@
         {
             "text": "America is God’s melting-pot.",
             "description": "",
-            "category": "english"
-        },
-        {
-            "text": "An apple a day keeps the doctor away",
-            "description": "An apple is full of Vitamin C, which keeps you healthy. However, the “apple” in this proverb means eating healthy in general. If you eat well and your diet includes a lot of fruits and vegetables, there will be no need to visit the doctor.",
             "category": "english"
         },
         {
@@ -18921,11 +18831,6 @@
             "category": "english"
         },
         {
-            "text": "Great minds think alike",
-            "description": "This phrase is used to emphasize a coincidence when two people say or think the same thing at the same time.",
-            "category": "english"
-        },
-        {
             "text": "Great spirits have always encountered violent opposition from mediocre minds.",
             "description": "",
             "category": "english"
@@ -20416,11 +20321,6 @@
             "category": "english"
         },
         {
-            "text": "No such thing as a free lunch",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "No such thing as bad publicity",
             "description": "",
             "category": "english"
@@ -20671,11 +20571,6 @@
             "category": "english"
         },
         {
-            "text": "People who live in glass houses shouldn’t throw stones.",
-            "description": "“People in glass houses” means anyone who is sensitive about their failures. People like this should not insult others (should not “throw stones”) because most likely the other person will turn around and insult you back. And like glass, which is easy to break, your self-esteem (what you think of yourself) will easily break into pieces.",
-            "category": "english"
-        },
-        {
             "text": "People with wax heads shouldn’t walk in the sun.",
             "description": "",
             "category": "english"
@@ -20762,11 +20657,6 @@
         },
         {
             "text": "Price of liberty is eternal vigilance",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Pride comes before a fall",
             "description": "",
             "category": "english"
         },
@@ -24697,11 +24587,6 @@
         },
         {
             "text": "Give a man a fish, he eats for a day. Teach a man how to fish, he eats for a lifetime.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "The apple doesn’t fall far from the tree.",
             "description": "",
             "category": "english"
         },
