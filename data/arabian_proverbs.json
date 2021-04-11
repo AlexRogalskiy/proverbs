@@ -6,6 +6,46 @@
             "category": "arabian"
         },
         {
+            "text": "An army of sheep led by a lion would defeat an army of lions led by a sheep.",
+            "description": "Leadership is the most important factor in success.",
+            "category": "arabic"
+        },
+        {
+            "text": "Ask your purse what you can buy.",
+            "description": "Don’t spend more money than you have.",
+            "category": "arabic"
+        },
+        {
+            "text": "Excuses are worse than the original fault.",
+            "description": "Making excuses for a mistake is worse than the mistake itself.",
+            "category": "arabic"
+        },
+        {
+            "text": "If you build a pit for an enemy, you will fall into it.",
+            "description": "Unkind actions will ultimately harm the person doing them.",
+            "category": "arabic"
+        },
+        {
+            "text": "Secrets are like birds; when they leave your hand, they take flight.",
+            "description": "You can’t control who knows a secret after you’ve told it to someone.",
+            "category": "arabic"
+        },
+        {
+            "text": "The fruit of timidity is neither gain, nor loss.",
+            "description": "If you don’t stand up for what you believe in, nothing will change.",
+            "category": "arabic"
+        },
+        {
+            "text": "Time is money.",
+            "description": "Wasting time is wasting a valuable resource.",
+            "category": "arabic"
+        },
+        {
+            "text": "What is learned in youth is carved in stone.",
+            "description": "Childhood experiences affect a person forever.",
+            "category": "arabic"
+        },
+        {
             "text": "Dwell not upon thy weariness, thy strength shall be according to the measure of thy desire.",
             "description": "",
             "category": "Arab"
@@ -2802,7 +2842,7 @@
         },
         {
             "text": "Actions speak louder than words.",
-            "description": "",
+            "description": "You are judged more by what you do than what you say. Your actions are proof to the things you say.",
             "category": "arabian"
         },
         {

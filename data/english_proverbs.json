@@ -6,6 +6,536 @@
             "category": "english"
         },
         {
+            "text": "Early to bed and early to rise, makes a man healthy, wealthy and wise.",
+            "description": "Taking care of yourself leads to success and productivity.",
+            "category": "english"
+        },
+        {
+            "text": "It's no use locking the stable door after the horse has bolted.",
+            "description": "Fixing a mistake won’t help after the consequences have happened.",
+            "category": "english"
+        },
+        {
+            "text": "Laugh and the world laughs with you, weep and you weep alone.",
+            "description": "People prefer sharing good news over bad news.",
+            "category": "english"
+        },
+        {
+            "text": "'Tis better to have loved and lost, than never to have loved at all.",
+            "description": "The experience of having loved someone is more valuable than being alone.",
+            "category": "english"
+        },
+        {
+            "text": "People who live in glass houses shouldn’t throw stones.",
+            "description": "Don’t criticize others for something you also do.",
+            "category": "english"
+        },
+        {
+            "text": "Actions speak louder than words",
+            "description": "You are judged more by what you dothan what you say. Your actions are proof to the things you say.",
+            "category": "english"
+        },
+        {
+            "text": "Bad news travels fast",
+            "description": "People talk more about bad news than good news.",
+            "category": "english"
+        },
+        {
+            "text": "The wage of sin is death",
+            "description": "We die because we sin.",
+            "category": "english"
+        },
+        {
+            "text": "You can't take it with you when you die",
+            "description": "Physical items are not important. We can't keep physical items when we die.",
+            "category": "english"
+        },
+        {
+            "text": "Actions speak louder than words",
+            "description": "You are judged more by what you dothan what you say. Your actions are proof to the things you say.",
+            "category": "english"
+        },
+        {
+            "text": "Great minds think alike",
+            "description": "This phrase is used to emphasize a coincidence when two people say or think the same thing at the sametime.",
+            "category": "english"
+        },
+        {
+            "text": "Curiosity killed the cat",
+            "description": "It's not good to be too curious. It can lead to trouble.",
+            "category": "english"
+        },
+        {
+            "text": "Bad news travels fast",
+            "description": "People talk more about bad news than good news.",
+            "category": "english"
+        },
+        {
+            "text": "Dead men tell no tales",
+            "description": "If someone is dead, he or she cannot give evidence against others.",
+            "category": "english"
+        },
+        {
+            "text": "Death keeps no calendar",
+            "description": "Any person can die at any time.",
+            "category": "english"
+        },
+        {
+            "text": "The wage of sin is death",
+            "description": "We die because we sin.",
+            "category": "english"
+        },
+        {
+            "text": "You can't take it with you when you die",
+            "description": "Physical items are not important. We can't keep physical items when we die.",
+            "category": "english"
+        },
+        {
+            "text": "There's no place like home",
+            "description": "People feel most comfortable when they are at home and with family.",
+            "category": "english"
+        },
+        {
+            "text": "Blood is thicker than water",
+            "description": "You have a stronger bond with your family than with friends.",
+            "category": "english"
+        },
+        {
+            "text": "The straw the broke the camel's back",
+            "description": "The final thing that causes complete failure. When many bad things are piling up and one small thing finally causes complete failure.",
+            "category": "english"
+        },
+        {
+            "text": "To err is human, to forgive is divine",
+            "description": "It is normal for people to make mistakes. It is important to forgive people for their mistakes.",
+            "category": "english"
+        },
+        {
+            "text": "If it isn't broke, don't fix it",
+            "description": "Don't try to change something that is already working just fine.",
+            "category": "english"
+        },
+        {
+            "text": "Out of sight, out of mind",
+            "description": "We don't think about or worry about things or people that we can't see.",
+            "category": "english"
+        },
+        {
+            "text": "Silence is golden",
+            "description": "You learn more by listening and watching than talking.",
+            "category": "english"
+        },
+        {
+            "text": "Variety is the spice of life",
+            "description": "Life is boring when things are always the same. Change makes life interesting.",
+            "category": "english"
+        },
+        {
+            "text": "You can lead a horse to water, but you can't make it drink",
+            "description": "You can show or tell people how to do things, but you can't make them do it.",
+            "category": "english"
+        },
+        {
+            "text": "You can't have your cake and eat it too",
+            "description": "You can't have everything you want.",
+            "category": "english"
+        },
+        {
+            "text": "Beggars can't be choosers",
+            "description": "If you depend on the generosity of others,you can't be picky about what you get.",
+            "category": "english"
+        },
+        {
+            "text": "Cleanliness is next to godliness",
+            "description": "It is important to be clean and keep things neat and tidy. This expression compares cleanliness to being godly.",
+            "category": "english"
+        },
+        {
+            "text": "An apple a day keeps the doctor away",
+            "description": "Regular healthy habits prevent major illnesses.",
+            "category": "english"
+        },
+        {
+            "text": "Early to bed and early to rise makes a man healthy, wealthy, and wise",
+            "description": "It is good to get plenty of sleep. Go to bed early and get up in the morning.",
+            "category": "english"
+        },
+        {
+            "text": "Don't judge a book by its cover",
+            "description": "Don't judge things or people on their outward appearance.",
+            "category": "english"
+        },
+        {
+            "text": "All that glitters is not gold",
+            "description": "Just because something looks attractive on the outside, doesn't mean it is good.",
+            "category": "english"
+        },
+        {
+            "text": "Beauty is in the eye of the beholder",
+            "description": "Different people recognize beauty in different ways.",
+            "category": "english"
+        },
+        {
+            "text": "Beauty is only skin deep",
+            "description": "What you see on the outside is just physical beauty. It does not tell us how someone is inside.",
+            "category": "english"
+        },
+        {
+            "text": "Good things come in small packages",
+            "description": "The size of a gift or a person does not determine what's inside.",
+            "category": "english"
+        },
+        {
+            "text": "The grass is always greener on the other side",
+            "description": "It is easy to think other people have better things or something will be better somewhere else.",
+            "category": "english"
+        },
+        {
+            "text": "What you see is what you get",
+            "description": "There is nothing hidden.",
+            "category": "english"
+        },
+        {
+            "text": "Don't judge a man until you've walked in his shoes",
+            "description": "Don't judge people until you have been in their situation and truly know what they have experienced.",
+            "category": "english"
+        },
+        {
+            "text": "The way to a man's heart is through his stomach",
+            "description": "Men love women who can cook well.",
+            "category": "english"
+        },
+        {
+            "text": "Absence makes the heart grow fonder",
+            "description": "The lack of something increases the desire for it. If someone you love is away from you, it will increase your desire for that person.",
+            "category": "english"
+        },
+        {
+            "text": "Hell hath no fury like a woman scorned",
+            "description": "A woman who is rejected in love is very angry and dangerous.",
+            "category": "english"
+        },
+        {
+            "text": "Easy come, easy go",
+            "description": "If you get something easily, you can lose it easily. This usually refers to money.",
+            "category": "english"
+        },
+        {
+            "text": "No such thing as a free lunch",
+            "description": "Nothing in life is free. We must pay for everything we get.",
+            "category": "english"
+        },
+        {
+            "text": "Money doesn't grow on trees",
+            "description": "It is not easy to get money, so use it wisely.",
+            "category": "english"
+        },
+        {
+            "text": "Money is the root of all evil",
+            "description": "Evil things happen when people desire money too much.",
+            "category": "english"
+        },
+        {
+            "text": "Money talks",
+            "description": "Money gives people power.",
+            "category": "english"
+        },
+        {
+            "text": "A fool and his money are soon parted",
+            "description": "Unwise people spend their money too quickly and become poor.",
+            "category": "english"
+        },
+        {
+            "text": "A watched pot never boils",
+            "description": "If you are eager for something to happen,it will seem to take longer.",
+            "category": "english"
+        },
+        {
+            "text": "Don't count your chickens before they hatch",
+            "description": "Don’t make plans based on something that has not happened yet.",
+            "category": "english"
+        },
+        {
+            "text": "Don't put the cart before the horse",
+            "description": "Be patient. Don't do thing in the wrong order.",
+            "category": "english"
+        },
+        {
+            "text": "First things first",
+            "description": "Do things in a logical order.",
+            "category": "english"
+        },
+        {
+            "text": "Patience is a virtue",
+            "description": "Patience is a good quality.",
+            "category": "english"
+        },
+        {
+            "text": "Learn to walk before you run",
+            "description": "Be patient. Take the time to learn things right.",
+            "category": "english"
+        },
+        {
+            "text": "Better safe than sorry",
+            "description": "It is better to be careful in a dangerous situation than to get hurt.",
+            "category": "english"
+        },
+        {
+            "text": "Better a live coward than a dead hero",
+            "description": "It is sometimes better to not get involved in something and be called a coward than to become involved and be hurt.",
+            "category": "english"
+        },
+        {
+            "text": "If you play with fire, you might get burned",
+            "description": "If you mess with something that is dangerous, you might get hurt.",
+            "category": "english"
+        },
+        {
+            "text": "Pride comes before a fall",
+            "description": "If you become too confident and arrogant,you are sure to suffer disappointment.",
+            "category": "english"
+        },
+        {
+            "text": "If you can't beat them, join them",
+            "description": "If you cannot win against someone,it may be easier to join together with them to be stronger.",
+            "category": "english"
+        },
+        {
+            "text": "Birds of a feather flock together",
+            "description": "People who are alike tend to stick together.",
+            "category": "english"
+        },
+        {
+            "text": "A chain is only as strong as its weakest link",
+            "description": "If one member of a group is weak, then the whole group is weak.",
+            "category": "english"
+        },
+        {
+            "text": "The best things in life are free",
+            "description": "The best things in life are love,friendship, and family. We don't have to pay for those things.",
+            "category": "english"
+        },
+        {
+            "text": "Don't bite the hand that feeds you",
+            "description": "Don't hurt the person or people who take care of you.",
+            "category": "english"
+        },
+        {
+            "text": "Familiarity breeds contempt",
+            "description": "We begin to hate those we are closest to. This can also refer to objects.",
+            "category": "english"
+        },
+        {
+            "text": "It's a man's world",
+            "description": "The world seems to revolve around men, and it is difficult for women to become successful in a man's world.",
+            "category": "english"
+        },
+        {
+            "text": "One good turn deserves another",
+            "description": "If someone does something nice for you, you should do something nice in return.",
+            "category": "english"
+        },
+        {
+            "text": "United we stand, divided we fall",
+            "description": "We will be more successful if wework together.",
+            "category": "english"
+        },
+        {
+            "text": "Revenge is a dish best served cold",
+            "description": "Do not try to get revenge immediately after someone hurts you.",
+            "category": "english"
+        },
+        {
+            "text": "Two wrongs do not make a right",
+            "description": "If someone does something bad to you,you should not try to get revenge. It does not make it better.",
+            "category": "english"
+        },
+        {
+            "text": "Fortune favors the bold",
+            "description": "Successful people usually have to take risks.",
+            "category": "english"
+        },
+        {
+            "text": "If at first you don't succeed, try, try again",
+            "description": "Keep trying until you're successful.",
+            "category": "english"
+        },
+        {
+            "text": "One swallow does not a summer make",
+            "description": "One success does not guarantee a second success.",
+            "category": "english"
+        },
+        {
+            "text": "Opportunity only knocks once\" or \"Opportunity rarely knocks twice",
+            "description": "You should take an opportunity when it comes to you. It may not come again.",
+            "category": "english"
+        },
+        {
+            "text": "Strike while the iron is hot",
+            "description": "When you have a chance to do something,don't wait. Take an opportunity when it comes to you.",
+            "category": "english"
+        },
+        {
+            "text": "The early bird catches the worm",
+            "description": "Success comes to people who are prepared.",
+            "category": "english"
+        },
+        {
+            "text": "When the going gets tough, the tough get going",
+            "description": "Successful people donot quit when things become difficult.",
+            "category": "english"
+        },
+        {
+            "text": "The darkest hour is always before the dawn",
+            "description": "When things seem the worst, good things are sure to happen.",
+            "category": "english"
+        },
+        {
+            "text": "Where there's a will, there's a way",
+            "description": "If you are strong-minded, you will find a way to achieve things.",
+            "category": "english"
+        },
+        {
+            "text": "Make a mountain out of a molehill",
+            "description": "Don't get upset over something small.",
+            "category": "english"
+        },
+        {
+            "text": "This too shall pass",
+            "description": "Bad times won't last forever.",
+            "category": "english"
+        },
+        {
+            "text": "It is what it is",
+            "description": "You can't change what has already happened.",
+            "category": "english"
+        },
+        {
+            "text": "God works in mysterious ways",
+            "description": "God has a plan for people. He has a reason for everything that happens.",
+            "category": "english"
+        },
+        {
+            "text": "When one door shuts, another opens\" or \"When God closes a door, He opens a window",
+            "description": "A failure is always followed by a new opportunity. Be positive and look for the good things in life even when something badhappens.",
+            "category": "english"
+        },
+        {
+            "text": "Facts are stubborn things",
+            "description": "You can't avoid the truth.",
+            "category": "english"
+        },
+        {
+            "text": "Honesty  is the best policy",
+            "description": "It is best to be truthful. Lies will get you nowhere.",
+            "category": "english"
+        },
+        {
+            "text": "Truth is stranger than fiction",
+            "description": "Amazing things happen and sometimes real life is more difficult to believe than a made-up story.",
+            "category": "english"
+        },
+        {
+            "text": "Truth needs no colors",
+            "description": "Truth is fact and speaks for itself. You don't need to do anything to make it sound better.",
+            "category": "english"
+        },
+        {
+            "text": "Nothing hurts like the truth",
+            "description": "The truth can hurt.",
+            "category": "english"
+        },
+        {
+            "text": "No pain, no gain",
+            "description": "It takes hard work to achieve things.",
+            "category": "english"
+        },
+        {
+            "text": "Practice makes perfect",
+            "description": "It takes lots of practice to become good at something.",
+            "category": "english"
+        },
+        {
+            "text": "Too many cooks spoil the broth",
+            "description": "It is difficult to complete task swhen many people are involved in the work.",
+            "category": "english"
+        },
+        {
+            "text": "Two heads are better than one",
+            "description": "Two people can usually solve problems faster than one person.",
+            "category": "english"
+        },
+        {
+            "text": "Rome wasn't built in a day",
+            "description": "It takes time and hard work to accomplish something big.",
+            "category": "english"
+        },
+        {
+            "text": "The straw the broke the camel's back",
+            "description": "The final thing that causes complete failure. When many bad things are piling up and one small thing finally causes complete failure.",
+            "category": "english"
+        },
+        {
+            "text": "What you see is what you get",
+            "description": "There is nothing hidden.",
+            "category": "english"
+        },
+        {
+            "text": "Money is the root of all evil",
+            "description": "Evil things happen when people desire money too much.",
+            "category": "english"
+        },
+        {
+            "text": "Money talks",
+            "description": "Money gives people power.",
+            "category": "english"
+        },
+        {
+            "text": "If you play with fire, you might get burned",
+            "description": "If you mess with something that is dangerous, you might get hurt.",
+            "category": "english"
+        },
+        {
+            "text": "Birds of a feather flock together",
+            "description": "People who are alike tend to stick together.",
+            "category": "english"
+        },
+        {
+            "text": "If at first you don't succeed, try, try again",
+            "description": "Keep trying until you're successful.",
+            "category": "english"
+        },
+        {
+            "text": "One swallow does not a summer make",
+            "description": "One success does not guarantee asecond success.",
+            "category": "english"
+        },
+        {
+            "text": "Strike while the iron is hot",
+            "description": "When you have a chance to do something,don't wait. Take an opportunity when it comes to you.",
+            "category": "english"
+        },
+        {
+            "text": "The early bird catches the worm",
+            "description": "Success comes to people who are prepared.",
+            "category": "english"
+        },
+        {
+            "text": "The apple doesn’t fall far from the tree.",
+            "description": "Children often resemble their parents in both appearance and behavior.",
+            "category": "english"
+        },
+        {
+            "text": "The poor carpenter blames his tools.",
+            "description": "Take ownership of your mistakes instead of finding blame elsewhere.",
+            "category": "english"
+        },
+        {
+            "text": "When you want to make an omelet, you need to break a few eggs.",
+            "description": "Reaching a goal requires sacrifice.",
+            "category": "english"
+        },
+        {
             "text": "Foolishness brings grief to your mother",
             "description": "This shows that the effects of having/lacking wisdom affects more than ourselves.",
             "category": "english"
@@ -1802,7 +2332,7 @@
         },
         {
             "text": "Actions speak louder than words.",
-            "description": "",
+            "description": "You are judged more by what you do than what you say. Your actions are proof to the things you say.",
             "category": "english"
         },
         {
@@ -2187,7 +2717,7 @@
         },
         {
             "text": "Curiosity killed the cat. Satisfaction brought it back, that's why the cat has nine lives.",
-            "description": "",
+            "description": "It's not good to be too curious. It can lead to trouble.",
             "category": "english"
         },
         {
@@ -2752,7 +3282,7 @@
         },
         {
             "text": "Great minds think alike, but fools seldom differ.",
-            "description": "",
+            "description": "This phrase is used to emphasize a coincidence when two people say or think the same thing at the same time.",
             "category": "english"
         },
         {
@@ -11367,7 +11897,7 @@
         },
         {
             "text": "Curiosity killed the cat.",
-            "description": "",
+            "description": "It's not good to be too curious. It can lead to trouble.",
             "category": "traditional english"
         },
         {
@@ -11742,7 +12272,7 @@
         },
         {
             "text": "Great minds think alike.",
-            "description": "",
+            "description": "This phrase is used to emphasize a coincidence when two people say or think the same thing at the same time.",
             "category": "traditional english"
         },
         {
@@ -15217,7 +15747,7 @@
         },
         {
             "text": "Curiosity killed the cat. Too much knowledge makes the head bald.",
-            "description": "",
+            "description": "It's not good to be too curious. It can lead to trouble.",
             "category": "english"
         },
         {
@@ -15392,7 +15922,7 @@
         },
         {
             "text": "Actions speak louder than words. Deeds, not words. Handsome is as handsome does.",
-            "description": "",
+            "description": "You are judged more by what you do than what you say. Your actions are proof to the things you say.",
             "category": "english"
         },
         {
@@ -18392,7 +18922,7 @@
         },
         {
             "text": "Great minds think alike",
-            "description": "",
+            "description": "This phrase is used to emphasize a coincidence when two people say or think the same thing at the same time.",
             "category": "english"
         },
         {
