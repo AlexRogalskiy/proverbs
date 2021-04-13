@@ -821,11 +821,6 @@
             "category": "english"
         },
         {
-            "text": "People who live in glass houses shouldn’t throw stones.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Practice makes perfect.",
             "description": "",
             "category": "english"
@@ -2111,11 +2106,6 @@
             "category": "english"
         },
         {
-            "text": "A watched pot never boils.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "A woman's work is never done.",
             "description": "",
             "category": "english"
@@ -2147,11 +2137,6 @@
         },
         {
             "text": "Absence is a shrew.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Absence makes the heart grow fonder.",
             "description": "",
             "category": "english"
         },
@@ -2471,11 +2456,6 @@
             "category": "english"
         },
         {
-            "text": "All good things come to an end.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "All good things must come to an end.",
             "description": "",
             "category": "english"
@@ -2522,11 +2502,6 @@
         },
         {
             "text": "A still tongue makes a wise head.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "A stitch in time saves nine.",
             "description": "",
             "category": "english"
         },
@@ -2596,17 +2571,7 @@
             "category": "english"
         },
         {
-            "text": "Beauty is in the eye of the beholder.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Beauty is only skin deep, but ugly goes straight to the bone.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Beauty is only skin deep.",
             "description": "",
             "category": "english"
         },
@@ -2786,11 +2751,6 @@
             "category": "english"
         },
         {
-            "text": "Actions speak louder than words.",
-            "description": "You are judged more by what you do than what you say. Your actions are proof to the things you say.",
-            "category": "english"
-        },
-        {
             "text": "Advantage is a better soldier than rashness.",
             "description": "",
             "category": "english"
@@ -2916,11 +2876,6 @@
             "category": "english"
         },
         {
-            "text": "Knowledge is power.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Last ship, best ship.",
             "description": "",
             "category": "english"
@@ -2946,17 +2901,7 @@
             "category": "english"
         },
         {
-            "text": "Better late than never.",
-            "description": "It’s best to do something on time. But if you can’t do it on time, do it late.",
-            "category": "english"
-        },
-        {
             "text": "Better never to begin than never to make an end.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Better safe than sorry.",
             "description": "",
             "category": "english"
         },
@@ -2997,11 +2942,6 @@
         },
         {
             "text": "A man is as old as he feels himself to be.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "A man is as old as he feels, a woman as old as she looks.",
             "description": "",
             "category": "english"
         },
@@ -3821,11 +3761,6 @@
             "category": "english"
         },
         {
-            "text": "Birds of a feather flock together.",
-            "description": "People like to spend time with others who are similar to them.",
-            "category": "english"
-        },
-        {
             "text": "Eat, drink, be merry, for tomorrow we die.",
             "description": "",
             "category": "english"
@@ -3882,11 +3817,6 @@
         },
         {
             "text": "Fame is a magnifying glass.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Familiarity breeds contempt.",
             "description": "",
             "category": "english"
         },
@@ -4316,11 +4246,6 @@
             "category": "english"
         },
         {
-            "text": "Blood is thicker than water.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Blood will out.",
             "description": "",
             "category": "english"
@@ -4401,11 +4326,6 @@
             "category": "english"
         },
         {
-            "text": "Every cloud has a silver lining.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Every coin has two sides.",
             "description": "",
             "category": "english"
@@ -4417,11 +4337,6 @@
         },
         {
             "text": "Every disease will have its course.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Every dog has his day.",
             "description": "",
             "category": "english"
         },
@@ -5041,11 +4956,6 @@
             "category": "english"
         },
         {
-            "text": "Laughter is the best medicine.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Laughter is the shortest distance between two people.",
             "description": "",
             "category": "english"
@@ -5066,11 +4976,6 @@
             "category": "english"
         },
         {
-            "text": "Learn to walk before you run.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Learn weeping and thou shalt gain laughing.",
             "description": "",
             "category": "english"
@@ -5082,11 +4987,6 @@
         },
         {
             "text": "It takes two to make a quarrel.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "It takes two to tango.",
             "description": "",
             "category": "english"
         },
@@ -5506,11 +5406,6 @@
             "category": "english"
         },
         {
-            "text": "The early bird catches the worm.",
-            "description": "You should wake up and start work early if you want to succeed.",
-            "category": "english"
-        },
-        {
             "text": "The early bird gets the worm, but the second mouse gets the cheese.",
             "description": "",
             "category": "english"
@@ -5836,11 +5731,6 @@
             "category": "english"
         },
         {
-            "text": "Make hay while the sun shines.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Make love like war.",
             "description": "",
             "category": "english"
@@ -5946,11 +5836,6 @@
             "category": "english"
         },
         {
-            "text": "Out of sight, out of mind.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Paddle your own ...",
             "description": "",
             "category": "english"
@@ -5992,11 +5877,6 @@
         },
         {
             "text": "Like cures like.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Like father, like son.",
             "description": "",
             "category": "english"
         },
@@ -6296,11 +6176,6 @@
             "category": "english"
         },
         {
-            "text": "Honesty is the best policy.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Honey catches more flies than vinegar.",
             "description": "",
             "category": "english"
@@ -6361,17 +6236,7 @@
             "category": "english"
         },
         {
-            "text": "Practice makes perfect.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Practice makes permanent.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Practice what you preach.",
             "description": "",
             "category": "english"
         },
@@ -6476,11 +6341,6 @@
             "category": "english"
         },
         {
-            "text": "No man is an island.",
-            "description": "You can’t live completely independently. Everyone needs help from other people.",
-            "category": "english"
-        },
-        {
             "text": "No man is angry that feels not himself hurt.",
             "description": "",
             "category": "english"
@@ -6492,11 +6352,6 @@
         },
         {
             "text": "No man's religion ever survived his morals.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "No news is good news.",
             "description": "",
             "category": "english"
         },
@@ -6697,11 +6552,6 @@
         },
         {
             "text": "Time and thinking tame the strongest grief.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Time and tide wait for no man.",
             "description": "",
             "category": "english"
         },
@@ -7121,11 +6971,6 @@
             "category": "english"
         },
         {
-            "text": "Look before you leap.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Loose lips sink ships.",
             "description": "",
             "category": "english"
@@ -7331,17 +7176,7 @@
             "category": "english"
         },
         {
-            "text": "Still waters run deep.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Stolen fruit is sweet.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Strike while the iron is hot.",
             "description": "",
             "category": "english"
         },
@@ -7541,11 +7376,6 @@
             "category": "english"
         },
         {
-            "text": "There was never a conflict without a woman.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "There's always a calm before a storm.",
             "description": "",
             "category": "english"
@@ -7717,11 +7547,6 @@
         },
         {
             "text": "Let him who is without sin cast the first stone.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Let sleeping dogs lie.",
             "description": "",
             "category": "english"
         },
@@ -8041,11 +7866,6 @@
             "category": "english"
         },
         {
-            "text": "The squeaky wheel gets the grease.",
-            "description": "You can get better service if you complain about something. If you wait patiently, no one’s going to help you.",
-            "category": "english"
-        },
-        {
             "text": "The start of a journey should never be mistaken for success.",
             "description": "",
             "category": "english"
@@ -8131,11 +7951,6 @@
             "category": "english"
         },
         {
-            "text": "The best things in life are free.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "The best throw of the dice is to throw them away.",
             "description": "",
             "category": "english"
@@ -8177,16 +7992,6 @@
         },
         {
             "text": "The post of honour is the post of danger.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "The proof of the pudding is in the eating.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "The road to hell is paved with good intentions.",
             "description": "",
             "category": "english"
         },
@@ -8526,11 +8331,6 @@
             "category": "english"
         },
         {
-            "text": "When in Rome, do as the Romans do.",
-            "description": "Act the way that the people around you are acting. This phrase might come in handy when you’re traveling abroad notice that people do things differently than you’re used to.",
-            "category": "english"
-        },
-        {
             "text": "When it rains, it pours.",
             "description": "",
             "category": "english"
@@ -8561,11 +8361,6 @@
             "category": "english"
         },
         {
-            "text": "When the going gets tough, the tough get going.",
-            "description": "Strong people don’t give up when they come across challenges. They just work harder.",
-            "category": "english"
-        },
-        {
             "text": "Without sleep, no health.",
             "description": "",
             "category": "english"
@@ -8577,11 +8372,6 @@
         },
         {
             "text": "Women are like wasps in their anger.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Women in mischief are wiser than men.",
             "description": "",
             "category": "english"
         },
@@ -8752,11 +8542,6 @@
         },
         {
             "text": "Too hot to last.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Too many cooks spoil the broth.",
             "description": "",
             "category": "english"
         },
@@ -9161,11 +8946,6 @@
             "category": "english"
         },
         {
-            "text": "Where one door shuts, another opens.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Where there is peace, god is.",
             "description": "",
             "category": "english"
@@ -9256,11 +9036,6 @@
             "category": "english"
         },
         {
-            "text": "Two heads are better than one.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Time heals all wounds.",
             "description": "",
             "category": "english"
@@ -9327,11 +9102,6 @@
         },
         {
             "text": "What costs little is little esteemed.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "What goes around comes around.",
             "description": "",
             "category": "english"
         },
@@ -10056,11 +9826,6 @@
             "category": "british"
         },
         {
-            "text": "Hell has no fury like a woman scorned.",
-            "description": "",
-            "category": "british"
-        },
-        {
             "text": "Heresy is the school of pride.",
             "description": "",
             "category": "british"
@@ -10187,11 +9952,6 @@
         },
         {
             "text": "A house is a fine house when good folks are within.",
-            "description": "",
-            "category": "british"
-        },
-        {
-            "text": "A house well-furnished makes a woman wise.",
             "description": "",
             "category": "british"
         },
@@ -10932,11 +10692,6 @@
         },
         {
             "text": "Man learns little from success, but much from failure.",
-            "description": "",
-            "category": "british"
-        },
-        {
-            "text": "Man, woman, and devil, are the three degrees of comparison.",
             "description": "",
             "category": "british"
         },
@@ -11731,11 +11486,6 @@
             "category": "british"
         },
         {
-            "text": "Men make houses, women make homes.",
-            "description": "",
-            "category": "british"
-        },
-        {
             "text": "Mettle is dangerous in a blind horse.",
             "description": "",
             "category": "british"
@@ -12261,11 +12011,6 @@
             "category": "traditional english"
         },
         {
-            "text": "A bad workman always blames his tools.",
-            "description": "",
-            "category": "traditional english"
-        },
-        {
             "text": "A beetle is a beauty in the eyes of his mother.",
             "description": "",
             "category": "traditional english"
@@ -12348,11 +12093,6 @@
         {
             "text": "Could everything be done twice it would be done better.",
             "description": "",
-            "category": "traditional english"
-        },
-        {
-            "text": "Curiosity killed the cat.",
-            "description": "It's not good to be too curious. It can lead to trouble.",
             "category": "traditional english"
         },
         {
@@ -15716,11 +15456,6 @@
             "category": "british"
         },
         {
-            "text": "Who has a woman has an eel by the tail.",
-            "description": "",
-            "category": "british"
-        },
-        {
             "text": "A friend's eye is a good mirror.",
             "description": "",
             "category": "celtic"
@@ -16168,11 +15903,6 @@
         {
             "text": "The best is oftentimes the enemy of the good. (См. От добра добра не ищут.)",
             "description": "",
-            "category": "english"
-        },
-        {
-            "text": "A picture is worth a thousand words.",
-            "description": "Pictures convey emotions and messages better than written or spoken explanations",
             "category": "english"
         },
         {
@@ -16927,11 +16657,6 @@
         },
         {
             "text": "What will be, will be. What will come, will come.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Cleanliness is next to godliness.",
             "description": "",
             "category": "english"
         },
@@ -17691,11 +17416,6 @@
             "category": "english"
         },
         {
-            "text": "All’s fair in love and war.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "All’s for the best in the best of all possible worlds.",
             "description": "",
             "category": "english"
@@ -17933,11 +17653,6 @@
         {
             "text": "Beer before wine, you’ll feel fine. Wine before beer, you’ll feel queer.",
             "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Beggars can’t be choosers.",
-            "description": "If someone gives you free things or offers to help you do something, you can’t ask for a different color or choose the perfect time in your schedule. When you receive free help or goods, you should accept what you’re offered—you can’t be picky (a “chooser”) because you’re not paying!",
             "category": "english"
         },
         {
@@ -18486,11 +18201,6 @@
             "category": "english"
         },
         {
-            "text": "Don’t bite the hand that feeds you.",
-            "description": "This proverb warns against acting mean to those who provide for you or who do nice things for you. If you were to bite the hand that gave you food, that hand probably won’t come back to feed you again. Then what would you eat? So you should be kind and thankful to those who care for you.",
-            "category": "english"
-        },
-        {
             "text": "Don’t burn the candle at both ends.",
             "description": "",
             "category": "english"
@@ -18517,11 +18227,6 @@
         },
         {
             "text": "Don’t count your chickens before they are hatched",
-            "description": "This proverb warns against being too eager. Just because you have five eggs, does not mean you will have five chickens. It is not a good idea to make plans based on expectations (what you think will happen). Wait for all things to come true before building up your dreams. Or worse, your promises. Things may not happen like you thought they would and that could get you in trouble.",
-            "category": "english"
-        },
-        {
-            "text": "Don’t count your chickens before they hatch.",
             "description": "This proverb warns against being too eager. Just because you have five eggs, does not mean you will have five chickens. It is not a good idea to make plans based on expectations (what you think will happen). Wait for all things to come true before building up your dreams. Or worse, your promises. Things may not happen like you thought they would and that could get you in trouble.",
             "category": "english"
         },
@@ -18777,11 +18482,6 @@
         },
         {
             "text": "Don’t throw pearls to swine",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Don’t throw the baby out with the bathwater.",
             "description": "",
             "category": "english"
         },
@@ -19331,11 +19031,6 @@
             "category": "english"
         },
         {
-            "text": "Good things come to those who wait.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "Goose, gander and gosling are three sounds but one thing.",
             "description": "",
             "category": "english"
@@ -19767,11 +19462,6 @@
         },
         {
             "text": "If you can’t beat ’em, join ’em.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "If you can’t beat them, join them.",
             "description": "",
             "category": "english"
         },
@@ -20966,11 +20656,6 @@
             "category": "english"
         },
         {
-            "text": "One man’s meat is another man’s poison.",
-            "description": "",
-            "category": "english"
-        },
-        {
             "text": "One man’s meat is another’s poison.",
             "description": "",
             "category": "english"
@@ -21316,11 +21001,6 @@
             "category": "english"
         },
         {
-            "text": "Rome wasn’t built in a day.",
-            "description": "Rome is a great city. However, it took many years to be completed. The builders did not rush to complete their work and neither should you. If you wish to create something wonderful and long-lasting, you will have to spend more than a day working on it. You will probably have to spend several days, weeks or even months to do a good job. Take your time and do it right!",
-            "category": "english"
-        },
-        {
             "text": "Rome wasn’t built in one day.",
             "description": "",
             "category": "english"
@@ -21397,11 +21077,6 @@
         },
         {
             "text": "Six hours’ sleep for a man, seven for a woman and eight for a fool.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Slow and steady wins the race.",
             "description": "",
             "category": "english"
         },
@@ -22166,11 +21841,6 @@
             "category": "english"
         },
         {
-            "text": "There’s no place like home.",
-            "description": "Your own home is the most comfortable place to be.",
-            "category": "english"
-        },
-        {
             "text": "There’s no smoke without fire",
             "description": "",
             "category": "english"
@@ -22181,17 +21851,7 @@
             "category": "english"
         },
         {
-            "text": "There’s no such thing as a free lunch.",
-            "description": "Things that are offered for free always have a hidden cost.",
-            "category": "english"
-        },
-        {
             "text": "There’s no such thing as bad publicity",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "There’s no time like the present.",
             "description": "",
             "category": "english"
         },
@@ -22437,11 +22097,6 @@
         },
         {
             "text": "Two wrongs don’t make a right, but three lefts do.",
-            "description": "If somebody insults you or harms you (“a wrong”), doing the same to them (“two wrongs”) will not make everything okay. It will most likely cause a back-and-forth fight without end. If somebody is mean to you, don’t be mean to them in return because it’s not right to do so.",
-            "category": "english"
-        },
-        {
-            "text": "Two wrongs don’t make a right.",
             "description": "If somebody insults you or harms you (“a wrong”), doing the same to them (“two wrongs”) will not make everything okay. It will most likely cause a back-and-forth fight without end. If somebody is mean to you, don’t be mean to them in return because it’s not right to do so.",
             "category": "english"
         },
@@ -22726,11 +22381,6 @@
             "category": "english"
         },
         {
-            "text": "Where there’s a will, there’s a way.",
-            "description": "This proverb is said to encourage people who want to give up. Sometimes, we face problems that seem impossible. But if you want it bad enough, nothing can stand in your way. That is what this proverb means—if you have the will to meet the problems that are in front of you, there is a way to overcome them.",
-            "category": "english"
-        },
-        {
             "text": "Where there’s marriage without love, there will be love without marriage.",
             "description": "",
             "category": "english"
@@ -22857,11 +22507,6 @@
         },
         {
             "text": "Women and children first.",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "Women’s counsel is cold.",
             "description": "",
             "category": "english"
         },
@@ -23021,11 +22666,6 @@
             "category": "english"
         },
         {
-            "text": "You can’t have your cake and eat it too.",
-            "description": "If you eat your cake, you won’t have it anymore, will you? So you can’t do both. This proverb is about having two opposite desires, and how it’s impossible to get both. Its meaning is similar to the proverb, “You can’t have the best of both worlds.”",
-            "category": "english"
-        },
-        {
             "text": "You can’t hold with the hare and run with the hounds.",
             "description": "",
             "category": "english"
@@ -23087,11 +22727,6 @@
         },
         {
             "text": "You can’t take it with you [when you die].",
-            "description": "",
-            "category": "english"
-        },
-        {
-            "text": "You can’t teach an old dog new tricks.",
             "description": "",
             "category": "english"
         },
@@ -25202,16 +24837,6 @@
         },
         {
             "category": "english",
-            "text": "A bird in hand is worth two in the bush.",
-            "description": "Things we already have are more valuable than what we hope to get."
-        },
-        {
-            "category": "english",
-            "text": "A chain is only as strong as its weakest link.",
-            "description": "One weak part will render the whole weak."
-        },
-        {
-            "category": "english",
             "text": "Adversity and loss make a man wise.",
             "description": "We gain wisdom faster in difficult times than in prosperous times."
         },
@@ -25232,11 +24857,6 @@
         },
         {
             "category": "english",
-            "text": "Among the blind the one-eyed man is king.",
-            "description": "An incapable person can gain powerful position if others in the fray are even more incapable."
-        },
-        {
-            "category": "english",
             "text": "An empty vessel makes much noise.",
             "description": "Foolish or stupid people are the most talkative."
         },
@@ -25249,11 +24869,6 @@
             "category": "english",
             "text": "A ship in the harbor is safe, but that is not what a ship is for.",
             "description": "Get out of your comfort zone to grow and fulfill your potential."
-        },
-        {
-            "category": "english",
-            "text": "As you sow, so you shall reap.",
-            "description": "Your actions – good or bad – determine what you get."
         },
         {
             "category": "english",
@@ -25289,11 +24904,6 @@
             "category": "english",
             "text": "Don’t cast pearls before swine.",
             "description": "Don’t offer something valuable to someone who doesn’t value it."
-        },
-        {
-            "category": "english",
-            "text": "Don’t put all your eggs in one basket.",
-            "description": "Don’t put all your effort into a single course of action, venture, investment, goal, or the like, because if it doesn’t work, you lose everything."
         },
         {
             "category": "english",
@@ -25362,11 +24972,6 @@
         },
         {
             "category": "english",
-            "text": "Money doesn’t grow on trees.",
-            "description": "Spend money carefully because it’s limited. You can’t grow it on trees and replenish."
-        },
-        {
-            "category": "english",
             "text": "Never put off until tomorrow what you can do today.",
             "description": "Don’t delay doing something if you can do it immediately."
         },
@@ -25377,11 +24982,6 @@
         },
         {
             "category": "english",
-            "text": "Once bitten twice shy.",
-            "description": "You say this proverb when someone won’t do something a second time because they had bad experience the first time."
-        },
-        {
-            "category": "english",
             "text": "One man’s junk is another man’s treasure.",
             "description": "What may seem to be junk to one person maybe valuable to another."
         },
@@ -25389,11 +24989,6 @@
             "category": "english",
             "text": "One shouldn’t miss forest for the trees.",
             "description": "Sometimes you get so focused on small details that you may miss the larger context."
-        },
-        {
-            "category": "english",
-            "text": "Pen is mightier than sword.",
-            "description": "Thinking and writing have more influence on people and events than use of force."
         },
         {
             "category": "english",
@@ -25412,18 +25007,8 @@
         },
         {
             "category": "english",
-            "text": "The harder you work, the luckier you get.",
-            "description": "The harder you work, the more good ideas and chances you may make for yourself."
-        },
-        {
-            "category": "english",
             "text": "The grass is greener on the other side of the fence.",
             "description": "People are never satisfied with their own situation; they always think others have it better."
-        },
-        {
-            "category": "english",
-            "text": "There are more ways than one to skin a cat.",
-            "description": "There is more than one way to reach the same goal."
         },
         {
             "category": "english",
@@ -25437,28 +25022,8 @@
         },
         {
             "category": "english",
-            "text": "While the cat’s away, the mice will play.",
-            "description": "Without supervision, people will do as they please, especially in disregarding or breaking rules."
-        },
-        {
-            "category": "english",
-            "text": "You can lead a horse to water but you can’t make it drink.",
-            "description": "You can show people the way to do things, but you can’t force them to act."
-        },
-        {
-            "category": "english",
-            "text": "You can’t fit a round peg in a square hole.",
-            "description": "You can’t force someone into a role for which s/he is not suited."
-        },
-        {
-            "category": "english",
             "text": "Soon learn, soon forgotten.",
             "description": ""
-        },
-        {
-            "category": "english",
-            "text": "You can’t unscramble a scrambled egg.",
-            "description": "Some actions are irreversible."
         },
         {
             "category": "english",
@@ -25559,11 +25124,6 @@
             "text": "What's good for the goose is good for the gander.",
             "category": "english",
             "description": "A goose is a type of bird. A gander is the male version of that bird. So this phrase means that things which are good for women are also good for men, and vice versa."
-        },
-        {
-            "text": "Keep your friends close and your enemies closer.",
-            "category": "english",
-            "description": "If you have an enemy, pretend to be friends with them instead of openly fighting with them. That way you can watch them carefully and figure out what they're planning."
         },
         {
             "text": "There's no such thing as a free lunch.",
