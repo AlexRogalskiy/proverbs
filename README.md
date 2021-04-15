@@ -38,7 +38,7 @@
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/proverbs)
 [![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/proverbs)](https://hitsofcode.com/github/AlexRogalskiy/proverbs/view)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][tags]
-![Website](https://img.shields.io/website?url=https://styled-proverbs.vercel.app/api?layout=churchill)
+![Website](https://img.shields.io/website?url=https://styled-proverbs.vercel.app/favicon.ico)
 
 [![codecov](https://codecov.io/gh/AlexRogalskiy/proverbs/branch/master/graph/badge.svg?token=Wgb7nM3Xx3)](https://codecov.io/gh/AlexRogalskiy/proverbs)
 [![CI](https://github.com/AlexRogalskiy/proverbs/workflows/test/badge.svg)](https://github.com/AlexRogalskiy/proverbs/workflows/test)
