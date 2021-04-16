@@ -8,6 +8,7 @@
         "deploy:dev": "env-cmd --silent -e prod vercel",
         "deploy:prod": "env-cmd --silent -e prod vercel --prod",
         "development": "env-cmd --silent -e dev vercel dev",
+        "develop:docker": "env-cmd --silent -x -e dev vercel dev --token $VERCEL_TOKEN",
         "development:docker": "env-cmd --silent -x -e dev vercel dev --token $VERCEL_TOKEN",
         "develop": "concurrently --prefix \"[{name}]:{time}\" --names \"index,dev\" \"npm run index\" \"npm run development\"",
         "format": "prettier --single-quote --write **/*.ts",

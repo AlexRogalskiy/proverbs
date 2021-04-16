@@ -67,4 +67,4 @@ VOLUME /tmp
 EXPOSE 3000
 
 ## Running package bundle
-CMD ["npm", "run", "develop"]
+CMD ["npm", "run", "develop:docker"]
