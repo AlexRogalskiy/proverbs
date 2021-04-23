@@ -1,0 +1,12 @@
+docs/**
+node_modules/**
+coverage/**
+flow-typed/**
+dist/**
+
+.vercel/**
+.husky/**
+.idea/**
+.github/**
+.dependabot/**
+.vscode/**
