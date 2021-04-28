@@ -5,8 +5,6 @@ ARG IMAGE_TAG=lts-alpine
 
 FROM $IMAGE_SOURCE:$IMAGE_TAG
 
-MAINTAINER Alexander Rogalskiy <@AlexRogalskiy>
-
 ## Setting arguments
 ARG VERSION="0.0.0-dev"
 ARG VCS_REF="$(date -u +\"%Y-%m-%dT%H:%M:%SZ\")"

@@ -33,6 +33,7 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/proverbs.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/proverbs/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/proverbs.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/proverbs/context:javascript)
 
+[![Codeac](https://static.codeac.io/badges/2-346359381.svg)](https://app.codeac.io/github/AlexRogalskiy/proverbs)
 [![codebeat badge](https://codebeat.co/badges/8b21f3a3-339b-498e-b388-c9dd3763f656)](https://codebeat.co/projects/github-com-alexrogalskiy-proverbs-master)
 [![Renovatebot](https://badgen.net/badge/renovate/enabled/green?cache=300)](https://renovatebot.com/)
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
