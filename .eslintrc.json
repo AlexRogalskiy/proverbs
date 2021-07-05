@@ -79,9 +79,13 @@
         "no-unused-vars": "off",
         "camelcase": "off",
         "no-angle-bracket-type-assertion": "off",
+        "unicorn/prefer-module": "off",
+        "unicorn/no-null": "off",
         "unicorn/filename-case": "off",
+        "unicorn/no-array-reduce": "off",
         "unicorn/prevent-abbreviations": "off",
         "unicorn/no-nested-ternary": "off",
+        "unicorn/no-object-as-default-parameter": "off",
         "spellcheck/spell-checker": [
             "off",
             {

@@ -1,4 +1,4 @@
-import { readFileSync } from 'fs'
+import { readFileSync } from 'node:fs'
 
 import { Optional } from '../../typings/standard-types'
 import { FontOptions } from '../../typings/domain-types'

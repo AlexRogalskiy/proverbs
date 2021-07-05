@@ -1,8 +1,8 @@
 import lunr, { Index, Query, tokenizer } from 'lunr'
 import cron from 'node-cron'
 
-import { readFileSync, writeFileSync } from 'fs'
-import { join } from 'path'
+import { readFileSync, writeFileSync } from 'node:fs'
+import { join } from 'node:path'
 
 import { Optional } from '../../typings/standard-types'
 import { LanguagePattern } from '../../typings/enum-types'
@@ -75,7 +75,7 @@ const createIndex = (): Index => {
 export const idx = (): Index => {
     try {
         return restoreIndex()
-    } catch (error) {
+    } catch {
         return storeIndex()
     }
 }

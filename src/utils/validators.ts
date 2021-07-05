@@ -1,5 +1,5 @@
 export const getType = (obj: any): string => {
-    return {}.toString
+    return Object.prototype.toString
         .call(obj)
         .match(/\s(\w+)/)[1]
         .toLowerCase()
@@ -45,5 +45,9 @@ export const isFunction = (value: any): boolean => {
 }
 
 export const isNumber = (value: any): boolean => {
-    return isNotNull(value) && (typeof value === 'number' || getType(value) === 'number') && isFinite(value)
+    return (
+        isNotNull(value) &&
+        (typeof value === 'number' || getType(value) === 'number') &&
+        Number.isFinite(value)
+    )
 }
