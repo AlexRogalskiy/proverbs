@@ -6,6 +6,421 @@
             "category": "bulgarian"
         },
         {
+            "text": "Don't leave today's work for tomorrow.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Every frog must know its pond.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "You can't find stupidity in the forest.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Hungry bear doesn't dance.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "It can't be, that the wolf is full, and the lamb is alive.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Бог високо, цар далеко.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Балък лозе копа, юнак вино пие.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Денят се познава от сутринта.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Ако е гарга – рошава да е!",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Здрав като камък.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Ден година храни.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Да ти е на ухото обеца!",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Ако не щеш мира, на ти секира!",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Дойде гост, развали пост.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Без мокри гащи раци се не хващат.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Ако не съмва рано, ти подрани.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "В нужда се другар познава.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Дето комин, там и дим.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Всяко чудо за три дни.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Върви му като на бито куче тояга.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Върти се като муха без глава.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Ако си богат, всякому си сват.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Докато ти завиждат, радвай се.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Езикът кости няма, ама кости троши.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Един се родил да сее, друг да пее.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Агне в чувал не се купува.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Желязото се кове, дорде е горещо.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Адет не е закон, ама закон става.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Апетитът идва с яденето.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Ако денят е къс, годината е дълга.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Без труд почивката не е сладка.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Заръчал да го закопаят под бъчвата.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Бяга като дявол от тамян.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Донес си, да ти сложа да ядеш!",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Дървото се превива докато е младо.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Доброто се забравя, злото – никога.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Евтин на брашното, скъп на триците.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Един камък триста гарги пропъжда.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Една лястовичка пролет не прави.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Жабата на сухо не кряка.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Желаеш ли чуждото, загубваш своето.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Жадният кон и мътна вода пие.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Жадна мечка и росата лиже.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "За всеки влак си има пътници.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Залудо работи, залудо не стой.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Гарван гарвану око не вади.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Госта гощавай, на врага прощавай.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Бистра водица, мирна главица.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Гузен негонен бяга.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Да ти е на ухото обеца!",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Да хванеш бика за рогата.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Ден година храни.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Денят се познава от сутринта.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Дето комин, там и дим.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Ако не щеш мира, на ти секира!",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Балък лозе копа, юнак вино пие.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Бог помага, ала в кошара не вкарва.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Бог търпи, ама не спи.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Бързата работа – срам за майстора.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Ако живеем на село, трева не пасем.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Ако има грешка, има и прошка.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "В него хляба, в него и ножа.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Блага дума железни врата отваря.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Акъл до коляно, ум до глезени.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Бащина поука – синова сполука.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Бели пари за черни дни.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Водата изпира всичко освен позора.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Всяко дърво си има червей да го яде.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Виното влиза, думите излизат.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Виното и дядо разиграва.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Всичко хубаво си има и край.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Всяка жаба да си знае гьола.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Вчера ни грош, днеска цял кош.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Боднеш пръчка, пиеш вино.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "В чужда манджа сол не туряй.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Глава има, ама в главата няма.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Главата не е само за калпак.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Глад не види нищо освен хляб.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Гладна кокошка просо сънува.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Гладна мечка хоро не играе.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Гладно куче и гол кокал гризе.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Глас народен – глас божи.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
+            "text": "Гледа, ама не вижда.",
+            "description": "",
+            "category": "bulgarian"
+        },
+        {
             "text": "Seize opportunity by the beard, for it is bald behind.",
             "description": "",
             "category": "Bulgarian"
