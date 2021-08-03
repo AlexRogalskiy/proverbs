@@ -1,5 +1,5 @@
-import { tmpdir } from 'node:os'
-import { existsSync, MakeDirectoryOptions, mkdirSync } from 'node:fs'
+import { tmpdir } from 'os'
+import { existsSync, MakeDirectoryOptions, mkdirSync } from 'fs'
 
 export const tempDir = tmpdir()
 

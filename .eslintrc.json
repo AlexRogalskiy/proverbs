@@ -86,6 +86,8 @@
         "unicorn/prevent-abbreviations": "off",
         "unicorn/no-nested-ternary": "off",
         "unicorn/no-object-as-default-parameter": "off",
+        "unicorn/prefer-node-protocol": "off",
+        "unicorn/import-style": "off",
         "spellcheck/spell-checker": [
             "off",
             {
