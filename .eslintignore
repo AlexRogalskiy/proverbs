@@ -1,7 +1,9 @@
 dist/
 lib/
 node_modules/
+tilt_modules/
 coverage/
 tests/
 scripts/
 docs/
+policy/

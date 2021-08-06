@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: styled-proverbs
+  labels:
+    app.kubernetes.io/name: styled-proverbs
+    app.kubernetes.io/instance: styled-proverbs
+    app.kubernetes.io/version: "0.0.0"
+    app.kubernetes.io/component: function
+    app.kubernetes.io/part-of: serverless
+    app.kubernetes.io/managed-by: tilt
+
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: styled-proverbs
+  template:
+    metadata:
+      labels:
+        app: styled-proverbs
+    spec:
+      containers:
+        - name: styled-proverbs
+          image: styled-proverbs
+          ports:
+            - containerPort: 3000
+          env:
+            - name: POD_NAME
+              valueFrom:
+                fieldRef:
+                  fieldPath: metadata.name

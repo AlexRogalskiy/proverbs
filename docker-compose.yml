@@ -1,13 +1,68 @@
 version: '3.9'
 
+x-deploy: &deploy-template
+  deploy:
+    mode: global
+
+x-restart-deploy: &restart-deploy-template
+  <<: *deploy-template
+  deploy:
+    restart_policy:
+      condition: on-failure
+      max_attempts: 3
+      delay: 5s
+      window: 120s
+
+x-replica-deploy: &replica-deploy-template
+  <<: *deploy-template
+  deploy:
+    mode: replicated
+    replicas: 2
+    update_config:
+      parallelism: 2
+      delay: 10s
+      order: stop-first
+    resources:
+      limits:
+        cpus: '0.5'
+        memory: 1000M
+      reservations:
+        memory: 250M
+
+x-logging: &logging-template
+  logging:
+    options:
+      max-size: "100m"
+      max-file: "10"
+
+x-restart: &restart-template
+  restart: unless-stopped
+
 services:
   app:
-    container_name: styled-proverbs
-    hostname: '$APP_HOSTNAME'
+    <<: *deploy-template
+    <<: *logging-template
+    <<: *restart-template
+    container_name: ${APP_CONTAINER_NAME:-'styled-proverbs'}
+    image: ${APP_IMAGE_NAME:-'styled-proverbs'}
+    hostname: ${APP_HOST_NAME:-'styled-proverbs'}
     build:
       context: './'
       dockerfile: Dockerfile
-    restart: always
+      labels:
+        - "org.opencontainers.image.authors=Alexander Rogalskiy"
+        - "org.opencontainers.image.vendor=Sensiblemetrics, Inc."
+      args:
+        IMAGE_SOURCE: "$IMAGE_SOURCE"
+        IMAGE_TAG: "$IMAGE_TAG"
+        VERCEL_TOKEN: "/run/secrets/vercel_token"
+    secrets:
+      - vercel_token
+    entrypoint: ./scripts/entrypoint.sh
+    env_file:
+      - .env
+    environment:
+      VERCEL_TOKEN: /run/secrets/vercel_token
     volumes:
       - type: volume
         source: appvolume
@@ -26,12 +81,6 @@ services:
       - default
     ports:
       - '${IP_ADDRESS:-127.0.0.1}:${APP_SERVER_PORT:-3000}:3000'
-    deploy:
-      mode: global
-    logging:
-      options:
-        max-size: '100m'
-        max-file: '10'
 
 networks:
   default:
@@ -46,3 +95,7 @@ volumes:
       o: bind
       type: none
       device: ./
+
+secrets:
+  vercel_token:
+    file: ./vercel_token.txt # put vercel token to this file

@@ -23,8 +23,7 @@
         "plugin:eslint-comments/recommended",
         "plugin:unicorn/recommended",
         "plugin:@typescript-eslint/recommended",
-        "prettier",
-        "prettier/@typescript-eslint"
+        "prettier"
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
@@ -89,7 +88,7 @@
         "unicorn/prefer-node-protocol": "off",
         "unicorn/import-style": "off",
         "spellcheck/spell-checker": [
-            "off",
+            1,
             {
                 "lang": "en_GB",
                 "skipWords": [

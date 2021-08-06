@@ -8,8 +8,10 @@
 .vscode
 
 node_modules
+tilt_modules
 flow-typed
 coverage
 dist
 data
 docs
+policy
