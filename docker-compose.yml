@@ -55,7 +55,6 @@ services:
       args:
         IMAGE_SOURCE: "$IMAGE_SOURCE"
         IMAGE_TAG: "$IMAGE_TAG"
-        VERCEL_TOKEN: "/run/secrets/vercel_token"
     secrets:
       - vercel_token
     entrypoint: ./scripts/entrypoint.sh

@@ -31,7 +31,7 @@ ARG APP_DIR="/usr/src/app"
 ARG DATA_DIR="/usr/src/data"
 
 ## Dependencies
-ARG PACKAGES="git curl tini dos2unix locales"
+ARG PACKAGES="git curl dumb-init gosu dos2unix locales"
 
 ## General metadata
 LABEL "name"="$NAME"
@@ -100,7 +100,6 @@ RUN adduser \
 
 ## Installing dependencies
 RUN echo "**** Installing build packages ****"
-RUN add-apt-repository universe
 RUN apt-get update -qq \
     && apt-get install -qq --assume-yes --no-install-recommends $PACKAGES \
     && apt-get autoclean \
