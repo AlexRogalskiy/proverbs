@@ -46,6 +46,9 @@ services:
     container_name: ${APP_CONTAINER_NAME:-'styled-proverbs'}
     image: ${APP_IMAGE_NAME:-'styled-proverbs'}
     hostname: ${APP_HOST_NAME:-'styled-proverbs'}
+    domainname: ${APP_DOMAIN_NAME:-'docker.local'}
+    extra_hosts:
+      - "server:127.0.0.1"
     build:
       context: './'
       dockerfile: Dockerfile

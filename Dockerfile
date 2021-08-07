@@ -119,8 +119,9 @@ RUN cd /tmp && curl -O https://www.python.org/ftp/python/${PYTHON_VERSION}/Pytho
     make -j 4 && \
     make altinstall
 
-## Installing vercel
-RUN echo "**** Installing vercel packages ****"
+## Installing build packages
+RUN echo "**** Installing build packages ****"
+RUN npm install -g npm
 RUN npm i -g vercel
 
 ## Copying project sources
@@ -143,6 +144,8 @@ RUN npm install --no-audit
 
 ## Run format checking & linting
 RUN npm run test:license
+
+RUN npm cache clean --force
 
 ## Run vercel integration
 RUN yes | vercel --confirm --token $VERCEL_TOKEN
