@@ -32,6 +32,7 @@ ARG DATA_DIR="/usr/src/data"
 
 ## Dependencies
 ARG PACKAGES="git curl dumb-init gosu dos2unix locales"
+#ARG PACKAGES="git curl dumb-init gosu dos2unix locales secrethub-cli"
 
 ## General metadata
 LABEL "name"="$NAME"
@@ -100,6 +101,8 @@ RUN adduser \
 
 ## Installing dependencies
 RUN echo "**** Installing build packages ****"
+#RUN echo "deb [trusted=yes] https://apt.secrethub.io stable main" > /etc/apt/sources.list.d/secrethub.sources.list
+
 RUN apt-get update -qq \
     && apt-get install -qq --assume-yes --no-install-recommends $PACKAGES \
     && apt-get autoclean \
@@ -154,4 +157,5 @@ USER $USER
 EXPOSE 3000
 
 ## Running package bundle
+#ENTRYPOINT ["secrethub", "run", "--"]
 CMD ["npm", "run", "develop:docker"]
