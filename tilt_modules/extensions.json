@@ -1,0 +1,44 @@
+{
+  "Extensions": [
+    {
+      "Name": "restart_process",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-08-10T15:45:30.695887+03:00"
+    },
+    {
+      "Name": "conftest",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-08-10T15:45:35.6449373+03:00"
+    },
+    {
+      "Name": "list_port_forwards",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-08-10T15:45:43.3924004+03:00"
+    },
+    {
+      "Name": "uibutton",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-08-10T15:45:48.7599157+03:00"
+    },
+    {
+      "Name": "print_tiltfile_dir",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-08-10T15:45:54.2240237+03:00"
+    },
+    {
+      "Name": "min_tilt_version",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-08-10T15:46:04.5211818+03:00"
+    },
+    {
+      "Name": "tilt_inspector",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-08-10T15:46:16.255333+03:00"
+    },
+    {
+      "Name": "namespace",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-08-10T15:46:23.4167825+03:00"
+    }
+  ]
+}

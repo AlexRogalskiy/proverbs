@@ -1,12 +1,12 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: styled-proverbs
-  namespace: default
+  name: backend
+  namespace: webapp
   labels:
-    app.kubernetes.io/name: styled-proverbs
+    app.kubernetes.io/name: backend
     app.kubernetes.io/instance: styled-proverbs
-    app.kubernetes.io/version: "0.0.0"
+    app.kubernetes.io/version: '0.0.0'
     app.kubernetes.io/component: function
     app.kubernetes.io/part-of: serverless
     app.kubernetes.io/managed-by: tilt
@@ -14,7 +14,7 @@ metadata:
 spec:
   restartPolicy: Never
   containers:
-    - name: styled-proverbs
+    - name: backend
       image: styled-proverbs
       imagePullPolicy: Always
       ports:
