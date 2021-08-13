@@ -1,39 +1,40 @@
-## Setting base OS layer
-## docker build -t container_tag --build-arg IMAGE_SOURCE=node IMAGE_TAG=lts --build-arg TOKEN=<token> .
+##
+## ---- Base OS layer ----
+## docker build -t <container_tag> --build-arg IMAGE_SOURCE=node IMAGE_TAG=lts --build-arg TOKEN=<token> .
+##
 ARG IMAGE_SOURCE=node
 ARG IMAGE_TAG=lts
 
-FROM $IMAGE_SOURCE:$IMAGE_TAG
+FROM ${IMAGE_SOURCE}:${IMAGE_TAG} AS base
 
-## General arguments
+## setup base stage
+RUN echo "**** Base stage ****"
+
+## setup image arguments
 ARG PYTHON_VERSION=3.8.2
+
+ARG VERCEL_TOKEN
+
+ARG USER
+ARG UID
+ARG GID
+
+ARG NAME="styled-proverbs"
+ARG VERSION="$(git describe --abbrev=0 --tag)"
+ARG PACKAGE="AlexRogalskiy/proverbs"
+ARG DESCRIPTION="Automatically generate styled SVG proverbs upon request"
 
 ARG LC_ALL="en_US.UTF-8"
 ARG BUILD_DATE="$(date -u +\"%Y-%m-%dT%H:%M:%SZ\")"
 ARG VCS_REF="$(git rev-parse --short HEAD)"
 
-ARG NAME="styled-quotes"
-ARG VERSION="$(git describe --abbrev=0 --tag)"
-ARG PACKAGE="AlexRogalskiy/proverbs"
-ARG DESCRIPTION="Automatically generate styled SVG proverbs upon request"
-
-## Vercel token
-ARG VERCEL_TOKEN
-
-## User with uid/gid
-ARG USER
-ARG UID
-ARG GID
-
-## Working directories
 ARG APP_DIR="/usr/src/app"
 ARG DATA_DIR="/usr/src/data"
+ARG TEMP_DIR="/tmp"
 
-## Dependencies
-ARG PACKAGES="git curl dumb-init gosu dos2unix locales"
-#ARG PACKAGES="git curl dumb-init gosu dos2unix locales secrethub-cli"
+ARG INSTALL_PACKAGES="git curl dumb-init gosu dos2unix locales letsencrypt"
 
-## General metadata
+## setup image labels
 LABEL "name"="$NAME"
 LABEL "version"="$VERSION"
 LABEL "description"="$DESCRIPTION"
@@ -50,44 +51,37 @@ LABEL "com.github.vcs-ref"="$VCS_REF"
 LABEL "com.github.name"="$NAME"
 LABEL "com.github.description"="$DESCRIPTION"
 
-## Setting environment variables
+## setup environment variables
 ENV PYTHON_VERSION $PYTHON_VERSION
 
 ENV APP_DIR=$APP_DIR \
-    DATA_DIR=$DATA_DIR
+    DATA_DIR=$DATA_DIR \
+    TEMP_DIR=$TEMP_DIR
 
-# System-level base config
 ENV TZ=UTC \
     LANGUAGE=en_US:en \
     LC_ALL=$LC_ALL \
+    LC_CTYPE=$LC_ALL \
     LANG=$LC_ALL \
     PYTHONIOENCODING=UTF-8 \
     PYTHONLEGACYWINDOWSSTDIO=UTF-8 \
     PYTHONUNBUFFERED=1 \
     PYTHONDONTWRITEBYTECODE=1 \
     DEBIAN_FRONTEND=noninteractive \
-    APT_KEY_DONT_WARN_ON_DANGEROUS_USAGE=1
-
-ENV PIP_DISABLE_PIP_VERSION_CHECK=1
-ENV PIP_NO_CACHE_DIR=1
+    APT_KEY_DONT_WARN_ON_DANGEROUS_USAGE=1 \
+    PIP_DISABLE_PIP_VERSION_CHECK=1 \
+    PIP_NO_CACHE_DIR=1 \
+    PIP_DEFAULT_TIMEOUT=100 \
+    NPM_CONFIG_LOGLEVEL=error \
+    IN_DOCKER=true
 
 ENV VERCEL_TOKEN $VERCEL_TOKEN
 
-ENV USER=${USER:-'cukebot'} \
+ENV USER=${USER:-'devbot'} \
     UID=${UID:-5000} \
     GID=${GID:-10000}
 
-ENV npm_config_loglevel=error
-ENV IN_DOCKER=True
-
-## Mounting volumes
-VOLUME ["$APP_DIR"]
-
-## Creating work directory
-WORKDIR $APP_DIR
-
-# Create a cukebot user. Some tools (Bundler, npm publish) don't work properly
-# when run as root
+## create user
 RUN addgroup --gid "$GID" "$USER" || exit 0
 RUN adduser \
     --disabled-password \
@@ -98,67 +92,127 @@ RUN adduser \
     "$USER" \
     || exit 0
 
-## Installing dependencies
-RUN echo "**** Installing build packages ****"
-#RUN echo "deb [trusted=yes] https://apt.secrethub.io stable main" > /etc/apt/sources.list.d/secrethub.sources.list
+## mount volumes
+VOLUME ["$APP_DIR", "$DATA_DIR", "$TEMP_DIR"]
 
-RUN apt-get update -qq \
-    && apt-get install -qq --assume-yes --no-install-recommends $PACKAGES \
+## create working directory
+WORKDIR $APP_DIR
+
+## install dependencies
+RUN echo "**** Installing build packages ****"
+## RUN echo "deb http://archive.ubuntu.com/ubuntu precise main universe" > /etc/apt/sources.list
+RUN apt-get update \
+    && apt-get install --assume-yes --no-install-recommends $INSTALL_PACKAGES \
     && apt-get autoclean \
     && apt-get clean \
-    && apt-get autoremove -y \
+    && apt-get autoremove \
     && rm -rf /var/lib/apt/lists/*
 
-## Installing python
+## install python
 RUN echo "**** Installing Python ****"
 RUN cd /tmp && curl -O https://www.python.org/ftp/python/${PYTHON_VERSION}/Python-${PYTHON_VERSION}.tar.xz && \
     tar -xvf Python-${PYTHON_VERSION}.tar.xz && \
     cd Python-${PYTHON_VERSION} && \
     ./configure --enable-optimizations && \
     make -j 4 && \
-    make altinstall
+    make altinstall && \
+    ln -s /usr/local/bin/python3.8 /usr/bin/python3.8
 
-## Installing build packages
-RUN echo "**** Installing build packages ****"
-RUN npm install -g npm
-RUN npm i -g vercel
+## install node
+RUN echo "**** Installing Node ****"
+RUN npm install -g npm && \
+    npm install -g vercel
 
-## Copying project sources
-COPY . ./
+## show versions
+RUN echo "npm version: $(npm --version)"
+RUN echo "node version: $(node --version | awk -F. '{print $1}')"
+RUN echo "python version: $(python3 --version)"
 
-## Removing unnecessary dependencies
-RUN echo "**** Cleaning Up cache ****"
-RUN rm -rf /var/cache/apt/* /tmp/Python-${PYTHON_VERSION}
+## setup entrypoint
+## ADD https://github.com/Yelp/dumb-init/releases/download/v1.2.2/dumb-init_1.2.2_amd64 /usr/local/bin/dumb-init
+## RUN chmod +x /usr/local/bin/dumb-init
+## ENTRYPOINT ["/usr/local/bin/dumb-init", "--"]
+ENTRYPOINT ["dumb-init", "--"]
+## ENTRYPOINT [ "/usr/bin/tini", "--" ]
 
-#RUN dos2unix /bin/docker-command.bash
+## remove cache
+RUN echo "**** Cleaning cache ****"
 
-## Show versions
-RUN echo "NPM version: $(npm --version)"
-RUN echo "NODE version: $(node --version)"
-RUN echo "PYTHON version: $(python3 --version)"
+RUN apt-get remove -y build-essential zlib1g-dev libncurses5-dev libgdbm-dev libssl-dev libsqlite3-dev libreadline-dev libffi-dev libbz2-dev g++
+RUN rm -rf /var/cache/apt/* /tmp/* /var/tmp/*
 
-## Installing project dependencies
-RUN echo "**** Installing project packages ****"
+## copy project files
+COPY package.json .
+
+COPY scripts ./scripts
+COPY data ./data
+
+##
+## ---- Node Dependencies ----
+##
+FROM base AS node-dependencies
+
+## setup node modules stage
+RUN echo "**** Installing node modules stage ****"
+
+## update npm settings
+RUN npm set progress=false && npm config set depth 0
+
+## install only <production> node_modules
+## RUN npm install --no-audit --only=prod
+
+## copy production node_modules aside
+## RUN cp -R node_modules prod_node_modules
+
+## install node_modules, including 'devDependencies'
 RUN npm install --no-audit
 
-## Run format checking & linting
-RUN npm run test:license
+## run vercel
+RUN yes | vercel --confirm --token $VERCEL_TOKEN
+
+## remove cache
+RUN echo "**** Cleaning node cache ****"
 
 RUN npm cache clean --force
 
-## Run vercel integration
-RUN yes | vercel --confirm --token $VERCEL_TOKEN
+##
+## ---- Testing ----
+##
+FROM node-dependencies AS test
 
-## Setting volumes
-VOLUME /tmp
+## setup testing stage
+RUN echo "**** Testing stage ****"
 
-## Setting user
+## copy source files
+COPY . ./
+
+## run format checking & linting
+RUN npm run test:license
+
+##
+## ---- Release ----
+##
+FROM base AS release
+
+## setup release stage
+RUN echo "**** Release stage ****"
+
+## copy dependencies
+#COPY --from=node-dependencies ${APP_DIR}/prod_node_modules ./node_modules
+COPY --from=node-dependencies ${APP_DIR}/node_modules ./node_modules
+
+## copy app sources
+COPY . ./
+
+## run scripts
+#RUN dos2unix ./scripts/env.sh && \
+#    . ./scripts/env.sh
+
+## setup user
 USER $USER
 
-## Exposing ports
+## expose port
 EXPOSE 3000
 
-## Running package bundle
-#ENTRYPOINT ["secrethub", "run", "--"]
-#ENTRYPOINT ["/usr/local/bin/dumb-init", "--"]
-CMD ["npm", "run", "develop:docker"]
+## define cmd
+CMD [ "npm", "run", "develop:docker" ]

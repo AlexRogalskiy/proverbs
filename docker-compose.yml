@@ -61,11 +61,10 @@ services:
         VERCEL_TOKEN: "$VERCEL_TOKEN"
     secrets:
       - vercel_token
-    entrypoint: ./scripts/entrypoint.sh
     env_file:
       - .env
-    environment:
-      VERCEL_TOKEN: /run/secrets/vercel_token
+    #    environment:
+    #      VERCEL_TOKEN: /run/secrets/vercel_token
     #      VERCEL_TOKEN: secrethub://your-username/vault/vercel_token
     volumes:
       - type: volume
