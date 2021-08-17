@@ -80,7 +80,7 @@
         "@types/lunr": "^2.3.4",
         "@types/prettier": "^2.3.2",
         "@typescript-eslint/eslint-plugin": "4.29.1",
-        "@typescript-eslint/parser": "4.29.1",
+        "@typescript-eslint/parser": "4.29.2",
         "@vercel/node": "^1.11.1",
         "boxen": "^5.0.1",
         "codecov": "3.8.3",
