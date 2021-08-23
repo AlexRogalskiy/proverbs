@@ -99,7 +99,7 @@
         "eslint-plugin-node": "^11.1.0",
         "eslint-plugin-prettier": "^3.4.0",
         "eslint-plugin-spellcheck": "0.0.19",
-        "eslint-plugin-unicorn": "^34.0.1",
+        "eslint-plugin-unicorn": "35.0.0",
         "gradient-string": "^1.2.0",
         "husky": "^7.0.1",
         "git-cz": "^4.7.6",
