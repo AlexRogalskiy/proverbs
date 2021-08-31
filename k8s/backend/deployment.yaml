@@ -1,16 +1,71 @@
-apiVersion: apps/v1
-kind: Deployment
+apiVersion: v1
+kind: Secret
 metadata:
-  name: backend
+  name: vercel-credentials
   namespace: webapp
   labels:
-    app.kubernetes.io/name: backend
+    app.kubernetes.io/name: backend-proverbs
     app.kubernetes.io/instance: styled-proverbs
-    app.kubernetes.io/version: '0.0.0'
+    app.kubernetes.io/version: v1
     app.kubernetes.io/component: function
     app.kubernetes.io/part-of: serverless
     app.kubernetes.io/managed-by: tilt
-
+type: Opaque
+data:
+  token: YAa5Oepb
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: backend-proverbs-configmap
+  namespace: webapp
+  labels:
+    app.kubernetes.io/name: backend-proverbs
+    app.kubernetes.io/instance: styled-proverbs
+    app.kubernetes.io/version: v1
+    app.kubernetes.io/component: function
+    app.kubernetes.io/part-of: serverless
+    app.kubernetes.io/managed-by: tilt
+data:
+  SERVER_PORT: '3000'
+  APP_NAME: styled-proverbs
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: backend-proverbs
+  namespace: webapp
+  labels:
+    app.kubernetes.io/name: backend-proverbs
+    app.kubernetes.io/instance: styled-proverbs
+    app.kubernetes.io/version: v1
+    app.kubernetes.io/component: function
+    app.kubernetes.io/part-of: serverless
+    app.kubernetes.io/managed-by: tilt
+spec:
+  type: ClusterIP
+  clusterIP: None
+  sessionAffinity: None
+  ports:
+  - name: http
+    protocol: TCP
+    port: 3000
+  selector:
+    app.kubernetes.io/name: backend-proverbs
+    app.kubernetes.io/version: v1
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend-proverbs-v1
+  namespace: webapp
+  labels:
+    app.kubernetes.io/name: backend-proverbs
+    app.kubernetes.io/instance: styled-proverbs
+    app.kubernetes.io/version: v1
+    app.kubernetes.io/component: function
+    app.kubernetes.io/part-of: serverless
+    app.kubernetes.io/managed-by: tilt
 spec:
   replicas: 1
   minReadySeconds: 60
@@ -23,28 +78,43 @@ spec:
     type: RollingUpdate
   selector:
     matchLabels:
-      app: backend
+      app.kubernetes.io/name: backend-proverbs
+      app.kubernetes.io/version: v1
   template:
     metadata:
       labels:
-        app: backend
+        app.kubernetes.io/name: backend-proverbs
+        app.kubernetes.io/version: v1
       annotations:
         scheduler.alpha.kubernetes.io/critical-pod: ''
     spec:
-      dnsPolicy: Default
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      schedulerName: default-scheduler
       terminationGracePeriodSeconds: 30
-      tolerations:
-        - key: 'CriticalAddonsOnly'
-          operator: 'Exists'
+#      tolerations:
+#        - key: "node-priority"
+#          operator: "Equal"
+#          value: "infra"
+#          effect: "NoExecute"
+#      nodeSelector:
+#        node-priority: infra
       containers:
-        - name: backend
+        - name: backend-proverbs
           image: styled-proverbs
           imagePullPolicy: IfNotPresent
+          terminationMessagePath: /etc/logs/termination.log
+          terminationMessagePolicy: File
           ports:
             - name: http
               containerPort: 3000
               protocol: TCP
           env:
+            - name: TOKEN
+              valueFrom:
+                secretKeyRef:
+                  name: vercel-credentials
+                  key: token
             - name: WATCH_NAMESPACE
               valueFrom:
                 fieldRef:
@@ -53,16 +123,32 @@ spec:
               valueFrom:
                 fieldRef:
                   fieldPath: metadata.name
+            - name: USER_AGENT
+              value: "k8s-agent $(WATCH_NAMESPACE)/$(POD_NAME)"
+            - name: LOG_DIR
+              value: "/tmp/logs"
           volumeMounts:
             - name: data
-              mountPath: /data
+              mountPath: "/data"
+            - name: data-tmp
+              mountPath: "/tmp"
           resources:
-            limits:
-              cpu: 2000m
-              memory: 512Mi
             requests:
-              cpu: 100m
-              memory: 32Mi
+              cpu: 1
+              memory: "2G"
+              ephemeral-storage: "2G"
+            limits:
+              cpu: 2
+              memory: "3G"
+              ephemeral-storage: "3G"
+          securityContext:
+            allowPrivilegeEscalation: false
+            allowPrivilegeEscalation: false
+            privileged: false
+            readOnlyRootFilesystem: false
+            runAsNonRoot: false
       volumes:
         - name: data
+          emptyDir: {}
+        - name: data-tmp
           emptyDir: {}

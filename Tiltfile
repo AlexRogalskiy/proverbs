@@ -20,11 +20,11 @@ namespace_create('webapp')
 conftest(path='k8s/backend/deployment.yaml', namespace='main')
 # k8s_yaml('k8s/backend/deployment.yaml')
 k8s_yaml(namespace_inject(read_file('k8s/backend/deployment.yaml'), 'webapp'), allow_duplicates=False)
-k8s_resource('backend', port_forwards=3000, resource_deps=['conftest'])
+k8s_resource('backend-proverbs-v1', port_forwards=3000, resource_deps=['conftest'])
 
 # Add a live_update rule to our docker_build
 congrats = "🎉 Congrats, you ran a live_update! 🎉"
-docker_build_with_restart('styled-proverbs', '.', build_args={'IMAGE_SOURCE': 'node', 'IMAGE_TAG': 'lts', 'VERCEL_TOKEN': ''},
+docker_build('styled-proverbs', '.', build_args={'IMAGE_SOURCE': 'node', 'IMAGE_TAG': 'lts', 'VERCEL_TOKEN': ''},
     dockerfile='./Dockerfile',
     entrypoint=['npm', 'run', 'develop:docker'],
     live_update=[

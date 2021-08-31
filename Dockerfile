@@ -1,6 +1,6 @@
 ##
 ## ---- Base OS layer ----
-## docker build -t <container_tag> --build-arg IMAGE_SOURCE=node IMAGE_TAG=lts --build-arg TOKEN=<token> .
+## docker build -t styled-proverbs --build-arg IMAGE_SOURCE=node --build-arg IMAGE_TAG=lts --build-arg VERCEL_TOKEN=<token> .
 ##
 ARG IMAGE_SOURCE=node
 ARG IMAGE_TAG=lts

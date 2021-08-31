@@ -6,7 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-# Local files
+# Env local files
+.env
 vercel_token.txt
 
 # BlueJ files
