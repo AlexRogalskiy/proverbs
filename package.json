@@ -80,7 +80,7 @@
         "@types/lodash.mergewith": "^4.6.6",
         "@types/lunr": "^2.3.4",
         "@types/prettier": "^2.3.2",
-        "@typescript-eslint/eslint-plugin": "4.29.1",
+        "@typescript-eslint/eslint-plugin": "4.31.2",
         "@typescript-eslint/parser": "4.29.1",
         "@vercel/node": "^1.11.1",
         "boxen": "^5.0.1",
