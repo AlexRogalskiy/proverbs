@@ -703,6 +703,10 @@ See also the list of [contributors][contributors] who participated in this proje
 
 [![Stargazers repo roster for @AlexRogalskiy/proverbs](https://reporoster.com/stars/AlexRogalskiy/proverbs)][stars]
 
+[![Stargazers over time](https://starchart.cc/AlexRogalskiy/proverbs.svg)][stars_chart]
+
+[![Statistics report](https://cauldron.io/project/5117/stats.svg)][stats_chart]
+
 ## *Forks*
 
 [![Forkers repo roster for @AlexRogalskiy/proverbs](https://reporoster.com/forks/AlexRogalskiy/proverbs)][forkers]
@@ -758,6 +762,10 @@ Like ***Styled Proverbs*** ? Consider buying me a coffee :)
 [wiki]: https://github.com/AlexRogalskiy/proverbs/wiki
 
 [stars]: https://github.com/AlexRogalskiy/proverbs/stargazers
+
+[stars_chart]: https://starchart.cc/AlexRogalskiy/proverbs
+
+[stats_chart]: https://cauldron.io/project/5117
 
 [forkers]: https://github.com/AlexRogalskiy/proverbs/network/members
 
