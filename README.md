@@ -657,6 +657,11 @@ These are examples of using ***Styled Proverbs***:
     <img width="100%" height="300px" style="min-height: 250px" src="https://styled-proverbs.vercel.app/api?theme=react&layout=erastosthenes" alt="Styled proverbs" />
 </div>
 
+## *CI/CD*
+
+[![CI/CD Workflow](https://www.plantuml.com/plantuml/png/ZP1BRzD04CVFxAUObekH7AzuWAeUK5lRGcrI6-9QubQvzZGnMU-QVG0HuhipVYH685Jl8HdF_pUF_rmOMsZh6i5EAdoi9KAuIlCe_P3dwnLihMtDEUUw-1viQhjr3ywWBfMqA6rGgeQNGhbARHnlHI6xFej3Pc5QNLiql2cCHSrEQbaALw7JuiyPdBeqIWOjrVwNwVeP_WNbhfPc3chAPXQcPA6_kWUS0qlyuPuORfKIXk_EPc6LAdUe1v8bga8u3Qzv645SAhCt5fjJ-CcUTKNtDt6ol4uoRpo13pT3y0AUF_PlvBBmrYFlFb2mk2raiK7zDvF4d_FCwztuIVSx0J2-kpHTtKTfk8pNth2c7_L__wB3s3IvN7_AhsBlU55QuH1EHRyOwrilppAFhkJ3acGjqQAP87PPMgKXmcyeL8kQiMC8Y_T0zk0SNWRmqPajewykETw5X5S1tEbwGxxP8KdwSIqYNa_4b2PcC4h0cm2kN2qgDcP8wwz5qji0CbeEfzuaaXEItWMqSYlKdbsWh5mZVWC0)](https://www.plantuml.com/plantuml/png/ZP1BRzD04CVFxAUObekH7AzuWAeUK5lRGcrI6-9QubQvzZGnMU-QVG0HuhipVYH685Jl8HdF_pUF_rmOMsZh6i5EAdoi9KAuIlCe_P3dwnLihMtDEUUw-1viQhjr3ywWBfMqA6rGgeQNGhbARHnlHI6xFej3Pc5QNLiql2cCHSrEQbaALw7JuiyPdBeqIWOjrVwNwVeP_WNbhfPc3chAPXQcPA6_kWUS0qlyuPuORfKIXk_EPc6LAdUe1v8bga8u3Qzv645SAhCt5fjJ-CcUTKNtDt6ol4uoRpo13pT3y0AUF_PlvBBmrYFlFb2mk2raiK7zDvF4d_FCwztuIVSx0J2-kpHTtKTfk8pNth2c7_L__wB3s3IvN7_AhsBlU55QuH1EHRyOwrilppAFhkJ3acGjqQAP87PPMgKXmcyeL8kQiMC8Y_T0zk0SNWRmqPajewykETw5X5S1tEbwGxxP8KdwSIqYNa_4b2PcC4h0cm2kN2qgDcP8wwz5qji0CbeEfzuaaXEItWMqSYlKdbsWh5mZVWC0)
+
+
 ## *Visitor stats*
 
 [![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fproverbs\&count_bg=%2379C83D\&title_bg=%23555555\&icon=\&icon_color=%23E7E7E7\&title=hits\&edge_flat=true)](https://hits.seeyoufarm.com)
