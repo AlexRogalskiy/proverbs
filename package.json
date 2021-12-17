@@ -87,7 +87,7 @@
         "codecov": "3.8.3",
         "conventional-changelog-cli": "^2.1.1",
         "coveralls": "^3.1.1",
-        "dateformat": "^4.5.1",
+        "dateformat": "^5.0.0",
         "del-cli": "4.0.1",
         "dockerfile_lint": "^0.3.4",
         "eslint": "^7.31.0",
