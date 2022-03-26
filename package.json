@@ -62,7 +62,7 @@
         "all": "npm run format:all && npm run lint:all && npm run pretty"
     },
     "dependencies": {
-        "concurrently": "^6.2.0",
+        "concurrently": "^7.0.0",
         "env-cmd": "^10.1.0",
         "flexsearch": "^0.7.21",
         "hero-patterns": "^2.1.0",
