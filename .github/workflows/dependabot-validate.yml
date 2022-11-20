@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: marocchino/validate-dependabot@v1
+      - uses: marocchino/validate-dependabot@v2
         id: validate
 
       - uses: marocchino/sticky-pull-request-comment@v2
