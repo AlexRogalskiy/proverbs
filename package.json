@@ -100,7 +100,7 @@
         "eslint-plugin-node": "^11.1.0",
         "eslint-plugin-prettier": "^3.4.0",
         "eslint-plugin-spellcheck": "0.0.19",
-        "eslint-plugin-unicorn": "^34.0.1",
+        "eslint-plugin-unicorn": "^48.0.0",
         "eslint-friendly-formatter": "^4.0.1",
         "gradient-string": "^1.2.0",
         "husky": "^7.0.1",
