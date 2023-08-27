@@ -85,7 +85,7 @@
         "@vercel/node": "^1.11.1",
         "boxen": "^5.0.1",
         "codecov": "3.8.3",
-        "conventional-changelog-cli": "^2.1.1",
+        "conventional-changelog-cli": "^4.0.0",
         "coveralls": "^3.1.1",
         "dateformat": "^4.5.1",
         "del-cli": "4.0.1",
