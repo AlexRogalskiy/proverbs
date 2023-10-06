@@ -62,7 +62,7 @@ jobs:
           targetPath: "${{ env.target_path }}"
 
       - name: Push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         if: "steps.process_json.outputs.changed"
         with:
           commit_message: Add processed JSON files
