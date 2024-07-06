@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: ghe-actions/dockerfile-validator@v1
+      - uses: ghe-actions/dockerfile-validator@v3
         with:
           dockerfile: 'Dockerfile'
           lint: 'hadolint'
