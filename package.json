@@ -102,7 +102,7 @@
         "eslint-plugin-spellcheck": "0.0.19",
         "eslint-plugin-unicorn": "^34.0.1",
         "eslint-friendly-formatter": "^4.0.1",
-        "gradient-string": "^1.2.0",
+        "gradient-string": "^3.0.0",
         "husky": "^7.0.1",
         "git-cz": "^4.7.6",
         "jest": "^27.0.6",
