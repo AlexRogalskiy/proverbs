@@ -63,7 +63,7 @@
     },
     "dependencies": {
         "concurrently": "^6.2.0",
-        "env-cmd": "^10.1.0",
+        "env-cmd": "^11.0.0",
         "flexsearch": "^0.7.21",
         "hero-patterns": "^2.1.0",
         "if-env": "^1.0.4",
