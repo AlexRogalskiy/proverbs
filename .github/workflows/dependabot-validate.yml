@@ -15,7 +15,7 @@ jobs:
       - uses: marocchino/validate-dependabot@v1
         id: validate
 
-      - uses: marocchino/sticky-pull-request-comment@v2
+      - uses: marocchino/sticky-pull-request-comment@v3.0.5
         if: always()
         with:
           header: validate-dependabot
